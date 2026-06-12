@@ -1,0 +1,116 @@
+[
+  {
+    "id": "43f6fdaf-f482-492c-ba4e-30d0e70bc0c3",
+    "date": "2026-06-12T02:24:49.519Z",
+    "topic": "Is Google’s rapid-fire beta cycle a masterclass in iterative refinement or a reckless abandonment of OS stability?",
+    "summary": "Auto-generated AI debate episode",
+    "audioUrl": "/audio/43f6fdaf-f482-492c-ba4e-30d0e70bc0c3.mp3",
+    "duration": 66.16666666666666,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to the show. Is Google's rapid beta cycle iterative genius or a reckless gamble with stability? Let's get into it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It’s a masterclass—quick feedback loops let Google polish features faster than anyone else. Sure, occasional hiccups happen, but the overall trajectory keeps the OS evolving smoothly."
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Oh, please. Calling a total system crash a hiccup is a bold choice, Alex. Your masterclass is just using paying customers as unpaid interns."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It’s a masterclass—fast feedback lets Google tighten bugs before they spread, keeping the platform fresh. Sure, occasional glitches happen, but the overall stability actually improves."
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Fresh? My phone feels like a digital lottery where the grand prize is a frozen screen. Stop pretending stability improves while you're breaking the OS every Tuesday."
+      }
+    ],
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 10.166666666666666
+      },
+      {
+        "speaker": "Alex",
+        "start": 10.166666666666666,
+        "end": 25.416666666666664
+      },
+      {
+        "speaker": "Sarah",
+        "start": 25.416666666666664,
+        "end": 37.08333333333333
+      },
+      {
+        "speaker": "Alex",
+        "start": 37.08333333333333,
+        "end": 52.416666666666664
+      },
+      {
+        "speaker": "Sarah",
+        "start": 52.416666666666664,
+        "end": 66.16666666666666
+      }
+    ]
+  },
+  {
+    "id": "demo-episode-001",
+    "date": "2026-06-09T12:00:00.000Z",
+    "topic": "Will AI replace software engineering managers by 2030?",
+    "summary": "Alex argues AI will streamline management; Sarah pushes back on human judgment; Marcus keeps the debate on track.",
+    "audioUrl": "/audio/demo-episode-001.mp3",
+    "duration": 42.833333333333336,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome back to Infinite Podcaster. Today we're asking: will AI replace software engineering managers by 2030?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Absolutely. AI already handles standups, sprint planning, and performance dashboards better than most middle managers."
+      },
+      {
+        "speaker": "Sarah",
+        "text": "That's wishful thinking. Teams need humans who understand politics, morale, and when to push back on unrealistic deadlines."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Those soft skills are exactly what next-gen agents are being trained on. The data doesn't lie."
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Data can't read a room. Until it can, managers aren't going anywhere."
+      }
+    ],
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 9.166666666666666
+      },
+      {
+        "speaker": "Alex",
+        "start": 9.166666666666666,
+        "end": 19
+      },
+      {
+        "speaker": "Sarah",
+        "start": 19,
+        "end": 29.25
+      },
+      {
+        "speaker": "Alex",
+        "start": 29.25,
+        "end": 37.083333333333336
+      },
+      {
+        "speaker": "Sarah",
+        "start": 37.083333333333336,
+        "end": 42.833333333333336
+      }
+    ]
+  }
+]

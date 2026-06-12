@@ -1,0 +1,20 @@
+.transcript {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background: #111827;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .transcript-line {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #333;
+  }
+  
+  .transcript-line.active {
+    border: 2px solid gold;
+    background: #1f2937;
+  }

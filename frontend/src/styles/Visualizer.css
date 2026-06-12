@@ -1,0 +1,15 @@
+.visualizer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 80px;
+    gap: 4px;
+    margin: 20px 0;
+  }
+  
+  .visualizer-bar {
+    width: 6px;
+    background: #4cafef;
+    border-radius: 4px;
+    transition: 0.1s;
+  }

@@ -1,0 +1,18 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 900px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
+
+header p {
+  color: #8b9bb4;
+  margin-top: 8px;
+}

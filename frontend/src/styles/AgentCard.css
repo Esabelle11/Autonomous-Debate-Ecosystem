@@ -1,0 +1,22 @@
+.agent-card {
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid #333;
+    transition: 0.3s;
+    background: #111827;
+  }
+  
+  .agent-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .agent-card.active {
+    border: 2px solid #ffd700;
+    box-shadow: 0 0 15px #ffd700;
+    transform: scale(1.05);
+  }

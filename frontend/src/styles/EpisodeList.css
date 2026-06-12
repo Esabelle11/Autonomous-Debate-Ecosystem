@@ -1,0 +1,19 @@
+.episode-list {
+    width: 40%;
+    padding: 10px;
+    border-right: 1px solid #222;
+  }
+  
+  .episode-card {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #151a2b;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .episode-card:hover {
+    background: #1f2740;
+    transform: scale(1.02);
+  }
