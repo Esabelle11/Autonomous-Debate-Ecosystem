@@ -22,6 +22,9 @@ Rather than generating conversations directly, ADE models the complete productio
 
 The project explores how autonomous AI agents can collaborate to perform the roles of researchers, editors, hosts, debaters, producers, and audio engineers.
 
+![Image1.](doc/img/system_design.png "Image1")
+
+
 ---
 
 # System Architecture
