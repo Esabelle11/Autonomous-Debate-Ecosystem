@@ -8,6 +8,8 @@
 
 The Autonomous Debate Ecosystem (ADE) is an AI-native editorial and podcast production framework designed to simulate the workflow of a real debate podcast.
 
+demo link: https://infinite-debate.vercel.app
+
 Rather than generating conversations directly, ADE models the complete production pipeline:
 
 - Discover daily news.
@@ -336,6 +338,35 @@ Different agents provide competing viewpoints.
 ## Automation with autonomy.
 
 Independent AI components collaborate to produce a complete debate podcast.
+
+---
+
+# Local Development Setup 
+### 1. Configure Environment Variables
+```bash
+cd backend
+cp .env.example .env
+# Edit .env and set relavant content
+```
+### 2. backend
+```bash
+cd backend
+npm install
+npm run dev # provide api for frontend to display audio
+
+npm run scraper # to scrap and generated multiple news debate topic
+npm run programme # to generate debate conversation and audio
+npm run generate # run scrap and generate 1 topic for debate conversation and audio
+
+```
+### 3. frontend
+In new terminal do backend set up:
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
 
 ---
 
