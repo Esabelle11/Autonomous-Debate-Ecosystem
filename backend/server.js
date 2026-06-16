@@ -49,6 +49,39 @@ app.get("/health", (req, res) => {
 
 app.use("/episodes", episodeRouter);
 
+
+app.get("/run-scraper", async (req, res) => {
+  console.log("🔔 Scraper triggered via GitHub Actions");
+
+  try {
+    const { exec } = await import("child_process");
+
+    exec("node services/scraper_multiple.js", (err) => {
+      if (err) console.error(err);
+    });
+
+    res.json({ success: true, message: "Scraper started" });
+  } catch (e) {
+    res.status(500).json({ success: false });
+  }
+});
+
+app.get("/run-programme", async (req, res) => {
+  console.log("🔔 Programme triggered via GitHub Actions");
+
+  try {
+    const { exec } = await import("child_process");
+
+    exec("node jobs/generatePrograme.js", (err) => {
+      if (err) console.error(err);
+    });
+
+    res.json({ success: true, message: "Programme started" });
+  } catch (e) {
+    res.status(500).json({ success: false });
+  }
+});
+
 app.listen(PORT, () => {
   console.log("");
   console.log("==========================");

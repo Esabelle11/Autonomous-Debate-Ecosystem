@@ -1,115 +1,134 @@
-
-import {
-  useState,
-  useRef,
-  useEffect
-} from "react";
+import { useState, useRef, useEffect } from "react";
 import "../styles/PodcastPlayer.css";
 import AgentCard from "./AgentCard";
 import Transcript from "./Transcript";
 import Visualizer from "./Visualizer";
 
-const API =
-  import.meta.env.VITE_API ||
-  "http://localhost:3000";
+const API = import.meta.env.VITE_API || "http://localhost:3000";
 
 function resolveAudioUrl(url) {
   if (!url) return "";
-
-  if (url.startsWith("http")) {
-    return url;
-  }
-
+  if (url.startsWith("http")) return url;
   return `${API}${url}`;
 }
 
-export default function PodcastPlayer({
-  episode
-}) {
-  const audioRef =
-    useRef(null);
+export default function PodcastPlayer({ episode }) {
+  const audioRef = useRef(null);
+  const mediaSourceRef = useRef(null);
+  const sourceBufferRef = useRef(null);
 
-  const [
-    currentSpeaker,
-    setCurrentSpeaker
-  ] = useState("");
-
-  const [
-    currentTime,
-    setCurrentTime
-  ] = useState(0);
+  const [currentSpeaker, setCurrentSpeaker] = useState("");
+  const [currentTime, setCurrentTime] = useState(0);
 
   useEffect(() => {
     if (!episode?.audioUrl) return;
 
-    const audio =
-      audioRef.current;
-
+    const audio = audioRef.current;
     if (!audio) return;
 
-    function update() {
-      const t =
-        audio.currentTime;
+    const mediaSource = new MediaSource();
+    mediaSourceRef.current = mediaSource;
 
+    audio.src = URL.createObjectURL(mediaSource);
+
+    let abortController = new AbortController();
+
+    mediaSource.addEventListener("sourceopen", async () => {
+      // MP3 mime (important)
+      const mime = 'audio/mpeg';
+
+      const sourceBuffer = mediaSource.addSourceBuffer(mime);
+      sourceBufferRef.current = sourceBuffer;
+
+      const url = resolveAudioUrl(episode.audioUrl);
+
+      try {
+        const response = await fetch(url, {
+          signal: abortController.signal
+        });
+
+        const reader = response.body.getReader();
+
+        const pump = async () => {
+          const { done, value } = await reader.read();
+
+          if (done) {
+            if (!mediaSource.readyState === "closed") {
+              mediaSource.endOfStream();
+            }
+            return;
+          }
+
+          await new Promise(resolve => {
+            const append = () => {
+              try {
+                if (!sourceBuffer.updating) {
+                  sourceBuffer.appendBuffer(value);
+                  resolve();
+                } else {
+                  sourceBuffer.addEventListener("updateend", resolve, { once: true });
+                }
+              } catch (e) {
+                console.error("Append error:", e);
+                resolve();
+              }
+            };
+
+            append();
+          });
+
+          return pump();
+        };
+
+        pump();
+      } catch (err) {
+        console.error("Stream error:", err);
+      }
+    });
+
+    function update() {
+      const t = audio.currentTime;
       setCurrentTime(t);
 
-      if (
-        episode.timeline
-      ) {
-        const active =
-          episode.timeline.find(
-            x =>
-              t >= x.start &&
-              t <= x.end
-          );
+      if (episode.timeline) {
+        const active = episode.timeline.find(
+          x => t+7 >= x.start && t+7 <= x.end
+        );
 
         if (active) {
-          setCurrentSpeaker(
-            active.speaker
-          );
+          setCurrentSpeaker(active.speaker);
         }
       }
     }
 
-    audio.addEventListener(
-      "timeupdate",
-      update
-    );
+    audio.addEventListener("timeupdate", update);
 
     return () => {
-      audio.removeEventListener(
-        "timeupdate",
-        update
-      );
+      abortController.abort();
+      audio.removeEventListener("timeupdate", update);
+
+      if (mediaSourceRef.current) {
+        try {
+          mediaSourceRef.current.endOfStream();
+        } catch {}
+      }
     };
   }, [episode]);
 
   if (!episode) {
-    return (
-      <div>
-
-        Select an episode.
-
-      </div>
-    );
+    return <div>Select an episode.</div>;
   }
 
   return (
     <div className="podcast-player">
+      <h2>🎙 {episode.topic}</h2>
 
-      <h2>
-        🎙 {episode.topic}
-      </h2>
-
-      <p>
-        {episode.summary}
-      </p>
+      <p>{episode.summary}</p>
 
       {episode.audioUrl ? (
         <audio
           controls
           ref={audioRef}
-          src={resolveAudioUrl(episode.audioUrl)}
           style={{ width: "100%" }}
         />
       ) : (
@@ -119,57 +138,15 @@ export default function PodcastPlayer({
         </p>
       )}
 
-      <Visualizer
-        currentTime={
-          currentTime
-        }
-      />
+      <Visualizer currentTime={currentTime} />
 
-      <div
-        className="host-panel"
-      >
-
-        <AgentCard
-          name="Alex"
-          identity="alex"
-          role="Optimist"
-          active={
-            currentSpeaker ===
-            "Alex"
-          }
-        />
-
-        <AgentCard
-          name="Marcus"
-          identity="marcus"
-          role="Host"
-          active={
-            currentSpeaker ===
-            "Marcus"
-          }
-        />
-
-        <AgentCard
-          name="Sarah"
-          identity="sarah"
-          role="Skeptic"
-          active={
-            currentSpeaker ===
-            "Sarah"
-          }
-        />
-
+      <div className="host-panel">
+        <AgentCard name="Alex" identity="alex" role="Optimist" active={currentSpeaker === "Alex"} />
+        <AgentCard name="Marcus" identity="marcus" role="Host" active={currentSpeaker === "Marcus"} />
+        <AgentCard name="Sarah" identity="sarah" role="Skeptic" active={currentSpeaker === "Sarah"} />
       </div>
 
-      <Transcript
-        transcript={
-          episode.transcript
-        }
-        speaker={
-          currentSpeaker
-        }
-      />
-
+      <Transcript transcript={episode.transcript} speaker={currentSpeaker} />
     </div>
   );
 }

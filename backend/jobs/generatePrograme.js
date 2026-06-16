@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 dotenv.config();
 
-import { fetchTrendingTopic } from "../services/scraper.js";
+import { selectBestTopic } from "../services/topic_retrieve.js";
 import { generateDebate } from "../services/debate.js";
 import { buildEpisodeAudio } from "../services/audio.js";
 import {loadEpisodes,saveEpisodes,limitEpisodes} from "../services/storage.js";
@@ -10,7 +10,7 @@ import { createEpisode } from "../models/episode.js";
 async function run() {
   console.log("📻 Generating daily episode...");
 
-  const {topic, background,emotion,controversy,framing} = await fetchTrendingTopic();
+  const {title, topic, background, framing, mode} = await selectBestTopic();
   console.log("Topic:", topic);
   console.log("background:", background);
 
@@ -30,11 +30,11 @@ async function run() {
 
   console.log("🎙 Generating audio (this may take a minute)...");
 
-  // const audio = await buildEpisodeAudio(episode.id,transcript);
+  const audio = await buildEpisodeAudio(episode.id,transcript);
 
-  // episode.audioUrl = audio.audioUrl;
-  // episode.duration = audio.duration;
-  // episode.timeline = audio.timeline;
+  episode.audioUrl = audio.audioUrl;
+  episode.duration = audio.duration;
+  episode.timeline = audio.timeline;
 
   const episodes = await loadEpisodes();
 

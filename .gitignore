@@ -1,6 +1,7 @@
 .env
 .DS_Store
 forme.txt
+action_cron.txt
 
 frontend/package-lock.json
 frontend/node_modules

@@ -1,6 +1,6 @@
 .podcast-player {
-    width: 70%;
-    padding: 20px;
+    width: 90%;
+    padding: 10px;
   }
   
   audio {
@@ -9,8 +9,9 @@
   
   .host-panel {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     margin-top: 20px;
+    justify-content: center;
   }
 
   .no-audio {

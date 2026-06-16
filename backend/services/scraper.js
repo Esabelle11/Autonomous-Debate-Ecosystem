@@ -9,53 +9,195 @@ const openRouter = new OpenAI({
   apiKey: process.env.OPENROUTER_API_KEY
 });
 
-export async function fetchTrendingTopic() {
-  try {
-    const res = await axios.get(
-      "https://newsapi.org/v2/top-headlines",
-      {
-        params: {
-          category: "technology",
-          language: "en",
-          pageSize: 5,
-          apiKey: process.env.NEWS_API_KEY
-        }
+const intensityProfile = {
+  philosophical: { heat: 4, chaos: 3 },
+  controversy: { heat: 7, chaos: 6 },
+  viral: { heat: 5, chaos: 9 },
+  emotional: { heat: 9, chaos: 8 }
+};
+
+function pick(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+/* =========================
+   FETCH NEWS
+========================= */
+async function fetchArticles() {
+  const res = await axios.get(
+    "https://newsapi.org/v2/top-headlines",
+    {
+      params: {
+        language: "en",
+        pageSize: 3,
+        apiKey: process.env.NEWS_API_KEY
       }
-    );
+    }
+  );
 
-    const articles = res.data.articles || [];
-    console.log("articles: ", articles)
+  return (res.data.articles || []).filter(
+    a => a?.title && a?.description
+  );
+}
 
-    if (articles.length === 0) {
-      return "AI systems are quietly replacing junior developers worldwide.";
+/* =========================
+   FACT EXTRACTION
+========================= */
+async function extractFacts(signal) {
+  const res = await openRouter.chat.completions.create({
+    model: "openai/gpt-oss-120b:free",
+    messages: [
+      {
+        role: "system",
+        content: `
+You are a strict news fact extractor.
+
+Return STRICT JSON ONLY:
+{
+  "facts": ["..."],
+  "entities": ["..."],
+  "themes": ["..."]
+}
+
+RULES:
+- ONLY extract facts explicitly present in SIGNAL
+- DO NOT infer public reaction
+- DO NOT add opinions
+- DO NOT add consequences
+- DO NOT add "debate", "controversy", "critics", "supporters"
+- If unsure, omit
+`
+      },
+      {
+        role: "user",
+        content: `SIGNAL:\n${signal}`
+      }
+    ]
+  });
+
+  return JSON.parse(res.choices[0].message.content);
+}
+
+/* =========================
+  DEBATE GENERATION
+========================= */
+async function generateDebate(factsObj, mode, intensity) {
+  const res = await openRouter.chat.completions.create({
+    model: "openai/gpt-oss-120b:free",
+    messages: [
+      {
+        role: "system",
+        content: `
+You are a debate podcast director.
+
+You convert factual news input into a structured debate topic for broadcast.
+
+The topic must satisfy:
+1. Groundedness: derived only from provided facts
+2. Debate condition: must allow at least two reasonable opposing perspectives
+3. Format: must be a single neutral question suitable for discussion
+
+Return STRICT JSON ONLY:
+{
+  "topic": "...",
+  "background": "...",
+  "framing": "...",
+  "emotion": number,
+  "controversy": number
+}
+
+RULES:
+BACKGROUND:
+- 2–4 sentences
+- ONLY uses facts
+- NO opinions
+- NO "public debate", "critics", "controversy", "raises questions"
+- NO invented social reactions
+
+TOPIC:
+- Must be debatable
+- Can extend beyond facts
+
+FRAMING:
+- neutral question
+
+EMOTION must match intensity: ${intensity.heat}
+`
+      },
+      {
+        role: "user",
+        content: `
+MODE: ${mode}
+FACTS: ${JSON.stringify(factsObj.facts)}
+THEMES: ${JSON.stringify(factsObj.themes)}
+INTENSITY: ${JSON.stringify(intensity)}
+`
+      }
+    ]
+  });
+
+  return JSON.parse(res.choices[0].message.content);
+}
+
+/* =========================
+   MAIN PIPELINE
+========================= */
+export async function fetchTrendingTopic(mode = "philosophical") {
+  try {
+    const intensity = intensityProfile[mode];
+
+    console.log("📡 Fetching articles...");
+    const articles = await fetchArticles();
+
+    // console.log("articles: ",articles)
+
+    if (!articles.length) {
+      return {
+        topic: "Is AI replacing human developers inevitable?",
+        background: "AI systems are increasingly being used in software development workflows. Some companies report efficiency gains, while others express concern about job displacement. The adoption rate continues to rise across the industry.",
+        emotion: 5,
+        controversy: 6,
+        framing: "Should AI replace human developers in most software roles?"
+      };
     }
 
-    const pick =
-      articles[Math.floor(Math.random() * articles.length)];
+    const seed = pick(articles);
 
-    const raw = `${pick.title}. ${pick.description}`;
-    console.log("raw: ", raw)
+    const signal = {
+      title: seed.title,
+      description: seed.description,
+      source: seed.source?.name,
+      publishedAt: seed.publishedAt
+    };
 
-    const ai = await openRouter.chat.completions.create({
-      model: "google/gemma-4-31b-it:free",
-      messages: [
-        {
-          role: "system",
-          content:
-            "Turn news into ONE dramatic tech debate topic sentence. No extras."
-        },
-        {
-          role: "user",
-          content: raw
-        }
-      ]
-    });
-    
+    console.log("signal: ",signal)
 
-    return ai.choices[0].message.content.trim();
+    /* STEP 1 */
+    const factsObj = await extractFacts(JSON.stringify(signal));
+    console.log("factsObj: ",factsObj)
+
+    /* STEP 2 */
+    const debate = await generateDebate(factsObj, mode, intensity);
+    console.log("debate: ",debate)
+
+    return {
+      ...debate,
+      debug: {
+        signal,
+        facts: factsObj
+      }
+    };
+
   } catch (err) {
-    console.log("scraper fallback:", err.message);
+    console.log("error:", err.message);
 
-    return "Big tech companies quietly test AI systems that replace entire product teams.";
+    return {
+      topic: "Should AI systems replace entire product teams?",
+      background: "AI tools are increasingly being integrated into software development workflows. Companies are experimenting with automation in coding, testing, and deployment. This trend is accelerating across the tech industry.",
+      emotion: 6,
+      controversy: 6,
+      framing: "Should AI replace human product teams?",
+      debug: null
+    };
   }
 }

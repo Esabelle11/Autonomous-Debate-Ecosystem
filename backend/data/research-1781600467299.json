@@ -1,0 +1,2998 @@
+{
+  "summary": {
+    "totalRecords": 52,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "UFC upset",
+      "American sports victory",
+      "Historic sporting event",
+      "White House venue",
+      "UFC upset",
+      "American sports victory",
+      "Historic sporting event",
+      "White House venue",
+      "UFC upset",
+      "American sports victory",
+      "Historic sporting event",
+      "White House venue",
+      "UFC upset",
+      "American sports victory",
+      "Historic sporting event",
+      "White House venue",
+      "marriage deception",
+      "fertility claims",
+      "legal documents",
+      "celebrity personal life",
+      "marriage deception",
+      "fertility claims",
+      "legal documents",
+      "celebrity personal life",
+      "marriage deception",
+      "fertility claims",
+      "legal documents",
+      "celebrity personal life",
+      "marriage deception",
+      "fertility claims",
+      "legal documents",
+      "celebrity personal life",
+      "US-Iran relations",
+      "peace negotiations",
+      "diplomatic agreements",
+      "ending hostilities",
+      "US-Iran relations",
+      "peace negotiations",
+      "diplomatic agreements",
+      "ending hostilities",
+      "US-Iran relations",
+      "peace negotiations",
+      "diplomatic agreements",
+      "ending hostilities",
+      "US-Iran relations",
+      "peace negotiations",
+      "diplomatic agreements",
+      "ending hostilities",
+      "Oil market price movements",
+      "US-Iran diplomatic agreement",
+      "Energy commodity pricing",
+      "Oil market price movements",
+      "US-Iran diplomatic agreement",
+      "Energy commodity pricing",
+      "Oil market price movements",
+      "US-Iran diplomatic agreement",
+      "Energy commodity pricing",
+      "Oil market price movements",
+      "US-Iran diplomatic agreement",
+      "Energy commodity pricing",
+      "criminal conviction",
+      "rape",
+      "domestic violence",
+      "sentencing",
+      "royalty family legal case",
+      "criminal conviction",
+      "rape",
+      "domestic violence",
+      "sentencing",
+      "royalty family legal case",
+      "criminal conviction",
+      "rape",
+      "domestic violence",
+      "sentencing",
+      "royalty family legal case",
+      "criminal conviction",
+      "rape",
+      "domestic violence",
+      "sentencing",
+      "royalty family legal case",
+      "tick removal",
+      "tick bite prevention",
+      "personal health safety",
+      "tick removal",
+      "tick bite prevention",
+      "personal health safety",
+      "tick removal",
+      "tick bite prevention",
+      "personal health safety",
+      "tick removal",
+      "tick bite prevention",
+      "personal health safety",
+      "plane crash",
+      "skydiving",
+      "fatalities",
+      "aviation accident",
+      "plane crash",
+      "skydiving",
+      "fatalities",
+      "aviation accident",
+      "plane crash",
+      "skydiving",
+      "fatalities",
+      "aviation accident",
+      "plane crash",
+      "skydiving",
+      "fatalities",
+      "aviation accident",
+      "death",
+      "television",
+      "actress",
+      "sitcom",
+      "obituary",
+      "death",
+      "television",
+      "actress",
+      "sitcom",
+      "obituary",
+      "death",
+      "television",
+      "actress",
+      "sitcom",
+      "obituary",
+      "death",
+      "television",
+      "actress",
+      "sitcom",
+      "obituary",
+      "birthday celebration",
+      "humiliation",
+      "problems",
+      "fight night",
+      "political figure",
+      "birthday celebration",
+      "humiliation",
+      "problems",
+      "fight night",
+      "political figure",
+      "birthday celebration",
+      "humiliation",
+      "problems",
+      "fight night",
+      "political figure",
+      "birthday celebration",
+      "humiliation",
+      "problems",
+      "fight night",
+      "political figure",
+      "sports",
+      "ice hockey",
+      "championship",
+      "professional leagues",
+      "sports",
+      "ice hockey",
+      "championship",
+      "professional leagues",
+      "sports",
+      "ice hockey",
+      "championship",
+      "professional leagues",
+      "sports",
+      "ice hockey",
+      "championship",
+      "professional leagues",
+      "aviation accident",
+      "celebrity death",
+      "music",
+      "aviation accident",
+      "celebrity death",
+      "music",
+      "aviation accident",
+      "celebrity death",
+      "music",
+      "aviation accident",
+      "celebrity death",
+      "music",
+      "U.S. Senate race",
+      "Political endorsements",
+      "GOP primaries",
+      "MAGA movement",
+      "Campaign strategy",
+      "U.S. Senate race",
+      "Political endorsements",
+      "GOP primaries",
+      "MAGA movement",
+      "Campaign strategy",
+      "U.S. Senate race",
+      "Political endorsements",
+      "GOP primaries",
+      "MAGA movement",
+      "Campaign strategy",
+      "U.S. Senate race",
+      "Political endorsements",
+      "GOP primaries",
+      "MAGA movement",
+      "Campaign strategy",
+      "Arts institution fundraising",
+      "Legal ruling on naming rights",
+      "Political naming controversy",
+      "Arts institution fundraising",
+      "Legal ruling on naming rights",
+      "Political naming controversy",
+      "Arts institution fundraising",
+      "Legal ruling on naming rights",
+      "Political naming controversy",
+      "Arts institution fundraising",
+      "Legal ruling on naming rights",
+      "Political naming controversy"
+    ],
+    "entities": [
+      "Justin Gaethke",
+      "Ilia Topuria",
+      "UFC Freedom 250",
+      "White House",
+      "Yahoo Entertainment",
+      "Justin Gaethke",
+      "Ilia Topuria",
+      "UFC Freedom 250",
+      "White House",
+      "Yahoo Entertainment",
+      "Justin Gaethke",
+      "Ilia Topuria",
+      "UFC Freedom 250",
+      "White House",
+      "Yahoo Entertainment",
+      "Justin Gaethke",
+      "Ilia Topuria",
+      "UFC Freedom 250",
+      "White House",
+      "Yahoo Entertainment",
+      "Dwight Howard",
+      "TMZ",
+      "Dwight Howard",
+      "TMZ",
+      "Dwight Howard",
+      "TMZ",
+      "Dwight Howard",
+      "TMZ",
+      "United States",
+      "Iran",
+      "Donald Trump",
+      "Tehran",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "Donald Trump",
+      "Tehran",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "Donald Trump",
+      "Tehran",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "Donald Trump",
+      "Tehran",
+      "Al Jazeera English",
+      "Crude oil",
+      "United States",
+      "Iran",
+      "Axios",
+      "Crude oil",
+      "United States",
+      "Iran",
+      "Axios",
+      "Crude oil",
+      "United States",
+      "Iran",
+      "Axios",
+      "Crude oil",
+      "United States",
+      "Iran",
+      "Axios",
+      "Marius Borg Hoiby",
+      "Crown Prince Haakon",
+      "Norway",
+      "Oslo court",
+      "CNN",
+      "Marius Borg Hoiby",
+      "Crown Prince Haakon",
+      "Norway",
+      "Oslo court",
+      "CNN",
+      "Marius Borg Hoiby",
+      "Crown Prince Haakon",
+      "Norway",
+      "Oslo court",
+      "CNN",
+      "Marius Borg Hoiby",
+      "Crown Prince Haakon",
+      "Norway",
+      "Oslo court",
+      "CNN",
+      "Martha Stewart",
+      "tick",
+      "expert",
+      "repellents",
+      "clothing",
+      "medical care",
+      "Martha Stewart",
+      "tick",
+      "expert",
+      "repellents",
+      "clothing",
+      "medical care",
+      "Martha Stewart",
+      "tick",
+      "expert",
+      "repellents",
+      "clothing",
+      "medical care",
+      "Martha Stewart",
+      "tick",
+      "expert",
+      "repellents",
+      "clothing",
+      "medical care",
+      "Missouri",
+      "Kansas City",
+      "Missouri State Highway Patrol",
+      "The Washington Post",
+      "Missouri",
+      "Kansas City",
+      "Missouri State Highway Patrol",
+      "The Washington Post",
+      "Missouri",
+      "Kansas City",
+      "Missouri State Highway Patrol",
+      "The Washington Post",
+      "Missouri",
+      "Kansas City",
+      "Missouri State Highway Patrol",
+      "The Washington Post",
+      "Anne Schedeen",
+      "Kate Tanner",
+      "'ALF'",
+      "NBC",
+      "Deadline",
+      "Anne Schedeen",
+      "Kate Tanner",
+      "'ALF'",
+      "NBC",
+      "Deadline",
+      "Anne Schedeen",
+      "Kate Tanner",
+      "'ALF'",
+      "NBC",
+      "Deadline",
+      "Anne Schedeen",
+      "Kate Tanner",
+      "'ALF'",
+      "NBC",
+      "Deadline",
+      "Donald Trump",
+      "The Daily Beast",
+      "Donald Trump",
+      "The Daily Beast",
+      "Donald Trump",
+      "The Daily Beast",
+      "Donald Trump",
+      "The Daily Beast",
+      "Carolina Hurricanes",
+      "Vegas",
+      "Stanley Cup Final",
+      "2026",
+      "NHL",
+      "Carolina Hurricanes",
+      "Vegas",
+      "Stanley Cup Final",
+      "2026",
+      "NHL",
+      "Carolina Hurricanes",
+      "Vegas",
+      "Stanley Cup Final",
+      "2026",
+      "NHL",
+      "Carolina Hurricanes",
+      "Vegas",
+      "Stanley Cup Final",
+      "2026",
+      "NHL",
+      "Oliver Tree",
+      "The Washington Post",
+      "Brazil",
+      "helicopter crash",
+      "Oliver Tree",
+      "The Washington Post",
+      "Brazil",
+      "helicopter crash",
+      "Oliver Tree",
+      "The Washington Post",
+      "Brazil",
+      "helicopter crash",
+      "Oliver Tree",
+      "The Washington Post",
+      "Brazil",
+      "helicopter crash",
+      "Mike Collins",
+      "Donald Trump",
+      "Georgia",
+      "Republican Party",
+      "Associated Press",
+      "Mike Collins",
+      "Donald Trump",
+      "Georgia",
+      "Republican Party",
+      "Associated Press",
+      "Mike Collins",
+      "Donald Trump",
+      "Georgia",
+      "Republican Party",
+      "Associated Press",
+      "Mike Collins",
+      "Donald Trump",
+      "Georgia",
+      "Republican Party",
+      "Associated Press",
+      "Kennedy Center",
+      "Donald Trump",
+      "judge",
+      "CBS News",
+      "Kennedy Center",
+      "Donald Trump",
+      "judge",
+      "CBS News",
+      "Kennedy Center",
+      "Donald Trump",
+      "judge",
+      "CBS News",
+      "Kennedy Center",
+      "Donald Trump",
+      "judge",
+      "CBS News"
+    ],
+    "generatedAt": "2026-06-16T09:01:07.295Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "UFC Freedom 250 results: Justin Gaethje shocks Ilia Topuria, pulls off ultimate U.S. upset on White House lawn - Yahoo Sports",
+        "description": "On a historic night at the footsteps of the White House, Justin Gaethje pulled off the ultimate American upset.",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-06-15T08:02:52Z"
+      },
+      "facts": {
+        "facts": [
+          "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250.",
+          "The fight took place on the White House lawn.",
+          "The event was described as a historic night.",
+          "Gaethke pulled off an ultimate U.S. upset.",
+          "The article was published by Yahoo Entertainment on 2026-06-15."
+        ],
+        "entities": [
+          "Justin Gaethke",
+          "Ilia Topuria",
+          "UFC Freedom 250",
+          "White House",
+          "Yahoo Entertainment"
+        ],
+        "themes": [
+          "UFC upset",
+          "American sports victory",
+          "Historic sporting event",
+          "White House venue"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should major sporting events be hosted at politically symbolic venues like the White House?",
+        "background": "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250. The fight took place on the White House lawn and was described as a historic night. Gaethke pulled off an ultimate U.S. upset. The article was published by Yahoo Entertainment on 2026-06-15.",
+        "framing": "Is it appropriate to hold high‑profile sporting competitions at politically significant locations?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "UFC Freedom 250 results: Justin Gaethje shocks Ilia Topuria, pulls off ultimate U.S. upset on White House lawn - Yahoo Sports",
+        "description": "On a historic night at the footsteps of the White House, Justin Gaethje pulled off the ultimate American upset.",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-06-15T08:02:52Z"
+      },
+      "facts": {
+        "facts": [
+          "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250.",
+          "The fight took place on the White House lawn.",
+          "The event was described as a historic night.",
+          "Gaethke pulled off an ultimate U.S. upset.",
+          "The article was published by Yahoo Entertainment on 2026-06-15."
+        ],
+        "entities": [
+          "Justin Gaethke",
+          "Ilia Topuria",
+          "UFC Freedom 250",
+          "White House",
+          "Yahoo Entertainment"
+        ],
+        "themes": [
+          "UFC upset",
+          "American sports victory",
+          "Historic sporting event",
+          "White House venue"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the UFC continue hosting mixed martial arts events at politically symbolic venues like the White House?",
+        "background": "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250, which took place on the White House lawn. The event was described as a historic night and resulted in an ultimate U.S. upset. The fight was reported by Yahoo Entertainment on 2026-06-15.",
+        "framing": "Should the UFC continue hosting mixed martial arts events at politically symbolic venues like the White House?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 9,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 8,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "UFC Freedom 250 results: Justin Gaethje shocks Ilia Topuria, pulls off ultimate U.S. upset on White House lawn - Yahoo Sports",
+        "description": "On a historic night at the footsteps of the White House, Justin Gaethje pulled off the ultimate American upset.",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-06-15T08:02:52Z"
+      },
+      "facts": {
+        "facts": [
+          "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250.",
+          "The fight took place on the White House lawn.",
+          "The event was described as a historic night.",
+          "Gaethke pulled off an ultimate U.S. upset.",
+          "The article was published by Yahoo Entertainment on 2026-06-15."
+        ],
+        "entities": [
+          "Justin Gaethke",
+          "Ilia Topuria",
+          "UFC Freedom 250",
+          "White House",
+          "Yahoo Entertainment"
+        ],
+        "themes": [
+          "UFC upset",
+          "American sports victory",
+          "Historic sporting event",
+          "White House venue"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the White House be used as a venue for high-profile sporting events like the UFC?",
+        "background": "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250, which took place on the White House lawn. The event was described as a historic night and resulted in an ultimate U.S. upset. The article reporting the fight was published by Yahoo Entertainment on 2026-06-15.",
+        "framing": "Is it appropriate to host major sporting competitions at the White House?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8
+      },
+      "average_eval": 8.2
+    },
+    {
+      "signal": {
+        "title": "UFC Freedom 250 results: Justin Gaethje shocks Ilia Topuria, pulls off ultimate U.S. upset on White House lawn - Yahoo Sports",
+        "description": "On a historic night at the footsteps of the White House, Justin Gaethje pulled off the ultimate American upset.",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-06-15T08:02:52Z"
+      },
+      "facts": {
+        "facts": [
+          "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250.",
+          "The fight took place on the White House lawn.",
+          "The event was described as a historic night.",
+          "Gaethke pulled off an ultimate U.S. upset.",
+          "The article was published by Yahoo Entertainment on 2026-06-15."
+        ],
+        "entities": [
+          "Justin Gaethke",
+          "Ilia Topuria",
+          "UFC Freedom 250",
+          "White House",
+          "Yahoo Entertainment"
+        ],
+        "themes": [
+          "UFC upset",
+          "American sports victory",
+          "Historic sporting event",
+          "White House venue"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should high‑profile UFC events be hosted at politically significant venues such as the White House?",
+        "background": "Justin Gaethke shocked Ilia Topuria at UFC Freedom 250, delivering an ultimate U.S. upset. The fight took place on the White House lawn and was described as a historic night. The event was covered by Yahoo Entertainment on 2026‑06‑15.",
+        "framing": "Is it appropriate for major mixed‑martial‑arts competitions to be staged at iconic political locations like the White House?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Ex-NBA Star Dwight Howard Claims Estranged Wife Tricked Him into Marriage - TMZ",
+        "description": "Former NBA Star Dwight Howard says his wife is a master of lies and manipulation ... and alleges she tricked him into marriage with false claims about her fertility ... at least according to new legal docs obtained by TMZ.",
+        "source": "TMZ",
+        "publishedAt": "2026-06-15T08:00:02Z"
+      },
+      "facts": {
+        "facts": [
+          "Dwight Howard says his wife is a master of lies and manipulation.",
+          "Dwight Howard alleges his wife tricked him into marriage with false claims about her fertility.",
+          "The allegations are based on legal documents obtained by TMZ."
+        ],
+        "entities": [
+          "Dwight Howard",
+          "TMZ"
+        ],
+        "themes": [
+          "marriage deception",
+          "fertility claims",
+          "legal documents",
+          "celebrity personal life"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should allegations of marital deception, supported by legal documents, be considered sufficient grounds for public scrutiny of a celebrity's personal life?",
+        "background": "Dwight Howard has publicly claimed that his wife is a master of lies and manipulation. He alleges she tricked him into marriage by making false claims about her fertility. The allegations are based on legal documents obtained by TMZ.",
+        "framing": "Should allegations of marital deception, supported by legal documents, be considered sufficient grounds for public scrutiny of a celebrity's personal life?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Ex-NBA Star Dwight Howard Claims Estranged Wife Tricked Him into Marriage - TMZ",
+        "description": "Former NBA Star Dwight Howard says his wife is a master of lies and manipulation ... and alleges she tricked him into marriage with false claims about her fertility ... at least according to new legal docs obtained by TMZ.",
+        "source": "TMZ",
+        "publishedAt": "2026-06-15T08:00:02Z"
+      },
+      "facts": {
+        "facts": [
+          "Dwight Howard says his wife is a master of lies and manipulation.",
+          "Dwight Howard alleges his wife tricked him into marriage with false claims about her fertility.",
+          "The allegations are based on legal documents obtained by TMZ."
+        ],
+        "entities": [
+          "Dwight Howard",
+          "TMZ"
+        ],
+        "themes": [
+          "marriage deception",
+          "fertility claims",
+          "legal documents",
+          "celebrity personal life"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should public scrutiny of a celebrity's personal marriage claims be limited, even when legal documents are involved?",
+        "background": "Dwight Howard has said his wife is a master of lies and manipulation. He alleges she tricked him into marriage by making false claims about her fertility. The allegations are based on legal documents obtained by TMZ.",
+        "framing": "To what extent should a celebrity's private marital disputes be subject to public scrutiny when supported by legal evidence?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Ex-NBA Star Dwight Howard Claims Estranged Wife Tricked Him into Marriage - TMZ",
+        "description": "Former NBA Star Dwight Howard says his wife is a master of lies and manipulation ... and alleges she tricked him into marriage with false claims about her fertility ... at least according to new legal docs obtained by TMZ.",
+        "source": "TMZ",
+        "publishedAt": "2026-06-15T08:00:02Z"
+      },
+      "facts": {
+        "facts": [
+          "Dwight Howard says his wife is a master of lies and manipulation.",
+          "Dwight Howard alleges his wife tricked him into marriage with false claims about her fertility.",
+          "The allegations are based on legal documents obtained by TMZ."
+        ],
+        "entities": [
+          "Dwight Howard",
+          "TMZ"
+        ],
+        "themes": [
+          "marriage deception",
+          "fertility claims",
+          "legal documents",
+          "celebrity personal life"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should alleged deception in a celebrity marriage be judged primarily on legal evidence or on personal testimonies?",
+        "background": "Legal documents obtained by TMZ contain allegations from Dwight Howard that his wife lied and manipulated him into marriage, including false claims about her fertility. Howard has publicly stated that his wife is a \"master of lies and manipulation\" based on these documents.",
+        "framing": "To what extent should legal documentation versus personal testimony determine public judgment in cases of alleged marital deception?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Ex-NBA Star Dwight Howard Claims Estranged Wife Tricked Him into Marriage - TMZ",
+        "description": "Former NBA Star Dwight Howard says his wife is a master of lies and manipulation ... and alleges she tricked him into marriage with false claims about her fertility ... at least according to new legal docs obtained by TMZ.",
+        "source": "TMZ",
+        "publishedAt": "2026-06-15T08:00:02Z"
+      },
+      "facts": {
+        "facts": [
+          "Dwight Howard says his wife is a master of lies and manipulation.",
+          "Dwight Howard alleges his wife tricked him into marriage with false claims about her fertility.",
+          "The allegations are based on legal documents obtained by TMZ."
+        ],
+        "entities": [
+          "Dwight Howard",
+          "TMZ"
+        ],
+        "themes": [
+          "marriage deception",
+          "fertility claims",
+          "legal documents",
+          "celebrity personal life"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should legal systems treat claims of marital deception and fertility fraud differently when they involve public figures?",
+        "background": "Dwight Howard has publicly asserted that his wife is a master of lies and manipulation. He alleges she deceived him into marriage by making false statements about her fertility. The allegations are documented in legal filings obtained by TMZ.",
+        "framing": "Should the legal response to alleged marital deception and fertility fraud be distinct for celebrities compared to private individuals?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 9,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "US-Iran to sign a ‘peace deal’ on Friday: What we know - Al Jazeera",
+        "description": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-15T07:52:30Z"
+      },
+      "facts": {
+        "facts": [
+          "A US-Iran peace deal is scheduled to be signed on Friday.",
+          "Trump says the US-Iran deal will be signed on Friday.",
+          "Tehran confirms plans to end hostilities."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "Donald Trump",
+          "Tehran",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "US-Iran relations",
+          "peace negotiations",
+          "diplomatic agreements",
+          "ending hostilities"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the United States pursue a long‑term diplomatic strategy with Iran following the upcoming peace deal?",
+        "background": "A US‑Iran peace agreement is scheduled to be signed on Friday. President Trump announced that the deal will be finalized on that day. Tehran has confirmed its plans to end hostilities as part of the arrangement.",
+        "framing": "Is committing to a sustained diplomatic relationship with Iran after the imminent peace agreement in the best interest of US foreign policy?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "US-Iran to sign a ‘peace deal’ on Friday: What we know - Al Jazeera",
+        "description": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-15T07:52:30Z"
+      },
+      "facts": {
+        "facts": [
+          "A US-Iran peace deal is scheduled to be signed on Friday.",
+          "Trump says the US-Iran deal will be signed on Friday.",
+          "Tehran confirms plans to end hostilities."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "Donald Trump",
+          "Tehran",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "US-Iran relations",
+          "peace negotiations",
+          "diplomatic agreements",
+          "ending hostilities"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the United States proceed with the scheduled Iran peace deal despite concerns over verification and long‑term regional stability?",
+        "background": "A US‑Iran peace deal is scheduled to be signed on Friday. Trump has publicly stated that the agreement will be signed on that day. Tehran has confirmed its plans to end hostilities as part of the negotiations.",
+        "framing": "Should the United States proceed with the scheduled Iran peace deal despite concerns over verification and long‑term regional stability?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "US-Iran to sign a ‘peace deal’ on Friday: What we know - Al Jazeera",
+        "description": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-15T07:52:30Z"
+      },
+      "facts": {
+        "facts": [
+          "A US-Iran peace deal is scheduled to be signed on Friday.",
+          "Trump says the US-Iran deal will be signed on Friday.",
+          "Tehran confirms plans to end hostilities."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "Donald Trump",
+          "Tehran",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "US-Iran relations",
+          "peace negotiations",
+          "diplomatic agreements",
+          "ending hostilities"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the United States proceed with the scheduled peace agreement with Iran despite ongoing domestic political opposition?",
+        "background": "A US-Iran peace deal is scheduled to be signed on Friday. President Trump has announced that the deal will be signed on that day. Tehran has confirmed its plans to end hostilities as part of the agreement.",
+        "framing": "Is it advisable for the United States to move forward with the imminent US-Iran peace agreement?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "US-Iran to sign a ‘peace deal’ on Friday: What we know - Al Jazeera",
+        "description": "Trump says a US-Iran deal will be signed this Friday, as Tehran confirms plans to end hostilities.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-15T07:52:30Z"
+      },
+      "facts": {
+        "facts": [
+          "A US-Iran peace deal is scheduled to be signed on Friday.",
+          "Trump says the US-Iran deal will be signed on Friday.",
+          "Tehran confirms plans to end hostilities."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "Donald Trump",
+          "Tehran",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "US-Iran relations",
+          "peace negotiations",
+          "diplomatic agreements",
+          "ending hostilities"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the United States move forward with the scheduled peace deal with Iran, considering the potential implications for regional security and diplomatic relations?",
+        "background": "A US-Iran peace deal is scheduled to be signed on Friday. Trump has publicly said the deal will be signed on Friday. Tehran has confirmed plans to end hostilities as part of the arrangement.",
+        "framing": "Is proceeding with the planned US-Iran peace agreement the best course of action for American and regional interests?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Oil prices fall on US, Iran deal announcement - Axios",
+        "description": "Crude oil prices fell over 4% to their lowest levels in over three months.",
+        "source": "Axios",
+        "publishedAt": "2026-06-15T07:37:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Crude oil prices fell over 4% to their lowest levels in over three months.",
+          "The price decline occurred after the announcement of a United States–Iran deal."
+        ],
+        "entities": [
+          "Crude oil",
+          "United States",
+          "Iran",
+          "Axios"
+        ],
+        "themes": [
+          "Oil market price movements",
+          "US-Iran diplomatic agreement",
+          "Energy commodity pricing"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the impact of diplomatic agreements on oil prices be a primary consideration in shaping energy policy?",
+        "background": "Crude oil prices fell over 4% to their lowest levels in more than three months. The decline followed the announcement of a United States–Iran diplomatic deal. Oil market prices are sensitive to geopolitical developments. Energy commodity pricing influences global economic conditions.",
+        "framing": "Should policymakers prioritize the effects of diplomatic agreements on oil prices when designing energy strategies?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Oil prices fall on US, Iran deal announcement - Axios",
+        "description": "Crude oil prices fell over 4% to their lowest levels in over three months.",
+        "source": "Axios",
+        "publishedAt": "2026-06-15T07:37:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Crude oil prices fell over 4% to their lowest levels in over three months.",
+          "The price decline occurred after the announcement of a United States–Iran deal."
+        ],
+        "entities": [
+          "Crude oil",
+          "United States",
+          "Iran",
+          "Axios"
+        ],
+        "themes": [
+          "Oil market price movements",
+          "US-Iran diplomatic agreement",
+          "Energy commodity pricing"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the United States–Iran agreement be considered the primary driver of the recent 4% drop in crude oil prices?",
+        "background": "Crude oil prices fell over 4% to their lowest levels in more than three months. The price decline occurred after the announcement of a United States–Iran deal.",
+        "framing": "Is the US‑Iran diplomatic agreement the main factor behind the recent drop in crude oil prices, or are other market forces more responsible?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Oil prices fall on US, Iran deal announcement - Axios",
+        "description": "Crude oil prices fell over 4% to their lowest levels in over three months.",
+        "source": "Axios",
+        "publishedAt": "2026-06-15T07:37:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Crude oil prices fell over 4% to their lowest levels in over three months.",
+          "The price decline occurred after the announcement of a United States–Iran deal."
+        ],
+        "entities": [
+          "Crude oil",
+          "United States",
+          "Iran",
+          "Axios"
+        ],
+        "themes": [
+          "Oil market price movements",
+          "US-Iran diplomatic agreement",
+          "Energy commodity pricing"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the United States prioritize diplomatic agreements like the US‑Iran deal over concerns about volatile oil prices?",
+        "background": "Crude oil prices fell over 4% to their lowest levels in more than three months. The decline occurred after the announcement of a United States–Iran diplomatic deal.",
+        "framing": "Is it advisable for the United States to give greater weight to diplomatic breakthroughs, even if they lead to significant fluctuations in oil market prices?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Oil prices fall on US, Iran deal announcement - Axios",
+        "description": "Crude oil prices fell over 4% to their lowest levels in over three months.",
+        "source": "Axios",
+        "publishedAt": "2026-06-15T07:37:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Crude oil prices fell over 4% to their lowest levels in over three months.",
+          "The price decline occurred after the announcement of a United States–Iran deal."
+        ],
+        "entities": [
+          "Crude oil",
+          "United States",
+          "Iran",
+          "Axios"
+        ],
+        "themes": [
+          "Oil market price movements",
+          "US-Iran diplomatic agreement",
+          "Energy commodity pricing"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the United States prioritize diplomatic agreements like the US‑Iran deal over concerns about potential short‑term volatility in oil markets?",
+        "background": "Crude oil prices fell over 4% to their lowest levels in more than three months. The price decline followed the announcement of a United States–Iran diplomatic agreement.",
+        "framing": "Is it advisable for U.S. policy to focus on diplomatic engagement even when it may cause immediate fluctuations in global oil prices?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Marius Borg Hoiby, stepson of Norway’s crown prince convicted of rape, sentenced to 4 years in prison - CNN",
+        "description": "The stepson of Norway’s Crown Prince Haakon has been found guilty ⁠of two counts of rape, one count of domestic violence and other crimes and is sentenced to four years in ⁠prison, an Oslo ​court ⁠ruled on Monday.",
+        "source": "CNN",
+        "publishedAt": "2026-06-15T06:57:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes.",
+          "An Oslo court sentenced Marius Borg Hoiby to four years in prison.",
+          "The ruling was made on Monday, June 15, 2026.",
+          "The news was reported by CNN."
+        ],
+        "entities": [
+          "Marius Borg Hoiby",
+          "Crown Prince Haakon",
+          "Norway",
+          "Oslo court",
+          "CNN"
+        ],
+        "themes": [
+          "criminal conviction",
+          "rape",
+          "domestic violence",
+          "sentencing",
+          "royalty family legal case"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should members of royal families be subject to the same legal treatment and public scrutiny as ordinary citizens when convicted of serious crimes?",
+        "background": "Marius Borg Hoiby, stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes. An Oslo court sentenced him to four years in prison on June 15, 2026, as reported by CNN.",
+        "framing": "Is it appropriate for the legal system and society to apply identical standards and levels of attention to royal relatives as they do to any other citizen in cases of serious criminal convictions?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Marius Borg Hoiby, stepson of Norway’s crown prince convicted of rape, sentenced to 4 years in prison - CNN",
+        "description": "The stepson of Norway’s Crown Prince Haakon has been found guilty ⁠of two counts of rape, one count of domestic violence and other crimes and is sentenced to four years in ⁠prison, an Oslo ​court ⁠ruled on Monday.",
+        "source": "CNN",
+        "publishedAt": "2026-06-15T06:57:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes.",
+          "An Oslo court sentenced Marius Borg Hoiby to four years in prison.",
+          "The ruling was made on Monday, June 15, 2026.",
+          "The news was reported by CNN."
+        ],
+        "entities": [
+          "Marius Borg Hoiby",
+          "Crown Prince Haakon",
+          "Norway",
+          "Oslo court",
+          "CNN"
+        ],
+        "themes": [
+          "criminal conviction",
+          "rape",
+          "domestic violence",
+          "sentencing",
+          "royalty family legal case"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should members of royal families be subject to the same legal proceedings and sentencing standards as ordinary citizens?",
+        "background": "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes. An Oslo court sentenced him to four years in prison on June 15, 2026. The case was reported by CNN.",
+        "framing": "Is it appropriate for royal relatives to receive identical judicial treatment as any other citizen?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 10,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Marius Borg Hoiby, stepson of Norway’s crown prince convicted of rape, sentenced to 4 years in prison - CNN",
+        "description": "The stepson of Norway’s Crown Prince Haakon has been found guilty ⁠of two counts of rape, one count of domestic violence and other crimes and is sentenced to four years in ⁠prison, an Oslo ​court ⁠ruled on Monday.",
+        "source": "CNN",
+        "publishedAt": "2026-06-15T06:57:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes.",
+          "An Oslo court sentenced Marius Borg Hoiby to four years in prison.",
+          "The ruling was made on Monday, June 15, 2026.",
+          "The news was reported by CNN."
+        ],
+        "entities": [
+          "Marius Borg Hoiby",
+          "Crown Prince Haakon",
+          "Norway",
+          "Oslo court",
+          "CNN"
+        ],
+        "themes": [
+          "criminal conviction",
+          "rape",
+          "domestic violence",
+          "sentencing",
+          "royalty family legal case"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should members of royal families be subject to the same legal standards and sentencing guidelines as ordinary citizens?",
+        "background": "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes. An Oslo court sentenced him to four years in prison on Monday, June 15, 2026. The case was reported by CNN.",
+        "framing": "Is it appropriate for royal family members to receive identical legal treatment and penalties as any other citizen?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Marius Borg Hoiby, stepson of Norway’s crown prince convicted of rape, sentenced to 4 years in prison - CNN",
+        "description": "The stepson of Norway’s Crown Prince Haakon has been found guilty ⁠of two counts of rape, one count of domestic violence and other crimes and is sentenced to four years in ⁠prison, an Oslo ​court ⁠ruled on Monday.",
+        "source": "CNN",
+        "publishedAt": "2026-06-15T06:57:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes.",
+          "An Oslo court sentenced Marius Borg Hoiby to four years in prison.",
+          "The ruling was made on Monday, June 15, 2026.",
+          "The news was reported by CNN."
+        ],
+        "entities": [
+          "Marius Borg Hoiby",
+          "Crown Prince Haakon",
+          "Norway",
+          "Oslo court",
+          "CNN"
+        ],
+        "themes": [
+          "criminal conviction",
+          "rape",
+          "domestic violence",
+          "sentencing",
+          "royalty family legal case"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should members of royal families be subject to the same legal penalties as ordinary citizens for serious crimes?",
+        "background": "Marius Borg Hoiby, the stepson of Norway’s Crown Prince Haakon, was found guilty of two counts of rape, one count of domestic violence, and other crimes. An Oslo court sentenced him to four years in prison. The ruling was issued on Monday, June 15, 2026, and reported by CNN.",
+        "framing": "Should members of royal families be subject to the same legal penalties as ordinary citizens for serious crimes?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "What to Do If You Find a Tick on Your Body, According to an Expert - marthastewart.com",
+        "description": "Learn how to remove a tick safely, when to seek medical care, and how to prevent tick bites with repellents, clothing, and tick checks from an expert.",
+        "source": "Martha Stewart",
+        "publishedAt": "2026-06-15T06:31:20Z"
+      },
+      "facts": {
+        "facts": [
+          "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15T06:31:20Z.",
+          "The article explains how to remove a tick safely.",
+          "The article tells readers when to seek medical care after a tick bite.",
+          "The article provides advice on preventing tick bites using repellents, clothing, and tick checks."
+        ],
+        "entities": [
+          "Martha Stewart",
+          "tick",
+          "expert",
+          "repellents",
+          "clothing",
+          "medical care"
+        ],
+        "themes": [
+          "tick removal",
+          "tick bite prevention",
+          "personal health safety"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should individuals be primarily responsible for preventing tick bites, or should public health agencies bear the main responsibility for protecting people from tick‑borne diseases?",
+        "background": "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15. The article explains how to remove a tick safely, when to seek medical care after a tick bite, and offers advice on preventing tick bites using repellents, appropriate clothing, and regular tick checks.",
+        "framing": "Who should hold the primary duty for tick‑bite prevention: individuals through personal precautions or public health institutions through broader measures?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "What to Do If You Find a Tick on Your Body, According to an Expert - marthastewart.com",
+        "description": "Learn how to remove a tick safely, when to seek medical care, and how to prevent tick bites with repellents, clothing, and tick checks from an expert.",
+        "source": "Martha Stewart",
+        "publishedAt": "2026-06-15T06:31:20Z"
+      },
+      "facts": {
+        "facts": [
+          "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15T06:31:20Z.",
+          "The article explains how to remove a tick safely.",
+          "The article tells readers when to seek medical care after a tick bite.",
+          "The article provides advice on preventing tick bites using repellents, clothing, and tick checks."
+        ],
+        "entities": [
+          "Martha Stewart",
+          "tick",
+          "expert",
+          "repellents",
+          "clothing",
+          "medical care"
+        ],
+        "themes": [
+          "tick removal",
+          "tick bite prevention",
+          "personal health safety"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should lifestyle publications such as Martha Stewart's magazine regularly publish medical advice on tick removal and prevention?",
+        "background": "On June 15, 2026, Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert.\" The article explains how to remove a tick safely, when to seek medical care after a bite, and provides advice on preventing tick bites using repellents, clothing, and tick checks.",
+        "framing": "Is it appropriate for lifestyle outlets to dispense health guidance on tick removal and bite prevention?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "What to Do If You Find a Tick on Your Body, According to an Expert - marthastewart.com",
+        "description": "Learn how to remove a tick safely, when to seek medical care, and how to prevent tick bites with repellents, clothing, and tick checks from an expert.",
+        "source": "Martha Stewart",
+        "publishedAt": "2026-06-15T06:31:20Z"
+      },
+      "facts": {
+        "facts": [
+          "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15T06:31:20Z.",
+          "The article explains how to remove a tick safely.",
+          "The article tells readers when to seek medical care after a tick bite.",
+          "The article provides advice on preventing tick bites using repellents, clothing, and tick checks."
+        ],
+        "entities": [
+          "Martha Stewart",
+          "tick",
+          "expert",
+          "repellents",
+          "clothing",
+          "medical care"
+        ],
+        "themes": [
+          "tick removal",
+          "tick bite prevention",
+          "personal health safety"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should personal protective measures be prioritized over chemical repellents for preventing tick bites?",
+        "background": "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15. The article explains how to remove a tick safely and when to seek medical care after a bite. It also provides advice on preventing tick bites using repellents, clothing, and tick checks.",
+        "framing": "Should personal protective measures be prioritized over chemical repellents for preventing tick bites?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 7,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.2
+      },
+      "average_eval": 8.2
+    },
+    {
+      "signal": {
+        "title": "What to Do If You Find a Tick on Your Body, According to an Expert - marthastewart.com",
+        "description": "Learn how to remove a tick safely, when to seek medical care, and how to prevent tick bites with repellents, clothing, and tick checks from an expert.",
+        "source": "Martha Stewart",
+        "publishedAt": "2026-06-15T06:31:20Z"
+      },
+      "facts": {
+        "facts": [
+          "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15T06:31:20Z.",
+          "The article explains how to remove a tick safely.",
+          "The article tells readers when to seek medical care after a tick bite.",
+          "The article provides advice on preventing tick bites using repellents, clothing, and tick checks."
+        ],
+        "entities": [
+          "Martha Stewart",
+          "tick",
+          "expert",
+          "repellents",
+          "clothing",
+          "medical care"
+        ],
+        "themes": [
+          "tick removal",
+          "tick bite prevention",
+          "personal health safety"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the general public be required to follow expert-recommended tick removal and prevention guidelines rather than relying on informal advice?",
+        "background": "Martha Stewart published an article titled \"What to Do If You Find a Tick on Your Body, According to an Expert\" on 2026-06-15. The article explains how to remove a tick safely, advises when to seek medical care after a bite, and offers prevention tips such as using repellents, appropriate clothing, and regular tick checks.",
+        "framing": "Should the general public be required to follow expert-recommended tick removal and prevention guidelines rather than relying on informal advice?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "12 dead in Missouri skydiving plane crash, officials say - The Washington Post",
+        "description": "All 12 occupants of a skydiving plane that crashed Sunday about 60 miles south of Kansas City died, the Missouri State Highway Patrol said.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T03:55:52Z"
+      },
+      "facts": {
+        "facts": [
+          "All 12 occupants of a skydiving plane that crashed on Sunday died.",
+          "The crash occurred about 60 miles south of Kansas City.",
+          "The Missouri State Highway Patrol reported the incident."
+        ],
+        "entities": [
+          "Missouri",
+          "Kansas City",
+          "Missouri State Highway Patrol",
+          "The Washington Post"
+        ],
+        "themes": [
+          "plane crash",
+          "skydiving",
+          "fatalities",
+          "aviation accident"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should recreational skydiving be subject to stricter regulations following fatal accidents?",
+        "background": "All 12 occupants of a skydiving plane that crashed on Sunday died. The crash occurred about 60 miles south of Kansas City. The Missouri State Highway Patrol reported the incident.",
+        "framing": "Should recreational skydiving be subject to stricter regulations following fatal accidents?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "12 dead in Missouri skydiving plane crash, officials say - The Washington Post",
+        "description": "All 12 occupants of a skydiving plane that crashed Sunday about 60 miles south of Kansas City died, the Missouri State Highway Patrol said.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T03:55:52Z"
+      },
+      "facts": {
+        "facts": [
+          "All 12 occupants of a skydiving plane that crashed on Sunday died.",
+          "The crash occurred about 60 miles south of Kansas City.",
+          "The Missouri State Highway Patrol reported the incident."
+        ],
+        "entities": [
+          "Missouri",
+          "Kansas City",
+          "Missouri State Highway Patrol",
+          "The Washington Post"
+        ],
+        "themes": [
+          "plane crash",
+          "skydiving",
+          "fatalities",
+          "aviation accident"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should stricter regulations be imposed on recreational skydiving operations to prevent fatal crashes?",
+        "background": "All 12 occupants of a skydiving plane that crashed on Sunday died. The crash occurred about 60 miles south of Kansas City. The Missouri State Highway Patrol reported the incident.",
+        "framing": "Should stricter regulations be imposed on recreational skydiving operations to prevent fatal crashes?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "12 dead in Missouri skydiving plane crash, officials say - The Washington Post",
+        "description": "All 12 occupants of a skydiving plane that crashed Sunday about 60 miles south of Kansas City died, the Missouri State Highway Patrol said.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T03:55:52Z"
+      },
+      "facts": {
+        "facts": [
+          "All 12 occupants of a skydiving plane that crashed on Sunday died.",
+          "The crash occurred about 60 miles south of Kansas City.",
+          "The Missouri State Highway Patrol reported the incident."
+        ],
+        "entities": [
+          "Missouri",
+          "Kansas City",
+          "Missouri State Highway Patrol",
+          "The Washington Post"
+        ],
+        "themes": [
+          "plane crash",
+          "skydiving",
+          "fatalities",
+          "aviation accident"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should regulatory oversight of skydiving operations be increased following the fatal crash of a skydiving plane?",
+        "background": "All 12 occupants of a skydiving plane that crashed on Sunday died. The crash occurred about 60 miles south of Kansas City. The Missouri State Highway Patrol reported the incident.",
+        "framing": "Should regulations governing skydiving flights be tightened to improve safety?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 10,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "12 dead in Missouri skydiving plane crash, officials say - The Washington Post",
+        "description": "All 12 occupants of a skydiving plane that crashed Sunday about 60 miles south of Kansas City died, the Missouri State Highway Patrol said.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T03:55:52Z"
+      },
+      "facts": {
+        "facts": [
+          "All 12 occupants of a skydiving plane that crashed on Sunday died.",
+          "The crash occurred about 60 miles south of Kansas City.",
+          "The Missouri State Highway Patrol reported the incident."
+        ],
+        "entities": [
+          "Missouri",
+          "Kansas City",
+          "Missouri State Highway Patrol",
+          "The Washington Post"
+        ],
+        "themes": [
+          "plane crash",
+          "skydiving",
+          "fatalities",
+          "aviation accident"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should stricter regulations be imposed on skydiving operations to improve safety?",
+        "background": "All 12 occupants of a skydiving plane that crashed on Sunday died. The crash occurred about 60 miles south of Kansas City. The Missouri State Highway Patrol reported the incident.",
+        "framing": "Should stricter regulations be imposed on skydiving operations to improve safety?",
+        "emotion": 9,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Anne Schedeen Dies: Actress Who Played ‘ALF’s Mom Was 77 - Deadline",
+        "description": "Anne Schedeen, the actress who starred as matriarch Kate Tanner on NBC's 'ALF' (1986-'90), has died. She was 77.",
+        "source": "Deadline",
+        "publishedAt": "2026-06-15T03:26:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anne Schedeen died.",
+          "Anne Schedeen was an actress.",
+          "She played the character Kate Tanner on the NBC sitcom 'ALF' from 1986 to 1990.",
+          "She was 77 years old at the time of her death.",
+          "The news was reported by Deadline on June 15, 2026."
+        ],
+        "entities": [
+          "Anne Schedeen",
+          "Kate Tanner",
+          "'ALF'",
+          "NBC",
+          "Deadline"
+        ],
+        "themes": [
+          "death",
+          "television",
+          "actress",
+          "sitcom",
+          "obituary"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should an actor's legacy be evaluated mainly on their most iconic role or on the overall range of their work?",
+        "background": "Anne Schedeen was an American actress who played the character Kate Tanner on the NBC sitcom ALF from 1986 to 1990. She died at the age of 77. Her death was reported by Deadline on June 15, 2026.",
+        "framing": "Is an actor's legacy best measured by their most famous role or by the totality of their career?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 8,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 8,
+        "overall": 8
+      },
+      "average_eval": 8
+    },
+    {
+      "signal": {
+        "title": "Anne Schedeen Dies: Actress Who Played ‘ALF’s Mom Was 77 - Deadline",
+        "description": "Anne Schedeen, the actress who starred as matriarch Kate Tanner on NBC's 'ALF' (1986-'90), has died. She was 77.",
+        "source": "Deadline",
+        "publishedAt": "2026-06-15T03:26:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anne Schedeen died.",
+          "Anne Schedeen was an actress.",
+          "She played the character Kate Tanner on the NBC sitcom 'ALF' from 1986 to 1990.",
+          "She was 77 years old at the time of her death.",
+          "The news was reported by Deadline on June 15, 2026."
+        ],
+        "entities": [
+          "Anne Schedeen",
+          "Kate Tanner",
+          "'ALF'",
+          "NBC",
+          "Deadline"
+        ],
+        "themes": [
+          "death",
+          "television",
+          "actress",
+          "sitcom",
+          "obituary"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should networks remake or continue classic sitcoms after the original lead actors have passed away?",
+        "background": "Anne Schedeen, an actress known for playing Kate Tanner on the NBC sitcom ALF from 1986 to 1990, died at age 77. Her death was reported by Deadline on June 15, 2026.",
+        "framing": "Is it appropriate for networks to remake or continue classic sitcoms when the original lead actors have died?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Anne Schedeen Dies: Actress Who Played ‘ALF’s Mom Was 77 - Deadline",
+        "description": "Anne Schedeen, the actress who starred as matriarch Kate Tanner on NBC's 'ALF' (1986-'90), has died. She was 77.",
+        "source": "Deadline",
+        "publishedAt": "2026-06-15T03:26:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anne Schedeen died.",
+          "Anne Schedeen was an actress.",
+          "She played the character Kate Tanner on the NBC sitcom 'ALF' from 1986 to 1990.",
+          "She was 77 years old at the time of her death.",
+          "The news was reported by Deadline on June 15, 2026."
+        ],
+        "entities": [
+          "Anne Schedeen",
+          "Kate Tanner",
+          "'ALF'",
+          "NBC",
+          "Deadline"
+        ],
+        "themes": [
+          "death",
+          "television",
+          "actress",
+          "sitcom",
+          "obituary"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the contributions of actors like Anne Schedeen be given greater posthumous recognition in television history?",
+        "background": "Anne Schedeen, an American actress, died at age 77. She was best known for playing Kate Tanner on the NBC sitcom 'ALF' from 1986 to 1990. Her death was reported by Deadline on June 15, 2026.",
+        "framing": "Should the contributions of actors like Anne Schedeen be given greater posthumous recognition in television history?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Anne Schedeen Dies: Actress Who Played ‘ALF’s Mom Was 77 - Deadline",
+        "description": "Anne Schedeen, the actress who starred as matriarch Kate Tanner on NBC's 'ALF' (1986-'90), has died. She was 77.",
+        "source": "Deadline",
+        "publishedAt": "2026-06-15T03:26:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anne Schedeen died.",
+          "Anne Schedeen was an actress.",
+          "She played the character Kate Tanner on the NBC sitcom 'ALF' from 1986 to 1990.",
+          "She was 77 years old at the time of her death.",
+          "The news was reported by Deadline on June 15, 2026."
+        ],
+        "entities": [
+          "Anne Schedeen",
+          "Kate Tanner",
+          "'ALF'",
+          "NBC",
+          "Deadline"
+        ],
+        "themes": [
+          "death",
+          "television",
+          "actress",
+          "sitcom",
+          "obituary"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should classic sitcoms such as \"ALF\" be actively preserved and promoted as part of cultural heritage despite evolving societal values?",
+        "background": "Anne Schedeen, an American actress, died at age 77. She was known for playing Kate Tanner on the NBC sitcom \"ALF\" from 1986 to 1990. Her death was reported by Deadline on June 15, 2026.",
+        "framing": "Is it important to preserve and promote classic television shows like \"ALF\" as cultural heritage in light of changing social attitudes?",
+        "emotion": 9,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 8,
+        "controversy": 8,
+        "framing": 7,
+        "coherence": 8,
+        "overall": 8
+      },
+      "average_eval": 8
+    },
+    {
+      "signal": {
+        "title": "Trump, 80, Gets Ultimate Birthday Humiliation on Fight Night - The Daily Beast",
+        "description": "The president’s birthday extravaganza was immediately hit with some major problems.",
+        "source": "Daily Beast",
+        "publishedAt": "2026-06-15T03:16:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Donald Trump is 80 years old.",
+          "A birthday event for Trump was described as \"Ultimate Birthday Humiliation on Fight Night\".",
+          "The event was immediately hit with some major problems."
+        ],
+        "entities": [
+          "Donald Trump",
+          "The Daily Beast"
+        ],
+        "themes": [
+          "birthday celebration",
+          "humiliation",
+          "problems",
+          "fight night",
+          "political figure"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should political figures be subjected to public events that could be perceived as humiliating, even on personal occasions like birthdays?",
+        "background": "Donald Trump is 80 years old. A birthday event for him was described as \"Ultimate Birthday Humiliation on Fight Night.\" The event was immediately hit with some major problems.",
+        "framing": "Should political figures be subjected to public events that could be perceived as humiliating, even on personal occasions like birthdays?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Trump, 80, Gets Ultimate Birthday Humiliation on Fight Night - The Daily Beast",
+        "description": "The president’s birthday extravaganza was immediately hit with some major problems.",
+        "source": "Daily Beast",
+        "publishedAt": "2026-06-15T03:16:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Donald Trump is 80 years old.",
+          "A birthday event for Trump was described as \"Ultimate Birthday Humiliation on Fight Night\".",
+          "The event was immediately hit with some major problems."
+        ],
+        "entities": [
+          "Donald Trump",
+          "The Daily Beast"
+        ],
+        "themes": [
+          "birthday celebration",
+          "humiliation",
+          "problems",
+          "fight night",
+          "political figure"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should organizers be permitted to stage a provocative birthday event for a political figure even when it faces significant logistical problems?",
+        "background": "Donald Trump turned 80 years old. A birthday event for him was described as the \"Ultimate Birthday Humiliation on Fight Night.\" The event was immediately hit with some major problems.",
+        "framing": "Should organizers be permitted to stage a provocative birthday event for a political figure even when it faces significant logistical problems?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Trump, 80, Gets Ultimate Birthday Humiliation on Fight Night - The Daily Beast",
+        "description": "The president’s birthday extravaganza was immediately hit with some major problems.",
+        "source": "Daily Beast",
+        "publishedAt": "2026-06-15T03:16:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Donald Trump is 80 years old.",
+          "A birthday event for Trump was described as \"Ultimate Birthday Humiliation on Fight Night\".",
+          "The event was immediately hit with some major problems."
+        ],
+        "entities": [
+          "Donald Trump",
+          "The Daily Beast"
+        ],
+        "themes": [
+          "birthday celebration",
+          "humiliation",
+          "problems",
+          "fight night",
+          "political figure"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should high‑profile political figures' personal celebrations be subject to public scrutiny and political commentary?",
+        "background": "Donald Trump turned 80 years old. A birthday event for him was billed as the \"Ultimate Birthday Humiliation on Fight Night.\" The event encountered several major problems immediately after it began.",
+        "framing": "Is it appropriate for society to examine and discuss the personal milestone events of political leaders?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "Trump, 80, Gets Ultimate Birthday Humiliation on Fight Night - The Daily Beast",
+        "description": "The president’s birthday extravaganza was immediately hit with some major problems.",
+        "source": "Daily Beast",
+        "publishedAt": "2026-06-15T03:16:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Donald Trump is 80 years old.",
+          "A birthday event for Trump was described as \"Ultimate Birthday Humiliation on Fight Night\".",
+          "The event was immediately hit with some major problems."
+        ],
+        "entities": [
+          "Donald Trump",
+          "The Daily Beast"
+        ],
+        "themes": [
+          "birthday celebration",
+          "humiliation",
+          "problems",
+          "fight night",
+          "political figure"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should public birthday celebrations of political figures be organized in a way that avoids sensationalism and potential mishaps?",
+        "background": "Donald Trump turned 80 years old. A birthday event for him was described as the \"Ultimate Birthday Humiliation on Fight Night.\" The event was immediately hit with some major problems.",
+        "framing": "Is it appropriate to stage highly sensationalized birthday events for political leaders, given the risk of logistical failures and public embarrassment?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 9,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Carolina Hurricanes Win 2026 Stanley Cup Final - NHL.com",
+        "description": "Franchise claims second league title with six-game victory over Vegas",
+        "source": "NHL News",
+        "publishedAt": "2026-06-15T03:02:31Z"
+      },
+      "facts": {
+        "facts": [
+          "The Carolina Hurricanes won the 2026 Stanley Cup Final.",
+          "It was the franchise's second league title.",
+          "The victory was achieved in six games over Vegas."
+        ],
+        "entities": [
+          "Carolina Hurricanes",
+          "Vegas",
+          "Stanley Cup Final",
+          "2026",
+          "NHL"
+        ],
+        "themes": [
+          "sports",
+          "ice hockey",
+          "championship",
+          "professional leagues"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the Carolina Hurricanes' 2026 Stanley Cup win be regarded as a turning point that secures the franchise's long-term competitiveness in the NHL?",
+        "background": "The Carolina Hurricanes won the 2026 Stanley Cup Final, defeating the Vegas team in six games. This victory marked the franchise's second league title.",
+        "framing": "Is the 2026 championship a decisive shift toward sustained success for the Hurricanes?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 4,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.2
+      },
+      "average_eval": 8.2
+    },
+    {
+      "signal": {
+        "title": "Carolina Hurricanes Win 2026 Stanley Cup Final - NHL.com",
+        "description": "Franchise claims second league title with six-game victory over Vegas",
+        "source": "NHL News",
+        "publishedAt": "2026-06-15T03:02:31Z"
+      },
+      "facts": {
+        "facts": [
+          "The Carolina Hurricanes won the 2026 Stanley Cup Final.",
+          "It was the franchise's second league title.",
+          "The victory was achieved in six games over Vegas."
+        ],
+        "entities": [
+          "Carolina Hurricanes",
+          "Vegas",
+          "Stanley Cup Final",
+          "2026",
+          "NHL"
+        ],
+        "themes": [
+          "sports",
+          "ice hockey",
+          "championship",
+          "professional leagues"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the Carolina Hurricanes' 2026 Stanley Cup victory be viewed as a turning point for the franchise's long‑term competitiveness?",
+        "background": "The Carolina Hurricanes won the 2026 Stanley Cup Final, securing the franchise's second league title. The championship was clinched in six games against the Vegas Golden Knights.",
+        "framing": "Is the 2026 championship a pivotal moment that will shape the Hurricanes' future success?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Carolina Hurricanes Win 2026 Stanley Cup Final - NHL.com",
+        "description": "Franchise claims second league title with six-game victory over Vegas",
+        "source": "NHL News",
+        "publishedAt": "2026-06-15T03:02:31Z"
+      },
+      "facts": {
+        "facts": [
+          "The Carolina Hurricanes won the 2026 Stanley Cup Final.",
+          "It was the franchise's second league title.",
+          "The victory was achieved in six games over Vegas."
+        ],
+        "entities": [
+          "Carolina Hurricanes",
+          "Vegas",
+          "Stanley Cup Final",
+          "2026",
+          "NHL"
+        ],
+        "themes": [
+          "sports",
+          "ice hockey",
+          "championship",
+          "professional leagues"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the Carolina Hurricanes' 2026 Stanley Cup victory be considered a turning point for the franchise's long‑term competitiveness?",
+        "background": "The Carolina Hurricanes won the 2026 Stanley Cup Final, securing the franchise's second league title. The victory was achieved in six games over the Vegas Golden Knights.",
+        "framing": "Is the 2026 championship a pivotal moment that will elevate the Hurricanes into sustained elite status, or is it more likely an isolated success?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Carolina Hurricanes Win 2026 Stanley Cup Final - NHL.com",
+        "description": "Franchise claims second league title with six-game victory over Vegas",
+        "source": "NHL News",
+        "publishedAt": "2026-06-15T03:02:31Z"
+      },
+      "facts": {
+        "facts": [
+          "The Carolina Hurricanes won the 2026 Stanley Cup Final.",
+          "It was the franchise's second league title.",
+          "The victory was achieved in six games over Vegas."
+        ],
+        "entities": [
+          "Carolina Hurricanes",
+          "Vegas",
+          "Stanley Cup Final",
+          "2026",
+          "NHL"
+        ],
+        "themes": [
+          "sports",
+          "ice hockey",
+          "championship",
+          "professional leagues"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the Carolina Hurricanes' 2026 Stanley Cup victory be viewed as the start of a lasting dynasty in the NHL?",
+        "background": "The Carolina Hurricanes won the 2026 Stanley Cup Final, defeating the Vegas team in six games. This championship marks the franchise's second league title.",
+        "framing": "Is the Hurricanes' recent championship indicative of a sustained period of dominance in professional ice hockey?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil - The Washington Post",
+        "description": "The electro-pop singer attracted millions of fans across the world with hits such as \"Life Goes On” and “Miss You.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T01:36:44Z"
+      },
+      "facts": {
+        "facts": [
+          "U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil.",
+          "The crash was reported by The Washington Post on 2026-06-15.",
+          "Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\""
+        ],
+        "entities": [
+          "Oliver Tree",
+          "The Washington Post",
+          "Brazil",
+          "helicopter crash"
+        ],
+        "themes": [
+          "aviation accident",
+          "celebrity death",
+          "music"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should societies implement stricter aviation safety regulations specifically for high-profile individuals?",
+        "background": "On June 15, 2026, U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil, as reported by The Washington Post. Oliver Tree was known for hits such as \"Life Goes On\" and \"Miss You.\" The incident involved a private helicopter flight.",
+        "framing": "Should societies implement stricter aviation safety regulations specifically for high-profile individuals?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil - The Washington Post",
+        "description": "The electro-pop singer attracted millions of fans across the world with hits such as \"Life Goes On” and “Miss You.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T01:36:44Z"
+      },
+      "facts": {
+        "facts": [
+          "U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil.",
+          "The crash was reported by The Washington Post on 2026-06-15.",
+          "Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\""
+        ],
+        "entities": [
+          "Oliver Tree",
+          "The Washington Post",
+          "Brazil",
+          "helicopter crash"
+        ],
+        "themes": [
+          "aviation accident",
+          "celebrity death",
+          "music"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should stricter safety regulations be imposed on charter flights used by high-profile individuals?",
+        "background": "On June 15, 2026, U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil. The incident was reported by The Washington Post. Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\"",
+        "framing": "Should stricter safety regulations be imposed on charter flights used by high-profile individuals?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 8,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8
+      },
+      "average_eval": 8.2
+    },
+    {
+      "signal": {
+        "title": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil - The Washington Post",
+        "description": "The electro-pop singer attracted millions of fans across the world with hits such as \"Life Goes On” and “Miss You.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T01:36:44Z"
+      },
+      "facts": {
+        "facts": [
+          "U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil.",
+          "The crash was reported by The Washington Post on 2026-06-15.",
+          "Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\""
+        ],
+        "entities": [
+          "Oliver Tree",
+          "The Washington Post",
+          "Brazil",
+          "helicopter crash"
+        ],
+        "themes": [
+          "aviation accident",
+          "celebrity death",
+          "music"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the music industry implement stricter travel safety protocols for artists touring internationally after high-profile accidents?",
+        "background": "U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil. The crash was reported by The Washington Post on 2026-06-15. Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\"",
+        "framing": "Should the music industry implement stricter travel safety protocols for artists touring internationally after high-profile accidents?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil - The Washington Post",
+        "description": "The electro-pop singer attracted millions of fans across the world with hits such as \"Life Goes On” and “Miss You.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-15T01:36:44Z"
+      },
+      "facts": {
+        "facts": [
+          "U.S. singer Oliver Tree was among six people killed in a helicopter crash in Brazil.",
+          "The crash was reported by The Washington Post on 2026-06-15.",
+          "Oliver Tree is known for hits such as \"Life Goes On\" and \"Miss You.\""
+        ],
+        "entities": [
+          "Oliver Tree",
+          "The Washington Post",
+          "Brazil",
+          "helicopter crash"
+        ],
+        "themes": [
+          "aviation accident",
+          "celebrity death",
+          "music"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should stricter safety regulations be imposed on private helicopter flights used by celebrities?",
+        "background": "On June 15, 2026, a helicopter crash in Brazil killed six people, including U.S. singer Oliver Tree. The incident was reported by The Washington Post. Oliver Tree was known for hits such as \"Life Goes On\" and \"Miss You.\"",
+        "framing": "What are the arguments for and against implementing tighter safety standards for private helicopter travel by high-profile individuals?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 9,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "In Georgia, Senate hopeful Mike Collins celebrates being Trump's latest 'MAGA' pick in GOP primaries - AP News",
+        "description": "In the closing stretch of Georgia’s Republican U.S. Senate runoff, Rep. Mike Collins is celebrating his 11th-hour endorsement from Donald Trump. Collins on Sunday dismissed any ideas that the Republican president’s stamp of approval is a risky bet in a potent…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-15T01:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Mike Collins is a Republican U.S. Senate hopeful in Georgia.",
+          "Donald Trump endorsed Mike Collins.",
+          "The endorsement is described as Trump's latest \"MAGA\" pick in GOP primaries.",
+          "The endorsement occurred during the closing stretch of Georgia's Republican U.S. Senate runoff.",
+          "Mike Collins dismissed ideas that the endorsement is a risky bet."
+        ],
+        "entities": [
+          "Mike Collins",
+          "Donald Trump",
+          "Georgia",
+          "Republican Party",
+          "Associated Press"
+        ],
+        "themes": [
+          "U.S. Senate race",
+          "Political endorsements",
+          "GOP primaries",
+          "MAGA movement",
+          "Campaign strategy"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Do high-profile endorsements from former presidents, such as Donald Trump's endorsement of Mike Collins, provide a strategic advantage or a liability for candidates in tightly contested Senate primaries?",
+        "background": "Mike Collins is a Republican U.S. Senate hopeful in Georgia. Donald Trump endorsed Collins, describing the endorsement as his latest \"MAGA\" pick in GOP primaries. The endorsement was announced during the closing stretch of Georgia's Republican U.S. Senate runoff. Collins dismissed suggestions that the endorsement could be a risky bet.",
+        "framing": "Should candidates in close Senate primaries rely on former presidents' endorsements as a decisive campaign advantage?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "In Georgia, Senate hopeful Mike Collins celebrates being Trump's latest 'MAGA' pick in GOP primaries - AP News",
+        "description": "In the closing stretch of Georgia’s Republican U.S. Senate runoff, Rep. Mike Collins is celebrating his 11th-hour endorsement from Donald Trump. Collins on Sunday dismissed any ideas that the Republican president’s stamp of approval is a risky bet in a potent…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-15T01:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Mike Collins is a Republican U.S. Senate hopeful in Georgia.",
+          "Donald Trump endorsed Mike Collins.",
+          "The endorsement is described as Trump's latest \"MAGA\" pick in GOP primaries.",
+          "The endorsement occurred during the closing stretch of Georgia's Republican U.S. Senate runoff.",
+          "Mike Collins dismissed ideas that the endorsement is a risky bet."
+        ],
+        "entities": [
+          "Mike Collins",
+          "Donald Trump",
+          "Georgia",
+          "Republican Party",
+          "Associated Press"
+        ],
+        "themes": [
+          "U.S. Senate race",
+          "Political endorsements",
+          "GOP primaries",
+          "MAGA movement",
+          "Campaign strategy"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should Donald Trump’s endorsement of Mike Collins be considered a decisive advantage or a risky gamble in Georgia’s Republican Senate runoff?",
+        "background": "Mike Collins is a Republican U.S. Senate hopeful in Georgia. Donald Trump endorsed Mike Collins, describing the endorsement as his latest \"MAGA\" pick in GOP primaries. The endorsement occurred during the closing stretch of Georgia's Republican U.S. Senate runoff. Collins dismissed suggestions that the endorsement is a risky bet.",
+        "framing": "Is Trump’s endorsement of Mike Collins a decisive advantage or a risky gamble for the candidate in the Georgia Senate runoff?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "In Georgia, Senate hopeful Mike Collins celebrates being Trump's latest 'MAGA' pick in GOP primaries - AP News",
+        "description": "In the closing stretch of Georgia’s Republican U.S. Senate runoff, Rep. Mike Collins is celebrating his 11th-hour endorsement from Donald Trump. Collins on Sunday dismissed any ideas that the Republican president’s stamp of approval is a risky bet in a potent…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-15T01:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Mike Collins is a Republican U.S. Senate hopeful in Georgia.",
+          "Donald Trump endorsed Mike Collins.",
+          "The endorsement is described as Trump's latest \"MAGA\" pick in GOP primaries.",
+          "The endorsement occurred during the closing stretch of Georgia's Republican U.S. Senate runoff.",
+          "Mike Collins dismissed ideas that the endorsement is a risky bet."
+        ],
+        "entities": [
+          "Mike Collins",
+          "Donald Trump",
+          "Georgia",
+          "Republican Party",
+          "Associated Press"
+        ],
+        "themes": [
+          "U.S. Senate race",
+          "Political endorsements",
+          "GOP primaries",
+          "MAGA movement",
+          "Campaign strategy"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should a high-profile endorsement from a former president be considered a decisive advantage or a risky liability for a Senate candidate in a closely contested primary?",
+        "background": "Mike Collins is a Republican U.S. Senate hopeful in Georgia. Donald Trump endorsed Collins, describing him as his latest \"MAGA\" pick in GOP primaries. The endorsement was announced during the closing stretch of Georgia's Republican U.S. Senate runoff. Collins dismissed claims that the endorsement could be a risky bet.",
+        "framing": "Is a prominent endorsement from a former president a strategic boost or a potential hindrance for a Senate candidate in a tight primary race?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "In Georgia, Senate hopeful Mike Collins celebrates being Trump's latest 'MAGA' pick in GOP primaries - AP News",
+        "description": "In the closing stretch of Georgia’s Republican U.S. Senate runoff, Rep. Mike Collins is celebrating his 11th-hour endorsement from Donald Trump. Collins on Sunday dismissed any ideas that the Republican president’s stamp of approval is a risky bet in a potent…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-15T01:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Mike Collins is a Republican U.S. Senate hopeful in Georgia.",
+          "Donald Trump endorsed Mike Collins.",
+          "The endorsement is described as Trump's latest \"MAGA\" pick in GOP primaries.",
+          "The endorsement occurred during the closing stretch of Georgia's Republican U.S. Senate runoff.",
+          "Mike Collins dismissed ideas that the endorsement is a risky bet."
+        ],
+        "entities": [
+          "Mike Collins",
+          "Donald Trump",
+          "Georgia",
+          "Republican Party",
+          "Associated Press"
+        ],
+        "themes": [
+          "U.S. Senate race",
+          "Political endorsements",
+          "GOP primaries",
+          "MAGA movement",
+          "Campaign strategy"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should a high-profile endorsement from Donald Trump be considered a strategic advantage or a liability for Republican Senate candidates in competitive primaries?",
+        "background": "Mike Collins is a Republican U.S. Senate hopeful in Georgia. Donald Trump endorsed Mike Collins, describing the endorsement as his latest \"MAGA\" pick in GOP primaries. The endorsement was announced during the closing stretch of Georgia's Republican U.S. Senate runoff. Collins dismissed suggestions that the endorsement might be a risky bet.",
+        "framing": "Is a prominent endorsement from Donald Trump beneficial or detrimental to a Republican Senate candidate's chances in a tight primary race?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.6
+      },
+      "average_eval": 9.6
+    },
+    {
+      "signal": {
+        "title": "Kennedy Center to establish new endowment in Trump's name after court forces name change - CBS News",
+        "description": "The establishment of the fund comes less than two weeks after a judge ruled the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center.",
+        "source": "CBS News",
+        "publishedAt": "2026-06-15T00:05:59Z"
+      },
+      "facts": {
+        "facts": [
+          "The Kennedy Center will establish a new endowment in Trump's name.",
+          "The establishment of the fund comes less than two weeks after a judge ruled that the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center."
+        ],
+        "entities": [
+          "Kennedy Center",
+          "Donald Trump",
+          "judge",
+          "CBS News"
+        ],
+        "themes": [
+          "Arts institution fundraising",
+          "Legal ruling on naming rights",
+          "Political naming controversy"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should cultural institutions be allowed to name facilities after politically controversial figures despite legal challenges?",
+        "background": "The Kennedy Center announced it will establish a new endowment in former President Donald Trump's name. This decision follows a court ruling issued less than two weeks earlier, which found that the Kennedy Center's board acted unlawfully when it added the president's name to the performing arts center.",
+        "framing": "Is it appropriate for arts organizations to honor politically contentious individuals through naming rights when legal disputes arise?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Kennedy Center to establish new endowment in Trump's name after court forces name change - CBS News",
+        "description": "The establishment of the fund comes less than two weeks after a judge ruled the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center.",
+        "source": "CBS News",
+        "publishedAt": "2026-06-15T00:05:59Z"
+      },
+      "facts": {
+        "facts": [
+          "The Kennedy Center will establish a new endowment in Trump's name.",
+          "The establishment of the fund comes less than two weeks after a judge ruled that the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center."
+        ],
+        "entities": [
+          "Kennedy Center",
+          "Donald Trump",
+          "judge",
+          "CBS News"
+        ],
+        "themes": [
+          "Arts institution fundraising",
+          "Legal ruling on naming rights",
+          "Political naming controversy"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should cultural institutions accept donations that result in naming rights for politically controversial figures?",
+        "background": "The Kennedy Center announced it will create a new endowment named after former President Donald Trump. This decision follows a federal judge's ruling, issued less than two weeks earlier, that the Center's board acted unlawfully by adding the president's name to the performing arts venue.",
+        "framing": "Is it appropriate for arts organizations to name endowments after political figures when such actions may conflict with legal or ethical standards?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Kennedy Center to establish new endowment in Trump's name after court forces name change - CBS News",
+        "description": "The establishment of the fund comes less than two weeks after a judge ruled the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center.",
+        "source": "CBS News",
+        "publishedAt": "2026-06-15T00:05:59Z"
+      },
+      "facts": {
+        "facts": [
+          "The Kennedy Center will establish a new endowment in Trump's name.",
+          "The establishment of the fund comes less than two weeks after a judge ruled that the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center."
+        ],
+        "entities": [
+          "Kennedy Center",
+          "Donald Trump",
+          "judge",
+          "CBS News"
+        ],
+        "themes": [
+          "Arts institution fundraising",
+          "Legal ruling on naming rights",
+          "Political naming controversy"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should cultural institutions accept donations that result in naming rights for politically polarizing figures?",
+        "background": "The Kennedy Center announced it will establish a new endowment named after former President Donald Trump. This decision follows a recent court ruling that found the Center's board acted unlawfully by adding the president's name to the performing arts venue.",
+        "framing": "Should cultural institutions accept donations that result in naming rights for politically polarizing figures?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Kennedy Center to establish new endowment in Trump's name after court forces name change - CBS News",
+        "description": "The establishment of the fund comes less than two weeks after a judge ruled the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center.",
+        "source": "CBS News",
+        "publishedAt": "2026-06-15T00:05:59Z"
+      },
+      "facts": {
+        "facts": [
+          "The Kennedy Center will establish a new endowment in Trump's name.",
+          "The establishment of the fund comes less than two weeks after a judge ruled that the Kennedy Center's board acted unlawfully in adding the president's name to the performing arts center."
+        ],
+        "entities": [
+          "Kennedy Center",
+          "Donald Trump",
+          "judge",
+          "CBS News"
+        ],
+        "themes": [
+          "Arts institution fundraising",
+          "Legal ruling on naming rights",
+          "Political naming controversy"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should cultural institutions accept large donations that include naming rights for controversial political figures?",
+        "background": "The Kennedy Center announced it will create a new endowment named after former President Donald Trump. The decision follows a federal judge's ruling that the Center's board had acted unlawfully when it previously added the president's name to the performing arts venue.",
+        "framing": "Is it appropriate for arts organizations to grant naming honors to donors with contentious political legacies?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    }
+  ]
+}

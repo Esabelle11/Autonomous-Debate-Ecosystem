@@ -6,6 +6,7 @@ export function createEpisode({
   audioUrl = "",
   duration = 0,
   transcript = [],
+  graph=[],
   timeline = []
 }) {
   console.log("in models/episode")
@@ -24,7 +25,9 @@ export function createEpisode({
 
     transcript,
 
-    timeline
+    timeline,
+    
+    graph
   };
 }
 

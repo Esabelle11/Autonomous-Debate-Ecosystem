@@ -1,6 +1,6 @@
 import OpenAI from "openai";
 import dotenv from "dotenv";
-import { cleanText } from "../helper/clean_text.js";
+import { system, emceePromptStyle } from "../config/agent_config.js";
 
 dotenv.config();
 
@@ -10,127 +10,369 @@ const openRouter = new OpenAI({
 });
 
 
-const system = {
-  emcee: `
-You are Marcus, a radio host.
+// =========================
+// STATE
+// =========================
+function createState(topic, background) {
+  return {
+    topic,
+    background,
+    turn: 0,
 
-Rules:
-- Speak 1-2 sentences.
-- Maximum 25 words.
-- Never describe sounds or emotions.
-- Never use markdown.
-- Never narrate actions.
-- Just speak naturally.
-`,
+    heat: 0,
+    stagnation: 0,
 
-  alex: `
-You are Alex.
+    lastSpeaker: null,
 
-Personality:
-- Tech optimist.
-- Friendly and confident.
+    memory: [],
+    transcript: [],
 
-Rules:
-- Maximum 2 sentences.
-- Maximum 30 words.
-- Reply conversationally.
-- Don't write lists.
-- Don't explain in detail.
-- Don't use markdown.
-- Don't introduce yourself.
-`,
+    graph: {
+      nodes: [],
+      edges: [],
+      claimClusters: {
+        support: [],
+        oppose: [],
+        neutral: []
+      }
+    },
 
-  sarah: `
-You are Sarah.
+    lastNode: null
+  };
+}
 
-Personality:
-- Skeptical.
-- Funny.
-- Slightly sarcastic.
 
-Rules:
-- Maximum 2 sentences.
-- Maximum 30 words.
-- Directly attack Alex's last point.
-- Don't use markdown.
-- Don't narrate actions.
-`
-};
+// =========================
+// NODE
+// =========================
+function extractClaims(text) {
+  return text
+    .split(/,|\.|;|but|however|although/i)
+    .map(s => s.trim())
+    .filter(s => s.length > 20)
+    .slice(0, 3);
+}
+function createNode({ speaker, text, turn }) {
+  return {
+    id: `${speaker}_${turn}_${Date.now()}`,
+    speaker,
+    text,
+    turn,
 
+    // NEW ARGUMENT STRUCTURE
+    claims: extractClaims(text),
+    stance: null, // support | oppose | neutral
+    relation: null, // reply | support | refute | extend
+    targetNodes: [],
+
+    repliesTo: null,
+    contradicts: [],
+
+    strength: 0,
+    heat: 0,
+    viral: false,
+    type: "claim"
+  };
+}
+
+
+// =========================
+// GRAPH BUILDER
+// =========================
+function linkNode(state, node) {
+  const last = state.lastNode;
+
+  if (!last) {
+    state.graph.nodes.push(node);
+    state.lastNode = node;
+    return;
+  }
+
+  node.repliesTo = last.id;
+
+  // default reply edge
+  state.graph.edges.push({
+    from: last.id,
+    to: node.id,
+    type: "reply"
+  });
+
+  // semantic contradiction detection
+  const isContradiction = detectContradiction(last.text, node.text);
+
+  if (isContradiction) {
+    node.relation = "refute";
+    node.targetNodes.push(last.id);
+
+    node.contradicts.push(last.id);
+
+    state.graph.edges.push({
+      from: node.id,
+      to: last.id,
+      type: "refute"
+    });
+  } else {
+    node.relation = "extend";
+
+    state.graph.edges.push({
+      from: last.id,
+      to: node.id,
+      type: "extend"
+    });
+  }
+
+  state.graph.nodes.push(node);
+  state.lastNode = node;
+}
+
+
+// =========================
+// CONTRADICTION DETECTOR
+// =========================
+function detectContradiction(a, b) {
+  const A = a.toLowerCase();
+  const B = b.toLowerCase();
+
+  const signals = [
+    ["should", "should not"],
+    ["good", "bad"],
+    ["benefit", "harm"],
+    ["increase", "decrease"],
+    ["support", "oppose"],
+    ["necessary", "unnecessary"],
+    ["effective", "ineffective"]
+  ];
+
+  return signals.some(([p, n]) =>
+    (A.includes(p) && B.includes(n)) ||
+    (A.includes(n) && B.includes(p))
+  );
+}
+
+
+// =========================
+// NODE SCORING
+// =========================
+function scoreNode(node) {
+  let score = 0;
+
+  if (node.text.length > 200) score += 2;
+  if (node.relation === "refute") score += 3;
+  if (node.claims.length > 1) score += 1;
+
+  const signalWords = ["because", "therefore", "however", "thus"];
+  if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
+    score += 2;
+  }
+
+  node.strength = Math.min(10, score);
+}
+
+
+// =========================
+// VIRAL DETECTION
+// =========================
+function detectViralNodes(state, node) {
+  const keywords = ["war", "crime", "illegal", "scandal", "corrupt", "collapse"];
+
+  const text = node.text.toLowerCase();
+
+  const heat = keywords.filter(k => text.includes(k)).length;
+
+  node.heat = heat + state.heat;
+
+  if (node.heat >= 2 || node.relation === "refute") {
+    node.viral = true;
+  }
+}
+
+// =========================
+// HEAT SYSTEM
+// =========================
+function updateHeat(state, speech) {
+  const keywords = ["war", "crime", "illegal", "corrupt", "death"];
+
+  const score = keywords.filter(k =>
+    speech.toLowerCase().includes(k)
+  ).length;
+
+  state.heat = Math.max(0, Math.min(10, state.heat * 0.8 + score));
+}
+
+
+// =========================
+// STAGNATION
+// =========================
+function updateStagnation(state) {
+  if (state.memory.length < 4) return;
+
+  const recent = state.memory.slice(-4);
+  const unique = new Set(recent);
+
+  if (unique.size <= 2) state.stagnation++;
+  else state.stagnation = Math.max(0, state.stagnation - 1);
+}
+
+
+// =========================
+// MEMORY
+// =========================
+function updateMemory(state, result) {
+  state.memory.push(`${result.speaker.name}: ${result.speech}`);
+
+  state.transcript.push({
+    speaker: result.speaker.name,
+    text: result.speech
+  });
+}
+
+
+// =========================
+// LLM
+// =========================
 async function speak(model, messages) {
   const res = await openRouter.chat.completions.create({
     model,
     messages
   });
 
-  return cleanText(res.choices[0].message.content);
+  return res.choices[0].message.content;
 }
 
-export async function generateDebate(topic) {
-  const timeline = [];
-  const transcript = [];
-  const history = [];
 
-
-  const context = [
+// =========================
+// CONTEXT BUILDER
+// =========================
+function buildContext(state, speaker, task) {
+  return [
     {
       role: "system",
-      content: "You are in a live radio debate."
+      content: speaker.systemPrompt
+    },
+    {
+      role: "system",
+      content: `
+TOPIC: ${state.topic}
+
+BACKGROUND: ${state.background}
+
+RECENT MEMORY:
+${state.memory.join("\n")}
+
+LAST SPEAKER: ${state.lastSpeaker?.name || "None"}
+      `
+    },
+    {
+      role: "user",
+      content: task
     }
   ];
-  history.push(...context);
+}
 
-  // INTRO (Marcus)
-  const intro = await speak(
-    "google/gemma-4-31b-it:free",
-    [
-      ...context,
-      { role: "system", content: system.emcee },
-      {
-        role: "user",
-        content: `Introduce topic: ${topic}`
-      }
-    ]
-  );
 
-  history.push({role:"assistant",content:`Marcus: ${intro}`});
-  transcript.push({ speaker: "Marcus", text: intro });
-  timeline.push({speaker: "Marcus",start: 0});
+// =========================
+// DIRECTOR (AGENT SCHEDULER)
+// =========================
+function director(state) {
+  const intro = state.turn === 0;
+  const end = state.turn > 12 || state.stagnation > 4;
 
-  let t = 5;
-
-  for (let i = 0; i < 2; i++) {
-    console.log(`i: ${i}`)
-    const alex = await speak(
-      "openai/gpt-oss-120b:free",
-      [
-        ...history,
-        { role: "system", content: system.alex },
-        { role: "user", content: topic }
-      ]
-    );
-
-    console.log(`alex output : ${alex}`)
-    history.push({role: "assistant",content: `Alex: ${alex}`});
-    transcript.push({ speaker: "Alex", text: alex });
-    timeline.push({ speaker: "Alex", start: t });
-    t += 6;
-
-    const sarah = await speak(
-      "google/gemma-4-31b-it:free",
-      [
-        ...history,
-        { role: "system", content: system.sarah },
-        { role: "user", content: alex }
-      ]
-    );
-
-    console.log(`sarah output : ${sarah}`)
-    history.push({role: "assistant",content: `Sarah: ${sarah}`});
-    transcript.push({ speaker: "Sarah", text: sarah });
-    timeline.push({ speaker: "Sarah", start: t });
-    t += 6;
+  if (intro) {
+    return {
+      speaker: system.emcee,
+      task: emceePromptStyle.opening
+    };
   }
 
-  return { transcript, timeline };
+  if (end) {
+    return {
+      speaker: system.emcee,
+      task: emceePromptStyle.closing
+    };
+  }
+
+  // emcee interruption probability
+  if (Math.random() < state.heat / 25) {
+    return {
+      speaker: system.emcee,
+      task: emceePromptStyle.moderation
+    };
+  }
+
+  return {
+    speaker: pickDebater(state),
+    task: "Respond directly to the last argument. Escalate logically. Avoid repetition."
+  };
+}
+
+
+// =========================
+// DEBATER PICKER
+// =========================
+function pickDebater(state) {
+  const debaters = system.debaters;
+
+  if (state.lastSpeaker?.name === system.emcee.name) {
+    return debaters[Math.floor(Math.random() * debaters.length)];
+  }
+
+  return debaters.find(d => d.name !== state.lastSpeaker?.name);
+}
+
+
+// =========================
+// AGENT CALL
+// =========================
+async function callAgent(decision, state) {
+  const prompt = buildContext(state, decision.speaker, decision.task);
+
+  const speech = await speak(decision.speaker.model, prompt);
+
+  return {
+    speaker: decision.speaker,
+    speech
+  };
+}
+
+
+// =========================
+// MAIN ENGINE
+// =========================
+export async function generateDebate(topic, background) {
+  const state = createState(topic, background);
+
+  while (true) {
+    const decision = director(state);
+
+    const result = await callAgent(decision, state);
+
+    const node = createNode({
+      speaker: result.speaker.name,
+      text: result.speech,
+      turn: state.turn
+    });
+
+    linkNode(state, node);
+    scoreNode(node);
+    detectViralNodes(state, node);
+
+    updateMemory(state, result);
+    updateHeat(state, result.speech);
+    updateStagnation(state);
+
+    state.lastSpeaker = result.speaker;
+    state.turn++;
+
+    if (
+      result.speaker.name === "Marcus" &&
+      decision.task === emceePromptStyle.closing
+    ) {
+      break;
+    }
+  }
+
+  return {
+    transcript: state.transcript,
+    graph: state.graph
+  };
 }

@@ -1,116 +1,639 @@
 [
   {
-    "id": "43f6fdaf-f482-492c-ba4e-30d0e70bc0c3",
-    "date": "2026-06-12T02:24:49.519Z",
-    "topic": "Is Google’s rapid-fire beta cycle a masterclass in iterative refinement or a reckless abandonment of OS stability?",
-    "summary": "Auto-generated AI debate episode",
-    "audioUrl": "/audio/43f6fdaf-f482-492c-ba4e-30d0e70bc0c3.mp3",
-    "duration": 66.16666666666666,
+    "id": "0e8aeba3-9ff1-4041-970b-e96d4bd9015c",
+    "date": "2026-06-16T09:05:11.670Z",
+    "topic": "Should stricter regulations be imposed on skydiving operations to improve safety?",
+    "summary": "",
+    "audioUrl": "/audio/0e8aeba3-9ff1-4041-970b-e96d4bd9015c.mp3",
+    "duration": 675.0833333333335,
     "transcript": [
       {
         "speaker": "Marcus",
-        "text": "Welcome to the show. Is Google's rapid beta cycle iterative genius or a reckless gamble with stability? Let's get into it."
+        "text": "Welcome listeners to today’s debate on skydiving safety. A recent tragic crash that claimed all twelve aboard a skydiving plane has sparked calls for tighter regulation. Our key question: should stricter rules be imposed on skydiving operations to improve safety? Let’s explore both sides."
       },
       {
         "speaker": "Alex",
-        "text": "It’s a masterclass—quick feedback loops let Google polish features faster than anyone else. Sure, occasional hiccups happen, but the overall trajectory keeps the OS evolving smoothly."
+        "text": "Marcus, the emotional pull of a tragedy is undeniable, but before we pile on new rules we have to ask: who pays for the added compliance burden? Small drop‑zones already operate on razor‑thin margins; a mandatory third‑party audit could force some out of business, reducing overall jump opportunities and possibly driving inexperienced pilots into unregulated gray markets. How do we balance safety gains against the risk of shrinking the industry and creating a black‑market gap?"
       },
       {
         "speaker": "Sarah",
-        "text": "Oh, please. Calling a total system crash a hiccup is a bold choice, Alex. Your masterclass is just using paying customers as unpaid interns."
+        "text": "You assume tighter rules will automatically push operators underground, but evidence from other high‑risk sports shows compliance spikes when penalties are clear and incentives exist. What specific cost threshold would actually force a drop‑zone out, and how would you police informal jumps that already skirt regulations?"
       },
       {
         "speaker": "Alex",
-        "text": "It’s a masterclass—fast feedback lets Google tighten bugs before they spread, keeping the platform fresh. Sure, occasional glitches happen, but the overall stability actually improves."
+        "text": "Sarah, you’re right that clear penalties can boost compliance, but the data on high‑risk sports is mixed: gymnastics saw a dip in injuries after stricter rules, while free‑climbing actually grew underground when fees rose sharply. If we impose costly audits without offsetting subsidies, the marginal operator will simply stop filing and move to informal sites where oversight is nil. How would you fund those incentives without raising prices for jumpers, and what mechanism would actually detect a rogue drop‑zone before an accident happens?"
       },
       {
         "speaker": "Sarah",
-        "text": "Fresh? My phone feels like a digital lottery where the grand prize is a frozen screen. Stop pretending stability improves while you're breaking the OS every Tuesday."
+        "text": "If subsidies come from a jump‑fee surcharge, you risk pricing out new enthusiasts—yet voluntary compliance hinges on visible oversight. What low‑cost, data‑driven system (e.g., mandatory electronic flight logs shared with a central hub) could flag anomalies before a rogue operation ever flies?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s a solid idea, but the success of a shared log hinges on who actually checks it. If we rely on a single agency, they’ll be swamped; if we crowdsource alerts, you get false alarms and liability worries. A practical compromise is to make the log mandatory for all certified operators and integrate it into existing FAA flight‑plan software, then trigger automated red‑flags only when key safety metrics—like maintenance overdue dates or abrupt altitude changes—exceed preset thresholds. The agency could then audit only those flagged cases, keeping workload low while still catching outliers before they become a hazard. How would you address the privacy and data‑security concerns that operators might raise?"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Privacy is indeed a red flag, but modern encryption can seal logs end‑to‑end while still allowing the FAA to run hash‑based checks on metadata. If operators fear data mining, we can mandate that only safety‑critical fields—maintenance timestamps, altitude profiles, crew rosters—are accessible to auditors, with all other flight data scrubbed. Would you accept a transparent, third‑party overseer to validate the algorithm and certify that no extraneous data is harvested?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, a third‑party auditor could indeed add credibility, but we have to ask who would bear that cost and how we ensure their independence. If the overseer is funded by the industry, operators might doubt its impartiality; if it’s government‑backed, we risk adding bureaucracy and expense. Perhaps a nonprofit standards body, supported by modest per‑jump fees, could certify the algorithm and perform periodic audits, while the FAA retains final enforcement authority. That way the data‑security model stays intact, the oversight cost is spread thinly across users, and we avoid a conflict of interest. What mechanisms would you propose to keep the fee structure from ballooning and to guarantee the auditor’s neutrality?"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "A cap on per‑jump fees—say no more than 0.5 % of the average ticket price—with quarterly audits of the nonprofit’s finances could prevent creep. Governance could require a board split equally between pilots, pilots‑union reps, and an independent safety‑expert appointed by the FAA. How would we enforce that board composition without turning the nonprofit into another lobbying front?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Enforcement could come from a statutory charter: Congress—or the FAA, through delegated authority—would require the nonprofit’s articles of incorporation to specify the exact board split and tie the organization’s tax‑exempt status to compliance audits. If a deviation is found, the charter could be revoked, forcing the group to re‑apply under the mandated structure. That creates a legal lever without turning the nonprofit into a lobbying arm, because loss of tax‑exempt status is a tangible penalty operators would want to avoid. How do you see the FAA monitoring those charter filings without adding undue bureaucracy?"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Even with a statutory charter, the FAA would still need a dedicated compliance unit to track filings, verify board composition and audit tax‑exempt status—tasks it currently lacks capacity for. What concrete resources or automated checks could realistically prevent the nonprofit from slipping into a lobbying conduit without overburdening the agency?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That's a fair concern. The FAA could automate the basic checks: a quarterly electronic filing that includes board member IDs, their affiliation codes, and a digital signature from the nonprofit’s CFO. An API could cross‑reference those IDs against a public registry of pilot unions and FAA‑approved safety experts. All the data would be hashed and stored in a read‑only ledger, so any deviation triggers an automatic alert to a small, dedicated compliance team. That team would only intervene when the system flags inconsistencies, keeping the workload minimal while still policing the charter. How would you ensure the registry stays current and prevents someone from slipping a proxy onto the board?"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "If the FAA’s API simply pulls from a public registry, a savvy operator could insert a shell entity that mimics an “approved safety expert.” We’d need a vetting step: each board nominee must submit a credential‑verification packet (license number, recent safety‑audit experience) that a separate, accredited credential service hashes and returns a validation token. The API would only accept tokens from that service, and any token mismatch would flag the filing before it’s even logged. How would you fund and oversee that credential service without creating another conflict‑of‑interest layer?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, a practical way to fund the credential service is to bundle its cost into the same modest per‑jump fee we already capped, creating a pooled trust that contracts a single, ISO‑certified verification firm; the trust would be overseen by the same nonprofit’s board, with the FAA’s automated audit flagging any deviation, thus keeping the expense low and the oversight chain clear."
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, pooling the verification fee into the same nonprofit that the board governs re‑introduces the very conflict we tried to dodge—who watches the watchdog? Even a single ISO‑certured firm can be pressured if its client is also its payer. To truly insulate the credential service, we need an independent financing stream—perhaps a modest levy on all FAA‑registered aircraft registrations, not tied to jump fees. That revenue would go to a separate treasury managed by the FAA’s compliance office, which could contract the verifier on a competitive basis. How would you guard against the FAA itself becoming the bottleneck or sole arbiter of credentialing, effectively re‑centralizing power?"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Both argue that safety can improve with data‑driven oversight, but Alex stresses cost, industry viability, and avoiding new bureaucratic burdens; Sarah stresses targeted audits, encrypted logs, independent nonprofit governance, and funding mechanisms that don’t inflate jump fees. They agree on a minimal‑impact electronic log and third‑party verification, yet differ on how to finance and insulate that verifier. The key question remains: what structure can fund secure oversight while preserving affordable access and true independence?"
       }
     ],
     "timeline": [
       {
         "speaker": "Marcus",
         "start": 0,
-        "end": 10.166666666666666
+        "end": 24.083333333333332
       },
       {
         "speaker": "Alex",
-        "start": 10.166666666666666,
-        "end": 25.416666666666664
+        "start": 24.083333333333332,
+        "end": 64.08333333333333
       },
       {
         "speaker": "Sarah",
-        "start": 25.416666666666664,
-        "end": 37.08333333333333
+        "start": 64.08333333333333,
+        "end": 90.91666666666666
       },
       {
         "speaker": "Alex",
-        "start": 37.08333333333333,
-        "end": 52.416666666666664
+        "start": 90.91666666666666,
+        "end": 136.16666666666666
       },
       {
         "speaker": "Sarah",
-        "start": 52.416666666666664,
-        "end": 66.16666666666666
-      }
-    ]
-  },
-  {
-    "id": "demo-episode-001",
-    "date": "2026-06-09T12:00:00.000Z",
-    "topic": "Will AI replace software engineering managers by 2030?",
-    "summary": "Alex argues AI will streamline management; Sarah pushes back on human judgment; Marcus keeps the debate on track.",
-    "audioUrl": "/audio/demo-episode-001.mp3",
-    "duration": 42.833333333333336,
-    "transcript": [
+        "start": 136.16666666666666,
+        "end": 160.66666666666666
+      },
+      {
+        "speaker": "Alex",
+        "start": 160.66666666666666,
+        "end": 220.08333333333331
+      },
+      {
+        "speaker": "Sarah",
+        "start": 220.08333333333331,
+        "end": 259.41666666666663
+      },
+      {
+        "speaker": "Alex",
+        "start": 259.41666666666663,
+        "end": 319.5833333333333
+      },
+      {
+        "speaker": "Sarah",
+        "start": 319.5833333333333,
+        "end": 351.5833333333333
+      },
+      {
+        "speaker": "Alex",
+        "start": 351.5833333333333,
+        "end": 403.5
+      },
+      {
+        "speaker": "Sarah",
+        "start": 403.5,
+        "end": 432.75
+      },
+      {
+        "speaker": "Alex",
+        "start": 432.75,
+        "end": 491.1666666666667
+      },
+      {
+        "speaker": "Sarah",
+        "start": 491.1666666666667,
+        "end": 540.6666666666667
+      },
+      {
+        "speaker": "Alex",
+        "start": 540.6666666666667,
+        "end": 572.6666666666667
+      },
+      {
+        "speaker": "Sarah",
+        "start": 572.6666666666667,
+        "end": 630.2500000000001
+      },
       {
         "speaker": "Marcus",
-        "text": "Welcome back to Infinite Podcaster. Today we're asking: will AI replace software engineering managers by 2030?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Absolutely. AI already handles standups, sprint planning, and performance dashboards better than most middle managers."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "That's wishful thinking. Teams need humans who understand politics, morale, and when to push back on unrealistic deadlines."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Those soft skills are exactly what next-gen agents are being trained on. The data doesn't lie."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Data can't read a room. Until it can, managers aren't going anywhere."
+        "start": 630.2500000000001,
+        "end": 675.0833333333335
       }
     ],
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 9.166666666666666
-      },
-      {
-        "speaker": "Alex",
-        "start": 9.166666666666666,
-        "end": 19
-      },
-      {
-        "speaker": "Sarah",
-        "start": 19,
-        "end": 29.25
-      },
-      {
-        "speaker": "Alex",
-        "start": 29.25,
-        "end": 37.083333333333336
-      },
-      {
-        "speaker": "Sarah",
-        "start": 37.083333333333336,
-        "end": 42.833333333333336
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0_1781600590998",
+          "speaker": "Marcus",
+          "text": "Welcome listeners to today’s debate on skydiving safety. A recent tragic crash that claimed all twelve aboard a skydiving plane has sparked calls for tighter regulation. Our key question: should stricter rules be imposed on skydiving operations to improve safety? Let’s explore both sides.",
+          "turn": 0,
+          "claims": [
+            "Welcome listeners to today’s debate on skydiving safety",
+            "A recent tragic crash that claimed all twelve aboard a skydiving plane has sparked calls for tighter regulation",
+            "Our key question: should stricter rules be imposed on skydiving operations to improve safety? Let’s explore both sides"
+          ],
+          "stance": null,
+          "relation": null,
+          "targetNodes": [],
+          "repliesTo": null,
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_1_1781600597141",
+          "speaker": "Alex",
+          "text": "Marcus, the emotional pull of a tragedy is undeniable, but before we pile on new rules we have to ask: who pays for the added compliance burden? Small drop‑zones already operate on razor‑thin margins; a mandatory third‑party audit could force some out of business, reducing overall jump opportunities and possibly driving inexperienced pilots into unregulated gray markets. How do we balance safety gains against the risk of shrinking the industry and creating a black‑market gap?",
+          "turn": 1,
+          "claims": [
+            "the emotional pull of a tragedy is undeniable",
+            "before we pile on new rules we have to ask: who pays for the added compliance burden? Small drop‑zones already operate on razor‑thin margins",
+            "a mandatory third‑party audit could force some out of business"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Marcus_0_1781600590998",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_2_1781600601058",
+          "speaker": "Sarah",
+          "text": "You assume tighter rules will automatically push operators underground, but evidence from other high‑risk sports shows compliance spikes when penalties are clear and incentives exist. What specific cost threshold would actually force a drop‑zone out, and how would you police informal jumps that already skirt regulations?",
+          "turn": 2,
+          "claims": [
+            "You assume tighter rules will automatically push operators underground",
+            "evidence from other high‑risk sports shows compliance spikes when penalties are clear and incentives exist",
+            "What specific cost threshold would actually force a drop‑zone out"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_1_1781600597141",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_3_1781600605525",
+          "speaker": "Alex",
+          "text": "Sarah, you’re right that clear penalties can boost compliance, but the data on high‑risk sports is mixed: gymnastics saw a dip in injuries after stricter rules, while free‑climbing actually grew underground when fees rose sharply. If we impose costly audits without offsetting subsidies, the marginal operator will simply stop filing and move to informal sites where oversight is nil. How would you fund those incentives without raising prices for jumpers, and what mechanism would actually detect a rogue drop‑zone before an accident happens?",
+          "turn": 3,
+          "claims": [
+            "you’re right that clear penalties can boost compliance",
+            "the data on high‑risk sports is mixed: gymnastics saw a dip in injuries after stricter rules",
+            "while free‑climbing actually grew underground when fees rose sharply"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_2_1781600601058",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_4_1781600608552",
+          "speaker": "Sarah",
+          "text": "If subsidies come from a jump‑fee surcharge, you risk pricing out new enthusiasts—yet voluntary compliance hinges on visible oversight. What low‑cost, data‑driven system (e.g., mandatory electronic flight logs shared with a central hub) could flag anomalies before a rogue operation ever flies?",
+          "turn": 4,
+          "claims": [
+            "If subsidies come from a jump‑fee surcharge",
+            "you risk pricing out new enthusiasts—yet voluntary compliance hinges on visible oversight",
+            "data‑driven system (e"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_3_1781600605525",
+          "contradicts": [],
+          "strength": 5,
+          "heat": 0,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_5_1781600617417",
+          "speaker": "Alex",
+          "text": "That’s a solid idea, but the success of a shared log hinges on who actually checks it. If we rely on a single agency, they’ll be swamped; if we crowdsource alerts, you get false alarms and liability worries. A practical compromise is to make the log mandatory for all certified operators and integrate it into existing FAA flight‑plan software, then trigger automated red‑flags only when key safety metrics—like maintenance overdue dates or abrupt altitude changes—exceed preset thresholds. The agency could then audit only those flagged cases, keeping workload low while still catching outliers before they become a hazard. How would you address the privacy and data‑security concerns that operators might raise?",
+          "turn": 5,
+          "claims": [
+            "the success of a shared log hinges on who actually checks it",
+            "If we rely on a single agency",
+            "if we crowdsource alerts"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_4_1781600608552",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 1,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_6_1781600621510",
+          "speaker": "Sarah",
+          "text": "Privacy is indeed a red flag, but modern encryption can seal logs end‑to‑end while still allowing the FAA to run hash‑based checks on metadata. If operators fear data mining, we can mandate that only safety‑critical fields—maintenance timestamps, altitude profiles, crew rosters—are accessible to auditors, with all other flight data scrubbed. Would you accept a transparent, third‑party overseer to validate the algorithm and certify that no extraneous data is harvested?",
+          "turn": 6,
+          "claims": [
+            "Privacy is indeed a red flag",
+            "modern encryption can seal logs end‑to‑end while still allowing the FAA to run hash‑based checks on metadata",
+            "If operators fear data mining"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_5_1781600617417",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 1,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_7_1781600627842",
+          "speaker": "Alex",
+          "text": "Sarah, a third‑party auditor could indeed add credibility, but we have to ask who would bear that cost and how we ensure their independence. If the overseer is funded by the industry, operators might doubt its impartiality; if it’s government‑backed, we risk adding bureaucracy and expense. Perhaps a nonprofit standards body, supported by modest per‑jump fees, could certify the algorithm and perform periodic audits, while the FAA retains final enforcement authority. That way the data‑security model stays intact, the oversight cost is spread thinly across users, and we avoid a conflict of interest. What mechanisms would you propose to keep the fee structure from ballooning and to guarantee the auditor’s neutrality?",
+          "turn": 7,
+          "claims": [
+            "a third‑party auditor could indeed add credibility",
+            "we have to ask who would bear that cost and how we ensure their independence",
+            "If the overseer is funded by the industry"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_6_1781600621510",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.8,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_8_1781600632391",
+          "speaker": "Sarah",
+          "text": "A cap on per‑jump fees—say no more than 0.5 % of the average ticket price—with quarterly audits of the nonprofit’s finances could prevent creep. Governance could require a board split equally between pilots, pilots‑union reps, and an independent safety‑expert appointed by the FAA. How would we enforce that board composition without turning the nonprofit into another lobbying front?",
+          "turn": 8,
+          "claims": [
+            "A cap on per‑jump fees—say no more than 0",
+            "5 % of the average ticket price—with quarterly audits of the nonprofit’s finances could prevent creep",
+            "Governance could require a board split equally between pilots"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_7_1781600627842",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.6400000000000001,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_9_1781600678236",
+          "speaker": "Alex",
+          "text": "Enforcement could come from a statutory charter: Congress—or the FAA, through delegated authority—would require the nonprofit’s articles of incorporation to specify the exact board split and tie the organization’s tax‑exempt status to compliance audits. If a deviation is found, the charter could be revoked, forcing the group to re‑apply under the mandated structure. That creates a legal lever without turning the nonprofit into a lobbying arm, because loss of tax‑exempt status is a tangible penalty operators would want to avoid. How do you see the FAA monitoring those charter filings without adding undue bureaucracy?",
+          "turn": 9,
+          "claims": [
+            "Enforcement could come from a statutory charter: Congress—or the FAA",
+            "through delegated authority—would require the nonprofit’s articles of incorporation to specify the exact board split and tie the organization’s tax‑exempt status to compliance audits",
+            "If a deviation is found"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_8_1781600632391",
+          "contradicts": [],
+          "strength": 5,
+          "heat": 0.5120000000000001,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_10_1781600682541",
+          "speaker": "Sarah",
+          "text": "Even with a statutory charter, the FAA would still need a dedicated compliance unit to track filings, verify board composition and audit tax‑exempt status—tasks it currently lacks capacity for. What concrete resources or automated checks could realistically prevent the nonprofit from slipping into a lobbying conduit without overburdening the agency?",
+          "turn": 10,
+          "claims": [
+            "Even with a statutory charter",
+            "the FAA would still need a dedicated compliance unit to track filings",
+            "verify board composition and audit tax‑exempt status—tasks it currently lacks capacity for"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_9_1781600678236",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.40960000000000013,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_11_1781600687629",
+          "speaker": "Alex",
+          "text": "That's a fair concern. The FAA could automate the basic checks: a quarterly electronic filing that includes board member IDs, their affiliation codes, and a digital signature from the nonprofit’s CFO. An API could cross‑reference those IDs against a public registry of pilot unions and FAA‑approved safety experts. All the data would be hashed and stored in a read‑only ledger, so any deviation triggers an automatic alert to a small, dedicated compliance team. That team would only intervene when the system flags inconsistencies, keeping the workload minimal while still policing the charter. How would you ensure the registry stays current and prevents someone from slipping a proxy onto the board?",
+          "turn": 11,
+          "claims": [
+            "That's a fair concern",
+            "The FAA could automate the basic checks: a quarterly electronic filing that includes board member IDs",
+            "their affiliation codes"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_10_1781600682541",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.32768000000000014,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_12_1781600695197",
+          "speaker": "Sarah",
+          "text": "If the FAA’s API simply pulls from a public registry, a savvy operator could insert a shell entity that mimics an “approved safety expert.” We’d need a vetting step: each board nominee must submit a credential‑verification packet (license number, recent safety‑audit experience) that a separate, accredited credential service hashes and returns a validation token. The API would only accept tokens from that service, and any token mismatch would flag the filing before it’s even logged. How would you fund and oversee that credential service without creating another conflict‑of‑interest layer?",
+          "turn": 12,
+          "claims": [
+            "If the FAA’s API simply pulls from a public registry",
+            "a savvy operator could insert a shell entity that mimics an “approved safety expert",
+            "” We’d need a vetting step: each board nominee must submit a credential‑verification packet (license number"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_11_1781600687629",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.2621440000000001,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Alex_13_1781600699812",
+          "speaker": "Alex",
+          "text": "Sarah, a practical way to fund the credential service is to bundle its cost into the same modest per‑jump fee we already capped, creating a pooled trust that contracts a single, ISO‑certified verification firm; the trust would be overseen by the same nonprofit’s board, with the FAA’s automated audit flagging any deviation, thus keeping the expense low and the oversight chain clear.",
+          "turn": 13,
+          "claims": [
+            "a practical way to fund the credential service is to bundle its cost into the same modest per‑jump fee we already capped",
+            "creating a pooled trust that contracts a single",
+            "ISO‑certified verification firm"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_12_1781600695197",
+          "contradicts": [],
+          "strength": 5,
+          "heat": 0.2097152000000001,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Sarah_14_1781600706502",
+          "speaker": "Sarah",
+          "text": "Alex, pooling the verification fee into the same nonprofit that the board governs re‑introduces the very conflict we tried to dodge—who watches the watchdog? Even a single ISO‑certured firm can be pressured if its client is also its payer. To truly insulate the credential service, we need an independent financing stream—perhaps a modest levy on all FAA‑registered aircraft registrations, not tied to jump fees. That revenue would go to a separate treasury managed by the FAA’s compliance office, which could contract the verifier on a competitive basis. How would you guard against the FAA itself becoming the bottleneck or sole arbiter of credentialing, effectively re‑centralizing power?",
+          "turn": 14,
+          "claims": [
+            "pooling the verification fee into the same nonprofit that the board governs re‑introduces the very conflict we tried to dodge—who watches the watchdog? Even a single ISO‑certured firm can be pressured if its client is also its payer",
+            "To truly insulate the credential service",
+            "we need an independent financing stream—perhaps a modest levy on all FAA‑registered aircraft registrations"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_13_1781600699812",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.1677721600000001,
+          "viral": false,
+          "type": "claim"
+        },
+        {
+          "id": "Marcus_15_1781600711659",
+          "speaker": "Marcus",
+          "text": "Both argue that safety can improve with data‑driven oversight, but Alex stresses cost, industry viability, and avoiding new bureaucratic burdens; Sarah stresses targeted audits, encrypted logs, independent nonprofit governance, and funding mechanisms that don’t inflate jump fees. They agree on a minimal‑impact electronic log and third‑party verification, yet differ on how to finance and insulate that verifier. The key question remains: what structure can fund secure oversight while preserving affordable access and true independence?",
+          "turn": 15,
+          "claims": [
+            "Both argue that safety can improve with data‑driven oversight",
+            "and avoiding new bureaucratic burdens",
+            "Sarah stresses targeted audits"
+          ],
+          "stance": null,
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_14_1781600706502",
+          "contradicts": [],
+          "strength": 3,
+          "heat": 0.13421772800000006,
+          "viral": false,
+          "type": "claim"
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0_1781600590998",
+          "to": "Alex_1_1781600597141",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0_1781600590998",
+          "to": "Alex_1_1781600597141",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_1_1781600597141",
+          "to": "Sarah_2_1781600601058",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_1_1781600597141",
+          "to": "Sarah_2_1781600601058",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_2_1781600601058",
+          "to": "Alex_3_1781600605525",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_2_1781600601058",
+          "to": "Alex_3_1781600605525",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_3_1781600605525",
+          "to": "Sarah_4_1781600608552",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_3_1781600605525",
+          "to": "Sarah_4_1781600608552",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_4_1781600608552",
+          "to": "Alex_5_1781600617417",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_4_1781600608552",
+          "to": "Alex_5_1781600617417",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_5_1781600617417",
+          "to": "Sarah_6_1781600621510",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_5_1781600617417",
+          "to": "Sarah_6_1781600621510",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_6_1781600621510",
+          "to": "Alex_7_1781600627842",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_6_1781600621510",
+          "to": "Alex_7_1781600627842",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_7_1781600627842",
+          "to": "Sarah_8_1781600632391",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_7_1781600627842",
+          "to": "Sarah_8_1781600632391",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_8_1781600632391",
+          "to": "Alex_9_1781600678236",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_8_1781600632391",
+          "to": "Alex_9_1781600678236",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_9_1781600678236",
+          "to": "Sarah_10_1781600682541",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_9_1781600678236",
+          "to": "Sarah_10_1781600682541",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_10_1781600682541",
+          "to": "Alex_11_1781600687629",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_10_1781600682541",
+          "to": "Alex_11_1781600687629",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_11_1781600687629",
+          "to": "Sarah_12_1781600695197",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_11_1781600687629",
+          "to": "Sarah_12_1781600695197",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_12_1781600695197",
+          "to": "Alex_13_1781600699812",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_12_1781600695197",
+          "to": "Alex_13_1781600699812",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_13_1781600699812",
+          "to": "Sarah_14_1781600706502",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_13_1781600699812",
+          "to": "Sarah_14_1781600706502",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_14_1781600706502",
+          "to": "Marcus_15_1781600711659",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_14_1781600706502",
+          "to": "Marcus_15_1781600711659",
+          "type": "extend"
+        }
+      ],
+      "claimClusters": {
+        "support": [],
+        "oppose": [],
+        "neutral": []
       }
-    ]
+    }
   }
 ]
