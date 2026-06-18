@@ -5,19 +5,19 @@
     "type": "module",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js",
-      "dev": "node --watch-path=./server.js --watch-path=./routes --watch-path=./services --watch-path=./models --watch-path=./jobs server.js",
-      "generate": "node jobs/dailyEpisode.js",
-      "generate:audio": "node jobs/generateDemoAudio.js",
-      "scraper": "node services/scraper_multiple.js",
-      "programme": "node jobs/generatePrograme.js"
+        "start": "node server.js",
+        "dev": "node --watch-path=./server.js --watch-path=./routes --watch-path=./services --watch-path=./models --watch-path=./jobs server.js",
+        "generate": "node jobs/dailyEpisode.js",
+        "generate:audio": "node jobs/generateDemoAudio.js",
+        "scraper": "node services/scraper_multiple.js",
+        "programme": "node jobs/generatePrograme.js"
     },
     "dependencies": {
-      "axios": "^1.7.2",
-      "cors": "^2.8.5",
-      "dotenv": "^16.4.7",
-      "express": "^4.19.2",
-      "openai": "^4.104.0",
-      "uuid": "^11.1.0"
+        "axios": "^1.7.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.19.2",
+        "openai": "^4.104.0",
+        "uuid": "^11.1.0"
     }
-  }
+}

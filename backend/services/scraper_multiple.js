@@ -321,36 +321,45 @@ export async function runResearchScraper() {
     const dataset = [];
 
     for (const article of articles) {
-      const signal = {
-        title: article.title,
-        description: article.description,
-        source: article.source?.name,
-        publishedAt: article.publishedAt
-      };
+      try {
+        const signal = {
+          title: article.title,
+          description: article.description,
+          source: article.source?.name,
+          publishedAt: article.publishedAt
+        };
 
-      console.log("⚙️ Processing:", signal.title);
+        console.log("⚙️ Processing:", signal.title);
 
-      const factsObj = await extractFacts(JSON.stringify(signal));
+        const factsObj = await extractFacts(JSON.stringify(signal));
 
-      /* =========================
-         SINGLE MODE PER ARTICLE (FIX)
-      ========================= */
-      for (const [mode, intensity] of Object.entries(intensityProfile)) {
-        const debate = await generateDebate(factsObj, mode, intensity);
+        /* =========================
+          SINGLE MODE PER ARTICLE 
+        ========================= */
+        for (const [mode, intensity] of Object.entries(intensityProfile)) {
+          const debate = await generateDebate(factsObj, mode, intensity);
 
-        const evaluation = await evaluateDebateTopic(signal, factsObj, debate);
+          const evaluation = await evaluateDebateTopic(signal, factsObj, debate);
 
-        const average_eval = averageEvaluation(evaluation);
+          const average_eval = averageEvaluation(evaluation);
 
-        dataset.push({
-          signal,
-          facts: factsObj,
-          mode,
-          intensity,
-          debate,
-          evaluation,
-          average_eval
-        });
+          dataset.push({
+            signal,
+            facts: factsObj,
+            mode,
+            intensity,
+            debate,
+            evaluation,
+            average_eval
+          });
+        }
+
+      } catch (err) {
+        console.log(
+          `⚠️ Skipping article: ${article.title}`
+        );
+        console.log(err.message);
+        continue;
       }
     }
 

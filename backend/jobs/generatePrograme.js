@@ -15,9 +15,9 @@ async function run() {
   console.log("background:", background);
 
   const { transcript,graph } = await generateDebate(topic,background,framing);
-  console.log("transscripts:")
-  console.log(transcript)
-  console.log("graph:", graph);
+  // console.log("transscripts:")
+  // console.log(transcript)
+  // console.log("graph:", graph);
 
   const episode = createEpisode({
     topic,

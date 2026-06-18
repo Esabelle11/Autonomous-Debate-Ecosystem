@@ -92,7 +92,7 @@ export default function PodcastPlayer({ episode }) {
 
       if (episode.timeline) {
         const active = episode.timeline.find(
-          x => t+7 >= x.start && t+7 <= x.end
+          x => t >= x.start && t <= x.end
         );
 
         if (active) {

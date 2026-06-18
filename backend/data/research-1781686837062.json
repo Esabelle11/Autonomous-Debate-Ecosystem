@@ -1,0 +1,2826 @@
+{
+  "summary": {
+    "totalRecords": 48,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "stock market performance",
+      "US-Iran relations",
+      "energy markets",
+      "stock market performance",
+      "US-Iran relations",
+      "energy markets",
+      "stock market performance",
+      "US-Iran relations",
+      "energy markets",
+      "stock market performance",
+      "US-Iran relations",
+      "energy markets",
+      "sports",
+      "football",
+      "political interference",
+      "tournament opening",
+      "sports",
+      "football",
+      "political interference",
+      "tournament opening",
+      "sports",
+      "football",
+      "political interference",
+      "tournament opening",
+      "sports",
+      "football",
+      "political interference",
+      "tournament opening",
+      "Divorce",
+      "Celebrity marriage",
+      "Legal proceedings",
+      "Divorce",
+      "Celebrity marriage",
+      "Legal proceedings",
+      "Divorce",
+      "Celebrity marriage",
+      "Legal proceedings",
+      "Divorce",
+      "Celebrity marriage",
+      "Legal proceedings",
+      "sports",
+      "football",
+      "World Cup",
+      "political tension",
+      "sports",
+      "football",
+      "World Cup",
+      "political tension",
+      "sports",
+      "football",
+      "World Cup",
+      "political tension",
+      "sports",
+      "football",
+      "World Cup",
+      "political tension",
+      "Name, Image, Likeness (NIL) payments",
+      "Athlete departure",
+      "Institutional statements",
+      "Name, Image, Likeness (NIL) payments",
+      "Athlete departure",
+      "Institutional statements",
+      "Name, Image, Likeness (NIL) payments",
+      "Athlete departure",
+      "Institutional statements",
+      "Name, Image, Likeness (NIL) payments",
+      "Athlete departure",
+      "Institutional statements",
+      "Quarantine",
+      "Hantavirus exposure",
+      "Medical advice",
+      "Public health policy",
+      "Isolation orders",
+      "Quarantine",
+      "Hantavirus exposure",
+      "Medical advice",
+      "Public health policy",
+      "Isolation orders",
+      "Quarantine",
+      "Hantavirus exposure",
+      "Medical advice",
+      "Public health policy",
+      "Isolation orders",
+      "Quarantine",
+      "Hantavirus exposure",
+      "Medical advice",
+      "Public health policy",
+      "Isolation orders",
+      "export controls",
+      "AI access restrictions",
+      "international regulation of AI",
+      "operational disruptions",
+      "export controls",
+      "AI access restrictions",
+      "international regulation of AI",
+      "operational disruptions",
+      "export controls",
+      "AI access restrictions",
+      "international regulation of AI",
+      "operational disruptions",
+      "export controls",
+      "AI access restrictions",
+      "international regulation of AI",
+      "operational disruptions",
+      "Senate race",
+      "Political allegations",
+      "Vote splitting",
+      "Senate race",
+      "Political allegations",
+      "Vote splitting",
+      "Senate race",
+      "Political allegations",
+      "Vote splitting",
+      "Senate race",
+      "Political allegations",
+      "Vote splitting",
+      "EU enlargement",
+      "Accession negotiations",
+      "Political delay",
+      "Hungarian politics",
+      "EU enlargement",
+      "Accession negotiations",
+      "Political delay",
+      "Hungarian politics",
+      "EU enlargement",
+      "Accession negotiations",
+      "Political delay",
+      "Hungarian politics",
+      "EU enlargement",
+      "Accession negotiations",
+      "Political delay",
+      "Hungarian politics",
+      "underdog",
+      "soccer",
+      "international football",
+      "goalkeeper",
+      "draw",
+      "underdog",
+      "soccer",
+      "international football",
+      "goalkeeper",
+      "draw",
+      "underdog",
+      "soccer",
+      "international football",
+      "goalkeeper",
+      "draw",
+      "underdog",
+      "soccer",
+      "international football",
+      "goalkeeper",
+      "draw",
+      "US-Iran diplomatic agreement",
+      "Legislative scrutiny",
+      "Political skepticism",
+      "Request for government information",
+      "US-Iran diplomatic agreement",
+      "Legislative scrutiny",
+      "Political skepticism",
+      "Request for government information",
+      "US-Iran diplomatic agreement",
+      "Legislative scrutiny",
+      "Political skepticism",
+      "Request for government information",
+      "US-Iran diplomatic agreement",
+      "Legislative scrutiny",
+      "Political skepticism",
+      "Request for government information",
+      "environmental issue",
+      "political figure",
+      "government response",
+      "media coverage",
+      "environmental issue",
+      "political figure",
+      "government response",
+      "media coverage",
+      "environmental issue",
+      "political figure",
+      "government response",
+      "media coverage",
+      "environmental issue",
+      "political figure",
+      "government response",
+      "media coverage"
+    ],
+    "entities": [
+      "United States",
+      "Iran",
+      "S&P 500",
+      "Nasdaq",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "S&P 500",
+      "Nasdaq",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "S&P 500",
+      "Nasdaq",
+      "Al Jazeera English",
+      "United States",
+      "Iran",
+      "S&P 500",
+      "Nasdaq",
+      "Al Jazeera English",
+      "Iran",
+      "New Zealand",
+      "World Cup",
+      "Amir Ghalenoei",
+      "United States",
+      "Mexico",
+      "Associated Press",
+      "Iran",
+      "New Zealand",
+      "World Cup",
+      "Amir Ghalenoei",
+      "United States",
+      "Mexico",
+      "Associated Press",
+      "Iran",
+      "New Zealand",
+      "World Cup",
+      "Amir Ghalenoei",
+      "United States",
+      "Mexico",
+      "Associated Press",
+      "Iran",
+      "New Zealand",
+      "World Cup",
+      "Amir Ghalenoei",
+      "United States",
+      "Mexico",
+      "Associated Press",
+      "Jelly Roll",
+      "Bunnie XO",
+      "Billboard",
+      "TMZ",
+      "Jelly Roll",
+      "Bunnie XO",
+      "Billboard",
+      "TMZ",
+      "Jelly Roll",
+      "Bunnie XO",
+      "Billboard",
+      "TMZ",
+      "Jelly Roll",
+      "Bunnie XO",
+      "Billboard",
+      "TMZ",
+      "Iran",
+      "New Zealand",
+      "Elijah Just",
+      "Rezaeian",
+      "Mohebbi",
+      "Al Jazeera English",
+      "World Cup",
+      "Group G",
+      "Iran",
+      "New Zealand",
+      "Elijah Just",
+      "Rezaeian",
+      "Mohebbi",
+      "Al Jazeera English",
+      "World Cup",
+      "Group G",
+      "Iran",
+      "New Zealand",
+      "Elijah Just",
+      "Rezaeian",
+      "Mohebbi",
+      "Al Jazeera English",
+      "World Cup",
+      "Group G",
+      "Iran",
+      "New Zealand",
+      "Elijah Just",
+      "Rezaeian",
+      "Mohebbi",
+      "Al Jazeera English",
+      "World Cup",
+      "Group G",
+      "Texas Tech",
+      "Brendan Sorsby",
+      "Cody Campbell",
+      "NBC Sports",
+      "Texas Tech",
+      "Brendan Sorsby",
+      "Cody Campbell",
+      "NBC Sports",
+      "Texas Tech",
+      "Brendan Sorsby",
+      "Cody Campbell",
+      "NBC Sports",
+      "Texas Tech",
+      "Brendan Sorsby",
+      "Cody Campbell",
+      "NBC Sports",
+      "RFK Jr.",
+      "Angela Perryman",
+      "Health secretary",
+      "CDC",
+      "Nebraska",
+      "Wall Street Journal",
+      "RFK Jr.",
+      "Angela Perryman",
+      "Health secretary",
+      "CDC",
+      "Nebraska",
+      "Wall Street Journal",
+      "RFK Jr.",
+      "Angela Perryman",
+      "Health secretary",
+      "CDC",
+      "Nebraska",
+      "Wall Street Journal",
+      "RFK Jr.",
+      "Angela Perryman",
+      "Health secretary",
+      "CDC",
+      "Nebraska",
+      "Wall Street Journal",
+      "Anthropic",
+      "U.S. export control directive",
+      "Fable 5",
+      "Mythos 5",
+      "The Verge",
+      "Anthropic",
+      "U.S. export control directive",
+      "Fable 5",
+      "Mythos 5",
+      "The Verge",
+      "Anthropic",
+      "U.S. export control directive",
+      "Fable 5",
+      "Mythos 5",
+      "The Verge",
+      "Anthropic",
+      "U.S. export control directive",
+      "Fable 5",
+      "Mythos 5",
+      "The Verge",
+      "Alaska",
+      "Dan Sullivan",
+      "Republican Party",
+      "The Washington Post",
+      "Alaska",
+      "Dan Sullivan",
+      "Republican Party",
+      "The Washington Post",
+      "Alaska",
+      "Dan Sullivan",
+      "Republican Party",
+      "The Washington Post",
+      "Alaska",
+      "Dan Sullivan",
+      "Republican Party",
+      "The Washington Post",
+      "European Union",
+      "Ukraine",
+      "Viktor Orban",
+      "Hungary",
+      "DW (English)",
+      "European Union",
+      "Ukraine",
+      "Viktor Orban",
+      "Hungary",
+      "DW (English)",
+      "European Union",
+      "Ukraine",
+      "Viktor Orban",
+      "Hungary",
+      "DW (English)",
+      "European Union",
+      "Ukraine",
+      "Viktor Orban",
+      "Hungary",
+      "DW (English)",
+      "Josimar Dias",
+      "Vozinha",
+      "Cape Verde",
+      "Spain",
+      "The Washington Post",
+      "Josimar Dias",
+      "Vozinha",
+      "Cape Verde",
+      "Spain",
+      "The Washington Post",
+      "Josimar Dias",
+      "Vozinha",
+      "Cape Verde",
+      "Spain",
+      "The Washington Post",
+      "Josimar Dias",
+      "Vozinha",
+      "Cape Verde",
+      "Spain",
+      "The Washington Post",
+      "Donald Trump",
+      "United States",
+      "Iran",
+      "Republicans",
+      "Capitol Hill",
+      "White House",
+      "Associated Press",
+      "Donald Trump",
+      "United States",
+      "Iran",
+      "Republicans",
+      "Capitol Hill",
+      "White House",
+      "Associated Press",
+      "Donald Trump",
+      "United States",
+      "Iran",
+      "Republicans",
+      "Capitol Hill",
+      "White House",
+      "Associated Press",
+      "Donald Trump",
+      "United States",
+      "Iran",
+      "Republicans",
+      "Capitol Hill",
+      "White House",
+      "Associated Press",
+      "Reflecting Pool",
+      "Trump",
+      "Department of the Interior",
+      "Forbes",
+      "Reflecting Pool",
+      "Trump",
+      "Department of the Interior",
+      "Forbes",
+      "Reflecting Pool",
+      "Trump",
+      "Department of the Interior",
+      "Forbes",
+      "Reflecting Pool",
+      "Trump",
+      "Department of the Interior",
+      "Forbes"
+    ],
+    "generatedAt": "2026-06-17T09:00:37.061Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil - Al Jazeera",
+        "description": "Benchmark S&P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T05:09:05Z"
+      },
+      "facts": {
+        "facts": [
+          "The US stock market jumped.",
+          "A US-Iran deal stirred hopes for an end to energy turmoil.",
+          "The S&P 500 rose 1.7 percent.",
+          "The Nasdaq jumped 3.1 percent."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "S&P 500",
+          "Nasdaq",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "stock market performance",
+          "US-Iran relations",
+          "energy markets"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should expectations of a US‑Iran agreement be a primary factor in investors' long‑term stock market strategies?",
+        "background": "The US stock market jumped, with the S&P 500 rising 1.7 percent and the Nasdaq climbing 3.1 percent. A US‑Iran deal stirred hopes for an end to energy turmoil. These developments occurred concurrently.",
+        "framing": "To what extent should hopes for a US‑Iran agreement shape long‑term investment decisions?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil - Al Jazeera",
+        "description": "Benchmark S&P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T05:09:05Z"
+      },
+      "facts": {
+        "facts": [
+          "The US stock market jumped.",
+          "A US-Iran deal stirred hopes for an end to energy turmoil.",
+          "The S&P 500 rose 1.7 percent.",
+          "The Nasdaq jumped 3.1 percent."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "S&P 500",
+          "Nasdaq",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "stock market performance",
+          "US-Iran relations",
+          "energy markets"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Did the US‑Iran agreement underlying hopes for stable energy markets significantly boost U.S. stock market gains?",
+        "background": "The U.S. stock market jumped, with the S&P 500 rising 1.7 percent and the Nasdaq climbing 3.1 percent. A U.S.–Iran deal stirred hopes for an end to energy turmoil.",
+        "framing": "To what extent did the optimism surrounding the U.S.–Iran agreement influence the recent surge in U.S. equity indices?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil - Al Jazeera",
+        "description": "Benchmark S&P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T05:09:05Z"
+      },
+      "facts": {
+        "facts": [
+          "The US stock market jumped.",
+          "A US-Iran deal stirred hopes for an end to energy turmoil.",
+          "The S&P 500 rose 1.7 percent.",
+          "The Nasdaq jumped 3.1 percent."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "S&P 500",
+          "Nasdaq",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "stock market performance",
+          "US-Iran relations",
+          "energy markets"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should investors base their portfolio strategies on geopolitical developments like the US‑Iran deal?",
+        "background": "The US stock market jumped, with the S&P 500 rising 1.7 percent and the Nasdaq climbing 3.1 percent. A US‑Iran deal stirred hopes for an end to energy turmoil, influencing market sentiment.",
+        "framing": "Should investors adjust their portfolio strategies in response to geopolitical events such as the US‑Iran agreement?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil - Al Jazeera",
+        "description": "Benchmark S&P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T05:09:05Z"
+      },
+      "facts": {
+        "facts": [
+          "The US stock market jumped.",
+          "A US-Iran deal stirred hopes for an end to energy turmoil.",
+          "The S&P 500 rose 1.7 percent.",
+          "The Nasdaq jumped 3.1 percent."
+        ],
+        "entities": [
+          "United States",
+          "Iran",
+          "S&P 500",
+          "Nasdaq",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "stock market performance",
+          "US-Iran relations",
+          "energy markets"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should investors base their portfolio strategies on geopolitical developments like the US‑Iran agreement?",
+        "background": "The US stock market jumped, with the S&P 500 rising 1.7 percent and the Nasdaq climbing 3.1 percent. A US‑Iran deal stirred hopes for an end to energy turmoil, influencing market sentiment.",
+        "framing": "How much weight should geopolitical events, such as the US‑Iran agreement, have in shaping investment decisions?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Iran opens a politically charged World Cup by playing to a 2-2 draw with New Zealand - AP News",
+        "description": "The coach of Iran’s World Cup team says it was ordered to leave the U.S. and return to its training base in Mexico only a few hours after opening its politically charged tournament by playing to a 2-2 draw with New Zealand. Coach Amir Ghalenoei didn’t say who…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T05:07:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match.",
+          "Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match.",
+          "The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "World Cup",
+          "Amir Ghalenoei",
+          "United States",
+          "Mexico",
+          "Associated Press"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "political interference",
+          "tournament opening"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should national football teams be allowed to continue competing in international tournaments when they receive undisclosed orders to relocate during the event?",
+        "background": "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match. Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match. The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed.",
+        "framing": "Is it appropriate for governing bodies to permit or block a team's participation when it faces unexplained relocation orders during a tournament?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Iran opens a politically charged World Cup by playing to a 2-2 draw with New Zealand - AP News",
+        "description": "The coach of Iran’s World Cup team says it was ordered to leave the U.S. and return to its training base in Mexico only a few hours after opening its politically charged tournament by playing to a 2-2 draw with New Zealand. Coach Amir Ghalenoei didn’t say who…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T05:07:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match.",
+          "Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match.",
+          "The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "World Cup",
+          "Amir Ghalenoei",
+          "United States",
+          "Mexico",
+          "Associated Press"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "political interference",
+          "tournament opening"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should national football teams be allowed to continue competing in international tournaments when political orders force them to relocate mid‑tournament?",
+        "background": "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match. Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match. The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed.",
+        "framing": "Should national football teams be allowed to continue competing in international tournaments when political orders force them to relocate mid‑tournament?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Iran opens a politically charged World Cup by playing to a 2-2 draw with New Zealand - AP News",
+        "description": "The coach of Iran’s World Cup team says it was ordered to leave the U.S. and return to its training base in Mexico only a few hours after opening its politically charged tournament by playing to a 2-2 draw with New Zealand. Coach Amir Ghalenoei didn’t say who…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T05:07:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match.",
+          "Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match.",
+          "The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "World Cup",
+          "Amir Ghalenoei",
+          "United States",
+          "Mexico",
+          "Associated Press"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "political interference",
+          "tournament opening"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should governments be allowed to intervene in international sports competitions by ordering their teams to relocate mid‑tournament?",
+        "background": "Iran's World Cup team drew 2-2 with New Zealand in their opening match. Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the match. The order was given to the Iranian team, but the source of the order was not disclosed.",
+        "framing": "Is it appropriate for a government or external authority to dictate the movements of a national team during a global tournament?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Iran opens a politically charged World Cup by playing to a 2-2 draw with New Zealand - AP News",
+        "description": "The coach of Iran’s World Cup team says it was ordered to leave the U.S. and return to its training base in Mexico only a few hours after opening its politically charged tournament by playing to a 2-2 draw with New Zealand. Coach Amir Ghalenoei didn’t say who…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T05:07:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran's World Cup team played to a 2-2 draw with New Zealand in their opening match.",
+          "Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the opening match.",
+          "The order to leave the United States was given to the Iranian team, but the source of the order was not disclosed."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "World Cup",
+          "Amir Ghalenoei",
+          "United States",
+          "Mexico",
+          "Associated Press"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "political interference",
+          "tournament opening"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should geopolitical considerations influence the participation and logistics of national teams in international sporting events?",
+        "background": "Iran's World Cup team drew 2-2 with New Zealand in their opening match. Coach Amir Ghalenoei said the team was ordered to leave the United States and return to its training base in Mexico only a few hours after the match. The source of the order was not disclosed, though it required the team to exit U.S. territory.",
+        "framing": "To what extent, if any, should political factors affect where and how national football teams compete in global tournaments?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Jelly Roll Files for Divorce From Bunnie XO After Nearly 10 Years of Marriage - Billboard",
+        "description": "Jelly Roll has filed for divorce from his wife Bunnie XO, ending their nearly decade-long marriage, according to court documents obtained by TMZ.",
+        "source": "Billboard",
+        "publishedAt": "2026-06-16T04:48:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Jelly Roll filed for divorce from his wife Bunnie XO.",
+          "The marriage lasted nearly a decade.",
+          "The information comes from court documents obtained by TMZ.",
+          "The story was reported by Billboard on 2026-06-16."
+        ],
+        "entities": [
+          "Jelly Roll",
+          "Bunnie XO",
+          "Billboard",
+          "TMZ"
+        ],
+        "themes": [
+          "Divorce",
+          "Celebrity marriage",
+          "Legal proceedings"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should celebrity divorces be treated the same as non‑celebrity divorces in terms of legal privacy and media coverage?",
+        "background": "Jelly Roll filed for divorce from his wife Bunnie XO after nearly ten years of marriage. The filing was documented in court papers obtained by TMZ. Billboard reported the development on 2026-06-16.",
+        "framing": "Should the legal and media handling of celebrity divorces differ from that of ordinary citizens?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Jelly Roll Files for Divorce From Bunnie XO After Nearly 10 Years of Marriage - Billboard",
+        "description": "Jelly Roll has filed for divorce from his wife Bunnie XO, ending their nearly decade-long marriage, according to court documents obtained by TMZ.",
+        "source": "Billboard",
+        "publishedAt": "2026-06-16T04:48:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Jelly Roll filed for divorce from his wife Bunnie XO.",
+          "The marriage lasted nearly a decade.",
+          "The information comes from court documents obtained by TMZ.",
+          "The story was reported by Billboard on 2026-06-16."
+        ],
+        "entities": [
+          "Jelly Roll",
+          "Bunnie XO",
+          "Billboard",
+          "TMZ"
+        ],
+        "themes": [
+          "Divorce",
+          "Celebrity marriage",
+          "Legal proceedings"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should celebrity divorces be treated as private family matters or as newsworthy public events?",
+        "background": "Jelly Roll filed for divorce from his wife Bunnie XO after nearly a decade of marriage. The filing is documented in court records obtained by TMZ. Billboard reported the development on 2026-06-16.",
+        "framing": "Is it appropriate for the media and the public to focus extensively on the personal legal proceedings of celebrities?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Jelly Roll Files for Divorce From Bunnie XO After Nearly 10 Years of Marriage - Billboard",
+        "description": "Jelly Roll has filed for divorce from his wife Bunnie XO, ending their nearly decade-long marriage, according to court documents obtained by TMZ.",
+        "source": "Billboard",
+        "publishedAt": "2026-06-16T04:48:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Jelly Roll filed for divorce from his wife Bunnie XO.",
+          "The marriage lasted nearly a decade.",
+          "The information comes from court documents obtained by TMZ.",
+          "The story was reported by Billboard on 2026-06-16."
+        ],
+        "entities": [
+          "Jelly Roll",
+          "Bunnie XO",
+          "Billboard",
+          "TMZ"
+        ],
+        "themes": [
+          "Divorce",
+          "Celebrity marriage",
+          "Legal proceedings"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the media's coverage of celebrity divorces be limited to protect the individuals' privacy?",
+        "background": "Jelly Roll filed for divorce from his wife Bunnie XO, ending a marriage that lasted nearly a decade. The filing was confirmed by court documents obtained by TMZ. Billboard reported the development on 2026-06-16.",
+        "framing": "Is it appropriate for the media to extensively report on the personal legal matters of celebrities?",
+        "emotion": 5,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "Jelly Roll Files for Divorce From Bunnie XO After Nearly 10 Years of Marriage - Billboard",
+        "description": "Jelly Roll has filed for divorce from his wife Bunnie XO, ending their nearly decade-long marriage, according to court documents obtained by TMZ.",
+        "source": "Billboard",
+        "publishedAt": "2026-06-16T04:48:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Jelly Roll filed for divorce from his wife Bunnie XO.",
+          "The marriage lasted nearly a decade.",
+          "The information comes from court documents obtained by TMZ.",
+          "The story was reported by Billboard on 2026-06-16."
+        ],
+        "entities": [
+          "Jelly Roll",
+          "Bunnie XO",
+          "Billboard",
+          "TMZ"
+        ],
+        "themes": [
+          "Divorce",
+          "Celebrity marriage",
+          "Legal proceedings"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should high‑profile divorces like Jelly Roll's be treated as private family matters or as newsworthy public events?",
+        "background": "Jelly Roll filed for divorce from his wife Bunnie XO after nearly a decade of marriage. The filing was confirmed by court documents obtained by TMZ and reported by Billboard on 2026‑06‑16.",
+        "framing": "Is it appropriate for the media and the public to focus on the details of a celebrity's divorce, or should such personal legal proceedings remain private?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match - Al Jazeera",
+        "description": "Elijah Just scored both of New Zealand’s goals in either half; Rezaeian and Mohebbi levelled for Iran in Group G game.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T04:43:05Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran drew 2-2 with New Zealand in a World Cup Group G match.",
+          "Elijah Just scored both of New Zealand’s goals, one in each half.",
+          "Rezaeian and Mohebbi scored for Iran.",
+          "The match was described as politically charged."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "Elijah Just",
+          "Rezaeian",
+          "Mohebbi",
+          "Al Jazeera English",
+          "World Cup",
+          "Group G"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "World Cup",
+          "political tension"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "To what extent should political tensions surrounding a World Cup match affect its interpretation and significance in the sport?",
+        "background": "Iran and New Zealand drew 2-2 in a Group G World Cup match. Elijah Just scored both goals for New Zealand, one in each half, while Rezaeian and Mohebbi scored for Iran. The match was described as politically charged.",
+        "framing": "Should political contexts influence how World Cup matches are viewed and discussed?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match - Al Jazeera",
+        "description": "Elijah Just scored both of New Zealand’s goals in either half; Rezaeian and Mohebbi levelled for Iran in Group G game.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T04:43:05Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran drew 2-2 with New Zealand in a World Cup Group G match.",
+          "Elijah Just scored both of New Zealand’s goals, one in each half.",
+          "Rezaeian and Mohebbi scored for Iran.",
+          "The match was described as politically charged."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "Elijah Just",
+          "Rezaeian",
+          "Mohebbi",
+          "Al Jazeera English",
+          "World Cup",
+          "Group G"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "World Cup",
+          "political tension"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should politically charged narratives be separated from the analysis of football performance in World Cup matches?",
+        "background": "Iran and New Zealand played to a 2-2 draw in a World Cup Group G match. Elijah Just scored both goals for New Zealand, while Rezaeian and Mohebbi scored for Iran. Observers described the match as politically charged.",
+        "framing": "Is it appropriate to treat political context as a separate factor from evaluating the sporting merits of a World Cup match?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match - Al Jazeera",
+        "description": "Elijah Just scored both of New Zealand’s goals in either half; Rezaeian and Mohebbi levelled for Iran in Group G game.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T04:43:05Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran drew 2-2 with New Zealand in a World Cup Group G match.",
+          "Elijah Just scored both of New Zealand’s goals, one in each half.",
+          "Rezaeian and Mohebbi scored for Iran.",
+          "The match was described as politically charged."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "Elijah Just",
+          "Rezaeian",
+          "Mohebbi",
+          "Al Jazeera English",
+          "World Cup",
+          "Group G"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "World Cup",
+          "political tension"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should political tensions be considered when organizing and officiating World Cup matches?",
+        "background": "Iran and New Zealand played to a 2-2 draw in a Group G World Cup match. Elijah Just scored both of New Zealand's goals, one in each half, while Rezaeian and Mohebbi scored for Iran. The match was described as politically charged.",
+        "framing": "To what extent, if any, should political considerations impact the organization and officiating of World Cup games?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match - Al Jazeera",
+        "description": "Elijah Just scored both of New Zealand’s goals in either half; Rezaeian and Mohebbi levelled for Iran in Group G game.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-16T04:43:05Z"
+      },
+      "facts": {
+        "facts": [
+          "Iran drew 2-2 with New Zealand in a World Cup Group G match.",
+          "Elijah Just scored both of New Zealand’s goals, one in each half.",
+          "Rezaeian and Mohebbi scored for Iran.",
+          "The match was described as politically charged."
+        ],
+        "entities": [
+          "Iran",
+          "New Zealand",
+          "Elijah Just",
+          "Rezaeian",
+          "Mohebbi",
+          "Al Jazeera English",
+          "World Cup",
+          "Group G"
+        ],
+        "themes": [
+          "sports",
+          "football",
+          "World Cup",
+          "political tension"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should political tensions be considered when evaluating the significance of World Cup matches?",
+        "background": "Iran and New Zealand played to a 2-2 draw in a Group G World Cup match. Elijah Just scored both goals for New Zealand, one in each half, while Rezaeian and Mohebbi scored for Iran. The match was described as politically charged.",
+        "framing": "Should political tensions be considered when evaluating the significance of World Cup matches?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.8
+      },
+      "average_eval": 9.8
+    },
+    {
+      "signal": {
+        "title": "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby - NBC Sports",
+        "description": "Cody Campbell issues long statement regarding Sorsby's exit from Texas Tech.",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-06-16T04:09:04Z"
+      },
+      "facts": {
+        "facts": [
+          "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby.",
+          "Cody Campbell issued a long statement regarding Sorsby's exit from Texas Tech."
+        ],
+        "entities": [
+          "Texas Tech",
+          "Brendan Sorsby",
+          "Cody Campbell",
+          "NBC Sports"
+        ],
+        "themes": [
+          "Name, Image, Likeness (NIL) payments",
+          "Athlete departure",
+          "Institutional statements"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should universities have the right to reclaim NIL payments made to athletes who depart the program before the contract ends?",
+        "background": "Texas Tech announced it will not attempt to recover NIL money that was paid to quarterback Brendan Sorsby. Following Sorsby's exit, Cody Campbell released a lengthy statement addressing the situation.",
+        "framing": "Is it appropriate for schools to enforce repayment of NIL compensation when an athlete leaves the institution?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby - NBC Sports",
+        "description": "Cody Campbell issues long statement regarding Sorsby's exit from Texas Tech.",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-06-16T04:09:04Z"
+      },
+      "facts": {
+        "facts": [
+          "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby.",
+          "Cody Campbell issued a long statement regarding Sorsby's exit from Texas Tech."
+        ],
+        "entities": [
+          "Texas Tech",
+          "Brendan Sorsby",
+          "Cody Campbell",
+          "NBC Sports"
+        ],
+        "themes": [
+          "Name, Image, Likeness (NIL) payments",
+          "Athlete departure",
+          "Institutional statements"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should universities seek to recover NIL payments made to athletes who depart the program before their scholarship term ends?",
+        "background": "Texas Tech announced it will not attempt to recover NIL money paid to former quarterback Brendan Sorsby. Cody Campbell released a lengthy statement addressing Sorsby's exit from Texas Tech.",
+        "framing": "Is it appropriate for colleges to try to reclaim NIL compensation when an athlete leaves the school?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby - NBC Sports",
+        "description": "Cody Campbell issues long statement regarding Sorsby's exit from Texas Tech.",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-06-16T04:09:04Z"
+      },
+      "facts": {
+        "facts": [
+          "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby.",
+          "Cody Campbell issued a long statement regarding Sorsby's exit from Texas Tech."
+        ],
+        "entities": [
+          "Texas Tech",
+          "Brendan Sorsby",
+          "Cody Campbell",
+          "NBC Sports"
+        ],
+        "themes": [
+          "Name, Image, Likeness (NIL) payments",
+          "Athlete departure",
+          "Institutional statements"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should universities attempt to recover NIL payments when athletes leave their programs?",
+        "background": "Texas Tech announced it will not try to recover Name, Image, and Likeness (NIL) money paid to former player Brendan Sorsby. Coach Cody Campbell issued a lengthy statement concerning Sorsby's departure from the university.",
+        "framing": "Should it be standard practice for colleges to seek repayment of NIL compensation if a student‑athlete transfers or departs?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby - NBC Sports",
+        "description": "Cody Campbell issues long statement regarding Sorsby's exit from Texas Tech.",
+        "source": "NBCSports.com",
+        "publishedAt": "2026-06-16T04:09:04Z"
+      },
+      "facts": {
+        "facts": [
+          "Texas Tech will not attempt to recover NIL money paid to Brendan Sorsby.",
+          "Cody Campbell issued a long statement regarding Sorsby's exit from Texas Tech."
+        ],
+        "entities": [
+          "Texas Tech",
+          "Brendan Sorsby",
+          "Cody Campbell",
+          "NBC Sports"
+        ],
+        "themes": [
+          "Name, Image, Likeness (NIL) payments",
+          "Athlete departure",
+          "Institutional statements"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should universities have the right to retain or reclaim NIL compensation paid to athletes who leave the program before a specified period?",
+        "background": "Texas Tech announced it will not attempt to recover NIL money paid to former football player Brendan Sorsby. Coach Cody Campbell issued a lengthy statement addressing Sorsby's departure from the program.",
+        "framing": "Should institutions be allowed to seek repayment of NIL funds if an athlete departs early, or should those payments be considered non-recoverable regardless of tenure?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
+        "description": "Health secretary says cruise passenger Angela Perryman has to stay isolated in Nebraska despite CDC report advising otherwise",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-06-16T04:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "RFK Jr. ordered an American exposed to hantavirus to stay quarantined against medical advice.",
+          "The health secretary said cruise passenger Angela Perryman must stay isolated in Nebraska despite a CDC report advising otherwise."
+        ],
+        "entities": [
+          "RFK Jr.",
+          "Angela Perryman",
+          "Health secretary",
+          "CDC",
+          "Nebraska",
+          "Wall Street Journal"
+        ],
+        "themes": [
+          "Quarantine",
+          "Hantavirus exposure",
+          "Medical advice",
+          "Public health policy",
+          "Isolation orders"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should health authorities have the authority to enforce quarantine against the advice of medical professionals?",
+        "background": "Robert F. Kennedy Jr. ordered an American exposed to hantavirus to remain quarantined despite medical advice to the contrary. The health secretary ordered cruise passenger Angela Perryman to stay isolated in Nebraska even though a CDC report advised otherwise.",
+        "framing": "Should public health officials override individual medical opinions when imposing isolation orders?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
+        "description": "Health secretary says cruise passenger Angela Perryman has to stay isolated in Nebraska despite CDC report advising otherwise",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-06-16T04:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "RFK Jr. ordered an American exposed to hantavirus to stay quarantined against medical advice.",
+          "The health secretary said cruise passenger Angela Perryman must stay isolated in Nebraska despite a CDC report advising otherwise."
+        ],
+        "entities": [
+          "RFK Jr.",
+          "Angela Perryman",
+          "Health secretary",
+          "CDC",
+          "Nebraska",
+          "Wall Street Journal"
+        ],
+        "themes": [
+          "Quarantine",
+          "Hantavirus exposure",
+          "Medical advice",
+          "Public health policy",
+          "Isolation orders"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should public officials have the authority to impose quarantine orders that conflict with the medical advice of treating physicians?",
+        "background": "Robert F. Kennedy Jr. ordered an American exposed to hantavirus to remain in quarantine despite the individual's doctors recommending otherwise. The Nebraska health secretary similarly required cruise passenger Angela Perryman to stay isolated, even though a CDC report advised against continued isolation. Both cases involve officials overriding medical guidance in the name of public health protection.",
+        "framing": "When, if ever, is it appropriate for government officials to enforce quarantine measures that contradict the recommendations of licensed medical professionals?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
+        "description": "Health secretary says cruise passenger Angela Perryman has to stay isolated in Nebraska despite CDC report advising otherwise",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-06-16T04:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "RFK Jr. ordered an American exposed to hantavirus to stay quarantined against medical advice.",
+          "The health secretary said cruise passenger Angela Perryman must stay isolated in Nebraska despite a CDC report advising otherwise."
+        ],
+        "entities": [
+          "RFK Jr.",
+          "Angela Perryman",
+          "Health secretary",
+          "CDC",
+          "Nebraska",
+          "Wall Street Journal"
+        ],
+        "themes": [
+          "Quarantine",
+          "Hantavirus exposure",
+          "Medical advice",
+          "Public health policy",
+          "Isolation orders"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should government officials have the authority to override medical professionals’ recommendations when ordering quarantine or isolation?",
+        "background": "Robert F. Kennedy Jr. ordered an American who had been exposed to hantavirus to remain quarantined despite medical advice to the contrary. The state health secretary required cruise passenger Angela Perryman to stay isolated in Nebraska even though a CDC report advised otherwise. Both cases involve official directives that conflict with expert health guidance.",
+        "framing": "To what extent, if any, should elected officials be allowed to supersede medical advice in imposing quarantine or isolation measures?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice - WSJ",
+        "description": "Health secretary says cruise passenger Angela Perryman has to stay isolated in Nebraska despite CDC report advising otherwise",
+        "source": "The Wall Street Journal",
+        "publishedAt": "2026-06-16T04:02:00Z"
+      },
+      "facts": {
+        "facts": [
+          "RFK Jr. ordered an American exposed to hantavirus to stay quarantined against medical advice.",
+          "The health secretary said cruise passenger Angela Perryman must stay isolated in Nebraska despite a CDC report advising otherwise."
+        ],
+        "entities": [
+          "RFK Jr.",
+          "Angela Perryman",
+          "Health secretary",
+          "CDC",
+          "Nebraska",
+          "Wall Street Journal"
+        ],
+        "themes": [
+          "Quarantine",
+          "Hantavirus exposure",
+          "Medical advice",
+          "Public health policy",
+          "Isolation orders"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should public officials have the authority to override medical advice and enforce quarantine when facing infectious disease risks?",
+        "background": "Robert F. Kennedy Jr. ordered an American who had been exposed to hantavirus to remain in quarantine against medical advice. The Nebraska health secretary similarly required cruise passenger Angela Perryman to stay isolated despite a CDC report recommending otherwise.",
+        "framing": "Should officials be permitted to mandate isolation that conflicts with professional medical guidance?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Inside the fight over Claude Mythos 5 - The Verge",
+        "description": "Anthropic received a US export control directive Friday “to suspend all access to Fable 5 and Mythos 5 by any foreign national,” kicking off a weekend of chaos.",
+        "source": "The Verge",
+        "publishedAt": "2026-06-16T03:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anthropic received a U.S. export control directive on Friday.",
+          "The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national.",
+          "The directive triggered a weekend of chaos."
+        ],
+        "entities": [
+          "Anthropic",
+          "U.S. export control directive",
+          "Fable 5",
+          "Mythos 5",
+          "The Verge"
+        ],
+        "themes": [
+          "export controls",
+          "AI access restrictions",
+          "international regulation of AI",
+          "operational disruptions"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should governments impose export controls that limit foreign nationals' access to advanced AI models?",
+        "background": "Anthropic received a U.S. export control directive on Friday. The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national. The directive triggered a weekend of chaos.",
+        "framing": "What are the implications of restricting foreign nationals' access to advanced AI models through export controls?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Inside the fight over Claude Mythos 5 - The Verge",
+        "description": "Anthropic received a US export control directive Friday “to suspend all access to Fable 5 and Mythos 5 by any foreign national,” kicking off a weekend of chaos.",
+        "source": "The Verge",
+        "publishedAt": "2026-06-16T03:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anthropic received a U.S. export control directive on Friday.",
+          "The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national.",
+          "The directive triggered a weekend of chaos."
+        ],
+        "entities": [
+          "Anthropic",
+          "U.S. export control directive",
+          "Fable 5",
+          "Mythos 5",
+          "The Verge"
+        ],
+        "themes": [
+          "export controls",
+          "AI access restrictions",
+          "international regulation of AI",
+          "operational disruptions"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the United States impose export controls that require AI companies to block foreign access to specific models?",
+        "background": "Anthropic received a U.S. export control directive on Friday. The directive requires Anthropic to suspend all access to its Fable 5 and Mythos 5 models for any foreign national. The enforcement of the directive caused a weekend of operational chaos.",
+        "framing": "Should the United States impose export controls that require AI companies to block foreign access to specific models?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Inside the fight over Claude Mythos 5 - The Verge",
+        "description": "Anthropic received a US export control directive Friday “to suspend all access to Fable 5 and Mythos 5 by any foreign national,” kicking off a weekend of chaos.",
+        "source": "The Verge",
+        "publishedAt": "2026-06-16T03:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anthropic received a U.S. export control directive on Friday.",
+          "The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national.",
+          "The directive triggered a weekend of chaos."
+        ],
+        "entities": [
+          "Anthropic",
+          "U.S. export control directive",
+          "Fable 5",
+          "Mythos 5",
+          "The Verge"
+        ],
+        "themes": [
+          "export controls",
+          "AI access restrictions",
+          "international regulation of AI",
+          "operational disruptions"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should governments impose immediate export controls that block foreign access to advanced AI models during geopolitical tensions?",
+        "background": "Anthropic received a U.S. export control directive on Friday. The directive requires Anthropic to suspend all access to its Fable 5 and Mythos 5 models for any foreign national. The directive triggered a weekend of chaos.",
+        "framing": "Is it appropriate for governments to enforce swift export restrictions that prevent foreign users from accessing cutting‑edge AI systems?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 8,
+        "coherence": 10,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Inside the fight over Claude Mythos 5 - The Verge",
+        "description": "Anthropic received a US export control directive Friday “to suspend all access to Fable 5 and Mythos 5 by any foreign national,” kicking off a weekend of chaos.",
+        "source": "The Verge",
+        "publishedAt": "2026-06-16T03:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Anthropic received a U.S. export control directive on Friday.",
+          "The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national.",
+          "The directive triggered a weekend of chaos."
+        ],
+        "entities": [
+          "Anthropic",
+          "U.S. export control directive",
+          "Fable 5",
+          "Mythos 5",
+          "The Verge"
+        ],
+        "themes": [
+          "export controls",
+          "AI access restrictions",
+          "international regulation of AI",
+          "operational disruptions"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should U.S. export control policies automatically restrict foreign nationals' access to advanced AI models like Anthropic's Fable 5 and Mythos 5?",
+        "background": "Anthropic received a U.S. export control directive on Friday. The directive requires Anthropic to suspend all access to Fable 5 and Mythos 5 by any foreign national. The directive triggered a weekend of chaos.",
+        "framing": "Should automatic export control restrictions on cutting‑edge AI systems be upheld, modified, or abandoned?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.6
+      },
+      "average_eval": 9.6
+    },
+    {
+      "signal": {
+        "title": "Alaska boots second Dan Sullivan from Senate race - The Washington Post",
+        "description": "Republicans alleged he entered the competitive race to syphon votes away from the incumbent, Sen. Dan Sullivan.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T02:15:28Z"
+      },
+      "facts": {
+        "facts": [
+          "Alaska removed a second Dan Sullivan from the Senate race.",
+          "Republicans alleged that the second Dan Sullivan entered the competitive race to siphon votes away from the incumbent, Senator Dan Sullivan."
+        ],
+        "entities": [
+          "Alaska",
+          "Dan Sullivan",
+          "Republican Party",
+          "The Washington Post"
+        ],
+        "themes": [
+          "Senate race",
+          "Political allegations",
+          "Vote splitting"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the removal of the duplicate Dan Sullivan candidacy in Alaska's Senate race be considered a necessary safeguard against vote splitting or an inappropriate interference in the electoral process?",
+        "background": "Alaska's election officials disqualified a second candidate named Dan Sullivan from the U.S. Senate race. Republicans claimed that the additional Dan Sullivan entered the competitive race to siphon votes away from incumbent Senator Dan Sullivan.",
+        "framing": "Is the disqualification of the duplicate candidacy a justified protection of electoral integrity or an undue political intervention?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Alaska boots second Dan Sullivan from Senate race - The Washington Post",
+        "description": "Republicans alleged he entered the competitive race to syphon votes away from the incumbent, Sen. Dan Sullivan.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T02:15:28Z"
+      },
+      "facts": {
+        "facts": [
+          "Alaska removed a second Dan Sullivan from the Senate race.",
+          "Republicans alleged that the second Dan Sullivan entered the competitive race to siphon votes away from the incumbent, Senator Dan Sullivan."
+        ],
+        "entities": [
+          "Alaska",
+          "Dan Sullivan",
+          "Republican Party",
+          "The Washington Post"
+        ],
+        "themes": [
+          "Senate race",
+          "Political allegations",
+          "Vote splitting"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Is it appropriate for election officials to disqualify a candidate who is alleged to be running primarily to split the vote in a competitive Senate race?",
+        "background": "Alaska election officials removed a second candidate named Dan Sullivan from the U.S. Senate race. Republicans alleged that this second Dan Sullivan entered the race to siphon votes away from the incumbent, Senator Dan Sullivan.",
+        "framing": "Is it appropriate for election officials to disqualify a candidate who is alleged to be running primarily to split the vote in a competitive Senate race?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 8,
+        "coherence": 10,
+        "overall": 9
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Alaska boots second Dan Sullivan from Senate race - The Washington Post",
+        "description": "Republicans alleged he entered the competitive race to syphon votes away from the incumbent, Sen. Dan Sullivan.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T02:15:28Z"
+      },
+      "facts": {
+        "facts": [
+          "Alaska removed a second Dan Sullivan from the Senate race.",
+          "Republicans alleged that the second Dan Sullivan entered the competitive race to siphon votes away from the incumbent, Senator Dan Sullivan."
+        ],
+        "entities": [
+          "Alaska",
+          "Dan Sullivan",
+          "Republican Party",
+          "The Washington Post"
+        ],
+        "themes": [
+          "Senate race",
+          "Political allegations",
+          "Vote splitting"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should election authorities and political parties take proactive measures to prevent duplicate-name candidates from entering the same race to avoid potential vote splitting?",
+        "background": "Alaska removed a second candidate named Dan Sullivan from the Senate race. Republicans claimed that the second Dan Sullivan entered the competitive race to siphon votes away from incumbent Senator Dan Sullivan.",
+        "framing": "Is it appropriate for election officials and parties to intervene when candidates share identical names that could cause vote splitting?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Alaska boots second Dan Sullivan from Senate race - The Washington Post",
+        "description": "Republicans alleged he entered the competitive race to syphon votes away from the incumbent, Sen. Dan Sullivan.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T02:15:28Z"
+      },
+      "facts": {
+        "facts": [
+          "Alaska removed a second Dan Sullivan from the Senate race.",
+          "Republicans alleged that the second Dan Sullivan entered the competitive race to siphon votes away from the incumbent, Senator Dan Sullivan."
+        ],
+        "entities": [
+          "Alaska",
+          "Dan Sullivan",
+          "Republican Party",
+          "The Washington Post"
+        ],
+        "themes": [
+          "Senate race",
+          "Political allegations",
+          "Vote splitting"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the removal of the second Dan Sullivan from Alaska's Senate race be considered a necessary safeguard against vote splitting or an undue interference in the electoral process?",
+        "background": "Alaska election officials removed a second candidate named Dan Sullivan from the Senate race. Republicans alleged that the second Dan Sullivan entered the competitive race to siphon votes away from the incumbent, Senator Dan Sullivan.",
+        "framing": "Should the removal of the second Dan Sullivan from Alaska's Senate race be considered a necessary safeguard against vote splitting or an undue interference in the electoral process?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "EU, Ukraine start formal accession talks after Orban delay - DW.com",
+        "description": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+        "source": "DW (English)",
+        "publishedAt": "2026-06-16T02:05:16Z"
+      },
+      "facts": {
+        "facts": [
+          "The EU formally opened the first stage of accession negotiations with Ukraine.",
+          "The opening of negotiations occurred two years later than planned.",
+          "Former Hungarian Prime Minister Viktor Orban was blocking the accession process before his election defeat."
+        ],
+        "entities": [
+          "European Union",
+          "Ukraine",
+          "Viktor Orban",
+          "Hungary",
+          "DW (English)"
+        ],
+        "themes": [
+          "EU enlargement",
+          "Accession negotiations",
+          "Political delay",
+          "Hungarian politics"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the European Union accelerate Ukraine's accession process to compensate for past delays?",
+        "background": "The EU formally opened the first stage of accession negotiations with Ukraine. The opening of negotiations occurred two years later than originally planned. Former Hungarian Prime Minister Viktor Orbán had been blocking the accession process before his election defeat.",
+        "framing": "Should the EU take steps to speed up Ukraine's EU accession after the delayed start of negotiations?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "EU, Ukraine start formal accession talks after Orban delay - DW.com",
+        "description": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+        "source": "DW (English)",
+        "publishedAt": "2026-06-16T02:05:16Z"
+      },
+      "facts": {
+        "facts": [
+          "The EU formally opened the first stage of accession negotiations with Ukraine.",
+          "The opening of negotiations occurred two years later than planned.",
+          "Former Hungarian Prime Minister Viktor Orban was blocking the accession process before his election defeat."
+        ],
+        "entities": [
+          "European Union",
+          "Ukraine",
+          "Viktor Orban",
+          "Hungary",
+          "DW (English)"
+        ],
+        "themes": [
+          "EU enlargement",
+          "Accession negotiations",
+          "Political delay",
+          "Hungarian politics"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the EU accelerate Ukraine's accession process to compensate for the two‑year delay caused by prior political obstruction?",
+        "background": "The European Union formally opened the first stage of accession negotiations with Ukraine. The opening occurred two years later than originally scheduled. Former Hungarian Prime Minister Viktor Orbán had been blocking the accession process before his election defeat.",
+        "framing": "Should the EU take steps to speed up Ukraine's EU accession to make up for the previous delay?",
+        "emotion": 7,
+        "controversy": 6
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "EU, Ukraine start formal accession talks after Orban delay - DW.com",
+        "description": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+        "source": "DW (English)",
+        "publishedAt": "2026-06-16T02:05:16Z"
+      },
+      "facts": {
+        "facts": [
+          "The EU formally opened the first stage of accession negotiations with Ukraine.",
+          "The opening of negotiations occurred two years later than planned.",
+          "Former Hungarian Prime Minister Viktor Orban was blocking the accession process before his election defeat."
+        ],
+        "entities": [
+          "European Union",
+          "Ukraine",
+          "Viktor Orban",
+          "Hungary",
+          "DW (English)"
+        ],
+        "themes": [
+          "EU enlargement",
+          "Accession negotiations",
+          "Political delay",
+          "Hungarian politics"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the European Union accelerate Ukraine's accession process to compensate for past political delays?",
+        "background": "The European Union formally opened the first stage of accession negotiations with Ukraine. The opening of negotiations occurred two years later than originally planned. Former Hungarian Prime Minister Viktor Orbán had been blocking the accession process before his election defeat.",
+        "framing": "Should the EU take steps to speed up Ukraine's EU membership negotiations given the earlier postponements?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "EU, Ukraine start formal accession talks after Orban delay - DW.com",
+        "description": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+        "source": "DW (English)",
+        "publishedAt": "2026-06-16T02:05:16Z"
+      },
+      "facts": {
+        "facts": [
+          "The EU formally opened the first stage of accession negotiations with Ukraine.",
+          "The opening of negotiations occurred two years later than planned.",
+          "Former Hungarian Prime Minister Viktor Orban was blocking the accession process before his election defeat."
+        ],
+        "entities": [
+          "European Union",
+          "Ukraine",
+          "Viktor Orban",
+          "Hungary",
+          "DW (English)"
+        ],
+        "themes": [
+          "EU enlargement",
+          "Accession negotiations",
+          "Political delay",
+          "Hungarian politics"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the European Union accelerate Ukraine's accession process to compensate for the delayed start caused by previous political blockages?",
+        "background": "The EU formally opened the first stage of accession negotiations with Ukraine. The opening of negotiations occurred two years later than planned. Former Hungarian Prime Minister Viktor Orban was blocking the accession process before his election defeat.",
+        "framing": "Should the EU take steps to speed up Ukraine's EU accession after the delay caused by earlier political obstruction?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Tiny Cape Verde and its 40-year-old keeper just stymied soccer giant Spain - The Washington Post",
+        "description": "Goalkeeper Josimar Dias — best known by his nickname, Vozinha — and his Cape Verde teammates were monumental underdogs against the Spaniards. The match ended, 0-0.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T01:30:17Z"
+      },
+      "facts": {
+        "facts": [
+          "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old.",
+          "Josimar Dias and his Cape Verde teammates were underdogs against Spain.",
+          "The match between Cape Verde and Spain ended in a 0-0 draw."
+        ],
+        "entities": [
+          "Josimar Dias",
+          "Vozinha",
+          "Cape Verde",
+          "Spain",
+          "The Washington Post"
+        ],
+        "themes": [
+          "underdog",
+          "soccer",
+          "international football",
+          "goalkeeper",
+          "draw"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the success of veteran underdog teams like Cape Verde's draw against Spain shift scouting priorities toward experience over youth in international football?",
+        "background": "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old. Josimar Dias and his Cape Verde teammates were underdogs against Spain. The match between Cape Verde and Spain ended in a 0-0 draw.",
+        "framing": "Should international football scouting place greater emphasis on experienced players after results such as Cape Verde's goalless draw with Spain?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Tiny Cape Verde and its 40-year-old keeper just stymied soccer giant Spain - The Washington Post",
+        "description": "Goalkeeper Josimar Dias — best known by his nickname, Vozinha — and his Cape Verde teammates were monumental underdogs against the Spaniards. The match ended, 0-0.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T01:30:17Z"
+      },
+      "facts": {
+        "facts": [
+          "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old.",
+          "Josimar Dias and his Cape Verde teammates were underdogs against Spain.",
+          "The match between Cape Verde and Spain ended in a 0-0 draw."
+        ],
+        "entities": [
+          "Josimar Dias",
+          "Vozinha",
+          "Cape Verde",
+          "Spain",
+          "The Washington Post"
+        ],
+        "themes": [
+          "underdog",
+          "soccer",
+          "international football",
+          "goalkeeper",
+          "draw"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should national teams rely on veteran players such as 40‑year‑old goalkeeper Josimar Dias (Vozinha) in important international matches?",
+        "background": "Josimar Dias, known as Vozinha, is a 40‑year‑old goalkeeper for Cape Verde. He and his teammates entered the match against Spain as underdogs. The game ended in a 0‑0 draw.",
+        "framing": "Is relying on experienced but older players advantageous for a national team in high‑stakes competitions?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 7,
+        "coherence": 10,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Tiny Cape Verde and its 40-year-old keeper just stymied soccer giant Spain - The Washington Post",
+        "description": "Goalkeeper Josimar Dias — best known by his nickname, Vozinha — and his Cape Verde teammates were monumental underdogs against the Spaniards. The match ended, 0-0.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T01:30:17Z"
+      },
+      "facts": {
+        "facts": [
+          "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old.",
+          "Josimar Dias and his Cape Verde teammates were underdogs against Spain.",
+          "The match between Cape Verde and Spain ended in a 0-0 draw."
+        ],
+        "entities": [
+          "Josimar Dias",
+          "Vozinha",
+          "Cape Verde",
+          "Spain",
+          "The Washington Post"
+        ],
+        "themes": [
+          "underdog",
+          "soccer",
+          "international football",
+          "goalkeeper",
+          "draw"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should veteran goalkeepers like Josimar Dias be valued more highly than younger players in national team selections?",
+        "background": "Josimar Dias, known as Vozinha, is a 40‑year‑old goalkeeper for Cape Verde. He and his teammates were considered underdogs against Spain. The match between Cape Verde and Spain ended in a 0‑0 draw.",
+        "framing": "Is age a decisive factor in evaluating a goalkeeper’s worth for international competition?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Tiny Cape Verde and its 40-year-old keeper just stymied soccer giant Spain - The Washington Post",
+        "description": "Goalkeeper Josimar Dias — best known by his nickname, Vozinha — and his Cape Verde teammates were monumental underdogs against the Spaniards. The match ended, 0-0.",
+        "source": "The Washington Post",
+        "publishedAt": "2026-06-16T01:30:17Z"
+      },
+      "facts": {
+        "facts": [
+          "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old.",
+          "Josimar Dias and his Cape Verde teammates were underdogs against Spain.",
+          "The match between Cape Verde and Spain ended in a 0-0 draw."
+        ],
+        "entities": [
+          "Josimar Dias",
+          "Vozinha",
+          "Cape Verde",
+          "Spain",
+          "The Washington Post"
+        ],
+        "themes": [
+          "underdog",
+          "soccer",
+          "international football",
+          "goalkeeper",
+          "draw"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Does the performance of veteran goalkeeper Josimar Dias in the 0‑0 draw against Spain demonstrate that age is less a barrier to success in international football?",
+        "background": "Goalkeeper Josimar Dias, known as Vozinha, is 40 years old. He and his Cape Verde teammates were considered underdogs against Spain. The match between Cape Verde and Spain ended in a 0‑0 draw.",
+        "framing": "Does the performance of veteran goalkeeper Josimar Dias in the 0‑0 draw against Spain demonstrate that age is less a barrier to success in international football?",
+        "emotion": 9,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill - AP News",
+        "description": "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced Sunday by President Donald Trump. Some are expressing skepticism as they ask the White House for details. The agreement is set for a ce…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T00:51:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump.",
+          "Some Republicans are expressing skepticism and are asking the White House for details about the agreement."
+        ],
+        "entities": [
+          "Donald Trump",
+          "United States",
+          "Iran",
+          "Republicans",
+          "Capitol Hill",
+          "White House",
+          "Associated Press"
+        ],
+        "themes": [
+          "US-Iran diplomatic agreement",
+          "Legislative scrutiny",
+          "Political skepticism",
+          "Request for government information"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should Congress require full disclosure of the terms of the U.S.–Iran agreement announced by President Trump?",
+        "background": "President Donald Trump announced a diplomatic agreement with Iran on a Sunday. Republicans on Capitol Hill have said they need more information about that agreement. Some Republican members are expressing skepticism and have asked the White House for details.",
+        "framing": "Should Congress require full disclosure of the terms of the U.S.–Iran agreement announced by President Trump?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill - AP News",
+        "description": "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced Sunday by President Donald Trump. Some are expressing skepticism as they ask the White House for details. The agreement is set for a ce…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T00:51:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump.",
+          "Some Republicans are expressing skepticism and are asking the White House for details about the agreement."
+        ],
+        "entities": [
+          "Donald Trump",
+          "United States",
+          "Iran",
+          "Republicans",
+          "Capitol Hill",
+          "White House",
+          "Associated Press"
+        ],
+        "themes": [
+          "US-Iran diplomatic agreement",
+          "Legislative scrutiny",
+          "Political skepticism",
+          "Request for government information"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should Congress receive full details of the U.S.–Iran agreement announced by President Trump before assessing its merits?",
+        "background": "President Donald Trump announced a diplomatic agreement with Iran on a Sunday. Republicans on Capitol Hill have stated they need more information about the agreement. Some Republicans are expressing skepticism and have asked the White House for details. No further specifics of the agreement have been disclosed publicly.",
+        "framing": "Is it appropriate for Congress to demand complete disclosure of the terms of the U.S.–Iran agreement before forming a legislative response?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill - AP News",
+        "description": "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced Sunday by President Donald Trump. Some are expressing skepticism as they ask the White House for details. The agreement is set for a ce…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T00:51:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump.",
+          "Some Republicans are expressing skepticism and are asking the White House for details about the agreement."
+        ],
+        "entities": [
+          "Donald Trump",
+          "United States",
+          "Iran",
+          "Republicans",
+          "Capitol Hill",
+          "White House",
+          "Associated Press"
+        ],
+        "themes": [
+          "US-Iran diplomatic agreement",
+          "Legislative scrutiny",
+          "Political skepticism",
+          "Request for government information"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should Congress demand full disclosure of the details of the US‑Iran agreement announced by President Trump?",
+        "background": "Republicans on Capitol Hill have stated they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump. Some Republican members are expressing skepticism and have formally asked the White House for details of the agreement.",
+        "framing": "Should Congress require complete transparency from the executive branch regarding the terms and implications of the US‑Iran deal?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "Trump’s Iran deal greeted with skepticism and scrutiny on Capitol Hill - AP News",
+        "description": "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced Sunday by President Donald Trump. Some are expressing skepticism as they ask the White House for details. The agreement is set for a ce…",
+        "source": "Associated Press",
+        "publishedAt": "2026-06-16T00:51:00Z"
+      },
+      "facts": {
+        "facts": [
+          "Republicans on Capitol Hill say they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump.",
+          "Some Republicans are expressing skepticism and are asking the White House for details about the agreement."
+        ],
+        "entities": [
+          "Donald Trump",
+          "United States",
+          "Iran",
+          "Republicans",
+          "Capitol Hill",
+          "White House",
+          "Associated Press"
+        ],
+        "themes": [
+          "US-Iran diplomatic agreement",
+          "Legislative scrutiny",
+          "Political skepticism",
+          "Request for government information"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should Congress demand detailed disclosure of the U.S.–Iran agreement announced by President Trump?",
+        "background": "Republicans on Capitol Hill have stated they need more information about the agreement between the United States and Iran announced on a Sunday by President Donald Trump. Some Republicans are expressing skepticism and are asking the White House for details about the agreement.",
+        "framing": "Should Congress require the executive branch to provide detailed information about the U.S.–Iran agreement?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.8
+      },
+      "average_eval": 9.8
+    },
+    {
+      "signal": {
+        "title": "Reflecting Pool Appears Green After Trump Renovation: Photos - Forbes",
+        "description": "The Department of the Interior said the algae bloom turning the pool green was being “vacuumed up as we speak.”",
+        "source": "Forbes",
+        "publishedAt": "2026-06-16T00:01:25Z"
+      },
+      "facts": {
+        "facts": [
+          "The Reflecting Pool appeared green after a renovation associated with Trump.",
+          "The Department of the Interior said the algae bloom turning the pool green was being \"vacuumed up as we speak.\"",
+          "Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16."
+        ],
+        "entities": [
+          "Reflecting Pool",
+          "Trump",
+          "Department of the Interior",
+          "Forbes"
+        ],
+        "themes": [
+          "environmental issue",
+          "political figure",
+          "government response",
+          "media coverage"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should political leaders be held accountable for environmental impacts resulting from their renovation projects?",
+        "background": "The Reflecting Pool appeared green after a renovation associated with former President Trump. The Department of the Interior reported that an algae bloom turning the pool green was being \"vacuumed up as we speak.\" Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16.",
+        "framing": "To what extent should political figures be responsible for unintended environmental consequences of their construction or renovation initiatives?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Reflecting Pool Appears Green After Trump Renovation: Photos - Forbes",
+        "description": "The Department of the Interior said the algae bloom turning the pool green was being “vacuumed up as we speak.”",
+        "source": "Forbes",
+        "publishedAt": "2026-06-16T00:01:25Z"
+      },
+      "facts": {
+        "facts": [
+          "The Reflecting Pool appeared green after a renovation associated with Trump.",
+          "The Department of the Interior said the algae bloom turning the pool green was being \"vacuumed up as we speak.\"",
+          "Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16."
+        ],
+        "entities": [
+          "Reflecting Pool",
+          "Trump",
+          "Department of the Interior",
+          "Forbes"
+        ],
+        "themes": [
+          "environmental issue",
+          "political figure",
+          "government response",
+          "media coverage"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the government prioritize immediate remediation of algae blooms in iconic public sites over political considerations in renovation projects?",
+        "background": "The Reflecting Pool turned green after a renovation linked to former President Trump. The Department of the Interior reported that the algae bloom was being \"vacuumed up as we speak.\" Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16.",
+        "framing": "To what extent should environmental cleanup take precedence over political implications when a high‑profile renovation results in an algae bloom?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Reflecting Pool Appears Green After Trump Renovation: Photos - Forbes",
+        "description": "The Department of the Interior said the algae bloom turning the pool green was being “vacuumed up as we speak.”",
+        "source": "Forbes",
+        "publishedAt": "2026-06-16T00:01:25Z"
+      },
+      "facts": {
+        "facts": [
+          "The Reflecting Pool appeared green after a renovation associated with Trump.",
+          "The Department of the Interior said the algae bloom turning the pool green was being \"vacuumed up as we speak.\"",
+          "Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16."
+        ],
+        "entities": [
+          "Reflecting Pool",
+          "Trump",
+          "Department of the Interior",
+          "Forbes"
+        ],
+        "themes": [
+          "environmental issue",
+          "political figure",
+          "government response",
+          "media coverage"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should the federal government be held accountable for environmental mishaps resulting from political renovation projects?",
+        "background": "The Reflecting Pool appeared green after a renovation associated with former President Trump. The Department of the Interior reported that the algae bloom turning the pool green was being \"vacuumed up as we speak.\" Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16.",
+        "framing": "To what extent should the federal government be responsible for addressing environmental impacts caused by politically driven renovation projects?",
+        "emotion": 5,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Reflecting Pool Appears Green After Trump Renovation: Photos - Forbes",
+        "description": "The Department of the Interior said the algae bloom turning the pool green was being “vacuumed up as we speak.”",
+        "source": "Forbes",
+        "publishedAt": "2026-06-16T00:01:25Z"
+      },
+      "facts": {
+        "facts": [
+          "The Reflecting Pool appeared green after a renovation associated with Trump.",
+          "The Department of the Interior said the algae bloom turning the pool green was being \"vacuumed up as we speak.\"",
+          "Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16."
+        ],
+        "entities": [
+          "Reflecting Pool",
+          "Trump",
+          "Department of the Interior",
+          "Forbes"
+        ],
+        "themes": [
+          "environmental issue",
+          "political figure",
+          "government response",
+          "media coverage"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the federal government be held accountable for addressing environmental damage caused by politically motivated renovation projects?",
+        "background": "The Reflecting Pool turned green after a renovation that was associated with former President Trump. The Department of the Interior reported that the algae bloom turning the pool green was being \"vacuumed up as we speak.\" Forbes published an article titled \"Reflecting Pool Appears Green After Trump Renovation: Photos\" on 2026-06-16.",
+        "framing": "To what extent should the federal government be responsible for mitigating ecological impacts that arise from renovation projects linked to political figures?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    }
+  ]
+}

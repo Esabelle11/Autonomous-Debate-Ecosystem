@@ -7,10 +7,7 @@ import { speakLine } from "./tts.js";
 const AUDIO_FOLDER =
   process.env.AUDIO_FOLDER || "./audio";
 
-export async function buildEpisodeAudio(
-  episodeId,
-  transcript
-) {
+export async function buildEpisodeAudio(episodeId, transcript) {
   if (!transcript?.length) {
     return { audioUrl: "", duration: 0, timeline: [] };
   }
@@ -24,7 +21,7 @@ export async function buildEpisodeAudio(
 
 
   for (const line of transcript) {
-    const audio = await speakLine(
+    const {audio, duration} = await speakLine(
       line.speaker,
       line.text
     );
@@ -33,14 +30,17 @@ export async function buildEpisodeAudio(
       chunks.push(audio);
     }
 
+
+    // console.log("audio duration: ",duration)
+
     timeline.push({
       speaker:line.speaker,
       start:currentTime,
-      end:currentTime+audio.duration,
-      duration:audio.duration
+      end:currentTime+duration,
+      duration:duration
     });
 
-    currentTime+=audio.duration;
+    currentTime+=duration;
   }
 
   if (chunks.length === 0) {
