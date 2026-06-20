@@ -1,3 +1,5 @@
+import { cosineSimilarity } from "./similarity.js";
+import { getEmbedding } from "./embedding.js";
 
 // =========================
 // NODE
@@ -10,26 +12,25 @@ function extractClaims(text) {
         .slice(0, 3);
 }
 
-export function createNode({ speaker, text, turn }) {
-
+export function createNode({ speaker, text, turn, embedding }) {
     return {
         id: `${speaker}_${turn}_${Date.now()}`,
         speaker,
         text,
         turn,
 
-        // NEW ARGUMENT STRUCTURE
         claims: extractClaims(text),
-        stance: null, // support | oppose | neutral
-        relation: null, // reply | support | refute | extend
+        stance: null,
+        relation: null,
         targetNodes: [],
 
         repliesTo: null,
         contradicts: [],
 
         strength: 0,
-        heat: 0,
         viral: false,
+        viralScore: 0,     // NEW
+        embedding,         // NEW
         type: "claim"
     };
 }
@@ -122,34 +123,115 @@ function detectContradiction(a, b) {
 // NODE SCORING
 // =========================
 export function scoreNode(node) {
-let score = 0;
+    let score = 0;
 
-if (node.text.length > 200) score += 2;
-if (node.relation === "refute") score += 3;
-if (node.claims.length > 1) score += 1;
+    if (node.text.length > 200) score += 2;
+    if (node.relation === "refute") score += 3;
+    if (node.claims.length > 1) score += 1;
 
-const signalWords = ["because", "therefore", "however", "thus"];
-if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
-    score += 2;
-}
+    const signalWords = ["because", "therefore", "however", "thus"];
+    if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
+        score += 2;
+    }
 
-node.strength = Math.min(10, score);
+    node.strength = Math.min(10, score);
 }
 
 
 // =========================
 // VIRAL DETECTION
 // =========================
-export function detectViralNodes(state, node) {
-const keywords = ["war", "crime", "illegal", "scandal", "corrupt", "collapse"];
+export async function detectViralNodes(state, node) {
+    console.log("node before in detectViralNodes: ",node.viralScore)
+    const text = node.text.toLowerCase();
+    console.log("text in detectViralNodes: ",text)
 
-const text = node.text.toLowerCase();
+    // =========================
+    // 1. CONTROVERSY SIGNAL
+    // =========================
+    const controversyKeywords = [
+        "war", "crime", "illegal", "scandal", "corrupt", "collapse"
+    ];
 
-const heat = keywords.filter(k => text.includes(k)).length;
+    const keywordScore = controversyKeywords.filter(k => text.includes(k)).length * 1.5;
 
-node.heat = heat + state.heat;
+    // =========================
+    // 2. DISAGREEMENT SIGNAL
+    // =========================
+    let disagreementScore = 0;
 
-if (node.heat >= 2 || node.relation === "refute") {
-    node.viral = true;
-}
+    if (node.relation === "refute") {
+        disagreementScore += 3;
+    }
+
+    // boost if parent exists
+    if (node.repliesTo) {
+        const parent = state.graph.nodes.find(n => n.id === node.repliesTo);
+        if (parent?.relation === "refute") {
+            disagreementScore += 1.5;
+        }
+    }
+
+    // =========================
+    // 3. EMBEDDING NOVELTY 
+    // =========================
+    let noveltyScore = 0;
+
+    if (state.graph.nodes.length > 1) {
+        const similarities = state.graph.nodes
+            .slice(-5)
+            .filter(n => n.embedding)
+            .map(n => cosineSimilarity(node.embedding, n.embedding));
+
+        const avgSim =
+            similarities.reduce((a, b) => a + b, 0) /
+            (similarities.length || 1);
+
+        noveltyScore = 1 - avgSim; // higher = more unique
+    }
+
+    // =========================
+    // 4. GRAPH CENTRALITY (LIGHT VERSION)
+    // =========================
+    const connectionScore =
+        (node.repliesTo ? 1 : 0) +
+        node.contradicts.length * 1.5;
+
+    // =========================
+    // 5. EMOTIONAL / INTENSITY SIGNAL
+    // =========================
+    const emotionalWords = [
+        "shocking", "outrage", "disaster",
+        "unacceptable", "critical", "urgent"
+    ];
+
+    const emotionScore =
+        emotionalWords.filter(w => text.includes(w)).length;
+
+    // =========================
+    // FINAL VIRAL SCORE
+    // =========================
+    node.viralScore =
+        keywordScore +
+        disagreementScore +
+        noveltyScore * 4 +
+        connectionScore +
+        emotionScore * 2;
+
+    // =========================
+    // THRESHOLD
+    // =========================
+    node.viral = node.viralScore > 5;
+
+    // store reason
+    node.viralBreakdown = {
+        keywordScore,
+        disagreementScore,
+        noveltyScore,
+        connectionScore,
+        emotionScore
+    };
+    console.log("node after in detectViralNodes: ",node.viralScore)
+
+
 }

@@ -4,8 +4,16 @@ import { system,emceePromptStyle } from "../config/agent_config.js";
 import { createState, updateHeat, updateStagnation, updateMemory} from "../helper/debate_state.js";
 import { generateDebatePackage, director, callAgent} from "../helper/debate_director.js";
 import { createNode, linkNode, scoreNode, detectViralNodes} from "../helper/argument_graph.js";
-
+import { getEmbedding } from "../helper/embedding.js";
 dotenv.config();
+
+function stripGraph(graph) {
+  return {
+    nodes: graph.nodes.map(({ embedding, ...rest }) => rest),
+    edges: graph.edges,
+    claimClusters: graph.claimClusters
+  };
+}
 
 // =========================
 // MAIN ENGINE
@@ -21,10 +29,13 @@ export async function generateDebate(topic, background) {
 
     const result = await callAgent(decision, state);
 
+    const embedding = await getEmbedding(result.speech);
+
     const node = createNode({
-      speaker: result.speaker.name,
-      text: result.speech,
-      turn: state.turn
+        speaker: result.speaker.name,
+        text: result.speech,
+        turn: state.turn,
+        embedding
     });
 
     linkNode(state, node,decision.speaker);
@@ -48,6 +59,6 @@ export async function generateDebate(topic, background) {
 
   return {
     transcript: state.transcript,
-    graph: state.graph
+    graph: stripGraph(state.graph)
   };
 }
