@@ -124,7 +124,7 @@ async function fetchArticles() {
     {
       params: {
         language: "en",
-        pageSize: 15,
+        pageSize: 5,
         apiKey: process.env.NEWS_API_KEY
       }
     }

@@ -1,8 +1,7 @@
-import OpenAI from "openai";
 import dotenv from "dotenv";
-import { system,emceePromptStyle } from "../config/agent_config.js";
+import { emceePromptStyle } from "../config/agent_config.js";
 import { createState, updateHeat, updateStagnation, updateMemory} from "../helper/debate_state.js";
-import { generateDebatePackage, director, callAgent} from "../helper/debate_director.js";
+import { generateDebatePackage, director, callAgent} from "./debate_director.js";
 import { createNode, linkNode, scoreNode, detectViralNodes} from "../helper/argument_graph.js";
 import { getEmbedding } from "../helper/embedding.js";
 dotenv.config();
@@ -15,6 +14,8 @@ function stripGraph(graph) {
   };
 }
 
+
+
 // =========================
 // MAIN ENGINE
 // =========================
@@ -22,7 +23,7 @@ export async function generateDebate(topic, background) {
   const state = createState(topic, background);
   
   state.debatePackage= await generateDebatePackage(topic, background);
-
+  console.log("[state.debatePackage] : ", state.debatePackage)
   while (true) {
     const decision = director(state);
     // console.log("decision: ",decision)
@@ -59,6 +60,7 @@ export async function generateDebate(topic, background) {
 
   return {
     transcript: state.transcript,
+    debatePackage: state.debatePackage,
     graph: stripGraph(state.graph)
   };
 }

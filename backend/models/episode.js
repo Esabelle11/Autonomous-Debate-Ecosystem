@@ -6,6 +6,7 @@ export function createEpisode({
   audioUrl = "",
   duration = 0,
   transcript = [],
+  debatePackage = [],
   graph=[],
   timeline = []
 }) {
@@ -24,6 +25,8 @@ export function createEpisode({
     duration,
 
     transcript,
+    
+    debatePackage,
 
     timeline,
     

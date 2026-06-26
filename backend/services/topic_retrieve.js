@@ -99,7 +99,7 @@ export async function selectBestTopic() {
     */
 
     const candidates = rows.filter(r =>
-      Number(r.average) > 9 &&
+      Number(r.average) >= 9 &&
       Number(r.selected) === 0
     );
 

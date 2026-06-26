@@ -10,11 +10,14 @@ export function createState(topic, background) {
         debatePackage: null,
 
         turn: 0,
+        phase: "OPENING",
+        phaseTurn:0,
 
         heat: 0,
         stagnation: 0,
 
         lastSpeaker: null,
+        last_speech: "",
 
         memory: [],
         transcript: [],
@@ -32,6 +35,17 @@ export function createState(topic, background) {
         lastNode: null
     };
 }
+
+// =========================
+// PHASE
+// =========================
+export const DebatePhases = {
+  OPENING: "OPENING",
+  BUILD: "BUILD",
+  CLASH: "CLASH",
+  CONSOLIDATION: "CONSOLIDATION",
+  CLOSING: "CLOSING"
+};
 
 
 // =========================
@@ -67,10 +81,13 @@ export function updateStagnation(state) {
 // =========================
 export function updateMemory(state, result) {
     state.memory.push(`${result.speaker.name}: ${result.speech}`);
+    
+    state.last_speech= `${result.speech}`;
   
     state.transcript.push({
       speaker: result.speaker.name,
-      text: result.speech
+      text: result.speech,
+      phase: state.phase,
     });
 }
   

@@ -14,27 +14,26 @@ async function run() {
   console.log("Topic:", topic);
   console.log("background:", background);
 
-  const { transcript,graph } = await generateDebate(topic,background,framing);
+  const { transcript, debatePackage, graph } = await generateDebate(topic,background,framing);
   // console.log("transscripts:")
   // console.log(transcript)
   // console.log("graph:", graph);
 
   const episode = createEpisode({
     topic,
-    background,
+    summary:background,
     transcript,
+    debatePackage,
     graph,
     timeline: [],
     audioUrl: ""
   });
 
-  console.log("🎙 Generating audio (this may take a minute)...");
-
-  const audio = await buildEpisodeAudio(episode.id,transcript);
-
-  episode.audioUrl = audio.audioUrl;
-  episode.duration = audio.duration;
-  episode.timeline = audio.timeline;
+  // console.log("🎙 Generating audio (this may take a minute)...");
+  // const audio = await buildEpisodeAudio(episode.id,transcript);
+  // episode.audioUrl = audio.audioUrl;
+  // episode.duration = audio.duration;
+  // episode.timeline = audio.timeline;
 
   const episodes = await loadEpisodes();
 
