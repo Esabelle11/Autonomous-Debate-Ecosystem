@@ -1,5 +1,834 @@
 [
   {
+    "id": "9653071c-ffc8-4fa7-a599-6bc87830a81f",
+    "date": "2026-06-27T14:37:42.651Z",
+    "topic": "Should investors adjust their portfolio strategies based on the timing of the PCE price index release compared to individual corporate earnings reports?",
+    "summary": "S&P 500 futures rose as Micron's shares surged following its earnings report. Wall Street was awaiting the personal consumption expenditures (PCE) price index, the Federal Reserve's preferred inflation gauge, scheduled for release at 8:30 a.m. ET on Thursday. The article reporting these events was published by CNBC on 2026-06-25 at 04:22:00 UTC.",
+    "audioUrl": "/audio/9653071c-ffc8-4fa7-a599-6bc87830a81f.mp3",
+    "duration": 244.52500000000003,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to the show, folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out, weighing a GPS‑style market timing versus staying on a steady path.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Earnings are the real catalyst—when a company like Micron smashes expectations, its stock rockets regardless of a PCE tweak, which the market has already priced in. So stick to the earnings beat and only adjust those outliers, not the whole portfolio.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The PCE number is the market’s “weather forecast”—it moves every sector at once, so I first check that surprise and shift a slice of cash to safety or growth, then I fine‑tune positions around the earnings beat; earnings are a second‑order tweak, not the primary trigger.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alex, you claim the PCE acts like a universal weather forecast, but the data’s impact often fades fast, leaving earnings—real company fundamentals—to drive lasting price moves; why risk a big reallocation on a metric that can be fleeting?",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Marcus, betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise, so you’d be sailing blind without checking the forecast first.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, you treat the whole market like a single thermometer, but Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise; investors can ride that surge even if inflation numbers later turn hot.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse. If inflation spikes, you’d protect the portfolio first, then decide whether Micron’s surge still matters.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, you treat the whole market like a single thermometer, but Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music, not the lead singer. Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, folks, pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups, just that direct back‑and‑forth.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sure, a wild PCE surprise can stir the whole market for a moment, especially in rate‑sensitive sectors, but the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste, not the kitchen temperature.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "I’ll admit a crushing earnings beat like Micron’s can still lift that stock, but you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive, then fine‑tune around the earnings; the big‑road map always comes before the side street.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Sarah, wrap up your positions in a quick recap – no fresh points, just your core takeaways.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings, even though Micron’s stock spiked after its beat; then we fine‑tune positions once the macro signal is clear.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Micron’s earnings beat sent its stock soaring, showing the real scorecard is the company report, while the PCE release is just a reminder of an already‑priced inflation outlook. So stick to earnings as the winning goal and don’t let the “weather forecast” distract you.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays, while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise; both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts, leaving the best mix of when to react still up for debate.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should investors shift their game plan for stocks when the PCE number drops at the same time as a company's earnings roll out?",
+        "keyConflict": "Timing the market like a GPS vs. sticking to a steady route",
+        "stakes": "Miss the big move and lose cash, or over‑react and miss steady gains"
+      },
+      "knownFacts": [
+        "Micron’s stock spiked after its earnings beat",
+        "Wall Street was waiting for the PCE price index at 8:30 a.m. ET"
+      ],
+      "alex": {
+        "stance": "Play the PCE release first, then tweak the portfolio",
+        "role": "The timing‑tactician crew",
+        "openingStrategy": [
+          "Start with a quick check of the PCE surprise",
+          "If PCE is hotter or cooler, move a slice of cash"
+        ],
+        "coreClaims": [
+          "Macro data hits all stocks at once",
+          "Earnings are company‑specific, so they’re a second‑order effect"
+        ],
+        "arguments": [
+          "Big‑picture inflation numbers act like a weather forecast – they tell you if the market will rain or shine today",
+          "If the forecast says ‘storm’, protect the ride before the earnings news hits"
+        ],
+        "attackVectors": [
+          "Say the other side bets on one earnings beat and forgets the overall climate",
+          "Point out that a surprise PCE can swing the whole index faster than any single report"
+        ],
+        "reframeAngles": [
+          "Talk about using a GPS: you check the big‑road map (PCE) before taking a side street (earnings)",
+          "Compare it to checking the tide before sailing – macro first, details later"
+        ],
+        "concessions": [
+          "Earnings still matter for the individual stock’s next move",
+          "Sometimes the PCE surprise is tiny and won’t change the market mood"
+        ],
+        "likelyWeaknesses": [
+          "May over‑react to a small PCE shift",
+          "Can miss a huge earnings surprise that moves a single stock big time"
+        ],
+        "closingThemes": [
+          "Treat the PCE like a traffic light – stop or go before you zip into the earnings lane",
+          "Keep the plan flexible: macro first, then fine‑tune with earnings"
+        ]
+      },
+      "sarah": {
+        "stance": "Let earnings lead, ignore the PCE timing",
+        "role": "The earnings‑first squad",
+        "openingStrategy": [
+          "Watch the earnings report as it drops",
+          "Adjust only the stocks that blew past expectations"
+        ],
+        "coreClaims": [
+          "Company results are the real driver of price moves",
+          "Macro data is already baked into futures"
+        ],
+        "arguments": [
+          "Investors already price in the PCE outlook, so the release is just a reminder",
+          "A big earnings beat can push a stock higher even if the PCE says inflation is hot"
+        ],
+        "attackVectors": [
+          "Call out the other side for treating the whole market like a single thermometer",
+          "Show that micronew‑high after earnings proved timing the PCE wasn’t needed"
+        ],
+        "reframeAngles": [
+          "Compare to checking a recipe: the key ingredient (earnings) decides the taste, not the kitchen temperature (PCE)",
+          "Say the PCE is background music – earnings are the lead singer"
+        ],
+        "concessions": [
+          "Huge PCE surprises can shake the whole market briefly",
+          "Some sectors react more to inflation data than to earnings"
+        ],
+        "likelyWeaknesses": [
+          "May miss a broad market dip from a bad PCE that drags all stocks down",
+          "Risk of being caught flat‑footed if PCE moves the index before earnings hit"
+        ],
+        "closingThemes": [
+          "Focus on the scorecard that really matters – the earnings report",
+          "Don’t let the weather forecast distract you from scoring the winning goal"
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, how fast can you change a position if the PCE surprise is small but earnings are huge?",
+          "Sarah, what do you do when the PCE swings the whole index and your earnings pick is already in play?"
+        ],
+        "pressurePoints": [
+          "Ask Alex if he ever over‑trades on tiny PCE moves",
+          "Ask Sarah if she ever gets blindsided by a market‑wide shift"
+        ],
+        "factChecks": [
+          "Check Alex’s claim that the market always prices in PCE ahead of release",
+          "Check Sarah’s claim that earnings always dominate price action"
+        ],
+        "tradeoffs": [
+          "Do you chase the big macro weather report or the detailed earnings forecast?"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 14.5,
+        "duration": 14.5
+      },
+      {
+        "speaker": "Sarah",
+        "start": 14.5,
+        "end": 31.85,
+        "duration": 17.35
+      },
+      {
+        "speaker": "Alex",
+        "start": 31.85,
+        "end": 49.875,
+        "duration": 18.025
+      },
+      {
+        "speaker": "Marcus",
+        "start": 49.875,
+        "end": 65.575,
+        "duration": 15.7
+      },
+      {
+        "speaker": "Alex",
+        "start": 65.575,
+        "end": 80.375,
+        "duration": 14.8
+      },
+      {
+        "speaker": "Sarah",
+        "start": 80.375,
+        "end": 97.5,
+        "duration": 17.125
+      },
+      {
+        "speaker": "Alex",
+        "start": 97.5,
+        "end": 116.95,
+        "duration": 19.45
+      },
+      {
+        "speaker": "Sarah",
+        "start": 116.95,
+        "end": 135.525,
+        "duration": 18.575
+      },
+      {
+        "speaker": "Marcus",
+        "start": 135.525,
+        "end": 143.70000000000002,
+        "duration": 8.175
+      },
+      {
+        "speaker": "Sarah",
+        "start": 143.70000000000002,
+        "end": 159.85000000000002,
+        "duration": 16.15
+      },
+      {
+        "speaker": "Alex",
+        "start": 159.85000000000002,
+        "end": 177.87500000000003,
+        "duration": 18.025
+      },
+      {
+        "speaker": "Marcus",
+        "start": 177.87500000000003,
+        "end": 184.80000000000004,
+        "duration": 6.925
+      },
+      {
+        "speaker": "Alex",
+        "start": 184.80000000000004,
+        "end": 202.30000000000004,
+        "duration": 17.5
+      },
+      {
+        "speaker": "Sarah",
+        "start": 202.30000000000004,
+        "end": 219.62500000000003,
+        "duration": 17.325
+      },
+      {
+        "speaker": "Marcus",
+        "start": 219.62500000000003,
+        "end": 244.52500000000003,
+        "duration": 24.9
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0_1782570900397",
+          "speaker": "Marcus",
+          "text": "Welcome to the show, folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out, weighing a GPS‑style market timing versus staying on a steady path.",
+          "turn": 0,
+          "claims": [
+            "folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out",
+            "weighing a GPS‑style market timing versus staying on a steady path"
+          ],
+          "stance": null,
+          "relation": null,
+          "targetNodes": [],
+          "repliesTo": null,
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 0,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0,
+            "connectionScore": 0,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Sarah_1_1782570907889",
+          "speaker": "Sarah",
+          "text": "Earnings are the real catalyst—when a company like Micron smashes expectations, its stock rockets regardless of a PCE tweak, which the market has already priced in. So stick to the earnings beat and only adjust those outliers, not the whole portfolio.",
+          "turn": 1,
+          "claims": [
+            "Earnings are the real catalyst—when a company like Micron smashes expectations",
+            "its stock rockets regardless of a PCE tweak",
+            "which the market has already priced in"
+          ],
+          "stance": "Let earnings lead, ignore the PCE timing",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Marcus_0_1782570900397",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.5404304073832864,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.1351076018458216,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Alex_2_1782570933808",
+          "speaker": "Alex",
+          "text": "The PCE number is the market’s “weather forecast”—it moves every sector at once, so I first check that surprise and shift a slice of cash to safety or growth, then I fine‑tune positions around the earnings beat; earnings are a second‑order tweak, not the primary trigger.",
+          "turn": 2,
+          "claims": [
+            "The PCE number is the market’s “weather forecast”—it moves every sector at once",
+            "so I first check that surprise and shift a slice of cash to safety or growth",
+            "then I fine‑tune positions around the earnings beat"
+          ],
+          "stance": "Play the PCE release first, then tweak the portfolio",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_1_1782570907889",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.603181261059445,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.15079531526486123,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Marcus_3_1782570957148",
+          "speaker": "Marcus",
+          "text": "Alex, you claim the PCE acts like a universal weather forecast, but the data’s impact often fades fast, leaving earnings—real company fundamentals—to drive lasting price moves; why risk a big reallocation on a metric that can be fleeting?",
+          "turn": 3,
+          "claims": [
+            "you claim the PCE acts like a universal weather forecast",
+            "the data’s impact often fades fast",
+            "leaving earnings—real company fundamentals—to drive lasting price moves"
+          ],
+          "stance": "neutral",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_2_1782570933808",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.6896271140254964,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.1724067785063741,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Alex_4_1782570965290",
+          "speaker": "Alex",
+          "text": "Marcus, betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise, so you’d be sailing blind without checking the forecast first.",
+          "turn": 4,
+          "claims": [
+            "betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise",
+            "so you’d be sailing blind without checking the forecast first"
+          ],
+          "stance": "Play the PCE release first, then tweak the portfolio",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Marcus_3_1782570957148",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.8113028305583563,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.20282570763958907,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Sarah_5_1782570973129",
+          "speaker": "Sarah",
+          "text": "Alex, you treat the whole market like a single thermometer, but Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise; investors can ride that surge even if inflation numbers later turn hot.",
+          "turn": 5,
+          "claims": [
+            "you treat the whole market like a single thermometer",
+            "Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise",
+            "investors can ride that surge even if inflation numbers later turn hot"
+          ],
+          "stance": "Let earnings lead, ignore the PCE timing",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_4_1782570965290",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.8083779714817703,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.20209449287044257,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Alex_6_1782570980393",
+          "speaker": "Alex",
+          "text": "Sarah, betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse. If inflation spikes, you’d protect the portfolio first, then decide whether Micron’s surge still matters.",
+          "turn": 6,
+          "claims": [
+            "betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse",
+            "you’d protect the portfolio first",
+            "then decide whether Micron’s surge still matters"
+          ],
+          "stance": "Play the PCE release first, then tweak the portfolio",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_5_1782570973129",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.6992054277163264,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.1748013569290816,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Sarah_7_1782570988501",
+          "speaker": "Sarah",
+          "text": "Alex, you treat the whole market like a single thermometer, but Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music, not the lead singer. Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise.",
+          "turn": 7,
+          "claims": [
+            "you treat the whole market like a single thermometer",
+            "Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music",
+            "Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise"
+          ],
+          "stance": "Let earnings lead, ignore the PCE timing",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_6_1782570980393",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.567519117190062,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.1418797792975155,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Marcus_8_1782571023305",
+          "speaker": "Marcus",
+          "text": "Alright, folks, pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups, just that direct back‑and‑forth.",
+          "turn": 8,
+          "claims": [
+            "pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups",
+            "just that direct back‑and‑forth"
+          ],
+          "stance": "neutral",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_7_1782570988501",
+          "contradicts": [],
+          "strength": 1,
+          "viral": false,
+          "viralScore": 2.7479766772737806,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.43699416931844515,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Sarah_9_1782571030263",
+          "speaker": "Sarah",
+          "text": "Sure, a wild PCE surprise can stir the whole market for a moment, especially in rate‑sensitive sectors, but the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste, not the kitchen temperature.",
+          "turn": 9,
+          "claims": [
+            "a wild PCE surprise can stir the whole market for a moment",
+            "especially in rate‑sensitive sectors",
+            "the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste"
+          ],
+          "stance": "Let earnings lead, ignore the PCE timing",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Marcus_8_1782571023305",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 2.0088311693928924,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.2522077923482231,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Alex_10_1782571035791",
+          "speaker": "Alex",
+          "text": "I’ll admit a crushing earnings beat like Micron’s can still lift that stock, but you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive, then fine‑tune around the earnings; the big‑road map always comes before the side street.",
+          "turn": 10,
+          "claims": [
+            "I’ll admit a crushing earnings beat like Micron’s can still lift that stock",
+            "you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive",
+            "then fine‑tune around the earnings"
+          ],
+          "stance": "Play the PCE release first, then tweak the portfolio",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_9_1782571030263",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.9275174803161477,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.23187937007903692,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Marcus_11_1782571041517",
+          "speaker": "Marcus",
+          "text": "Alright, Alex and Sarah, wrap up your positions in a quick recap – no fresh points, just your core takeaways.",
+          "turn": 11,
+          "claims": [
+            "wrap up your positions in a quick recap – no fresh points",
+            "just your core takeaways"
+          ],
+          "stance": "neutral",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_10_1782571035791",
+          "contradicts": [],
+          "strength": 1,
+          "viral": false,
+          "viralScore": 2.521885665331253,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.38047141633281323,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Alex_12_1782571047243",
+          "speaker": "Alex",
+          "text": "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings, even though Micron’s stock spiked after its beat; then we fine‑tune positions once the macro signal is clear.",
+          "turn": 12,
+          "claims": [
+            "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings",
+            "even though Micron’s stock spiked after its beat",
+            "then we fine‑tune positions once the macro signal is clear"
+          ],
+          "stance": "Play the PCE release first, then tweak the portfolio",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Marcus_11_1782571041517",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 2.253861231786316,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.313465307946579,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Sarah_13_1782571054424",
+          "speaker": "Sarah",
+          "text": "Micron’s earnings beat sent its stock soaring, showing the real scorecard is the company report, while the PCE release is just a reminder of an already‑priced inflation outlook. So stick to earnings as the winning goal and don’t let the “weather forecast” distract you.",
+          "turn": 13,
+          "claims": [
+            "Micron’s earnings beat sent its stock soaring",
+            "showing the real scorecard is the company report",
+            "while the PCE release is just a reminder of an already‑priced inflation outlook"
+          ],
+          "stance": "Let earnings lead, ignore the PCE timing",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Alex_12_1782571047243",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.827416868072155,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.20685421701803874,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        },
+        {
+          "id": "Marcus_14_1782571062650",
+          "speaker": "Marcus",
+          "text": "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays, while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise; both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts, leaving the best mix of when to react still up for debate.",
+          "turn": 14,
+          "claims": [
+            "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays",
+            "while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise",
+            "both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts"
+          ],
+          "stance": "neutral",
+          "relation": "extend",
+          "targetNodes": [],
+          "repliesTo": "Sarah_13_1782571054424",
+          "contradicts": [],
+          "strength": 3,
+          "viral": false,
+          "viralScore": 1.773557166103776,
+          "type": "claim",
+          "viralBreakdown": {
+            "keywordScore": 0,
+            "disagreementScore": 0,
+            "noveltyScore": 0.19338929152594397,
+            "connectionScore": 1,
+            "emotionScore": 0
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0_1782570900397",
+          "to": "Sarah_1_1782570907889",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0_1782570900397",
+          "to": "Sarah_1_1782570907889",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_1_1782570907889",
+          "to": "Alex_2_1782570933808",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_1_1782570907889",
+          "to": "Alex_2_1782570933808",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_2_1782570933808",
+          "to": "Marcus_3_1782570957148",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_2_1782570933808",
+          "to": "Marcus_3_1782570957148",
+          "type": "extend"
+        },
+        {
+          "from": "Marcus_3_1782570957148",
+          "to": "Alex_4_1782570965290",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3_1782570957148",
+          "to": "Alex_4_1782570965290",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_4_1782570965290",
+          "to": "Sarah_5_1782570973129",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_4_1782570965290",
+          "to": "Sarah_5_1782570973129",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_5_1782570973129",
+          "to": "Alex_6_1782570980393",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_5_1782570973129",
+          "to": "Alex_6_1782570980393",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_6_1782570980393",
+          "to": "Sarah_7_1782570988501",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_6_1782570980393",
+          "to": "Sarah_7_1782570988501",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_7_1782570988501",
+          "to": "Marcus_8_1782571023305",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_7_1782570988501",
+          "to": "Marcus_8_1782571023305",
+          "type": "extend"
+        },
+        {
+          "from": "Marcus_8_1782571023305",
+          "to": "Sarah_9_1782571030263",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8_1782571023305",
+          "to": "Sarah_9_1782571030263",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_9_1782571030263",
+          "to": "Alex_10_1782571035791",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_9_1782571030263",
+          "to": "Alex_10_1782571035791",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_10_1782571035791",
+          "to": "Marcus_11_1782571041517",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_10_1782571035791",
+          "to": "Marcus_11_1782571041517",
+          "type": "extend"
+        },
+        {
+          "from": "Marcus_11_1782571041517",
+          "to": "Alex_12_1782571047243",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11_1782571041517",
+          "to": "Alex_12_1782571047243",
+          "type": "extend"
+        },
+        {
+          "from": "Alex_12_1782571047243",
+          "to": "Sarah_13_1782571054424",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12_1782571047243",
+          "to": "Sarah_13_1782571054424",
+          "type": "extend"
+        },
+        {
+          "from": "Sarah_13_1782571054424",
+          "to": "Marcus_14_1782571062650",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13_1782571054424",
+          "to": "Marcus_14_1782571062650",
+          "type": "extend"
+        }
+      ],
+      "claimClusters": {
+        "support": [],
+        "oppose": [],
+        "neutral": []
+      }
+    }
+  },
+  {
     "id": "e351a33f-2460-4505-a42b-56b55673253f",
     "date": "2026-06-26T09:42:37.761Z",
     "topic": "Should international assistance focus more on immediate disaster relief or on long‑term reconstruction after the recent Venezuelan earthquakes?",
