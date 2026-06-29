@@ -9,20 +9,13 @@ export default function Transcript({
     }
   
     return (
-      <div
-        style={{
-          marginTop: "20px",
-          padding: "15px",
-          border: "1px solid #444",
-          borderRadius: "10px",
-          background: "#222",
-          maxHeight: "400px",
-          overflowY: "auto"
-        }}
-      >
-        <h2>
-          📝 Transcript
-        </h2>
+      <section className="transcript">
+        <div className="transcript-header">
+          <div>
+            <p className="transcript-eyebrow">Debate Transcript</p>
+            {/* <h2>Line-by-line exchange</h2> */}
+          </div>
+        </div>
   
         {transcript.map(
           (line, index) => {
@@ -32,21 +25,23 @@ export default function Transcript({
             return (
               <div
                 key={index}
-                style={{
-                  marginBottom: "15px",
-                  padding: "10px",
-                  borderRadius: "8px",
-                  background: active
-                    ? "#333"
-                    : "transparent",
-                  border: active
-                    ? "2px solid gold"
-                    : "1px solid #555"
-                }}
+                className={
+                  active
+                    ? "transcript-line active"
+                    : "transcript-line"
+                }
               >
-                <strong>
-                  {line.speaker}
-                </strong>
+                <div className="transcript-line-header">
+                  <strong>
+                    {line.speaker}
+                  </strong>
+
+                  {line.phase ? (
+                    <span className="transcript-phase">
+                      {line.phase}
+                    </span>
+                  ) : null}
+                </div>
   
                 <p>
                   {line.text}
@@ -55,6 +50,6 @@ export default function Transcript({
             );
           }
         )}
-      </div>
+      </section>
     );
   }

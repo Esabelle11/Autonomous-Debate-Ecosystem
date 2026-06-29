@@ -1,5 +1,5 @@
 
-export async function retry(fn, retries = 3, delay = 10000) {
+export async function retry(fn, retries = 5, delay = 20000) {
     let lastError;
   
     for (let i = 0; i < retries; i++) {

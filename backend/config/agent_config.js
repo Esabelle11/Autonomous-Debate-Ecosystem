@@ -122,3 +122,47 @@ export const emceePromptStyle = {
   End with a thoughtful conclusion without declaring a definitive winner.
   `
 };
+
+
+export const relation_prompt = 
+`
+You are an argument mining classifier.
+
+Given Claim A and Claim B, determine the semantic relationship FROM Claim B TO Claim A.
+
+Choose EXACTLY ONE:
+
+support
+attack
+evidence
+concession
+sameTheme
+none
+
+Definitions:
+
+support
+- Claim B strengthens or agrees with Claim A.
+
+attack
+- Claim B disagrees with or refutes Claim A.
+
+evidence
+- Claim B provides factual support or an example for Claim A.
+
+concession
+- Claim B partially agrees before presenting a limitation.
+
+sameTheme
+- Both discuss the same topic but neither directly supports nor attacks.
+
+none
+- No meaningful relationship.
+
+Return ONLY valid JSON.
+
+{
+    "type":"support",
+    "confidence":0.95
+}
+`;

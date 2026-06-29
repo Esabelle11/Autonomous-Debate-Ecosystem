@@ -1,20 +1,81 @@
 .transcript {
-    margin-top: 20px;
-    padding: 15px;
-    border-radius: 10px;
-    background: #111827;
-    max-height: 400px;
-    overflow-y: auto;
-  }
-  
-  .transcript-line {
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 8px;
-    border: 1px solid #333;
-  }
-  
-  .transcript-line.active {
-    border: 2px solid gold;
-    background: #1f2937;
-  }
+  margin-top: 28px;
+  padding: 24px;
+  border-radius: 24px;
+  background:
+    linear-gradient(180deg, rgba(15, 23, 42, 0.96), rgba(15, 23, 42, 0.88));
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  box-shadow: 0 20px 50px rgba(2, 6, 23, 0.28);
+  max-height: 420px;
+  overflow-y: auto;
+}
+
+.transcript-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.transcript-header h2 {
+  margin: 4px 0 0;
+}
+
+.transcript-eyebrow {
+  margin: 0;
+  color: #7dd3fc;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.transcript-line {
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  border-radius: 16px;
+  border: 1px solid rgba(71, 85, 105, 0.72);
+  background: rgba(15, 23, 42, 0.55);
+  transition: border-color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+}
+
+.transcript-line:hover {
+  transform: translateY(-1px);
+  border-color: rgba(125, 211, 252, 0.35);
+}
+
+.transcript-line.active {
+  border: 1px solid rgba(250, 204, 21, 0.72);
+  background: rgba(51, 65, 85, 0.72);
+  box-shadow: 0 0 0 3px rgba(250, 204, 21, 0.12);
+}
+
+.transcript-line-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.transcript-line-header strong {
+  font-size: 1rem;
+}
+
+.transcript-phase {
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: #cbd5e1;
+  background: rgba(30, 41, 59, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.16);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
+.transcript-line p {
+  margin: 0;
+  color: #dbe4f0;
+  line-height: 1.55;
+}

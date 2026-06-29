@@ -3,6 +3,7 @@ import "../styles/PodcastPlayer.css";
 import AgentCard from "./AgentCard";
 import Transcript from "./Transcript";
 import Visualizer from "./Visualizer";
+import DebateGraph from "./DebateGraph";
 
 const API = import.meta.env.VITE_API || "http://localhost:3000";
 
@@ -121,15 +122,20 @@ export default function PodcastPlayer({ episode }) {
 
   return (
     <div className="podcast-player">
-      <h2>🎙 {episode.topic}</h2>
+      <div className="podcast-player__hero">
+        <p className="podcast-player__eyebrow">Current Episode</p>
+        <h2>🎙 {episode.topic}</h2>
 
-      <p>{episode.summary}</p>
+        <p className="podcast-player__summary">
+          {episode.summary}
+        </p>
+      </div>
 
       {episode.audioUrl ? (
         <audio
           controls
           ref={audioRef}
-          style={{ width: "100%" }}
+          className="podcast-player__audio"
         />
       ) : (
         <p className="no-audio">
@@ -146,7 +152,10 @@ export default function PodcastPlayer({ episode }) {
         <AgentCard name="Sarah" identity="sarah" role="Skeptic" active={currentSpeaker === "Sarah"} />
       </div>
 
-      <Transcript transcript={episode.transcript} speaker={currentSpeaker} />
+      <div className="podcast-player__insights">
+        <Transcript transcript={episode.transcript} speaker={currentSpeaker} />
+        <DebateGraph graph={episode.graph} currentSpeaker={currentSpeaker} />
+      </div>
     </div>
   );
 }

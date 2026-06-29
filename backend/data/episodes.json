@@ -1,5 +1,915 @@
 [
   {
+    "id": "d738f15b-b036-4294-ad4d-63997798b0f0",
+    "date": "2026-06-29T08:29:14.137Z",
+    "topic": "Should the discovery of low‑density “super‑puff” exoplanets reshape our models of planetary formation?",
+    "summary": "Astronomers have identified a pair of “super‑puff” planets located more than 1,000 light‑years from Earth. These worlds have densities lower than candyfloss, making them among the most tenuous planets known. Their unusual characteristics provide new data points for understanding how planets evolve over cosmic time.",
+    "audioUrl": "/audio/d738f15b-b036-4294-ad4d-63997798b0f0.mp3",
+    "duration": 235.525,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to the show, where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The super‑puff worlds are real, ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Most planets still line up with our classic formation model, and just two fluffy outliers can’t overturn it; we just need a small tweak, not a whole rulebook rewrite.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Sarah, you claim just two outliers can be brushed off, but if those “fluffy” planets form at all, they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Marcus, you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work, just like swapping a car’s driver seat to the back and expecting it to run smoothly.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes, not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever; we update our models when the data demand it, or we’ll miss the next cosmic surprise.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, we barely know anything about these puffies—without pressure, temperature, or composition data they’re just odd outliers, not a reason to overturn a model that predicts billions of planets correctly; overhauling the whole theory now would scramble the reliable predictions we already trust.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map, and we’ll miss the next big surprise; if a recipe can’t bake a cake, you add a new ingredient, so we must tweak our planetary‑making rules now.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Jamie, each of you, pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up, just the clash.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sure, the classic model still explains most worlds, but those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now, or we’ll miss the next cosmic surprise.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Those fluffy worlds are fascinating and deserve more data, but swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest, well‑tested tweaks.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Sarah, give me a quick wrap‑up of your main point—no fresh arguments, just a concise closing.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "We’ve seen two ultra‑light, marshmallow‑like super‑puff planets that our current formation recipes can’t bake, so—just like adding a new ingredient when a cake won’t rise—we must update the models; science grows by testing new clues, not ignoring them.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "We’ve seen two super‑puff, marshmallow‑light planets, but they’re just a couple of outliers; like a few stray kids in a class, they don’t justify rewriting the whole curriculum. Let’s keep the solid formation model and add only a modest, well‑tested wing to accommodate them.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now, while Sarah cautions against overhauling a framework that already explains most worlds, suggesting only modest, data‑driven tweaks. The debate leaves open how much evidence is needed before reshaping theory, inviting further observations before any consensus.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should we change planet‑making rules because of super‑puff worlds?",
+        "keyConflict": "New weird planets vs old trusted models",
+        "stakes": "If we ignore them, we miss clues; if we rewrite too fast, we throw out good work"
+      },
+      "knownFacts": [
+        "Astronomers found two super‑puff planets far away",
+        "These planets are lighter than a marshmallow"
+      ],
+      "alex": {
+        "stance": "Yes, update the recipes for making planets",
+        "role": "The “future‑shapers” team",
+        "openingStrategy": [
+          "Show the fluff‑planets are real and weird",
+          "Compare them to a balloon that shouldn’t float that high"
+        ],
+        "coreClaims": [
+          "Current models can’t explain such low density",
+          "New data means we need fresh ideas"
+        ],
+        "arguments": [
+          "If a recipe can’t bake a cake, you add a new ingredient",
+          "Science works by testing what we see, not by ignoring it"
+        ],
+        "attackVectors": [
+          "Point out that old models leave these planets as ‘mistakes’",
+          "Say staying stuck is like refusing to use a GPS because you know the old road"
+        ],
+        "reframeAngles": [
+          "Talk about exploring new worlds instead of protecting old ideas",
+          "Ask if we want to miss the next surprise in space"
+        ],
+        "concessions": [
+          "Admit some old ideas still work for many planets",
+          "Accept that we need more data before fully rewriting"
+        ],
+        "likelyWeaknesses": [
+          "May seem hasty without a full catalog",
+          "Could be seen as tossing out solid work for a few odd cases"
+        ],
+        "closingThemes": [
+          "Science grows when we add new tools",
+          "These fluffy planets are a clue, not a dead end"
+        ]
+      },
+      "sarah": {
+        "stance": "No, keep the core model and tweak a bit",
+        "role": "The “steady‑builders” crew",
+        "openingStrategy": [
+          "Start with how most planets fit the old model",
+          "Show that fluffy planets are rare exceptions"
+        ],
+        "coreClaims": [
+          "One odd couple doesn’t break the whole theory",
+          "We should fine‑tune, not overhaul"
+        ],
+        "arguments": [
+          "If a few stray kids join a class, you don’t change the whole curriculum",
+          "Jumping to new rules can cause confusion, like swapping a car’s driver seat for the back"
+        ],
+        "attackVectors": [
+          "Highlight that we still lack many details about these worlds",
+          "Warn that a full rewrite could mess up predictions for everything else"
+        ],
+        "reframeAngles": [
+          "Focus on the safety of proven science",
+          "Ask if changing everything now would make future discoveries harder"
+        ],
+        "concessions": [
+          "Agree the planets are interesting and need study",
+          "Accept that small tweaks are okay"
+        ],
+        "likelyWeaknesses": [
+          "May appear stuck in the past",
+          "Risk being labeled as ignoring fresh evidence"
+        ],
+        "closingThemes": [
+          "Keep the solid base, add a new wing",
+          "Science moves forward step by step, not by leaping"
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, why does a single odd planet force a whole model change?",
+          "Sarah, how can we be sure the old model still fits when we keep finding weird worlds?"
+        ],
+        "pressurePoints": [
+          "Push Alex on the need for more than two examples",
+          "Push Sarah on the cost of missing a big breakthrough"
+        ],
+        "factChecks": [
+          "Check Alex’s claim that no model can explain low density",
+          "Check Sarah’s claim that only a few planets are weird"
+        ],
+        "tradeoffs": [
+          "Do we risk over‑hauling our map or risk staying stuck on a wrong road?"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 13.875,
+        "duration": 13.875
+      },
+      {
+        "speaker": "Alex",
+        "start": 13.875,
+        "end": 29.625,
+        "duration": 15.75
+      },
+      {
+        "speaker": "Sarah",
+        "start": 29.625,
+        "end": 40.675,
+        "duration": 11.05
+      },
+      {
+        "speaker": "Marcus",
+        "start": 40.675,
+        "end": 53.3,
+        "duration": 12.625
+      },
+      {
+        "speaker": "Sarah",
+        "start": 53.3,
+        "end": 69.94999999999999,
+        "duration": 16.65
+      },
+      {
+        "speaker": "Alex",
+        "start": 69.94999999999999,
+        "end": 89.14999999999999,
+        "duration": 19.2
+      },
+      {
+        "speaker": "Sarah",
+        "start": 89.14999999999999,
+        "end": 107.975,
+        "duration": 18.825
+      },
+      {
+        "speaker": "Alex",
+        "start": 107.975,
+        "end": 127.475,
+        "duration": 19.5
+      },
+      {
+        "speaker": "Marcus",
+        "start": 127.475,
+        "end": 137.04999999999998,
+        "duration": 9.575
+      },
+      {
+        "speaker": "Alex",
+        "start": 137.04999999999998,
+        "end": 152.725,
+        "duration": 15.675
+      },
+      {
+        "speaker": "Sarah",
+        "start": 152.725,
+        "end": 169.35,
+        "duration": 16.625
+      },
+      {
+        "speaker": "Marcus",
+        "start": 169.35,
+        "end": 176.42499999999998,
+        "duration": 7.075
+      },
+      {
+        "speaker": "Alex",
+        "start": 176.42499999999998,
+        "end": 193.45,
+        "duration": 17.025
+      },
+      {
+        "speaker": "Sarah",
+        "start": 193.45,
+        "end": 211.475,
+        "duration": 18.025
+      },
+      {
+        "speaker": "Marcus",
+        "start": 211.475,
+        "end": 235.525,
+        "duration": 24.05
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0",
+          "speaker": "Marcus",
+          "phase": "OPENING",
+          "turn": 0,
+          "text": "Welcome to the show, where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact.",
+          "claims": [
+            "where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": null,
+          "replyChildren": [
+            "Alex_1"
+          ],
+          "metrics": {
+            "strength": 2,
+            "viralScore": 0,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4
+          }
+        },
+        {
+          "id": "Alex_1",
+          "speaker": "Alex",
+          "phase": "BUILD",
+          "turn": 1,
+          "text": "The super‑puff worlds are real, ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules.",
+          "claims": [
+            "The super‑puff worlds are real",
+            "ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules"
+          ],
+          "stance": "Yes, update the recipes for making planets",
+          "contradicts": [],
+          "repliesTo": "Marcus_0",
+          "replyChildren": [
+            "Sarah_2"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.4123945324236873,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 10.412394532423686
+          }
+        },
+        {
+          "id": "Sarah_2",
+          "speaker": "Sarah",
+          "phase": "BUILD",
+          "turn": 2,
+          "text": "Most planets still line up with our classic formation model, and just two fluffy outliers can’t overturn it; we just need a small tweak, not a whole rulebook rewrite.",
+          "claims": [
+            "Most planets still line up with our classic formation model",
+            "and just two fluffy outliers can’t overturn it",
+            "we just need a small tweak"
+          ],
+          "stance": "No, keep the core model and tweak a bit",
+          "contradicts": [],
+          "repliesTo": "Marcus_0",
+          "replyChildren": [
+            "Marcus_3"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 0.951657435526053,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.951657435526053
+          }
+        },
+        {
+          "id": "Marcus_3",
+          "speaker": "Marcus",
+          "phase": "CLASH",
+          "turn": 3,
+          "text": "Sarah, you claim just two outliers can be brushed off, but if those “fluffy” planets form at all, they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?",
+          "claims": [
+            "you claim just two outliers can be brushed off",
+            "if those “fluffy” planets form at all",
+            "they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": "Sarah_2",
+          "replyChildren": [
+            "Sarah_4"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.912562507034564,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 7.912562507034564
+          }
+        },
+        {
+          "id": "Sarah_4",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 4,
+          "text": "Marcus, you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work, just like swapping a car’s driver seat to the back and expecting it to run smoothly.",
+          "claims": [
+            "you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work",
+            "just like swapping a car’s driver seat to the back and expecting it to run smoothly"
+          ],
+          "stance": "No, keep the core model and tweak a bit",
+          "contradicts": [],
+          "repliesTo": "Marcus_3",
+          "replyChildren": [
+            "Alex_5"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 1.3022893189515976,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 8.302289318951598
+          }
+        },
+        {
+          "id": "Alex_5",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 5,
+          "text": "Sarah, those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes, not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever; we update our models when the data demand it, or we’ll miss the next cosmic surprise.",
+          "claims": [
+            "those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes",
+            "not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever",
+            "we update our models when the data demand it"
+          ],
+          "stance": "Yes, update the recipes for making planets",
+          "contradicts": [],
+          "repliesTo": "Sarah_4",
+          "replyChildren": [
+            "Sarah_6"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 1.1159082593791476,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 11.115908259379147
+          }
+        },
+        {
+          "id": "Sarah_6",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 6,
+          "text": "Alex, we barely know anything about these puffies—without pressure, temperature, or composition data they’re just odd outliers, not a reason to overturn a model that predicts billions of planets correctly; overhauling the whole theory now would scramble the reliable predictions we already trust.",
+          "claims": [
+            "we barely know anything about these puffies—without pressure",
+            "or composition data they’re just odd outliers",
+            "not a reason to overturn a model that predicts billions of planets correctly"
+          ],
+          "stance": "No, keep the core model and tweak a bit",
+          "contradicts": [],
+          "repliesTo": "Alex_5",
+          "replyChildren": [
+            "Alex_7"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.9903150880571645,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 7.990315088057164
+          }
+        },
+        {
+          "id": "Alex_7",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 7,
+          "text": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map, and we’ll miss the next big surprise; if a recipe can’t bake a cake, you add a new ingredient, so we must tweak our planetary‑making rules now.",
+          "claims": [
+            "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map",
+            "and we’ll miss the next big surprise",
+            "if a recipe can’t bake a cake"
+          ],
+          "stance": "Yes, update the recipes for making planets",
+          "contradicts": [],
+          "repliesTo": "Sarah_6",
+          "replyChildren": [
+            "Marcus_8"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 1.0394360179374567,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 13.039436017937456
+          }
+        },
+        {
+          "id": "Marcus_8",
+          "speaker": "Marcus",
+          "phase": "CONSOLIDATION",
+          "turn": 8,
+          "text": "Alright, Alex and Jamie, each of you, pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up, just the clash.",
+          "claims": [
+            "pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": "Alex_7",
+          "replyChildren": [
+            "Alex_9"
+          ],
+          "metrics": {
+            "strength": 0,
+            "viralScore": 1.600413364422752,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.600413364422752
+          }
+        },
+        {
+          "id": "Alex_9",
+          "speaker": "Alex",
+          "phase": "CONSOLIDATION",
+          "turn": 9,
+          "text": "Sure, the classic model still explains most worlds, but those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now, or we’ll miss the next cosmic surprise.",
+          "claims": [
+            "the classic model still explains most worlds",
+            "those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now",
+            "or we’ll miss the next cosmic surprise"
+          ],
+          "stance": "Yes, update the recipes for making planets",
+          "contradicts": [],
+          "repliesTo": "Marcus_8",
+          "replyChildren": [
+            "Sarah_10"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0999899721693263,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 7.099989972169326
+          }
+        },
+        {
+          "id": "Sarah_10",
+          "speaker": "Sarah",
+          "phase": "CONSOLIDATION",
+          "turn": 10,
+          "text": "Those fluffy worlds are fascinating and deserve more data, but swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest, well‑tested tweaks.",
+          "claims": [
+            "Those fluffy worlds are fascinating and deserve more data",
+            "swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest"
+          ],
+          "stance": "No, keep the core model and tweak a bit",
+          "contradicts": [],
+          "repliesTo": "Alex_9",
+          "replyChildren": [
+            "Marcus_11"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.1455685919967529,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 6.145568591996753
+          }
+        },
+        {
+          "id": "Marcus_11",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 11,
+          "text": "Alright, Alex and Sarah, give me a quick wrap‑up of your main point—no fresh arguments, just a concise closing.",
+          "claims": [
+            "give me a quick wrap‑up of your main point—no fresh arguments",
+            "just a concise closing"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": "Sarah_10",
+          "replyChildren": [
+            "Alex_12"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 1.4667916099004454,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4.466791609900445
+          }
+        },
+        {
+          "id": "Alex_12",
+          "speaker": "Alex",
+          "phase": "CLOSING",
+          "turn": 12,
+          "text": "We’ve seen two ultra‑light, marshmallow‑like super‑puff planets that our current formation recipes can’t bake, so—just like adding a new ingredient when a cake won’t rise—we must update the models; science grows by testing new clues, not ignoring them.",
+          "claims": [
+            "We’ve seen two ultra‑light",
+            "marshmallow‑like super‑puff planets that our current formation recipes can’t bake",
+            "so—just like adding a new ingredient when a cake won’t rise—we must update the models"
+          ],
+          "stance": "Yes, update the recipes for making planets",
+          "contradicts": [],
+          "repliesTo": "Marcus_11",
+          "replyChildren": [
+            "Sarah_13"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.222794156038776,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 8.222794156038777
+          }
+        },
+        {
+          "id": "Sarah_13",
+          "speaker": "Sarah",
+          "phase": "CLOSING",
+          "turn": 13,
+          "text": "We’ve seen two super‑puff, marshmallow‑light planets, but they’re just a couple of outliers; like a few stray kids in a class, they don’t justify rewriting the whole curriculum. Let’s keep the solid formation model and add only a modest, well‑tested wing to accommodate them.",
+          "claims": [
+            "We’ve seen two super‑puff",
+            "marshmallow‑light planets",
+            "they’re just a couple of outliers"
+          ],
+          "stance": "No, keep the core model and tweak a bit",
+          "contradicts": [],
+          "repliesTo": "Alex_12",
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.111169243975806,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 8.111169243975805
+          }
+        },
+        {
+          "id": "Marcus_14",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 14,
+          "text": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now, while Sarah cautions against overhauling a framework that already explains most worlds, suggesting only modest, data‑driven tweaks. The debate leaves open how much evidence is needed before reshaping theory, inviting further observations before any consensus.",
+          "claims": [
+            "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now",
+            "while Sarah cautions against overhauling a framework that already explains most worlds",
+            "suggesting only modest"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": "Sarah_13",
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.901780278839555,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 1,
+            "influence": 4.901780278839555
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_1",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Sarah_2",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Marcus_3",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_4",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_5",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_5",
+          "to": "Sarah_6",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_7",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_7",
+          "to": "Marcus_8",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Alex_9",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_9",
+          "to": "Sarah_10",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Marcus_11",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Alex_12",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "reply"
+        }
+      ],
+      "semanticEdges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_1",
+          "type": "support",
+          "confidence": 0.94
+        },
+        {
+          "from": "Alex_5",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Alex_12",
+          "type": "evidence",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_9",
+          "to": "Alex_12",
+          "type": "evidence",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Sarah_13",
+          "type": "attack",
+          "confidence": 0.97
+        }
+      ],
+      "themes": [
+        {
+          "id": "theme_1",
+          "label": "where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact",
+          "nodes": [
+            "Marcus_0"
+          ]
+        },
+        {
+          "id": "theme_2",
+          "label": "The super‑puff worlds are real",
+          "nodes": [
+            "Alex_1"
+          ]
+        },
+        {
+          "id": "theme_3",
+          "label": "Most planets still line up with our classic formation model",
+          "nodes": [
+            "Sarah_2"
+          ]
+        },
+        {
+          "id": "theme_4",
+          "label": "you claim just two outliers can be brushed off",
+          "nodes": [
+            "Marcus_3"
+          ]
+        },
+        {
+          "id": "theme_5",
+          "label": "you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work",
+          "nodes": [
+            "Sarah_4"
+          ]
+        },
+        {
+          "id": "theme_6",
+          "label": "those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes",
+          "nodes": [
+            "Alex_5"
+          ]
+        },
+        {
+          "id": "theme_7",
+          "label": "we barely know anything about these puffies—without pressure",
+          "nodes": [
+            "Sarah_6"
+          ]
+        },
+        {
+          "id": "theme_8",
+          "label": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map",
+          "nodes": [
+            "Alex_7"
+          ]
+        },
+        {
+          "id": "theme_9",
+          "label": "pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up",
+          "nodes": [
+            "Marcus_8"
+          ]
+        },
+        {
+          "id": "theme_10",
+          "label": "the classic model still explains most worlds",
+          "nodes": [
+            "Alex_9"
+          ]
+        },
+        {
+          "id": "theme_11",
+          "label": "Those fluffy worlds are fascinating and deserve more data",
+          "nodes": [
+            "Sarah_10"
+          ]
+        },
+        {
+          "id": "theme_12",
+          "label": "give me a quick wrap‑up of your main point—no fresh arguments",
+          "nodes": [
+            "Marcus_11"
+          ]
+        },
+        {
+          "id": "theme_13",
+          "label": "We’ve seen two ultra‑light",
+          "nodes": [
+            "Alex_12"
+          ]
+        },
+        {
+          "id": "theme_14",
+          "label": "We’ve seen two super‑puff",
+          "nodes": [
+            "Sarah_13"
+          ]
+        },
+        {
+          "id": "theme_15",
+          "label": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now",
+          "nodes": [
+            "Marcus_14"
+          ]
+        }
+      ],
+      "communities": {
+        "Moderator": [
+          "Marcus_0",
+          "Marcus_3",
+          "Marcus_8",
+          "Marcus_11",
+          "Marcus_14"
+        ],
+        "Yes, update the recipes for making planets": [
+          "Alex_1",
+          "Alex_5",
+          "Alex_7",
+          "Alex_9",
+          "Alex_12"
+        ],
+        "No, keep the core model and tweak a bit": [
+          "Sarah_2",
+          "Sarah_4",
+          "Sarah_6",
+          "Sarah_10",
+          "Sarah_13"
+        ]
+      }
+    }
+  },
+  {
     "id": "9653071c-ffc8-4fa7-a599-6bc87830a81f",
     "date": "2026-06-27T14:37:42.651Z",
     "topic": "Should investors adjust their portfolio strategies based on the timing of the PCE price index release compared to individual corporate earnings reports?",
@@ -3056,992 +3966,6 @@
         {
           "from": "Sarah_10_1782313933471",
           "to": "Marcus_11_1782313940413",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
-      }
-    }
-  },
-  {
-    "id": "e95f70da-3c5c-4b7e-b997-9f7d85f957ce",
-    "date": "2026-06-19T05:06:07.318Z",
-    "topic": "Should visible auroral activity from low Earth orbit be considered a factor in planning future crewed missions?",
-    "summary": "",
-    "audioUrl": "/audio/e95f70da-3c5c-4b7e-b997-9f7d85f957ce.mp3",
-    "duration": 368.70000000000005,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome to today’s debate: should the visible aurorae that streak across the sky from low‑Earth orbit be factored into the planning and safety protocols of future crewed missions? Recent sightings from the ISS show astronauts can actually watch the lights, highlighting both their inspirational appeal and the unknown operational implications. The core question asks whether the scientific, psychological and public‑relations benefits of aurora exposure outweigh potential risks to hardware and crew health, and how mission planning might need to adapt."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Our existing NASA space‑weather mandates already flag geomagnetic disturbances that could affect hardware, and the data from 500 LEO flights—only three schedule tweaks for auroras—show the risk to crew safety is negligible, while the morale boost from witnessing the lights is well documented."
-      },
-      {
-        "speaker": "Alex",
-        "text": "While 500 flights saw few schedule changes, the 1989 geomagnetic storm forced a shuttle abort and caused satellite failures, proving that severe auroral events can rapidly jeopardize hardware; the ISS log (1998‑2023) shows 12 anomalies coinciding with auroral expansions, indicating a non‑negligible risk. Ignoring these forecasts undermines crew safety and could cost weeks of mission time, so integrating space‑weather alerts into EVA and trajectory planning is essential."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "While historic storms like the 1989 event are serious, they are classified as extreme space‑weather, not routine visible aurorae; our real‑time monitoring flags those rare disturbances well before they threaten hardware, and the 12 anomalies you cite occur during geomagnetic storms that already trigger abort protocols. The three schedule changes out of 500 missions show that aurora‑specific impacts remain marginal, allowing crews to reap morale benefits without adding costly design margins. Would you agree that existing alerts already address the true hazards?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Even when general space‑weather alerts are issued, they often lag the rapid particle precipitation that produces visible aurora and the associated charging spikes; the ISS logged 12 anomalies during modest auroral expansions that did not meet “extreme storm” thresholds. Without aurora‑specific forecasting, crews can be caught off‑guard, jeopardizing hardware and health, so dedicated auroral metrics must supplement existing alerts."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "The modest auroral expansions you cite still occurred under the same real‑time monitoring that flagged elevated particle fluxes, and crews were instructed to suspend sensitive operations; those precautions already mitigated the charging spikes you worry about. Moreover, the added complexity of a separate aurora index would divert resources from proven, broader space‑weather models without demonstrable safety gains. Do you have evidence that current alerts failed to trigger protective actions during those 12 anomalies?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "The 12 ISS anomalies included two unplanned attitude adjustments and a solar‑array latch failure that occurred before any crew‑commanded safe‑mode was issued, showing the existing alerts missed the window; NOAA’s own post‑event review cited “insufficient auroral precipitation data” as the gap, proving a dedicated aurora index would close that safety shortfall."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even if those two incidents slipped past initial alerts, the subsequent crew‑commanded safe‑modes and EVA suspensions prevented any lasting damage, showing the existing system can catch the worst effects; a separate aurora index would merely add a monitoring layer without clear evidence it would have stopped the anomalies earlier."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Those two failures still caused unplanned attitude burns that burned extra propellant and delayed science, consequences the later safe‑mode could not retroactively prevent; a dedicated aurora index would have warned crews earlier, avoiding the resource loss and risk of further cascade failures."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even with those burns, the propellant loss was within the vehicle’s margin and the later safe‑mode prevented any cascade to critical systems; a dedicated aurora index would not have altered the physical cause of the latch failure, which stemmed from hardware aging, not forecasting precision. Should we invest limited engineering budget in marginal predictive tweaks when proven mitigation procedures already keep crew and hardware safe?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "While hardware aging contributed, the latch failure was triggered by an unexpected charging surge that the generic alerts missed; the propellant loss and schedule slip directly reduced mission margin, showing that even marginal predictive gains translate into tangible safety and cost benefits. Investing in a dedicated aurora index leverages existing sensor networks, costing far less than the cumulative delays and consumables lost across multiple flights."
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Both sides agree that existing space‑weather alerts catch extreme storms but differ on whether they miss modest auroral events that can cause charging spikes, with Alex citing 12 ISS anomalies—two unmitigated attitude burns and a latch failure—as evidence of a safety gap, while Sarah stresses that subsequent safe‑mode actions prevented serious damage and that the marginal propellant loss fits within design margins. They share the view that aurora observations boost crew morale and public outreach, yet disagree on the cost‑effectiveness of adding a dedicated aurora index versus refining current models. Unresolved questions remain about the frequency of missed alerts, the quantitative benefit of earlier warnings, and the budget trade‑offs for implementing a new forecasting layer. The debate highlights a tension between marginal risk reduction and resource allocation, suggesting further data collection and cost‑benefit analysis are needed before a policy shift."
-      }
-    ],
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 32.425,
-        "duration": 32.425
-      },
-      {
-        "speaker": "Sarah",
-        "start": 32.425,
-        "end": 51.75,
-        "duration": 19.325
-      },
-      {
-        "speaker": "Alex",
-        "start": 51.75,
-        "end": 88.7,
-        "duration": 36.95
-      },
-      {
-        "speaker": "Sarah",
-        "start": 88.7,
-        "end": 126.65,
-        "duration": 37.95
-      },
-      {
-        "speaker": "Alex",
-        "start": 126.65,
-        "end": 154.05,
-        "duration": 27.4
-      },
-      {
-        "speaker": "Sarah",
-        "start": 154.05,
-        "end": 187.675,
-        "duration": 33.625
-      },
-      {
-        "speaker": "Alex",
-        "start": 187.675,
-        "end": 212.5,
-        "duration": 24.825
-      },
-      {
-        "speaker": "Sarah",
-        "start": 212.5,
-        "end": 233.975,
-        "duration": 21.475
-      },
-      {
-        "speaker": "Alex",
-        "start": 233.975,
-        "end": 254.725,
-        "duration": 20.75
-      },
-      {
-        "speaker": "Sarah",
-        "start": 254.725,
-        "end": 281.425,
-        "duration": 26.7
-      },
-      {
-        "speaker": "Alex",
-        "start": 281.425,
-        "end": 310.1,
-        "duration": 28.675
-      },
-      {
-        "speaker": "Marcus",
-        "start": 310.1,
-        "end": 368.70000000000005,
-        "duration": 58.6
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1781845495334",
-          "speaker": "Marcus",
-          "text": "Welcome to today’s debate: should the visible aurorae that streak across the sky from low‑Earth orbit be factored into the planning and safety protocols of future crewed missions? Recent sightings from the ISS show astronauts can actually watch the lights, highlighting both their inspirational appeal and the unknown operational implications. The core question asks whether the scientific, psychological and public‑relations benefits of aurora exposure outweigh potential risks to hardware and crew health, and how mission planning might need to adapt.",
-          "turn": 0,
-          "claims": [
-            "Welcome to today’s debate: should the visible aurorae that streak across the sky from low‑Earth orbit be factored into the planning and safety protocols of future crewed missions? Recent sightings from the ISS show astronauts can actually watch the lights",
-            "highlighting both their inspirational appeal and the unknown operational implications",
-            "The core question asks whether the scientific"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "heat": 1,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_1_1781845499775",
-          "speaker": "Sarah",
-          "text": "Our existing NASA space‑weather mandates already flag geomagnetic disturbances that could affect hardware, and the data from 500 LEO flights—only three schedule tweaks for auroras—show the risk to crew safety is negligible, while the morale boost from witnessing the lights is well documented.",
-          "turn": 1,
-          "claims": [
-            "Our existing NASA space‑weather mandates already flag geomagnetic disturbances that could affect hardware",
-            "and the data from 500 LEO flights—only three schedule tweaks for auroras—show the risk to crew safety is negligible",
-            "while the morale boost from witnessing the lights is well documented"
-          ],
-          "stance": "No – visible auroras are not a mandatory planning factor for crewed missions.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1781845495334",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_2_1781845504884",
-          "speaker": "Alex",
-          "text": "While 500 flights saw few schedule changes, the 1989 geomagnetic storm forced a shuttle abort and caused satellite failures, proving that severe auroral events can rapidly jeopardize hardware; the ISS log (1998‑2023) shows 12 anomalies coinciding with auroral expansions, indicating a non‑negligible risk. Ignoring these forecasts undermines crew safety and could cost weeks of mission time, so integrating space‑weather alerts into EVA and trajectory planning is essential.",
-          "turn": 2,
-          "claims": [
-            "While 500 flights saw few schedule changes",
-            "the 1989 geomagnetic storm forced a shuttle abort and caused satellite failures",
-            "proving that severe auroral events can rapidly jeopardize hardware"
-          ],
-          "stance": "Yes – auroral activity must be a formal planning factor.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_1_1781845499775",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.8,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_3_1781845510827",
-          "speaker": "Sarah",
-          "text": "While historic storms like the 1989 event are serious, they are classified as extreme space‑weather, not routine visible aurorae; our real‑time monitoring flags those rare disturbances well before they threaten hardware, and the 12 anomalies you cite occur during geomagnetic storms that already trigger abort protocols. The three schedule changes out of 500 missions show that aurora‑specific impacts remain marginal, allowing crews to reap morale benefits without adding costly design margins. Would you agree that existing alerts already address the true hazards?",
-          "turn": 3,
-          "claims": [
-            "While historic storms like the 1989 event are serious",
-            "they are classified as extreme space‑weather",
-            "not routine visible aurorae"
-          ],
-          "stance": "No – visible auroras are not a mandatory planning factor for crewed missions.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_2_1781845504884",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.4400000000000004,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_4_1781845516866",
-          "speaker": "Alex",
-          "text": "Even when general space‑weather alerts are issued, they often lag the rapid particle precipitation that produces visible aurora and the associated charging spikes; the ISS logged 12 anomalies during modest auroral expansions that did not meet “extreme storm” thresholds. Without aurora‑specific forecasting, crews can be caught off‑guard, jeopardizing hardware and health, so dedicated auroral metrics must supplement existing alerts.",
-          "turn": 4,
-          "claims": [
-            "Even when general space‑weather alerts are issued",
-            "they often lag the rapid particle precipitation that produces visible aurora and the associated charging spikes",
-            "the ISS logged 12 anomalies during modest auroral expansions that did not meet “extreme storm” thresholds"
-          ],
-          "stance": "Yes – auroral activity must be a formal planning factor.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_3_1781845510827",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.9520000000000004,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_5_1781845522648",
-          "speaker": "Sarah",
-          "text": "The modest auroral expansions you cite still occurred under the same real‑time monitoring that flagged elevated particle fluxes, and crews were instructed to suspend sensitive operations; those precautions already mitigated the charging spikes you worry about. Moreover, the added complexity of a separate aurora index would divert resources from proven, broader space‑weather models without demonstrable safety gains. Do you have evidence that current alerts failed to trigger protective actions during those 12 anomalies?",
-          "turn": 5,
-          "claims": [
-            "The modest auroral expansions you cite still occurred under the same real‑time monitoring that flagged elevated particle fluxes",
-            "and crews were instructed to suspend sensitive operations",
-            "those precautions already mitigated the charging spikes you worry about"
-          ],
-          "stance": "No – visible auroras are not a mandatory planning factor for crewed missions.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_4_1781845516866",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.3616000000000006,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_6_1781845527346",
-          "speaker": "Alex",
-          "text": "The 12 ISS anomalies included two unplanned attitude adjustments and a solar‑array latch failure that occurred before any crew‑commanded safe‑mode was issued, showing the existing alerts missed the window; NOAA’s own post‑event review cited “insufficient auroral precipitation data” as the gap, proving a dedicated aurora index would close that safety shortfall.",
-          "turn": 6,
-          "claims": [
-            "The 12 ISS anomalies included two unplanned attitude adjustments and a solar‑array latch failure that occurred before any crew‑commanded safe‑mode was issued",
-            "showing the existing alerts missed the window",
-            "NOAA’s own post‑event review cited “insufficient auroral precipitation data” as the gap"
-          ],
-          "stance": "Yes – auroral activity must be a formal planning factor.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_5_1781845522648",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.6892800000000006,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_7_1781845530962",
-          "speaker": "Sarah",
-          "text": "Even if those two incidents slipped past initial alerts, the subsequent crew‑commanded safe‑modes and EVA suspensions prevented any lasting damage, showing the existing system can catch the worst effects; a separate aurora index would merely add a monitoring layer without clear evidence it would have stopped the anomalies earlier.",
-          "turn": 7,
-          "claims": [
-            "Even if those two incidents slipped past initial alerts",
-            "the subsequent crew‑commanded safe‑modes and EVA suspensions prevented any lasting damage",
-            "showing the existing system can catch the worst effects"
-          ],
-          "stance": "No – visible auroras are not a mandatory planning factor for crewed missions.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_6_1781845527346",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.1514240000000004,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_8_1781845538572",
-          "speaker": "Alex",
-          "text": "Those two failures still caused unplanned attitude burns that burned extra propellant and delayed science, consequences the later safe‑mode could not retroactively prevent; a dedicated aurora index would have warned crews earlier, avoiding the resource loss and risk of further cascade failures.",
-          "turn": 8,
-          "claims": [
-            "Those two failures still caused unplanned attitude burns that burned extra propellant and delayed science",
-            "consequences the later safe‑mode could not retroactively prevent",
-            "a dedicated aurora index would have warned crews earlier"
-          ],
-          "stance": "Yes – auroral activity must be a formal planning factor.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_7_1781845530962",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.7211392000000005,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_9_1781845543020",
-          "speaker": "Sarah",
-          "text": "Even with those burns, the propellant loss was within the vehicle’s margin and the later safe‑mode prevented any cascade to critical systems; a dedicated aurora index would not have altered the physical cause of the latch failure, which stemmed from hardware aging, not forecasting precision. Should we invest limited engineering budget in marginal predictive tweaks when proven mitigation procedures already keep crew and hardware safe?",
-          "turn": 9,
-          "claims": [
-            "Even with those burns",
-            "the propellant loss was within the vehicle’s margin and the later safe‑mode prevented any cascade to critical systems",
-            "a dedicated aurora index would not have altered the physical cause of the latch failure"
-          ],
-          "stance": "No – visible auroras are not a mandatory planning factor for crewed missions.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_8_1781845538572",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.3769113600000003,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_10_1781845552411",
-          "speaker": "Alex",
-          "text": "While hardware aging contributed, the latch failure was triggered by an unexpected charging surge that the generic alerts missed; the propellant loss and schedule slip directly reduced mission margin, showing that even marginal predictive gains translate into tangible safety and cost benefits. Investing in a dedicated aurora index leverages existing sensor networks, costing far less than the cumulative delays and consumables lost across multiple flights.",
-          "turn": 10,
-          "claims": [
-            "While hardware aging contri",
-            "the latch failure was triggered by an unexpected charging surge that the generic alerts missed",
-            "the propellant loss and schedule slip directly reduced mission margin"
-          ],
-          "stance": "Yes – auroral activity must be a formal planning factor.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_9_1781845543020",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.901529088,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Marcus_11_1781845567317",
-          "speaker": "Marcus",
-          "text": "Both sides agree that existing space‑weather alerts catch extreme storms but differ on whether they miss modest auroral events that can cause charging spikes, with Alex citing 12 ISS anomalies—two unmitigated attitude burns and a latch failure—as evidence of a safety gap, while Sarah stresses that subsequent safe‑mode actions prevented serious damage and that the marginal propellant loss fits within design margins. They share the view that aurora observations boost crew morale and public outreach, yet disagree on the cost‑effectiveness of adding a dedicated aurora index versus refining current models. Unresolved questions remain about the frequency of missed alerts, the quantitative benefit of earlier warnings, and the budget trade‑offs for implementing a new forecasting layer. The debate highlights a tension between marginal risk reduction and resource allocation, suggesting further data collection and cost‑benefit analysis are needed before a policy shift.",
-          "turn": 11,
-          "claims": [
-            "Both sides agree that existing space‑weather alerts catch extreme storms",
-            "differ on whether they miss modest auroral events that can cause charging spikes",
-            "with Alex citing 12 ISS anomalies—two unmitigated attitude burns and a latch failure—as evidence of a safety gap"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_10_1781845552411",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 4.321223270400001,
-          "viral": true,
-          "type": "claim"
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1781845495334",
-          "to": "Sarah_1_1781845499775",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1781845495334",
-          "to": "Sarah_1_1781845499775",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_1_1781845499775",
-          "to": "Alex_2_1781845504884",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_1_1781845499775",
-          "to": "Alex_2_1781845504884",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_2_1781845504884",
-          "to": "Sarah_3_1781845510827",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_2_1781845504884",
-          "to": "Sarah_3_1781845510827",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_3_1781845510827",
-          "to": "Alex_4_1781845516866",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_3_1781845510827",
-          "to": "Alex_4_1781845516866",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_4_1781845516866",
-          "to": "Sarah_5_1781845522648",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_4_1781845516866",
-          "to": "Sarah_5_1781845522648",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_5_1781845522648",
-          "to": "Alex_6_1781845527346",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_5_1781845522648",
-          "to": "Alex_6_1781845527346",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_6_1781845527346",
-          "to": "Sarah_7_1781845530962",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_6_1781845527346",
-          "to": "Sarah_7_1781845530962",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_7_1781845530962",
-          "to": "Alex_8_1781845538572",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_7_1781845530962",
-          "to": "Alex_8_1781845538572",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_8_1781845538572",
-          "to": "Sarah_9_1781845543020",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_8_1781845538572",
-          "to": "Sarah_9_1781845543020",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_9_1781845543020",
-          "to": "Alex_10_1781845552411",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_9_1781845543020",
-          "to": "Alex_10_1781845552411",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_10_1781845552411",
-          "to": "Marcus_11_1781845567317",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_10_1781845552411",
-          "to": "Marcus_11_1781845567317",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
-      }
-    }
-  },
-  {
-    "id": "390e0d2d-5671-4411-974a-6f651438cacc",
-    "date": "2026-06-18T06:07:42.494Z",
-    "topic": "Should expectations of diplomatic agreements, such as a potential US‑Iran deal, be a primary driver of oil price forecasts?",
-    "summary": "",
-    "audioUrl": "/audio/390e0d2d-5671-4411-974a-6f651438cacc.mp3",
-    "duration": 361.47499999999997,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome to today’s debate on how much weight diplomatic expectations—like a possible US‑Iran oil‑trade agreement reopening the Strait of Hormuz—should carry in forecasting oil prices. Recent three‑month lows have been linked to optimism about such a deal, sparking a clash between geopolitics‑focused analysts and those who prioritize supply‑demand fundamentals. The core question is: to what extent should the prospect of diplomatic breakthroughs drive near‑term oil price predictions? Let’s explore the evidence and implications."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Marcus, the data shows that every time Strait‑of‑Hormuz risk perception shifts—like after the 2012 sanctions or the 2019 de‑escalation—option‑implied volatility spikes and forward curves reprice by 30‑40%, dwarfing any short‑term demand swing; ignoring such political risk premiums would systematically misprice our models."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "While volatility spikes reflect market nerves, the MIT study shows geopolitics explain under 15 % of 30‑day price variance, whereas the IEA’s 2.1 million bpd surplus dominates price formation; SPR drawdowns further neutralize any Hormuz disruption. How do you quantify the durability of a diplomatic signal when inventory buffers and flexible refining capacity can absorb short‑term shocks?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Even sizable inventories are finite — a 15‑day drawdown already pressures spare capacity, and our event‑study shows a 0.5 % rise in deal‑closure probability instantly adds a $5‑$7 /barrel risk premium, outpacing the IEA surplus signal; the market therefore prices diplomatic cues far more aggressively than static fundamentals. How do you reconcile the model’s failure to capture these rapid, probability‑driven spikes when the same data has repeatedly predicted price rebounds after each Hormuz tension?"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even if probability‑driven spikes appear, they are brief and quickly eroded by the 2.1 million bpd surplus and ongoing SPR drawdowns, which keep forward curves anchored; the MIT finding that geopolitics explains <15 % of variance proves that such spikes cannot dominate longer‑term pricing, so models must prioritize the robust supply‑demand signal over transient diplomatic optimism."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Sarah, the “brief” spikes you dismiss are precisely where our risk‑adjusted models generate alpha—CME‑implied vol widened 28 bps on a 0.4 probability shift, delivering a $6/barrel premium that outlives any single inventory drawdown; the surplus simply dampens the baseline, not the probability‑driven premium, which reverts to the mean only after the diplomatic signal fades. How do you explain the systematic re‑pricing of forward curves each time a Hormuz risk perception changes, despite a constant surplus?"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even if premiums rise on probability shifts, the magnitude is bounded by the 2.1 million bpd surplus and ongoing SPR drawdowns, which cap how far forward curves can deviate before inventory markets restore equilibrium; once the diplomatic narrative fades, those premiums collapse far faster than the surplus‑driven baseline, confirming that fundamentals, not transitory risk‑premia, dictate price trajectories."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Even if inventories cap extreme moves, our data shows the premium from a modest probability shift persists for weeks, delivering outsized returns that fundamentals alone cannot explain; the rapid collapse you describe occurs only after the political signal vanishes, not while it’s active, demonstrating that diplomatic expectations uniquely drive near‑term price dynamics."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even when a diplomatic premium persists for weeks, its ceiling remains the 2.1 million bpd surplus and the SPR drawdowns, which quickly erode excess profit as inventories rise; the observed “outsized returns” simply reflect the market over‑reacting to a probabilistic signal that fades, while the underlying supply‑demand balance reasserts itself, limiting any lasting deviation from fundamentals."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Even if inventory buffers eventually dampen the premium, our event‑study proves that a 0.4 probability boost in deal closure sustains a $5‑$7 /barrel spread for at least ten trading days, generating returns unattainable by supply‑demand shifts alone; ignoring that window sacrifices systematic alpha, regardless of the eventual re‑equilibration you cite."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Even a ten‑day premium cannot offset the structural downward pressure from a 2.1 million bpd surplus and continuous SPR draws; after those weeks, inventories swell enough to erase the excess, leaving the premium as a fleeting arbitrage, not a driver of price fundamentals. How do you justify building forecasts on a signal that, by design, disappears once the underlying supply excess reasserts itself?"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Both Alex compellingly shows that even modest shifts in the perceived probability of a US‑Iran deal trigger immediate, sizable risk premiums that outweigh short‑term inventory signals, creating repeatable alpha over a ten‑day window; Sarah counters that those premiums are capped and quickly erased by the persistent 2.1 million bpd surplus and SPR drawdowns, arguing that fundamentals dominate once the diplomatic narrative fades. They agree that diplomatic expectations can produce temporary price spikes but differ on how long those spikes persist and whether they outweigh structural supply‑demand balances. The unresolved question is how to precisely weight probability‑driven risk premiums against inventory‑driven fundamentals in near‑term forecasts."
-      }
-    ],
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 31,
-        "duration": 31
-      },
-      {
-        "speaker": "Alex",
-        "start": 31,
-        "end": 54.675,
-        "duration": 23.675
-      },
-      {
-        "speaker": "Sarah",
-        "start": 54.675,
-        "end": 82.425,
-        "duration": 27.75
-      },
-      {
-        "speaker": "Alex",
-        "start": 82.425,
-        "end": 119.19999999999999,
-        "duration": 36.775
-      },
-      {
-        "speaker": "Sarah",
-        "start": 119.19999999999999,
-        "end": 146.375,
-        "duration": 27.175
-      },
-      {
-        "speaker": "Alex",
-        "start": 146.375,
-        "end": 182.3,
-        "duration": 35.925
-      },
-      {
-        "speaker": "Sarah",
-        "start": 182.3,
-        "end": 210.55,
-        "duration": 28.25
-      },
-      {
-        "speaker": "Alex",
-        "start": 210.55,
-        "end": 236.05,
-        "duration": 25.5
-      },
-      {
-        "speaker": "Sarah",
-        "start": 236.05,
-        "end": 263.45,
-        "duration": 27.4
-      },
-      {
-        "speaker": "Alex",
-        "start": 263.45,
-        "end": 288.75,
-        "duration": 25.3
-      },
-      {
-        "speaker": "Sarah",
-        "start": 288.75,
-        "end": 315.325,
-        "duration": 26.575
-      },
-      {
-        "speaker": "Marcus",
-        "start": 315.325,
-        "end": 361.47499999999997,
-        "duration": 46.15
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1781762802031",
-          "speaker": "Marcus",
-          "text": "Welcome to today’s debate on how much weight diplomatic expectations—like a possible US‑Iran oil‑trade agreement reopening the Strait of Hormuz—should carry in forecasting oil prices. Recent three‑month lows have been linked to optimism about such a deal, sparking a clash between geopolitics‑focused analysts and those who prioritize supply‑demand fundamentals. The core question is: to what extent should the prospect of diplomatic breakthroughs drive near‑term oil price predictions? Let’s explore the evidence and implications.",
-          "turn": 0,
-          "claims": [
-            "Welcome to today’s debate on how much weight diplomatic expectations—like a possible US‑Iran oil‑trade agreement reopening the Strait of Hormuz—should carry in forecasting oil prices",
-            "Recent three‑month lows have been linked to optimism about such a deal",
-            "sparking a clash between geopolitics‑focused analysts and those who prioritize supply‑demand fundamentals"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "heat": 0,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_1_1781762806498",
-          "speaker": "Alex",
-          "text": "Marcus, the data shows that every time Strait‑of‑Hormuz risk perception shifts—like after the 2012 sanctions or the 2019 de‑escalation—option‑implied volatility spikes and forward curves reprice by 30‑40%, dwarfing any short‑term demand swing; ignoring such political risk premiums would systematically misprice our models.",
-          "turn": 1,
-          "claims": [
-            "the data shows that every time Strait‑of‑Hormuz risk perception shifts—like after the 2012 sanctions or the 2019 de‑escalation—option‑implied volatility spikes and forward curves reprice by 30‑40%",
-            "dwarfing any short‑term demand swing",
-            "ignoring such political risk premiums would systematically misprice our models"
-          ],
-          "stance": "Pro – diplomatic expectations should be a primary driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1781762802031",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 1,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_2_1781762812578",
-          "speaker": "Sarah",
-          "text": "While volatility spikes reflect market nerves, the MIT study shows geopolitics explain under 15 % of 30‑day price variance, whereas the IEA’s 2.1 million bpd surplus dominates price formation; SPR drawdowns further neutralize any Hormuz disruption. How do you quantify the durability of a diplomatic signal when inventory buffers and flexible refining capacity can absorb short‑term shocks?",
-          "turn": 2,
-          "claims": [
-            "While volatility spikes reflect market nerves",
-            "the MIT study shows geopolitics explain under 15 % of 30‑day price variance",
-            "1 million bpd surplus dominates price formation"
-          ],
-          "stance": "Con – diplomatic expectations should be a secondary, not primary, driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_1_1781762806498",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 1,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_3_1781762819012",
-          "speaker": "Alex",
-          "text": "Even sizable inventories are finite — a 15‑day drawdown already pressures spare capacity, and our event‑study shows a 0.5 % rise in deal‑closure probability instantly adds a $5‑$7 /barrel risk premium, outpacing the IEA surplus signal; the market therefore prices diplomatic cues far more aggressively than static fundamentals. How do you reconcile the model’s failure to capture these rapid, probability‑driven spikes when the same data has repeatedly predicted price rebounds after each Hormuz tension?",
-          "turn": 3,
-          "claims": [
-            "Even sizable inventories are finite — a 15‑day drawdown already pressures spare capacity",
-            "and our event‑study shows a 0",
-            "5 % rise in deal‑closure probability instantly adds a $5‑$7 /barrel risk premium"
-          ],
-          "stance": "Pro – diplomatic expectations should be a primary driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_2_1781762812578",
-          "contradicts": [],
-          "strength": 5,
-          "heat": 0.8,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_4_1781762824559",
-          "speaker": "Sarah",
-          "text": "Even if probability‑driven spikes appear, they are brief and quickly eroded by the 2.1 million bpd surplus and ongoing SPR drawdowns, which keep forward curves anchored; the MIT finding that geopolitics explains <15 % of variance proves that such spikes cannot dominate longer‑term pricing, so models must prioritize the robust supply‑demand signal over transient diplomatic optimism.",
-          "turn": 4,
-          "claims": [
-            "Even if probability‑driven spikes appear",
-            "they are brief and quickly eroded by the 2",
-            "1 million bpd surplus and ongoing SPR drawdowns"
-          ],
-          "stance": "Con – diplomatic expectations should be a secondary, not primary, driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_3_1781762819012",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 1.6400000000000001,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_5_1781762830334",
-          "speaker": "Alex",
-          "text": "Sarah, the “brief” spikes you dismiss are precisely where our risk‑adjusted models generate alpha—CME‑implied vol widened 28 bps on a 0.4 probability shift, delivering a $6/barrel premium that outlives any single inventory drawdown; the surplus simply dampens the baseline, not the probability‑driven premium, which reverts to the mean only after the diplomatic signal fades. How do you explain the systematic re‑pricing of forward curves each time a Hormuz risk perception changes, despite a constant surplus?",
-          "turn": 5,
-          "claims": [
-            "the “brief” spikes you dismiss are precisely where our risk‑adjusted models generate alpha—CME‑implied vol widened 28 bps on a 0",
-            "delivering a $6/barrel premium that outlives any single inventory drawdown",
-            "the surplus simply dampens the baseline"
-          ],
-          "stance": "Pro – diplomatic expectations should be a primary driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_4_1781762824559",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.512,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_6_1781762834266",
-          "speaker": "Sarah",
-          "text": "Even if premiums rise on probability shifts, the magnitude is bounded by the 2.1 million bpd surplus and ongoing SPR drawdowns, which cap how far forward curves can deviate before inventory markets restore equilibrium; once the diplomatic narrative fades, those premiums collapse far faster than the surplus‑driven baseline, confirming that fundamentals, not transitory risk‑premia, dictate price trajectories.",
-          "turn": 6,
-          "claims": [
-            "Even if premiums rise on probability shifts",
-            "the magnitude is bounded by the 2",
-            "1 million bpd surplus and ongoing SPR drawdowns"
-          ],
-          "stance": "Con – diplomatic expectations should be a secondary, not primary, driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_5_1781762830334",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 4.2096,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_7_1781762837915",
-          "speaker": "Alex",
-          "text": "Even if inventories cap extreme moves, our data shows the premium from a modest probability shift persists for weeks, delivering outsized returns that fundamentals alone cannot explain; the rapid collapse you describe occurs only after the political signal vanishes, not while it’s active, demonstrating that diplomatic expectations uniquely drive near‑term price dynamics.",
-          "turn": 7,
-          "claims": [
-            "Even if inventories cap extreme moves",
-            "our data shows the premium from a modest probability shift persists for weeks",
-            "delivering outsized returns that fundamentals alone cannot explain"
-          ],
-          "stance": "Pro – diplomatic expectations should be a primary driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_6_1781762834266",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 3.7676800000000004,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_8_1781762843533",
-          "speaker": "Sarah",
-          "text": "Even when a diplomatic premium persists for weeks, its ceiling remains the 2.1 million bpd surplus and the SPR drawdowns, which quickly erode excess profit as inventories rise; the observed “outsized returns” simply reflect the market over‑reacting to a probabilistic signal that fades, while the underlying supply‑demand balance reasserts itself, limiting any lasting deviation from fundamentals.",
-          "turn": 8,
-          "claims": [
-            "Even when a diplomatic premium persists for weeks",
-            "its ceiling remains the 2",
-            "1 million bpd surplus and the SPR drawdowns"
-          ],
-          "stance": "Con – diplomatic expectations should be a secondary, not primary, driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_7_1781762837915",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.2141440000000006,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Alex_9_1781762848457",
-          "speaker": "Alex",
-          "text": "Even if inventory buffers eventually dampen the premium, our event‑study proves that a 0.4 probability boost in deal closure sustains a $5‑$7 /barrel spread for at least ten trading days, generating returns unattainable by supply‑demand shifts alone; ignoring that window sacrifices systematic alpha, regardless of the eventual re‑equilibration you cite.",
-          "turn": 9,
-          "claims": [
-            "Even if inventory buffers eventually dampen the premium",
-            "our event‑study proves that a 0",
-            "4 probability boost in deal closure sustains a $5‑$7 /barrel spread for at least ten trading days"
-          ],
-          "stance": "Pro – diplomatic expectations should be a primary driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_8_1781762843533",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 1.7713152000000005,
-          "viral": false,
-          "type": "claim"
-        },
-        {
-          "id": "Sarah_10_1781762853984",
-          "speaker": "Sarah",
-          "text": "Even a ten‑day premium cannot offset the structural downward pressure from a 2.1 million bpd surplus and continuous SPR draws; after those weeks, inventories swell enough to erase the excess, leaving the premium as a fleeting arbitrage, not a driver of price fundamentals. How do you justify building forecasts on a signal that, by design, disappears once the underlying supply excess reasserts itself?",
-          "turn": 10,
-          "claims": [
-            "Even a ten‑day premium cannot offset the structural downward pressure from a 2",
-            "1 million bpd surplus and continuous SPR draws",
-            "inventories swell enough to erase the excess"
-          ],
-          "stance": "Con – diplomatic expectations should be a secondary, not primary, driver of oil price forecasts.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_9_1781762848457",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.417052160000001,
-          "viral": true,
-          "type": "claim"
-        },
-        {
-          "id": "Marcus_11_1781762862493",
-          "speaker": "Marcus",
-          "text": "Both Alex compellingly shows that even modest shifts in the perceived probability of a US‑Iran deal trigger immediate, sizable risk premiums that outweigh short‑term inventory signals, creating repeatable alpha over a ten‑day window; Sarah counters that those premiums are capped and quickly erased by the persistent 2.1 million bpd surplus and SPR drawdowns, arguing that fundamentals dominate once the diplomatic narrative fades. They agree that diplomatic expectations can produce temporary price spikes but differ on how long those spikes persist and whether they outweigh structural supply‑demand balances. The unresolved question is how to precisely weight probability‑driven risk premiums against inventory‑driven fundamentals in near‑term forecasts.",
-          "turn": 11,
-          "claims": [
-            "Both Alex compellingly shows that even modest shifts in the perceived probability of a US‑Iran deal trigger immediate",
-            "sizable risk premiums that outweigh short‑term inventory signals",
-            "creating repeatable alpha over a ten‑day window"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_10_1781762853984",
-          "contradicts": [],
-          "strength": 3,
-          "heat": 2.1336417280000006,
-          "viral": true,
-          "type": "claim"
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1781762802031",
-          "to": "Alex_1_1781762806498",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1781762802031",
-          "to": "Alex_1_1781762806498",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_1_1781762806498",
-          "to": "Sarah_2_1781762812578",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_1_1781762806498",
-          "to": "Sarah_2_1781762812578",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_2_1781762812578",
-          "to": "Alex_3_1781762819012",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_2_1781762812578",
-          "to": "Alex_3_1781762819012",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_3_1781762819012",
-          "to": "Sarah_4_1781762824559",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_3_1781762819012",
-          "to": "Sarah_4_1781762824559",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_4_1781762824559",
-          "to": "Alex_5_1781762830334",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_4_1781762824559",
-          "to": "Alex_5_1781762830334",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_5_1781762830334",
-          "to": "Sarah_6_1781762834266",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_5_1781762830334",
-          "to": "Sarah_6_1781762834266",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_6_1781762834266",
-          "to": "Alex_7_1781762837915",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_6_1781762834266",
-          "to": "Alex_7_1781762837915",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_7_1781762837915",
-          "to": "Sarah_8_1781762843533",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_7_1781762837915",
-          "to": "Sarah_8_1781762843533",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_8_1781762843533",
-          "to": "Alex_9_1781762848457",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_8_1781762843533",
-          "to": "Alex_9_1781762848457",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_9_1781762848457",
-          "to": "Sarah_10_1781762853984",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_9_1781762848457",
-          "to": "Sarah_10_1781762853984",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_10_1781762853984",
-          "to": "Marcus_11_1781762862493",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_10_1781762853984",
-          "to": "Marcus_11_1781762862493",
           "type": "extend"
         }
       ],

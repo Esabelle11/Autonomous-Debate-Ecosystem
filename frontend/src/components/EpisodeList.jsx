@@ -33,9 +33,9 @@ export default function EpisodeList({episodes,onSelect}) {
             {new Date(ep.date).toLocaleString()}
           </small>
 
-          <p>
+          {/* <p>
             {ep.summary}
-          </p>
+          </p> */}
 
         </div>
       ))}

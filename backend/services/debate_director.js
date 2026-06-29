@@ -14,7 +14,7 @@ const openRouter = new OpenAI({
 // =========================
 // LLM
 // =========================
-async function speak(model, messages) {
+export async function speak(model, messages) {
 
   const res = await openRouter.chat.completions.create({
     model,
@@ -205,7 +205,7 @@ CURRENT PHASE: ${state.phase}
 // Your main buildContext function
 function buildContext(state, speaker, task) {
   const formattedMemoryBlock = getFilteredMemory(state, speaker);
-  console.log("task: ",task)
+  // console.log("task: ",task)
 
   return [
     {
@@ -334,7 +334,7 @@ Return JSON only.`
 export async function callAgent(decision, state) {
   const prompt = buildContext(state, decision.speaker, decision.task);
   
-  console.log(`turn: ${state.turn} \n prompt:`, prompt);
+  // console.log(`turn: ${state.turn} \n prompt:`, prompt);
 
   const speech = await retry(() => speak(decision.speaker.model, prompt));
 

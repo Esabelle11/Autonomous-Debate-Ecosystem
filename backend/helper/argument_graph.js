@@ -12,87 +12,134 @@ function extractClaims(text) {
         .slice(0, 3);
 }
 
-export function createNode({ speaker, text, turn, embedding }) {
-    return {
-        id: `${speaker}_${turn}_${Date.now()}`,
+export function createRuntimeNode({speaker, phase, turn, text, embedding, stance}){
+    return{
+        id:`${speaker}_${turn}`,
         speaker,
-        text,
+        phase,
         turn,
-
+        text,
+        embedding,
         claims: extractClaims(text),
-        stance: null,
-        relation: null,
-        targetNodes: [],
-
-        repliesTo: null,
+        stance,
         contradicts: [],
+        repliesTo:null,
+        replyChildren:[],
+        metrics:{
+            strength:0,
+            viralScore:0,
+            viral: false,
+        }
 
-        strength: 0,
-        viral: false,
-        viralScore: 0,     // NEW
-        embedding,         // NEW
-        type: "claim"
-    };
+    }
 }
+
+// export function createNode({ speaker, text, turn, embedding }) {
+//     return {
+//         id: `${speaker}_${turn}_${Date.now()}`,
+//         speaker,
+//         text,
+//         turn,
+
+//         claims: extractClaims(text),
+//         stance: null,
+//         relation: null,
+//         targetNodes: [],
+
+//         repliesTo: null,
+//         contradicts: [],
+
+//         strength: 0,
+//         viral: false,
+//         viralScore: 0,     // NEW
+//         embedding,         // NEW
+//         type: "claim"
+//     };
+// }
 
 
 // =========================
 // GRAPH BUILDER
 // =========================
-export function linkNode(state, node,speaker) {
-    const last = state.lastNode;
+export function linkNode(state,node){
 
-    if (!last) {
+    const previous = state.lastNode;
+
+    if(!previous){
         state.graph.nodes.push(node);
-        state.lastNode = node;
+        state.lastNode=node;
         return;
     }
 
-    node.repliesTo = last.id;
+    node.repliesTo = previous.id;
 
-    // default reply edge
+    previous.replyChildren.push(node.id);
+
     state.graph.edges.push({
-        from: last.id,
+        from: previous.id,
         to: node.id,
-        type: "reply"
+        type:"reply"
     });
 
-    // semantic contradiction detection
-    const isContradiction = detectContradiction(last.text, node.text);
-
-    if (isContradiction) {
-        node.relation = "refute";
-        node.targetNodes.push(last.id);
-
-        node.contradicts.push(last.id);
-
-        state.graph.edges.push({
-        from: node.id,
-        to: last.id,
-        type: "refute"
-        });
-    } else {
-        node.relation = "extend";
-
-        state.graph.edges.push({
-        from: last.id,
-        to: node.id,
-        type: "extend"
-        });
-    }
-
     state.graph.nodes.push(node);
-    state.lastNode = node;
 
-    if(speaker.name==="Alex")
-        node.stance=state.debatePackage.alex.stance;
-        
-    if(speaker.name==="Sarah")
-        node.stance=state.debatePackage.sarah.stance;
+    state.lastNode=node;
 
-    if(speaker.name==="Marcus")
-        node.stance="neutral";
 }
+// export function linkNode(state, node,speaker) {
+//     const last = state.lastNode;
+
+//     if (!last) {
+//         state.graph.nodes.push(node);
+//         state.lastNode = node;
+//         return;
+//     }
+
+//     node.repliesTo = last.id;
+
+//     // default reply edge
+//     state.graph.edges.push({
+//         from: last.id,
+//         to: node.id,
+//         type: "reply"
+//     });
+
+//     // semantic contradiction detection
+//     const isContradiction = detectContradiction(last.text, node.text);
+
+//     if (isContradiction) {
+//         node.relation = "refute";
+//         node.targetNodes.push(last.id);
+
+//         node.contradicts.push(last.id);
+
+//         state.graph.edges.push({
+//         from: node.id,
+//         to: last.id,
+//         type: "refute"
+//         });
+//     } else {
+//         node.relation = "extend";
+
+//         state.graph.edges.push({
+//         from: last.id,
+//         to: node.id,
+//         type: "extend"
+//         });
+//     }
+
+//     state.graph.nodes.push(node);
+//     state.lastNode = node;
+
+//     if(speaker.name==="Alex")
+//         node.stance=state.debatePackage.alex.stance;
+        
+//     if(speaker.name==="Sarah")
+//         node.stance=state.debatePackage.sarah.stance;
+
+//     if(speaker.name==="Marcus")
+//         node.stance="neutral";
+// }
 
 
 // =========================
@@ -122,27 +169,53 @@ function detectContradiction(a, b) {
 // =========================
 // NODE SCORING
 // =========================
-export function scoreNode(node) {
-    let score = 0;
+// export function scoreNode(node) {
+//     let score = 0;
 
-    if (node.text.length > 200) score += 2;
-    if (node.relation === "refute") score += 3;
-    if (node.claims.length > 1) score += 1;
+//     if (node.text.length > 100) score += 2;
+//     if (node.relation === "refute") score += 3;
+//     if (node.claims.length > 1) score += 1;
 
-    const signalWords = ["because", "therefore", "however", "thus"];
-    if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
-        score += 2;
-    }
+//     const signalWords = ["because", "therefore", "however", "thus"];
+//     if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
+//         score += 2;
+//     }
 
-    node.strength = Math.min(10, score);
+//     node.strength = Math.min(10, score);
+// }
+export function scoreRuntimeNode(node){
+
+    let score=0;
+
+    if(node.text.length>180)
+        score+=2;
+
+    if(node.claims.length>1)
+        score+=1;
+
+    if(node.phase==="CLASH")
+        score+=2;
+
+    const reasoningWords=[
+        "because",
+        "therefore",
+        "however",
+        "thus",
+        "although"
+    ];
+
+    if(reasoningWords.some(w=>node.text.toLowerCase().includes(w)))
+        score+=2;
+
+    node.metrics.strength=Math.min(score,10);
+
 }
-
 
 // =========================
 // VIRAL DETECTION
 // =========================
 export async function detectViralNodes(state, node) {
-    console.log("node before in detectViralNodes: ",node.viralScore)
+    console.log("node before in detectViralNodes: ",node.metrics.viralScore)
     const text = node.text.toLowerCase();
     console.log("text in detectViralNodes: ",text)
 
@@ -191,13 +264,6 @@ export async function detectViralNodes(state, node) {
     }
 
     // =========================
-    // 4. GRAPH CENTRALITY (LIGHT VERSION)
-    // =========================
-    const connectionScore =
-        (node.repliesTo ? 1 : 0) +
-        node.contradicts.length * 1.5;
-
-    // =========================
     // 5. EMOTIONAL / INTENSITY SIGNAL
     // =========================
     const emotionalWords = [
@@ -211,27 +277,25 @@ export async function detectViralNodes(state, node) {
     // =========================
     // FINAL VIRAL SCORE
     // =========================
-    node.viralScore =
+    node.metrics.viralScore =
         keywordScore +
         disagreementScore +
         noveltyScore * 4 +
-        connectionScore +
         emotionScore * 2;
 
     // =========================
     // THRESHOLD
     // =========================
-    node.viral = node.viralScore > 5;
+    node.metrics.viral =node.metrics.viralScore > 5;
 
     // store reason
-    node.viralBreakdown = {
-        keywordScore,
-        disagreementScore,
-        noveltyScore,
-        connectionScore,
-        emotionScore
-    };
-    console.log("node after in detectViralNodes: ",node.viralScore)
+    // node.viralBreakdown = {
+    //     keywordScore,
+    //     disagreementScore,
+    //     noveltyScore,
+    //     emotionScore
+    // };
+    console.log("node after in detectViralNodes: ",node.metrics.viralScore)
 
 
 }
