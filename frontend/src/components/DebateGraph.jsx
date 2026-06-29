@@ -109,10 +109,10 @@ export default function DebateGraph({ graph, currentSpeaker }) {
     return {
       id: node.id,
       type: "argumentNode",
-      // position: {
-      //   x: node.turn * 280,
-      //   y: style.lane
-      // },
+      position: {
+        x: node.turn * 280,
+        y: style.lane
+      },
       // position: {
       //   x: node.turn * 320, // Increased slightly from 280 to give edges room to bend
       //   y: style.lane + verticalStagger // 👈 This pushes nodes slightly out of a flat line
