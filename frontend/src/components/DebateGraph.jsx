@@ -17,12 +17,12 @@ const SPEAKER_STYLES = {
     border: "rgba(56, 189, 248, 0.55)"
   },
   Marcus: {
-    lane: 238,
+    lane: 344,
     color: "#f59e0b",
     border: "rgba(245, 158, 11, 0.55)"
   },
   Sarah: {
-    lane: 432,
+    lane: 644,
     color: "#f472b6",
     border: "rgba(244, 114, 182, 0.55)"
   }
@@ -40,7 +40,15 @@ const SEMANTIC_EDGE_STYLES = {
   evidence: {
     stroke: "#a78bfa",
     background: "rgba(167, 139, 250, 0.16)"
-  }
+  },
+  concession: {
+    stroke: "#D1B466",
+    background: "rgba(197, 143, 26, 0.16)"
+  },
+  sameTheme: {
+    stroke: "#216DDE",
+    background: "rgba(67, 76, 180, 0.16)"
+  },
 };
 
 function clamp(value, min, max) {
@@ -71,6 +79,23 @@ function ArgumentNode({ data }) {
         Incoming lines connect to the Left (Target), 
         Outgoing lines depart from the Right (Source)
       */}
+      {/* 🔴 RED VIRAL DOT: Renders if data.viral is true */}
+      {data.viral ? (
+        <span 
+          style={{
+            position: "absolute",
+            top: "-6px",
+            right: "-6px",
+            width: "12px",
+            height: "12px",
+            backgroundColor: "#ef4444", // Solid red color
+            borderRadius: "50%",
+            zIndex: 30, // Keeps it sitting above the node borders and text
+            boxShadow: "0 0 8px rgba(239, 68, 68, 0.6)" // Adds a slight glowing effect
+          }}
+          title="Viral Claim" // Tooltip hover text
+        />
+      ) : null}
       <Handle type="target" position={Position.Left} style={{ background: "rgba(148, 163, 184, 0.5)" }} />
       <Handle type="source" position={Position.Right} style={{ background: "rgba(148, 163, 184, 0.5)" }} />
 
@@ -87,6 +112,7 @@ function ArgumentNode({ data }) {
         <span>Turn {data.turn + 1}</span>
         <span>Strength {data.strength}</span>
         <span>Influence {data.influence}</span>
+        {/* {data.viral && <span style={{ color: "#ef4444", fontWeight: "bold" }}>🔥 Viral</span>} */}
       </div>
     </div>
   );
@@ -104,19 +130,24 @@ export default function DebateGraph({ graph, currentSpeaker }) {
   const nodes = graph.nodes.map((node) => {
     const style = SPEAKER_STYLES[node.speaker] || SPEAKER_STYLES.Marcus;
     const primaryClaim = node.claims?.[0] || node.text;
-    // const verticalStagger = (node.turn % 2 === 0) ? -40 : 40;
+
+    // position X
+    const n_shift_start = node.phaseId === 3 
+    ? 2
+    : node.phaseId === 4 
+      ? 3
+      : 0;
+    const phase_start_pos = (n_shift_start+node.phaseId) * 400;
+    const conditionSumation = (node.phaseId * node.phaseTurn > 1) ? 1 : 0;
+    const horizontalShift = Math.floor((conditionSumation +node.phaseTurn) / 2) * 400;
 
     return {
       id: node.id,
       type: "argumentNode",
       position: {
-        x: node.turn * 280,
+        x: phase_start_pos + horizontalShift,
         y: style.lane
       },
-      // position: {
-      //   x: node.turn * 320, // Increased slightly from 280 to give edges room to bend
-      //   y: style.lane + verticalStagger // 👈 This pushes nodes slightly out of a flat line
-      // },
       draggable: false,
       selectable: true,
       data: {
@@ -127,6 +158,7 @@ export default function DebateGraph({ graph, currentSpeaker }) {
         turn: node.turn,
         strength: clamp(node.metrics?.strength ?? 0, 0, 10),
         influence: Math.round(node.analytics?.influence ?? 0),
+        viral: node.metrics?.viral ?? false,
         color: style.color,
         border: style.border,
         isActive: currentSpeaker === node.speaker
@@ -138,7 +170,7 @@ export default function DebateGraph({ graph, currentSpeaker }) {
     id: `reply-${index}-${edge.from}-${edge.to}`,
     source: edge.from,
     target: edge.to,
-    type: "smoothstep",
+    type: "smoothstep", // Keep replies rigid and right-angled
     animated: false,
     label: "reply",
     labelStyle: {
@@ -159,7 +191,8 @@ export default function DebateGraph({ graph, currentSpeaker }) {
     markerEnd: {
       type: MarkerType.ArrowClosed,
       color: "rgba(148, 163, 184, 0.65)"
-    }
+    },
+    zIndex: 1 // Baseline edge depth
   }));
 
   const semanticEdges = (graph.semanticEdges || []).map((edge, index) => {
@@ -170,18 +203,18 @@ export default function DebateGraph({ graph, currentSpeaker }) {
       id: `semantic-${index}-${edge.from}-${edge.to}`,
       source: edge.from,
       target: edge.to,
-      type: "smoothstep",
+      type: "default", 
       animated: true,
       label,
       labelStyle: {
         fill: "#e2e8f0",
-        fontSize: 11,
+        fontSize: 20,
         fontWeight: 700,
         textTransform: "capitalize"
       },
       labelBgStyle: {
         fill: edgeStyle.background,
-        fillOpacity: 1,
+        fillOpacity: 0.7,
         rx: 999,
         ry: 999
       },
@@ -193,7 +226,8 @@ export default function DebateGraph({ graph, currentSpeaker }) {
       markerEnd: {
         type: MarkerType.ArrowClosed,
         color: edgeStyle.stroke
-      }
+      },
+      zIndex: 2      // Give semantic links a higher layout stack priority so they crossover on top
     };
   });
 
@@ -227,7 +261,7 @@ export default function DebateGraph({ graph, currentSpeaker }) {
         </div>
       </div>
 
-      {themes.length > 0 ? (
+      {/* {themes.length > 0 ? (
         <div className="debate-graph__themes">
           {themes.map((theme) => (
             <div key={theme.id} className="debate-graph__theme-pill">
@@ -235,12 +269,13 @@ export default function DebateGraph({ graph, currentSpeaker }) {
             </div>
           ))}
         </div>
-      ) : null}
+      ) : null} */}
 
       <div className="debate-graph__legend">
-        <span><i className="speaker-dot alex" />Alex</span>
+        {/* <span><i className="speaker-dot alex" />Alex</span>
         <span><i className="speaker-dot marcus" />Marcus</span>
-        <span><i className="speaker-dot sarah" />Sarah</span>
+        <span><i className="speaker-dot sarah" />Sarah</span> */}
+        <span><i className="speaker-dot viral" />Viral</span>
         <span><i className="edge-swatch reply" />Reply chain</span>
         <span><i className="edge-swatch support" />Support / attack / evidence</span>
       </div>

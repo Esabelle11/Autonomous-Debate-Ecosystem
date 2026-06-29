@@ -115,6 +115,10 @@
   background: #f472b6;
 }
 
+.speaker-dot.viral {
+  background: #ef4444;
+}
+
 .edge-swatch.reply {
   background: #94a3b8;
 }

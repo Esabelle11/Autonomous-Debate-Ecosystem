@@ -12,12 +12,14 @@ function extractClaims(text) {
         .slice(0, 3);
 }
 
-export function createRuntimeNode({speaker, phase, turn, text, embedding, stance}){
+export function createRuntimeNode({speaker, phase, turn,phaseId,phaseTurn, text, embedding, stance}){
     return{
         id:`${speaker}_${turn}`,
         speaker,
         phase,
         turn,
+        phaseId,
+        phaseTurn,
         text,
         embedding,
         claims: extractClaims(text),

@@ -11,7 +11,8 @@ export function createState(topic, background) {
 
         turn: 0,
         phase: "OPENING",
-        phaseTurn:0,
+        phaseId: 0,
+        phaseTurn: 0,
 
         heat: 0,
         stagnation: 0,

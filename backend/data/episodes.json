@@ -282,6 +282,8 @@
           "speaker": "Marcus",
           "phase": "OPENING",
           "turn": 0,
+          "phaseId": 0,
+          "phaseTurn": 0,
           "text": "Welcome to the show, where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact.",
           "claims": [
             "where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact"
@@ -307,6 +309,8 @@
           "speaker": "Alex",
           "phase": "BUILD",
           "turn": 1,
+          "phaseId": 1,
+          "phaseTurn": 0,
           "text": "The super‑puff worlds are real, ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules.",
           "claims": [
             "The super‑puff worlds are real",
@@ -333,6 +337,8 @@
           "speaker": "Sarah",
           "phase": "BUILD",
           "turn": 2,
+          "phaseId": 1,
+          "phaseTurn": 1,
           "text": "Most planets still line up with our classic formation model, and just two fluffy outliers can’t overturn it; we just need a small tweak, not a whole rulebook rewrite.",
           "claims": [
             "Most planets still line up with our classic formation model",
@@ -360,6 +366,8 @@
           "speaker": "Marcus",
           "phase": "CLASH",
           "turn": 3,
+          "phaseId": 2,
+          "phaseTurn": 0,
           "text": "Sarah, you claim just two outliers can be brushed off, but if those “fluffy” planets form at all, they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?",
           "claims": [
             "you claim just two outliers can be brushed off",
@@ -387,6 +395,8 @@
           "speaker": "Sarah",
           "phase": "CLASH",
           "turn": 4,
+          "phaseId": 2,
+          "phaseTurn": 1,
           "text": "Marcus, you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work, just like swapping a car’s driver seat to the back and expecting it to run smoothly.",
           "claims": [
             "you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work",
@@ -413,6 +423,8 @@
           "speaker": "Alex",
           "phase": "CLASH",
           "turn": 5,
+          "phaseId": 2,
+          "phaseTurn": 2,
           "text": "Sarah, those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes, not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever; we update our models when the data demand it, or we’ll miss the next cosmic surprise.",
           "claims": [
             "those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes",
@@ -440,6 +452,8 @@
           "speaker": "Sarah",
           "phase": "CLASH",
           "turn": 6,
+          "phaseId": 2,
+          "phaseTurn": 3,
           "text": "Alex, we barely know anything about these puffies—without pressure, temperature, or composition data they’re just odd outliers, not a reason to overturn a model that predicts billions of planets correctly; overhauling the whole theory now would scramble the reliable predictions we already trust.",
           "claims": [
             "we barely know anything about these puffies—without pressure",
@@ -455,7 +469,7 @@
           "metrics": {
             "strength": 5,
             "viralScore": 0.9903150880571645,
-            "viral": false
+            "viral": true
           },
           "analytics": {
             "degree": 2,
@@ -467,6 +481,8 @@
           "speaker": "Alex",
           "phase": "CLASH",
           "turn": 7,
+          "phaseId": 2,
+          "phaseTurn": 4,
           "text": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map, and we’ll miss the next big surprise; if a recipe can’t bake a cake, you add a new ingredient, so we must tweak our planetary‑making rules now.",
           "claims": [
             "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map",
@@ -482,7 +498,7 @@
           "metrics": {
             "strength": 7,
             "viralScore": 1.0394360179374567,
-            "viral": false
+            "viral": true
           },
           "analytics": {
             "degree": 3,
@@ -494,6 +510,8 @@
           "speaker": "Marcus",
           "phase": "CONSOLIDATION",
           "turn": 8,
+          "phaseId": 3,
+          "phaseTurn": 0,
           "text": "Alright, Alex and Jamie, each of you, pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up, just the clash.",
           "claims": [
             "pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up"
@@ -519,6 +537,8 @@
           "speaker": "Alex",
           "phase": "CONSOLIDATION",
           "turn": 9,
+          "phaseId": 3,
+          "phaseTurn": 1,
           "text": "Sure, the classic model still explains most worlds, but those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now, or we’ll miss the next cosmic surprise.",
           "claims": [
             "the classic model still explains most worlds",
@@ -546,6 +566,8 @@
           "speaker": "Sarah",
           "phase": "CONSOLIDATION",
           "turn": 10,
+          "phaseId": 3,
+          "phaseTurn": 2,
           "text": "Those fluffy worlds are fascinating and deserve more data, but swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest, well‑tested tweaks.",
           "claims": [
             "Those fluffy worlds are fascinating and deserve more data",
@@ -572,6 +594,8 @@
           "speaker": "Marcus",
           "phase": "CLOSING",
           "turn": 11,
+          "phaseId": 4,
+          "phaseTurn": 0,
           "text": "Alright, Alex and Sarah, give me a quick wrap‑up of your main point—no fresh arguments, just a concise closing.",
           "claims": [
             "give me a quick wrap‑up of your main point—no fresh arguments",
@@ -598,6 +622,8 @@
           "speaker": "Alex",
           "phase": "CLOSING",
           "turn": 12,
+          "phaseId": 4,
+          "phaseTurn": 1,
           "text": "We’ve seen two ultra‑light, marshmallow‑like super‑puff planets that our current formation recipes can’t bake, so—just like adding a new ingredient when a cake won’t rise—we must update the models; science grows by testing new clues, not ignoring them.",
           "claims": [
             "We’ve seen two ultra‑light",
@@ -625,6 +651,8 @@
           "speaker": "Sarah",
           "phase": "CLOSING",
           "turn": 13,
+          "phaseId": 4,
+          "phaseTurn": 2,
           "text": "We’ve seen two super‑puff, marshmallow‑light planets, but they’re just a couple of outliers; like a few stray kids in a class, they don’t justify rewriting the whole curriculum. Let’s keep the solid formation model and add only a modest, well‑tested wing to accommodate them.",
           "claims": [
             "We’ve seen two super‑puff",
@@ -652,6 +680,8 @@
           "speaker": "Marcus",
           "phase": "CLOSING",
           "turn": 14,
+          "phaseId": 4,
+          "phaseTurn": 3,
           "text": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now, while Sarah cautions against overhauling a framework that already explains most worlds, suggesting only modest, data‑driven tweaks. The debate leaves open how much evidence is needed before reshaping theory, inviting further observations before any consensus.",
           "claims": [
             "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now",
@@ -767,7 +797,7 @@
         {
           "from": "Alex_9",
           "to": "Alex_12",
-          "type": "evidence",
+          "type": "sameTheme",
           "confidence": 0.96
         },
         {

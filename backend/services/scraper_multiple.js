@@ -3,6 +3,7 @@ import OpenAI from "openai";
 import dotenv from "dotenv";
 import fs from "fs";
 import path from "path";
+import {retry} from  "../helper/retry.js"
 
 dotenv.config();
 
@@ -125,6 +126,7 @@ async function fetchArticles() {
       params: {
         language: "en",
         pageSize: 5,
+        category: "technology",
         apiKey: process.env.NEWS_API_KEY
       }
     }
@@ -337,9 +339,9 @@ export async function runResearchScraper() {
           SINGLE MODE PER ARTICLE 
         ========================= */
         for (const [mode, intensity] of Object.entries(intensityProfile)) {
-          const debate = await generateDebate(factsObj, mode, intensity);
+          const debate = await retry(() =>  generateDebate(factsObj, mode, intensity));
 
-          const evaluation = await evaluateDebateTopic(signal, factsObj, debate);
+          const evaluation = await retry(() =>  evaluateDebateTopic(signal, factsObj, debate));
 
           const average_eval = averageEvaluation(evaluation);
 

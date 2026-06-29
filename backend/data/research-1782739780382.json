@@ -1,0 +1,450 @@
+{
+  "summary": {
+    "totalRecords": 8,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "personal technology experience",
+      "shift from traditional TV to projector",
+      "consumer electronics purchasing decisions",
+      "personal technology experience",
+      "shift from traditional TV to projector",
+      "consumer electronics purchasing decisions",
+      "personal technology experience",
+      "shift from traditional TV to projector",
+      "consumer electronics purchasing decisions",
+      "personal technology experience",
+      "shift from traditional TV to projector",
+      "consumer electronics purchasing decisions",
+      "Prime Day",
+      "tablet deals",
+      "sales",
+      "discounted electronics",
+      "Prime Day",
+      "tablet deals",
+      "sales",
+      "discounted electronics",
+      "Prime Day",
+      "tablet deals",
+      "sales",
+      "discounted electronics",
+      "Prime Day",
+      "tablet deals",
+      "sales",
+      "discounted electronics"
+    ],
+    "entities": [
+      "Google TV projector",
+      "Android Authority",
+      "Google TV projector",
+      "Android Authority",
+      "Google TV projector",
+      "Android Authority",
+      "Google TV projector",
+      "Android Authority",
+      "Apple",
+      "Samsung",
+      "TCL",
+      "CNET",
+      "Apple",
+      "Samsung",
+      "TCL",
+      "CNET",
+      "Apple",
+      "Samsung",
+      "TCL",
+      "CNET",
+      "Apple",
+      "Samsung",
+      "TCL",
+      "CNET"
+    ],
+    "generatedAt": "2026-06-29T13:29:40.381Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
+        "description": "After spending a few weeks with a Google TV projector, I think I may be done buying actual TVs for good. Here's what changed.",
+        "source": "Android Authority",
+        "publishedAt": "2026-06-28T10:37:06Z"
+      },
+      "facts": {
+        "facts": [
+          "The author spent a few weeks using a Google TV projector.",
+          "The author says they may be done buying actual TVs."
+        ],
+        "entities": [
+          "Google TV projector",
+          "Android Authority"
+        ],
+        "themes": [
+          "personal technology experience",
+          "shift from traditional TV to projector",
+          "consumer electronics purchasing decisions"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should consumers prioritize flexibility and portability over conventional screen quality when choosing between projectors and traditional televisions?",
+        "background": "The author spent a few weeks using a Google TV projector. The author indicated they may be done buying actual TVs. These statements reflect a personal evaluation of projector use versus conventional television ownership.",
+        "framing": "Is it more advantageous for consumers to favor flexible, portable projection solutions instead of traditional television sets?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 8.2
+      },
+      "average_eval": 8.2
+    },
+    {
+      "signal": {
+        "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
+        "description": "After spending a few weeks with a Google TV projector, I think I may be done buying actual TVs for good. Here's what changed.",
+        "source": "Android Authority",
+        "publishedAt": "2026-06-28T10:37:06Z"
+      },
+      "facts": {
+        "facts": [
+          "The author spent a few weeks using a Google TV projector.",
+          "The author says they may be done buying actual TVs."
+        ],
+        "entities": [
+          "Google TV projector",
+          "Android Authority"
+        ],
+        "themes": [
+          "personal technology experience",
+          "shift from traditional TV to projector",
+          "consumer electronics purchasing decisions"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should consumers replace traditional televisions with portable projectors like Google TV projectors?",
+        "background": "The author spent a few weeks using a Google TV projector. The author says they may be done buying actual TVs. These statements reflect a personal experiment with projector-based home entertainment.",
+        "framing": "Is shifting from a conventional TV to a projector a better choice for most households?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
+        "description": "After spending a few weeks with a Google TV projector, I think I may be done buying actual TVs for good. Here's what changed.",
+        "source": "Android Authority",
+        "publishedAt": "2026-06-28T10:37:06Z"
+      },
+      "facts": {
+        "facts": [
+          "The author spent a few weeks using a Google TV projector.",
+          "The author says they may be done buying actual TVs."
+        ],
+        "entities": [
+          "Google TV projector",
+          "Android Authority"
+        ],
+        "themes": [
+          "personal technology experience",
+          "shift from traditional TV to projector",
+          "consumer electronics purchasing decisions"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should consumers replace traditional televisions with projector systems for home entertainment?",
+        "background": "The author spent a few weeks using a Google TV projector. The author says they may be done buying actual TVs.",
+        "framing": "Is it advisable for consumers to transition from conventional TVs to projector-based setups for everyday viewing?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
+        "description": "After spending a few weeks with a Google TV projector, I think I may be done buying actual TVs for good. Here's what changed.",
+        "source": "Android Authority",
+        "publishedAt": "2026-06-28T10:37:06Z"
+      },
+      "facts": {
+        "facts": [
+          "The author spent a few weeks using a Google TV projector.",
+          "The author says they may be done buying actual TVs."
+        ],
+        "entities": [
+          "Google TV projector",
+          "Android Authority"
+        ],
+        "themes": [
+          "personal technology experience",
+          "shift from traditional TV to projector",
+          "consumer electronics purchasing decisions"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should consumers replace traditional televisions with projectors as their primary home-screen device?",
+        "background": "The author spent a few weeks using a Google TV projector. The author says they may be done buying actual TVs.",
+        "framing": "Is it advisable for people to substitute conventional TVs with projectors for everyday viewing?",
+        "emotion": 9,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
+        "description": "Tons of Apple and Android models are still on sale, but these holdover bargains are selling out fast.",
+        "source": "CNET",
+        "publishedAt": "2026-06-28T05:13:41Z"
+      },
+      "facts": {
+        "facts": [
+          "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28T05:13:41Z.",
+          "The article mentions that many Apple and Android tablet models are still on sale.",
+          "The article notes that some holdover tablet bargains are selling out fast."
+        ],
+        "entities": [
+          "Apple",
+          "Samsung",
+          "TCL",
+          "CNET"
+        ],
+        "themes": [
+          "Prime Day",
+          "tablet deals",
+          "sales",
+          "discounted electronics"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Do fast-selling, heavily discounted tablets during events like Prime Day reflect responsible consumer behavior or contribute to unsustainable consumption patterns?",
+        "background": "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28. The article notes that many Apple and Android tablet models are still on sale. It also mentions that some holdover tablet bargains are selling out fast.",
+        "framing": "Is the rapid depletion of discounted tablets during sales events a sign of responsible consumerism or of unsustainable consumption?",
+        "emotion": 4,
+        "controversy": 2
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
+        "description": "Tons of Apple and Android models are still on sale, but these holdover bargains are selling out fast.",
+        "source": "CNET",
+        "publishedAt": "2026-06-28T05:13:41Z"
+      },
+      "facts": {
+        "facts": [
+          "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28T05:13:41Z.",
+          "The article mentions that many Apple and Android tablet models are still on sale.",
+          "The article notes that some holdover tablet bargains are selling out fast."
+        ],
+        "entities": [
+          "Apple",
+          "Samsung",
+          "TCL",
+          "CNET"
+        ],
+        "themes": [
+          "Prime Day",
+          "tablet deals",
+          "sales",
+          "discounted electronics"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should consumers prioritize brand loyalty over price when purchasing tablets during Prime Day sales?",
+        "background": "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28. The article lists many Apple and Android tablet models that are on sale for Prime Day. It also notes that some holdover tablet bargains are selling out quickly.",
+        "framing": "Is it more prudent for shoppers to choose tablets based on brand reputation rather than the discounted price offered during Prime Day?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
+        "description": "Tons of Apple and Android models are still on sale, but these holdover bargains are selling out fast.",
+        "source": "CNET",
+        "publishedAt": "2026-06-28T05:13:41Z"
+      },
+      "facts": {
+        "facts": [
+          "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28T05:13:41Z.",
+          "The article mentions that many Apple and Android tablet models are still on sale.",
+          "The article notes that some holdover tablet bargains are selling out fast."
+        ],
+        "entities": [
+          "Apple",
+          "Samsung",
+          "TCL",
+          "CNET"
+        ],
+        "themes": [
+          "Prime Day",
+          "tablet deals",
+          "sales",
+          "discounted electronics"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should shoppers wait for Prime Day tablet discounts instead of buying tablets at regular prices?",
+        "background": "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28. The article lists numerous Apple and Android tablet models that are on sale for Prime Day. It also notes that some of the remaining discounted tablet offers are selling out quickly.",
+        "framing": "Is it more advantageous for consumers to wait for Prime Day tablet deals rather than purchasing tablets at their standard prices?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
+        "description": "Tons of Apple and Android models are still on sale, but these holdover bargains are selling out fast.",
+        "source": "CNET",
+        "publishedAt": "2026-06-28T05:13:41Z"
+      },
+      "facts": {
+        "facts": [
+          "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28T05:13:41Z.",
+          "The article mentions that many Apple and Android tablet models are still on sale.",
+          "The article notes that some holdover tablet bargains are selling out fast."
+        ],
+        "entities": [
+          "Apple",
+          "Samsung",
+          "TCL",
+          "CNET"
+        ],
+        "themes": [
+          "Prime Day",
+          "tablet deals",
+          "sales",
+          "discounted electronics"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Is it wiser for shoppers to purchase tablet deals during Prime Day or wait for potentially better discounts later?",
+        "background": "CNET published an article titled \"Best Prime Day Tablet Deals From Apple, Samsung and TCL\" on 2026-06-28. The article lists numerous Apple and Android tablet models that are on sale for Prime Day. It also notes that some of these holdover tablet bargains are selling out quickly.",
+        "framing": "Should consumers seize the current Prime Day tablet discounts or hold out for future sales that might offer better value?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    }
+  ]
+}

@@ -93,13 +93,29 @@ function safeJoin(value, separator = "\n") {
   const arr = Array.isArray(value) ? value : [value];
   return arr.filter(item => item && String(item).trim() !== "").join(separator);
 }
+function getSafeItem(arr, index) {
+  if (!Array.isArray(arr) || !arr[index]) return "";
+  return String(arr[index]).trim();
+}
+function safeSliceAndJoin(arr, start, end, separator = "\n") {
+  if (!Array.isArray(arr)) return "";
+  
+  // Use JS .slice() which mimics Python's slicing behavior
+  const sliced = end !== undefined ? arr.slice(start, end) : arr.slice(start);
+  
+  // Clean up and join into a single string
+  return sliced
+    .filter(item => item && String(item).trim() !== "")
+    .join(separator);
+}
+
 
 function buildRoleContext(state, speaker) {
   const pkg = state.debatePackage;
-
+ 
   if (speaker.name === "Alex" || speaker.name === "Sarah") {
     const role = speaker.name === "Alex" ? pkg.alex : pkg.sarah;
-
+    
     return `
 DEBATE FRAMING
 CENTRAL QUESTION:
@@ -129,6 +145,8 @@ STAKES:
 ${pkg.framing?.stakes || "N/A"}
 `.replace(/\n{3,}/g, '\n\n').trim();
 }
+
+
   
 function buildPhaseContext(state, speaker) {
   const pkg = state.debatePackage;
@@ -142,15 +160,19 @@ function buildPhaseContext(state, speaker) {
 
   if (speaker.name === "Alex" || speaker.name === "Sarah") {
     const role = speaker.name === "Alex" ? pkg.alex : pkg.sarah;
+    const indexToUse = state.phaseturn < 3 ? 0 : 1;
+
 
     const knownFacts = safeJoin(pkg.knownFacts);
     const reasoning = safeJoin(role.arguments);
     const openingStrategy = safeJoin(role.openingStrategy);
     const coreClaims = safeJoin(role.coreClaims);
-    const attackVectors = safeJoin(role.attackVectors);
-    const reframeAngles = safeJoin(role.reframeAngles);
+    const attackVectors = state.phaseturn < 3 
+                          ? safeSliceAndJoin(role.attackVectors, 0, 2)  
+                          : safeSliceAndJoin(role.attackVectors, 2); 
+    const reframeAngles = getSafeItem(role.reframeAngles, indexToUse);
+    const likelyWeaknesses = getSafeItem(role.likelyWeaknesses, indexToUse);
     const concessions = safeJoin(role.concessions);
-    const likelyWeaknesses = safeJoin(role.likelyWeaknesses);
     const closingThemes = safeJoin(role.closingThemes);
 
     // Build chunks only if they are active, managing newlines tightly
@@ -295,7 +317,7 @@ CRITICAL: Write all fields using short, casual, punchy language (6th-grade level
     "openingStrategy": ["Simple move 1", "Simple move 2"],
     "coreClaims": ["Basic claim 1", "Basic claim 2"],
     "arguments": ["Everyday logic chain 1", "Everyday logic chain 2"],
-    "attackVectors": ["How to punch opponent's idea 1", "How to punch opponent's idea 2"],
+    "attackVectors": ["How to punch opponent's idea 1", "How to punch opponent's idea 2","How to punch opponent's idea 3", "How to punch opponent's idea 4"],
     "reframeAngles": ["How to change the subject 1", "How to change the subject 2"],
     "concessions": ["What to admit is true 1", "What to admit is true 2"],
     "likelyWeaknesses": ["Where they are vulnerable 1", "Where they are vulnerable 2"],
@@ -307,7 +329,7 @@ CRITICAL: Write all fields using short, casual, punchy language (6th-grade level
     "openingStrategy": ["Simple move 1", "Simple move 2"],
     "coreClaims": ["Basic claim 1", "Basic claim 2"],
     "arguments": ["Everyday logic chain 1", "Everyday logic chain 2"],
-    "attackVectors": ["How to punch opponent's idea 1", "How to punch opponent's idea 2"],
+    "attackVectors": ["How to punch opponent's idea 1", "How to punch opponent's idea 2","How to punch opponent's idea 3", "How to punch opponent's idea 4"],
     "reframeAngles": ["How to change the subject 1", "How to change the subject 2"],
     "concessions": ["What to admit is true 1", "What to admit is true 2"],
     "likelyWeaknesses": ["Where they are vulnerable 1", "Where they are vulnerable 2"],
@@ -355,7 +377,7 @@ function updatePhase(state) {
   if (state.phase !== nextPhase) {
     state.phase = nextPhase;
     state.phaseTurn = 0;
-    state.phaseStartTurn = state.turn; // optional but powerful
+    state.phaseId++
   } else {
     state.phaseTurn++;
   }

@@ -45,17 +45,12 @@ export async function generateDebate(topic, background) {
 
     const embedding = await getEmbedding(result.speech);
 
-    // const node = createNode({
-    //     speaker: result.speaker.name,
-    //     text: result.speech,
-    //     turn: state.turn,
-    //     embedding
-    // });
-
     const node = createRuntimeNode({
       speaker: result.speaker.name,
       phase: state.phase,
       turn: state.turn,
+      phaseId: state.phaseId,
+      phaseTurn: state.phaseTurn,
       text: result.speech,
       embedding,
       stance: stance_retrieve(state,result.speaker.name)
