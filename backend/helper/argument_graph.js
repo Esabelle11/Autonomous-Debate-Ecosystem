@@ -36,155 +36,43 @@ export function createRuntimeNode({speaker, phase, turn,phaseId,phaseTurn, text,
     }
 }
 
-// export function createNode({ speaker, text, turn, embedding }) {
-//     return {
-//         id: `${speaker}_${turn}_${Date.now()}`,
-//         speaker,
-//         text,
-//         turn,
-
-//         claims: extractClaims(text),
-//         stance: null,
-//         relation: null,
-//         targetNodes: [],
-
-//         repliesTo: null,
-//         contradicts: [],
-
-//         strength: 0,
-//         viral: false,
-//         viralScore: 0,     // NEW
-//         embedding,         // NEW
-//         type: "claim"
-//     };
-// }
 
 
 // =========================
 // GRAPH BUILDER
 // =========================
-export function linkNode(state,node){
+export function linkNode(state, node) {
 
-    const previous = state.lastNode;
+    // Store all parent ids
+    node.repliesTo = [...state.reply_to];
 
-    if(!previous){
-        state.graph.nodes.push(node);
-        state.lastNode=node;
-        return;
+    // Create reply edges
+    for (const parentId of state.reply_to) {
+
+        const parent = state.graph.nodes.find(n => n.id === parentId);
+
+        if (!parent) continue;
+
+        parent.replyChildren.push(node.id);
+
+        state.graph.edges.push({
+            from: parentId,
+            to: node.id,
+            type: "reply"
+        });
     }
 
-    node.repliesTo = previous.id;
-
-    previous.replyChildren.push(node.id);
-
-    state.graph.edges.push({
-        from: previous.id,
-        to: node.id,
-        type:"reply"
-    });
-
+    // Add node to graph
     state.graph.nodes.push(node);
 
-    state.lastNode=node;
-
+    // Remember latest node
+    state.lastNode = node;
 }
-// export function linkNode(state, node,speaker) {
-//     const last = state.lastNode;
-
-//     if (!last) {
-//         state.graph.nodes.push(node);
-//         state.lastNode = node;
-//         return;
-//     }
-
-//     node.repliesTo = last.id;
-
-//     // default reply edge
-//     state.graph.edges.push({
-//         from: last.id,
-//         to: node.id,
-//         type: "reply"
-//     });
-
-//     // semantic contradiction detection
-//     const isContradiction = detectContradiction(last.text, node.text);
-
-//     if (isContradiction) {
-//         node.relation = "refute";
-//         node.targetNodes.push(last.id);
-
-//         node.contradicts.push(last.id);
-
-//         state.graph.edges.push({
-//         from: node.id,
-//         to: last.id,
-//         type: "refute"
-//         });
-//     } else {
-//         node.relation = "extend";
-
-//         state.graph.edges.push({
-//         from: last.id,
-//         to: node.id,
-//         type: "extend"
-//         });
-//     }
-
-//     state.graph.nodes.push(node);
-//     state.lastNode = node;
-
-//     if(speaker.name==="Alex")
-//         node.stance=state.debatePackage.alex.stance;
-        
-//     if(speaker.name==="Sarah")
-//         node.stance=state.debatePackage.sarah.stance;
-
-//     if(speaker.name==="Marcus")
-//         node.stance="neutral";
-// }
 
 
-// =========================
-// CONTRADICTION DETECTOR
-// =========================
-function detectContradiction(a, b) {
-    const A = a.toLowerCase();
-    const B = b.toLowerCase();
+
+
   
-    const signals = [
-      ["should", "should not"],
-      ["good", "bad"],
-      ["benefit", "harm"],
-      ["increase", "decrease"],
-      ["support", "oppose"],
-      ["necessary", "unnecessary"],
-      ["effective", "ineffective"]
-    ];
-  
-    return signals.some(([p, n]) =>
-      (A.includes(p) && B.includes(n)) ||
-      (A.includes(n) && B.includes(p))
-    );
-}
-  
-  
-// =========================
-// NODE SCORING
-// =========================
-// export function scoreNode(node) {
-//     let score = 0;
-
-//     if (node.text.length > 100) score += 2;
-//     if (node.relation === "refute") score += 3;
-//     if (node.claims.length > 1) score += 1;
-
-//     const signalWords = ["because", "therefore", "however", "thus"];
-//     if (signalWords.some(w => node.text.toLowerCase().includes(w))) {
-//         score += 2;
-//     }
-
-//     node.strength = Math.min(10, score);
-// }
 export function scoreRuntimeNode(node){
 
     let score=0;

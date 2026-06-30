@@ -147,9 +147,25 @@ export default function PodcastPlayer({ episode }) {
       <Visualizer currentTime={currentTime} />
 
       <div className="host-panel">
-        <AgentCard name="Alex" identity="alex" role="Optimist" active={currentSpeaker === "Alex"} />
+        
+        <div className="stance-panel left">
+          <div className="stance-title">Alex's Position</div>
+          <div className="stance-text">
+            {episode.debatePackage.alex.stance}
+          </div>
+        </div>
+
+        <AgentCard name="Alex" identity="alex" role="Debater" active={currentSpeaker === "Alex"} />
         <AgentCard name="Marcus" identity="marcus" role="Host" active={currentSpeaker === "Marcus"} />
-        <AgentCard name="Sarah" identity="sarah" role="Skeptic" active={currentSpeaker === "Sarah"} />
+        <AgentCard name="Sarah" identity="sarah" role="Debater" active={currentSpeaker === "Sarah"} />
+
+        <div className="stance-panel right">
+          <div className="stance-title">Sarah's Position</div>
+          <div className="stance-text">
+            {episode.debatePackage.sarah.stance}
+          </div>
+        </div>
+        
       </div>
 
       <div className="podcast-player__insights">

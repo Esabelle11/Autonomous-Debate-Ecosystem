@@ -1,475 +1,492 @@
 # Autonomous Debate Ecosystem
 
-> An autonomous multi-agent ecosystem that transforms daily news into structured, debate-driven podcast episodes.
+> An autonomous multi-agent ecosystem that transforms daily news into structured, phase-driven debates and fully narrated podcast episodes.
 
 ---
 
 # Overview
 
-The Autonomous Debate Ecosystem (ADE) is an AI-native editorial and podcast production framework designed to simulate the workflow of a real debate podcast.
+The **Autonomous Debate Ecosystem (ADE)** is an AI-native editorial framework that simulates the workflow of a professional debate podcast.
 
-demo link: https://infinite-debate.vercel.app
+Instead of generating a conversation from a single prompt, ADE coordinates multiple specialized AI agents that perform the roles of researchers, editors, moderators, debaters, producers, and audio engineers.
 
-Rather than generating conversations directly, ADE models the complete production pipeline:
+Demo link: https://infinite-debate.vercel.app
 
-- Discover daily news.
-- Extract factual knowledge.
-- Generate multiple debate perspectives.
-- Evaluate editorial quality.
-- Select unique discussion topics.
-- Direct multi-agent debates.
-- Build structured argument flows.
-- Detect viral moments.
-- Produce fully voiced podcast episodes.
+Every episode follows a complete production pipeline:
 
-The project explores how autonomous AI agents can collaborate to perform the roles of researchers, editors, hosts, debaters, producers, and audio engineers.
+```
+Daily News
+      ↓
+Editorial Intelligence
+      ↓
+Debate Director
+      ↓
+Phase-Driven Multi-Agent Debate
+      ↓
+Semantic Argument Graph
+      ↓
+Debate Analytics
+      ↓
+Voice Production
+      ↓
+Podcast Episode
+```
 
-![Image1.](doc/img/system_design_v2.png "Image1")
+The result is a structured debate that maintains logical consistency, adapts strategically throughout the discussion, and can be inspected through an interactive argument graph.
 
+![Image1.](doc/img/system_design_v3.png "Image1")
+
+---
+
+# Key Features
+
+* 📰 Automated daily news discovery and topic generation
+* 🧠 AI editorial evaluation and debate selection
+* 🎭 Dynamic role assignment based on each debate topic
+* 🎙 Phase-driven multi-agent debate orchestration
+* 🕸 Runtime semantic argument graph
+* 📈 Interactive visualization of debate flow
+* 🔍 Semantic relationship detection between arguments
+* 🎧 Automated voice synthesis and podcast production
 
 ---
 
 # System Architecture
 
 ```
-Daily News
-    ↓
-Editorial Intelligence
-    ↓
-AI Podcast Director
-    ↓
-Multi-Agent Debate
-    ↓
-Argument Intelligence
-    ↓
-Viral Intelligence
-    ↓
-Audio Production
-    ↓
-Podcast Episode
+                    Daily News
+                         │
+                         ▼
+               Editorial Intelligence
+                         │
+                         ▼
+                  Debate Director
+                         │
+                         ▼
+               Phase-Driven Debate Engine
+                         │
+        ┌────────────────┴────────────────┐
+        ▼                                 ▼
+Semantic Argument Graph          Debate Analytics
+        │                                 │
+        └────────────────┬────────────────┘
+                         ▼
+                Podcast Production
+                         │
+                         ▼
+                   Podcast Episode
 ```
 
 ---
 
-# Stage 1: Editorial Intelligence
+# Stage 1 — Editorial Intelligence
 
-The first stage discovers and prepares debate topics.
+ADE begins by discovering current news articles and transforming them into potential debate topics.
 
 ## News Collection
 
-- Fetch >10 daily articles.
-- Store article metadata.
-
 ```
 News API
-    ↓
-Articles
+      ↓
+Daily Articles
 ```
+
+Each article is stored together with its metadata for later processing.
 
 ---
 
 ## Fact Extraction
 
-Each article is processed by an LLM to extract:
-
-- Facts
-- Entities
-- Themes
+Every article is analyzed by an LLM to extract structured knowledge.
 
 ```
 Article
-    ↓
+      ↓
 LLM
-    ↓
+      ↓
 Facts
 Entities
 Themes
 ```
+
+These facts become the factual foundation of the debate.
 
 ---
 
 ## Debate Topic Generation
 
-Each article generates multiple possible debate angles.
-
-### Modes
-
-- Philosophical
-- Controversial
-- Viral
-- Emotional
-
-Each mode can be adjusted using:
-
-- Heat
-- Chaos
-- Intensity
-
-Input:
+Each article produces multiple candidate debate topics across several editorial styles.
 
 ```
 Facts
 Entities
 Themes
-Mode
-Intensity
+        ↓
+
+Philosophical
+Controversial
+Emotional
+Viral
 ```
 
-Output:
-
-```
-~10 Articles
-×
-
-4 Modes
-
-=
-
-~40 Candidate Debates
-```
+Each mode can be tuned through configurable creativity parameters.
 
 ---
 
-## Topic Evaluation
+## Editorial Evaluation
 
-Every candidate debate is evaluated using:
+Every generated debate is evaluated before it is allowed into the production pipeline.
 
-- Original article
-- Extracted facts
-- Debate topic
+Evaluation metrics include:
 
-Scoring dimensions:
+| Metric       | Purpose                 |
+| ------------ | ----------------------- |
+| Faithfulness | Matches source material |
+| Relevance    | Discussion value        |
+| Controversy  | Potential disagreement  |
+| Framing      | Debate quality          |
+| Coherence    | Logical consistency     |
+| Overall      | Final editorial score   |
 
-
-| Metric       | Description              |
-| ------------ | ------------------------ |
-| Faithfulness | Consistency with source  |
-| Relevance    | Importance of discussion |
-| Controversy  | Potential disagreement   |
-| Framing      | Quality of debate setup  |
-| Coherence    | Logical structure        |
-| Overall      | Aggregate quality        |
-
-
-Average scores are calculated for each candidate.
+Only high-quality debates proceed to production.
 
 ---
 
-## Topic Selection
+# Stage 2 — Debate Director
 
-Selection rules:
+Before the debate begins, an AI Debate Director prepares the entire discussion.
 
-```
-average > 9
+Instead of giving every participant a fixed personality, the director generates topic-specific strategic briefings.
 
-selected == 0
-```
-
-Group by original article title.
-
-Each article can only contribute one debate topic.
-
-One candidate is randomly selected and marked as used.
-
-This allows multiple unique debate episodes to be generated from a single daily news cycle while preventing repetition.
-
-For demonstration purposes:
-
-```
-1 Scraper
-    ↓
-1 Debate
-    ↓
-1 Podcast Episode
-```
-
-This constraint exists primarily because of voice synthesis costs.
-
----
-
-# Stage 2: AI Podcast Director
-
-The AI Podcast Director is responsible for transforming a news topic into a structured debate experience.
-
-Rather than simply coordinating speaker turns, the director performs editorial planning before the discussion begins.
-
-## Debate Package Generation
-
-For every episode, an LLM creates a custom debate package based on the selected topic and its factual background.
-
-The package defines:
-
-```
-Topic + Background
-      ↓
-Debate Package
-```
-
-The generated package contains:
-
-### Debate Framing
+For each debate it creates:
 
 * Central question
 * Core conflict
 * Real-world stakes
+* Supporting facts
+* Debate objectives
+
+The director also assigns dynamic roles to every participant.
 
 Example:
 
 ```
-Should AI-generated content replace human creativity?
-
-Central Question:
-Can AI democratize creativity without harming artists?
-
-Key Conflict:
-Innovation vs creative ownership.
-
-Stakes:
-Economic, cultural, and ethical consequences.
-```
-
----
-
-## Dynamic Role Assignment
-
-Instead of fixed personalities, each participant receives a topic-specific briefing.
-
-Each debater is assigned:
-
-* A stance
-* A debate role
-* Strategic objectives
-* Supporting evidence
-* Preferred rhetorical techniques
-* Arguments to avoid
-* Likely opponent strategies
-
-For example:
-
-```
 Alex
 ↓
-Defend technological progress
+
+Technology Optimist
 
 Sarah
 ↓
-Defend human and cultural values
-```
 
-The exact positions change depending on the debate topic.
-
----
-
-## Moderator Preparation
-
-The moderator also receives a private briefing.
-
-This includes:
-
-* Opening questions
-* Follow-up prompts
-* Areas of tension
-* Pressure points for both sides
-
-The moderator uses these signals to maintain pacing and encourage deeper discussion.
-
----
-
-## Editorial Orchestration
-
-During the episode, the Podcast Director continuously evaluates debate state and decides:
-
-* Who should speak next.
-* Whether clarification is needed.
-* When to challenge weak arguments.
-* When to transition topics.
-* How to maintain balance and engagement.
-
-The director acts as the producer of the debate rather than as a participant.
-
----
-
-# Stage 3: Adaptive Multi-Agent Debate
-
-The debate itself is performed by multiple autonomous agents.
-
-Unlike traditional role-playing systems, speaker identities are not permanently fixed.
-
-Each episode generates new strategic briefings tailored to the selected topic.
+Ethics Advocate
 
 ```
-Debate Package
-        ↓
-Role Briefings
-        ↓
-Multi-Agent Discussion
+
+Roles change automatically depending on the selected topic.
+
+---
+
+# Stage 3 — Phase-Driven Debate Engine
+
+Unlike traditional chatbot conversations, every debate follows a structured lifecycle inspired by competitive debates.
+
+```
+Opening
+      ↓
+Build
+      ↓
+Clash
+      ↓
+Consolidation
+      ↓
+Closing
+```
+
+Each phase has different objectives, prompting strategies, and available reasoning tools.
+
+## Opening
+
+Emcee introduce the debate topic and background.
+
+---
+
+## Build
+
+Each debater develops independent arguments supported by evidence and predefined strategic objectives.
+
+The prompt emphasizes:
+
+* Opening strategy
+* Core claims
+* Known facts
+
+---
+
+## Clash
+
+Participants actively challenge each other's strongest arguments.
+
+The prompt dynamically shifts toward:
+
+* Attack vectors
+* Reframing techniques
+* Identified weaknesses
+
+Instead of merely continuing the conversation, agents are instructed to directly engage with opposing claims.
+
+---
+
+## Consolidation
+
+The debate transitions from conflict toward persuasion.
+
+Participants:
+
+* Reinforce their strongest arguments
+* Strategically acknowledge concessions
+* Reframe earlier discussion
+* Prepare their final narrative
+
+---
+
+## Closing
+
+The final phase focuses on summarization rather than introducing new information.
+
+Agents are instructed to synthesize the discussion using only arguments that have already appeared during the debate.
+
+This prevents the common LLM behavior of introducing entirely new evidence at the end of a discussion.
+
+---
+
+# Dynamic Prompt Orchestration
+
+Rather than relying on a single static prompt, ADE constructs a new prompt for every speaking turn based on the current debate state.
+
+Each prompt combines multiple layers of contextual information.
+
+```text
+Debate Topic
+        +
+Role Briefing
+        +
+Current Debate Phase
+        +
+Phase-Aware Memory
+        +
+Argument Graph
+        +
+Previous Speaker
+        +
+Current Editorial Objective
+```
+
+This allows every participant to adapt their reasoning as the debate progresses instead of following a fixed prompt throughout the entire discussion.
+
+---
+
+## Phase-Aware Memory
+
+Instead of continuously supplying the full conversation history, ADE dynamically adjusts the amount of memory provided to each participant based on the current debate phase and speaking role.
+
+This reduces unnecessary context while encouraging more natural debate progression.
+
+| Phase         | Memory Strategy                                                                                                                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Opening       | No conversation memory. Participants establish independent positions.                                                                                                                                              |
+| Build         | No conversation memory. Debaters focus on presenting their own arguments without early influence from opponents.                                                                                                   |
+| Clash         | Debaters receive only the most recent opponent response to encourage direct rebuttals. The moderator receives the complete debate history to guide the discussion.                                                 |
+| Consolidation | Debaters receive the complete debate history to strengthen their strongest arguments and prepare their final narrative. The moderator receives no memory because their responsibility is to transition the debate. |
+| Closing       | Debaters receive only their own previous statements, preventing new arguments while encouraging consistent final summaries. The moderator receives the full debate history to deliver an overall conclusion.       |
+
+---
+
+## Why Not Use Full Conversation History?
+
+Providing the entire transcript at every turn often leads to undesirable LLM behaviors, including:
+
+* repetitive arguments
+* unnecessary self-reference
+* reduced focus on the current objective
+* excessive prompt length
+* higher inference cost
+
+Instead, ADE deliberately controls how much historical information is exposed throughout the debate lifecycle.
+
+This creates a balance between conversational consistency and strategic progression.
+
+---
+
+# Runtime Semantic Argument Graph
+
+Every speaking turn becomes a node inside a growing semantic graph.
+
+```
+Node
+├── Speaker
+├── Phase
+├── Claims
+├── Embedding
+├── Reply Relationships
+├── Semantic Relationships
+└── Runtime Metrics
+```
+
+Two independent graph structures are maintained simultaneously.
+
+## Reply Graph
+
+Tracks conversational flow.
+
+```
+Alex
+   │
+   ▼
+Sarah
+   │
+   ▼
+Alex
 ```
 
 ---
 
-## Alex
+## Semantic Graph
 
-Alex typically approaches problems from an analytical perspective.
+Tracks logical relationships between arguments.
 
-Depending on the debate package, Alex may become:
+Examples include:
 
-* A policy advocate
-* A technology optimist
-* A legal analyst
-* A scientific skeptic
-* An economic pragmatist
-
-Alex follows the assigned strategy while adapting to new arguments during the discussion.
-
----
-
-## Sarah
-
-Sarah generally represents human-centered perspectives.
-
-Depending on the topic, Sarah may become:
-
-* An ethicist
-* A social advocate
-* A cultural critic
-* A community representative
-* A defender of individual rights
-
-Her objectives are dynamically generated for every episode.
-
----
-
-## Marcus
-
-Marcus serves as moderator.
-
-Rather than following a scripted sequence, Marcus receives editorial guidance and reacts to the evolving conversation.
-
-Responsibilities include:
-
-* Introducing the debate.
-* Asking prepared and spontaneous questions.
-* Challenging both sides.
-* Managing pacing.
-* Summarizing key disagreements.
-* Maintaining neutrality.
-
----
-
-## Dynamic Debate Context
-
-Every speaking turn is generated using multiple context layers:
+* Supports
+* Attack
+* Evidence
+* Concession
+* Same Theme
+* None
 
 ```
-Topic + Background + Debate Framing + Role Briefing + 
-Conversation Memory + Previous Speaker + Current Task
-                        ↓
-                Agent Response
+Claim A
+   │
+supports
+   ▼
+Claim B
+
+Claim C
+   │
+Attack
+   ▼
+Claim B
 ```
 
-This allows participants to:
-
-* Stay consistent with their assigned roles.
-* Reference previous arguments.
-* Adapt to strong counterpoints.
-* Maintain long-form coherence.
-* Avoid repetitive exchanges.
-
-The result is a debate where strategies are generated for each episode rather than hardcoded into the system.
-
-# Argument Intelligence
-
-The debate is represented as an evolving argument graph.
-
-```
-Claim
-├── Support
-├── Attack
-└── Summary
-```
-
-This structure enables:
-
-- Better conversational memory.
-- Reduced repetition.
-- Stronger debate coherence.
-- Easier post-processing.
+This allows the debate to be analyzed based on meaning rather than chronological order.
 
 ---
 
-# Viral Intelligence
+# Interactive Debate Visualization
 
-The system identifies high-impact moments.
+The runtime graph can be explored through an interactive visual interface.
 
-Potential signals include:
+Users can inspect:
 
-- Strong disagreements.
-- Emotional peaks.
-- Memorable quotes.
-- Unexpected perspectives.
-- High-engagement exchanges.
+* Debate phases
+* Reply chains
+* Semantic relationships
+* Argument evolution
+* Runtime metadata
+* Node connections
 
-These moments can later support:
-
-- Episode highlights.
-- Shorts.
-- Social media clips.
-- Viral scoring.
+This makes the internal reasoning process transparent rather than treating the debate as an opaque text transcript.
 
 ---
 
-# Stage 4: Audio Production
+# Debate Analytics
 
-The completed debate enters the production pipeline.
+The completed debate is analyzed to identify high-impact moments.
+
+Signals include:
+
+* Strong rebuttals
+* Emotional peaks
+* Viral quotes
+* High-confidence semantic relationships
+* Persuasive exchanges
+
+These analytics can later support:
+
+* Podcast highlights
+* Short-form clips
+* Social media content
+* Debate summaries
+
+---
+
+# Podcast Production
+
+After the debate concludes, the transcript enters the production pipeline.
 
 ```
 Transcript
-    ↓
+      ↓
 Voice Synthesis
-    ↓
-Audio Chunk Generation
-    ↓
-Audio Assembly
-    ↓
-Podcast Episode
+      ↓
+Audio Generation
+      ↓
+Episode Assembly
+      ↓
+Podcast
 ```
 
 Outputs include:
 
-- MP3 audio
-- Transcript
-- JSON metadata
-- CSS styling
-- Episode assets
+* Podcast audio
+* Transcript
+* Structured debate graph
+* Runtime metadata
 
 ---
 
 # Design Philosophy
 
-The Autonomous Debate Ecosystem follows several principles.
+ADE follows five core principles.
 
-## Editorial before generation.
+### Editorial before generation
 
-Topics should be curated, not randomly invented.
+Topics should be curated rather than randomly invented.
 
-## Debate before narration.
+### Structure before improvisation
 
-Conversations are more engaging than summaries.
+Debates follow explicit phases with evolving objectives.
 
-## Structure before improvisation.
+### Semantics before chronology
 
-Argument graphs maintain logical consistency.
+Arguments are connected by meaning, not only by speaking order.
 
-## Multiple perspectives.
+### Transparency before black boxes
 
-Different agents provide competing viewpoints.
+Every debate can be inspected through a runtime graph.
 
-## Automation with autonomy.
+### Autonomous collaboration
 
-Independent AI components collaborate to produce a complete debate podcast.
+Specialized AI agents cooperate to produce a complete debate experience.
 
 ---
 
+# Future Research
+
+This project serves as a foundation for future experimentation in autonomous multi-agent reasoning.
+
+Potential research directions include:
+
+* Retrieval-augmented evidence generation
+* Automatic fact verification
+* Logical fallacy detection
+* Argument strength prediction
+* Debate outcome prediction
+* Multi-agent consensus strategies
+* Knowledge graph integration
+* Long-term conversational memory
+
+---
 # Local Development Setup 
 ### 1. Configure Environment Variables
 ```bash
@@ -496,13 +513,5 @@ npm install
 npm run dev
 ```
 
-
 ---
 
-# Vision
-
-The Autonomous Debate Ecosystem explores the idea that podcast production can become an autonomous editorial process.
-
-Instead of simply generating text or speech, the system coordinates specialized AI agents that perform the roles of journalists, editors, moderators, debaters, producers, and audio engineers.
-
-The result is a fully automated pipeline capable of transforming daily news into structured, engaging, and debate-driven podcast episodes.

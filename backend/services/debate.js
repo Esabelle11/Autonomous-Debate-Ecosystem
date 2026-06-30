@@ -1,7 +1,8 @@
 import dotenv from "dotenv";
 import { emceePromptStyle } from "../config/agent_config.js";
-import { createState, updateHeat, updateStagnation, updateMemory} from "../helper/debate_state.js";
-import { generateDebatePackage, director, callAgent} from "./debate_director.js";
+import { createState, updateMemory,director} from "../helper/debate_state.js";
+import { generateDebatePackage, callAgent} from "./debate_director.js";
+
 import { createRuntimeNode, linkNode, scoreRuntimeNode, detectViralNodes} from "../helper/argument_graph.js";
 import { getEmbedding } from "../helper/embedding.js";
 import { buildSemanticGraph } from "../helper/semantic_graph_builder.js";
@@ -62,8 +63,8 @@ export async function generateDebate(topic, background) {
     detectViralNodes(state, node);
 
     updateMemory(state, result);
-    updateHeat(state, result.speech);
-    updateStagnation(state);
+    // updateHeat(state, result.speech);
+    // updateStagnation(state);
 
     state.lastSpeaker = result.speaker;
     state.turn++;

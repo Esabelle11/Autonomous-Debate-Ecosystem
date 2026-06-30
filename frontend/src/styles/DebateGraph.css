@@ -146,6 +146,9 @@
     linear-gradient(180deg, rgba(15, 23, 42, 0.98), rgba(15, 23, 42, 0.9));
   box-shadow: 0 16px 36px rgba(2, 6, 23, 0.35);
 }
+.argument-node {
+  transition: all 0.2s ease;
+}
 
 .argument-node.active {
   box-shadow:
@@ -211,6 +214,21 @@
   border: 1px solid rgba(147, 197, 253, 0.12);
 }
 
+.argument-node.dimmed {
+  opacity: 0.2;
+  filter: grayscale(0.6);
+  transition: all 0.2s ease;
+}
+
+.argument-node.focused {
+  transform: scale(1.05);
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.25),
+              0 0 18px rgba(56,189,248,0.35);
+  z-index: 10;
+}
+
+
+
 .react-flow__controls-button {
   background: transparent;
   color: #e2e8f0;
@@ -242,3 +260,4 @@
     height: 540px;
   }
 }
+

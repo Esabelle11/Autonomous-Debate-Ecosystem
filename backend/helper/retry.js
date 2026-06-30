@@ -1,5 +1,5 @@
 
-export async function retry(fn, retries = 5, delay = 20000) {
+export async function retry(fn, retries = 10, delay = 30000) {
     let lastError;
   
     for (let i = 0; i < retries; i++) {
@@ -10,7 +10,7 @@ export async function retry(fn, retries = 5, delay = 20000) {
         console.log(`Attempt ${i + 1} failed`);
   
         if (i < retries - 1) {
-          await new Promise(r => setTimeout(r, delay));
+          await new Promise(r => setTimeout(r, delay*(i+2)));
         }
       }
     }

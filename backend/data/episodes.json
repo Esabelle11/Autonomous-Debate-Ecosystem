@@ -1,185 +1,189 @@
 [
   {
-    "id": "d738f15b-b036-4294-ad4d-63997798b0f0",
-    "date": "2026-06-29T08:29:14.137Z",
-    "topic": "Should the discovery of low‑density “super‑puff” exoplanets reshape our models of planetary formation?",
-    "summary": "Astronomers have identified a pair of “super‑puff” planets located more than 1,000 light‑years from Earth. These worlds have densities lower than candyfloss, making them among the most tenuous planets known. Their unusual characteristics provide new data points for understanding how planets evolve over cosmic time.",
-    "audioUrl": "/audio/d738f15b-b036-4294-ad4d-63997798b0f0.mp3",
-    "duration": 235.525,
+    "id": "153fa439-4aa1-4de3-afaa-f6940e51787d",
+    "date": "2026-06-30T08:33:27.736Z",
+    "topic": "Should consumers replace traditional televisions with projectors as their primary home-screen device?",
+    "summary": "The author spent a few weeks using a Google TV projector. The author says they may be done buying actual TVs.",
+    "audioUrl": "/audio/153fa439-4aa1-4de3-afaa-f6940e51787d.mp3",
+    "duration": 234.85,
     "transcript": [
       {
         "speaker": "Marcus",
-        "text": "Welcome to the show, where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact.",
+        "text": "Welcome to today’s showdown: do we swap our living‑room TVs for home projectors? After a few weeks of testing a Google TV projector, the author wonders if it’s time to ditch the box forever—let’s weigh screen size, vibe, cost, and hassle.",
         "phase": "OPENING"
       },
       {
-        "speaker": "Alex",
-        "text": "The super‑puff worlds are real, ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules.",
+        "speaker": "Sarah",
+        "text": "TVs give you a bright, crisp picture any time of day with zero hassle—just plug it in and you’re ready, no blackout curtains, lamp swaps, or extra costs. That reliability beats the drama of a projector’s setup and maintenance.",
         "phase": "BUILD"
       },
       {
-        "speaker": "Sarah",
-        "text": "Most planets still line up with our classic formation model, and just two fluffy outliers can’t overturn it; we just need a small tweak, not a whole rulebook rewrite.",
+        "speaker": "Alex",
+        "text": "Projectors give you a cinema‑size picture for a fraction of the cost of a 75‑inch TV, and they’re lightweight enough to roll out wherever you want—turn any wall into a movie screen without splurging on a massive, immovable set.",
         "phase": "BUILD"
       },
       {
         "speaker": "Marcus",
-        "text": "Sarah, you claim just two outliers can be brushed off, but if those “fluffy” planets form at all, they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Marcus, you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work, just like swapping a car’s driver seat to the back and expecting it to run smoothly.",
+        "text": "Alex, how realistic is it that a projector’s lamp replacements, mounting gear, and dark‑room setup don’t end up costing as much—or more—than a quality TV over time?",
         "phase": "CLASH"
       },
       {
         "speaker": "Alex",
-        "text": "Sarah, those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes, not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever; we update our models when the data demand it, or we’ll miss the next cosmic surprise.",
+        "text": "Sure, a bulb swap isn’t cheap, but think of it like changing a car’s oil—periodic, predictable, and far cheaper than the $2,000‑plus you’d shell out for a true‑size cinema panel; plus you can roll the whole “screen” away after the night, something a wall‑mounted TV can never do.",
         "phase": "CLASH"
       },
       {
         "speaker": "Sarah",
-        "text": "Alex, we barely know anything about these puffies—without pressure, temperature, or composition data they’re just odd outliers, not a reason to overturn a model that predicts billions of planets correctly; overhauling the whole theory now would scramble the reliable predictions we already trust.",
+        "text": "Bulb swaps may be cheap, but they’re a hidden recurring cost and a mess you’ll troubleshoot every few years—something TV owners never worry about. Plus, a TV works straight out of the box in any light, delivering instant gaming and sports without hunting for blackout curtains or fiddling with settings.",
         "phase": "CLASH"
       },
       {
         "speaker": "Alex",
-        "text": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map, and we’ll miss the next big surprise; if a recipe can’t bake a cake, you add a new ingredient, so we must tweak our planetary‑making rules now.",
+        "text": "Sure, but think about movie‑night parties: a portable projector instantly turns any blank wall into a massive screen, letting friends gather anywhere—even outdoors—while a TV stays stuck in one spot and kills the vibe. And once you buy a long‑life LED lamp, you’re only swapping bulbs once in years, not every few months.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Projectors may wow a backyard crowd, but their picture washes out in daylight and demand precise setup—perfect for tech geeks, not the average family watching a game or gaming on cue. A TV delivers bright, plug‑and‑play clarity anytime, no blackout curtains or lamp swaps needed.",
         "phase": "CLASH"
       },
       {
         "speaker": "Marcus",
-        "text": "Alright, Alex and Jamie, each of you, pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up, just the clash.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Sure, the classic model still explains most worlds, but those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now, or we’ll miss the next cosmic surprise.",
+        "text": "Alright, everyone—turn to your opponent and name the biggest pushback against your own point, then give a quick rebuttal; keep it sharp and stay on the issue.",
         "phase": "CONSOLIDATION"
       },
       {
         "speaker": "Sarah",
-        "text": "Those fluffy worlds are fascinating and deserve more data, but swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest, well‑tested tweaks.",
+        "text": "My biggest pushback is that a huge TV can be pricey, but its plug‑and‑play brightness lets you jump straight into games or sports any time—no blackout curtains, no lamp swaps, no surprise costs—something a projector just can’t match for everyday family use.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sure, a projector needs a dark room and a quick set‑up, but that easy roll‑out turns any wall into a cinema‑sized screen for spontaneous movie‑night parties—something a fixed TV can never match.",
         "phase": "CONSOLIDATION"
       },
       {
         "speaker": "Marcus",
-        "text": "Alright, Alex and Sarah, give me a quick wrap‑up of your main point—no fresh arguments, just a concise closing.",
+        "text": "Alright, Alex and Sarah, wrap it up in one quick line each—no new points, just the core of your case.",
         "phase": "CLOSING"
       },
       {
         "speaker": "Alex",
-        "text": "We’ve seen two ultra‑light, marshmallow‑like super‑puff planets that our current formation recipes can’t bake, so—just like adding a new ingredient when a cake won’t rise—we must update the models; science grows by testing new clues, not ignoring them.",
+        "text": "Projectors turn any wall into a cinema‑size screen for a fraction of the cost of a huge TV, and they’re portable enough to roll away or take outside—giving you the big‑picture experience without a permanent, pricey fixture.",
         "phase": "CLOSING"
       },
       {
         "speaker": "Sarah",
-        "text": "We’ve seen two super‑puff, marshmallow‑light planets, but they’re just a couple of outliers; like a few stray kids in a class, they don’t justify rewriting the whole curriculum. Let’s keep the solid formation model and add only a modest, well‑tested wing to accommodate them.",
+        "text": "TVs are always‑on, bright and plug‑and‑play—no blackout curtains, lamp swaps, or hidden costs—so you get clear drama on screen anytime, unlike projectors that need special setup and struggle in daylight.",
         "phase": "CLOSING"
       },
       {
         "speaker": "Marcus",
-        "text": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now, while Sarah cautions against overhauling a framework that already explains most worlds, suggesting only modest, data‑driven tweaks. The debate leaves open how much evidence is needed before reshaping theory, inviting further observations before any consensus.",
+        "text": "Both sides agree that size and vibe matter: projectors deliver cinema‑scale, portable screens at lower upfront cost, while TVs offer bright, plug‑and‑play reliability without dark‑room hassles. The trade‑off between occasional maintenance versus constant convenience remains unresolved, leaving each home to decide what fits its viewing habits best.",
         "phase": "CLOSING"
       }
     ],
     "debatePackage": {
       "framing": {
-        "centralQuestion": "Should we change planet‑making rules because of super‑puff worlds?",
-        "keyConflict": "New weird planets vs old trusted models",
-        "stakes": "If we ignore them, we miss clues; if we rewrite too fast, we throw out good work"
+        "centralQuestion": "Should we ditch TVs for projectors at home?",
+        "keyConflict": "Screen size and vibe vs cost and hassle",
+        "stakes": "If we go too far, we risk bad picture or wasted money"
       },
       "knownFacts": [
-        "Astronomers found two super‑puff planets far away",
-        "These planets are lighter than a marshmallow"
+        "Projectors can make a wall feel like a movie screen",
+        "TVs are plug‑and‑play and work in any light"
       ],
       "alex": {
-        "stance": "Yes, update the recipes for making planets",
-        "role": "The “future‑shapers” team",
+        "stance": "Projectors are the future home screen",
+        "role": "Team Big Picture",
         "openingStrategy": [
-          "Show the fluff‑planets are real and weird",
-          "Compare them to a balloon that shouldn’t float that high"
+          "Show a clip of a huge movie night",
+          "Compare price of a big TV vs a decent projector"
         ],
         "coreClaims": [
-          "Current models can’t explain such low density",
-          "New data means we need fresh ideas"
+          "More screen for less cash",
+          "Portable vibe for any room"
         ],
         "arguments": [
-          "If a recipe can’t bake a cake, you add a new ingredient",
-          "Science works by testing what we see, not by ignoring it"
+          "You get theater‑size view without buying a giant TV",
+          "You can roll it up and move it, like a giant lamp"
         ],
         "attackVectors": [
-          "Point out that old models leave these planets as ‘mistakes’",
-          "Say staying stuck is like refusing to use a GPS because you know the old road"
+          "TVs are bulky and lock you to one spot",
+          "Big screens use more power than a lamp",
+          "Projectors work better in dark rooms, so TVs win in bright spaces",
+          "Set‑up can be tricky, like assembling IKEA"
         ],
         "reframeAngles": [
-          "Talk about exploring new worlds instead of protecting old ideas",
-          "Ask if we want to miss the next surprise in space"
+          "Talk about turning any wall into a canvas",
+          "Focus on the fun of movie‑night parties"
         ],
         "concessions": [
-          "Admit some old ideas still work for many planets",
-          "Accept that we need more data before fully rewriting"
+          "Projectors need darkness for best picture",
+          "Initial setup takes a few minutes"
         ],
         "likelyWeaknesses": [
-          "May seem hasty without a full catalog",
-          "Could be seen as tossing out solid work for a few odd cases"
+          "Bad in bright rooms",
+          "Bulb life can cost extra"
         ],
         "closingThemes": [
-          "Science grows when we add new tools",
-          "These fluffy planets are a clue, not a dead end"
+          "Big picture, small price",
+          "Flexibility beats fixed"
         ]
       },
       "sarah": {
-        "stance": "No, keep the core model and tweak a bit",
-        "role": "The “steady‑builders” crew",
+        "stance": "Stick with good old TVs",
+        "role": "Team Reliable Screen",
         "openingStrategy": [
-          "Start with how most planets fit the old model",
-          "Show that fluffy planets are rare exceptions"
+          "Play a clip of crisp TV colors in daylight",
+          "Show a quick plug‑in demo"
         ],
         "coreClaims": [
-          "One odd couple doesn’t break the whole theory",
-          "We should fine‑tune, not overhaul"
+          "Consistent picture any time",
+          "Zero‑maintenance, just press a button"
         ],
         "arguments": [
-          "If a few stray kids join a class, you don’t change the whole curriculum",
-          "Jumping to new rules can cause confusion, like swapping a car’s driver seat for the back"
+          "TVs work in bright rooms, no need for blackout curtains",
+          "No lamp to replace, no extra costs"
         ],
         "attackVectors": [
-          "Highlight that we still lack many details about these worlds",
-          "Warn that a full rewrite could mess up predictions for everything else"
+          "Projectors need a dark room, limits use",
+          "Bulb replacement adds hidden fees",
+          "Picture can wash out in daylight",
+          "Setup can be a headache for non‑techies"
         ],
         "reframeAngles": [
-          "Focus on the safety of proven science",
-          "Ask if changing everything now would make future discoveries harder"
+          "Talk about family TV time without fuss",
+          "Highlight instant gaming and sports"
         ],
         "concessions": [
-          "Agree the planets are interesting and need study",
-          "Accept that small tweaks are okay"
+          "Big TVs cost more for huge size",
+          "TVs are heavy and not easy to move"
         ],
         "likelyWeaknesses": [
-          "May appear stuck in the past",
-          "Risk being labeled as ignoring fresh evidence"
+          "Limited screen size for budget",
+          "Less cool factor than a projector"
         ],
         "closingThemes": [
-          "Keep the solid base, add a new wing",
-          "Science moves forward step by step, not by leaping"
+          "Always‑on, always‑clear",
+          "No drama, just drama on screen"
         ]
       },
       "moderator": {
         "questions": [
-          "Alex, why does a single odd planet force a whole model change?",
-          "Sarah, how can we be sure the old model still fits when we keep finding weird worlds?"
+          "Alex, how do you handle bright living rooms?",
+          "Sarah, what about the cost of a giant TV?"
         ],
         "pressurePoints": [
-          "Push Alex on the need for more than two examples",
-          "Push Sarah on the cost of missing a big breakthrough"
+          "Alex’s dark‑room requirement",
+          "Sarah’s price tag for big screens"
         ],
         "factChecks": [
-          "Check Alex’s claim that no model can explain low density",
-          "Check Sarah’s claim that only a few planets are weird"
+          "Check Alex’s claim on ‘less cash’ vs actual prices",
+          "Check Sarah’s claim on ‘no extra costs’ for TV"
         ],
         "tradeoffs": [
-          "Do we risk over‑hauling our map or risk staying stuck on a wrong road?"
+          "Big view vs easy setup"
         ]
       }
     },
@@ -187,92 +191,92 @@
       {
         "speaker": "Marcus",
         "start": 0,
-        "end": 13.875,
-        "duration": 13.875
-      },
-      {
-        "speaker": "Alex",
-        "start": 13.875,
-        "end": 29.625,
-        "duration": 15.75
+        "end": 14.9,
+        "duration": 14.9
       },
       {
         "speaker": "Sarah",
-        "start": 29.625,
-        "end": 40.675,
-        "duration": 11.05
+        "start": 14.9,
+        "end": 30.375,
+        "duration": 15.475
+      },
+      {
+        "speaker": "Alex",
+        "start": 30.375,
+        "end": 45.925,
+        "duration": 15.55
       },
       {
         "speaker": "Marcus",
-        "start": 40.675,
-        "end": 53.3,
-        "duration": 12.625
-      },
-      {
-        "speaker": "Sarah",
-        "start": 53.3,
-        "end": 69.94999999999999,
-        "duration": 16.65
+        "start": 45.925,
+        "end": 56.849999999999994,
+        "duration": 10.925
       },
       {
         "speaker": "Alex",
-        "start": 69.94999999999999,
-        "end": 89.14999999999999,
-        "duration": 19.2
+        "start": 56.849999999999994,
+        "end": 76.125,
+        "duration": 19.275
       },
       {
         "speaker": "Sarah",
-        "start": 89.14999999999999,
-        "end": 107.975,
-        "duration": 18.825
+        "start": 76.125,
+        "end": 95.925,
+        "duration": 19.8
       },
       {
         "speaker": "Alex",
-        "start": 107.975,
-        "end": 127.475,
-        "duration": 19.5
+        "start": 95.925,
+        "end": 117.475,
+        "duration": 21.55
+      },
+      {
+        "speaker": "Sarah",
+        "start": 117.475,
+        "end": 136.775,
+        "duration": 19.3
       },
       {
         "speaker": "Marcus",
-        "start": 127.475,
-        "end": 137.04999999999998,
-        "duration": 9.575
-      },
-      {
-        "speaker": "Alex",
-        "start": 137.04999999999998,
-        "end": 152.725,
-        "duration": 15.675
+        "start": 136.775,
+        "end": 145.82500000000002,
+        "duration": 9.05
       },
       {
         "speaker": "Sarah",
-        "start": 152.725,
-        "end": 169.35,
-        "duration": 16.625
-      },
-      {
-        "speaker": "Marcus",
-        "start": 169.35,
-        "end": 176.42499999999998,
-        "duration": 7.075
+        "start": 145.82500000000002,
+        "end": 163.15,
+        "duration": 17.325
       },
       {
         "speaker": "Alex",
-        "start": 176.42499999999998,
-        "end": 193.45,
-        "duration": 17.025
-      },
-      {
-        "speaker": "Sarah",
-        "start": 193.45,
-        "end": 211.475,
-        "duration": 18.025
+        "start": 163.15,
+        "end": 176.9,
+        "duration": 13.75
       },
       {
         "speaker": "Marcus",
-        "start": 211.475,
-        "end": 235.525,
-        "duration": 24.05
+        "start": 176.9,
+        "end": 183.32500000000002,
+        "duration": 6.425
+      },
+      {
+        "speaker": "Alex",
+        "start": 183.32500000000002,
+        "end": 198.32500000000002,
+        "duration": 15
+      },
+      {
+        "speaker": "Sarah",
+        "start": 198.32500000000002,
+        "end": 213.025,
+        "duration": 14.7
+      },
+      {
+        "speaker": "Marcus",
+        "start": 213.025,
+        "end": 234.85,
+        "duration": 21.825
       }
     ],
     "graph": {
@@ -283,82 +287,86 @@
           "phase": "OPENING",
           "turn": 0,
           "phaseId": 0,
-          "phaseTurn": 0,
-          "text": "Welcome to the show, where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact.",
+          "phaseTurn": 1,
+          "text": "Welcome to today’s showdown: do we swap our living‑room TVs for home projectors? After a few weeks of testing a Google TV projector, the author wonders if it’s time to ditch the box forever—let’s weigh screen size, vibe, cost, and hassle.",
           "claims": [
-            "where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact"
+            "Welcome to today’s showdown: do we swap our living‑room TVs for home projectors? After a few weeks of testing a Google TV projector",
+            "the author wonders if it’s time to ditch the box forever—let’s weigh screen size"
           ],
           "stance": "Moderator",
           "contradicts": [],
-          "repliesTo": null,
+          "repliesTo": [],
           "replyChildren": [
-            "Alex_1"
+            "Sarah_1",
+            "Alex_2"
           ],
           "metrics": {
-            "strength": 2,
+            "strength": 3,
             "viralScore": 0,
             "viral": false
           },
           "analytics": {
-            "degree": 2,
-            "influence": 4
+            "degree": 3,
+            "influence": 6
           }
         },
         {
-          "id": "Alex_1",
-          "speaker": "Alex",
+          "id": "Sarah_1",
+          "speaker": "Sarah",
           "phase": "BUILD",
           "turn": 1,
           "phaseId": 1,
           "phaseTurn": 0,
-          "text": "The super‑puff worlds are real, ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules.",
+          "text": "TVs give you a bright, crisp picture any time of day with zero hassle—just plug it in and you’re ready, no blackout curtains, lamp swaps, or extra costs. That reliability beats the drama of a projector’s setup and maintenance.",
           "claims": [
-            "The super‑puff worlds are real",
-            "ultra‑light “marshmallow” planets that our current formation recipes can't bake—just like a balloon that shouldn’t float that high—so we have to add new ingredients to our models and update the planet‑making rules"
+            "TVs give you a bright",
+            "crisp picture any time of day with zero hassle—just plug it in and you’re ready",
+            "That reliability beats the drama of a projector’s setup and maintenance"
           ],
-          "stance": "Yes, update the recipes for making planets",
+          "stance": "Stick with good old TVs",
           "contradicts": [],
-          "repliesTo": "Marcus_0",
-          "replyChildren": [
-            "Sarah_2"
+          "repliesTo": [
+            "Marcus_0"
           ],
+          "replyChildren": [],
           "metrics": {
             "strength": 3,
-            "viralScore": 0.4123945324236873,
+            "viralScore": 0.601845716291729,
             "viral": false
           },
           "analytics": {
             "degree": 5,
-            "influence": 10.412394532423686
+            "influence": 8.601845716291729
           }
         },
         {
-          "id": "Sarah_2",
-          "speaker": "Sarah",
+          "id": "Alex_2",
+          "speaker": "Alex",
           "phase": "BUILD",
           "turn": 2,
           "phaseId": 1,
           "phaseTurn": 1,
-          "text": "Most planets still line up with our classic formation model, and just two fluffy outliers can’t overturn it; we just need a small tweak, not a whole rulebook rewrite.",
+          "text": "Projectors give you a cinema‑size picture for a fraction of the cost of a 75‑inch TV, and they’re lightweight enough to roll out wherever you want—turn any wall into a movie screen without splurging on a massive, immovable set.",
           "claims": [
-            "Most planets still line up with our classic formation model",
-            "and just two fluffy outliers can’t overturn it",
-            "we just need a small tweak"
+            "Projectors give you a cinema‑size picture for a fraction of the cost of a 75‑inch TV",
+            "and they’re lightweight enough to roll out wherever you want—turn any wall into a movie screen without splurging on a massive"
           ],
-          "stance": "No, keep the core model and tweak a bit",
+          "stance": "Projectors are the future home screen",
           "contradicts": [],
-          "repliesTo": "Marcus_0",
+          "repliesTo": [
+            "Marcus_0"
+          ],
           "replyChildren": [
             "Marcus_3"
           ],
           "metrics": {
-            "strength": 1,
-            "viralScore": 0.951657435526053,
+            "strength": 3,
+            "viralScore": 0.7427525949076457,
             "viral": false
           },
           "analytics": {
-            "degree": 2,
-            "influence": 3.951657435526053
+            "degree": 5,
+            "influence": 8.742752594907646
           }
         },
         {
@@ -368,141 +376,149 @@
           "turn": 3,
           "phaseId": 2,
           "phaseTurn": 0,
-          "text": "Sarah, you claim just two outliers can be brushed off, but if those “fluffy” planets form at all, they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?",
+          "text": "Alex, how realistic is it that a projector’s lamp replacements, mounting gear, and dark‑room setup don’t end up costing as much—or more—than a quality TV over time?",
           "claims": [
-            "you claim just two outliers can be brushed off",
-            "if those “fluffy” planets form at all",
-            "they expose a blind spot in our core physics—how can we trust a model that can’t even explain the extremes?"
+            "how realistic is it that a projector’s lamp replacements",
+            "and dark‑room setup don’t end up costing as much—or more—than a quality TV over time?"
           ],
           "stance": "Moderator",
           "contradicts": [],
-          "repliesTo": "Sarah_2",
+          "repliesTo": [
+            "Alex_2"
+          ],
           "replyChildren": [
-            "Sarah_4"
+            "Alex_4"
           ],
           "metrics": {
-            "strength": 5,
-            "viralScore": 0.912562507034564,
+            "strength": 3,
+            "viralScore": 0.8368384312645301,
             "viral": false
           },
           "analytics": {
             "degree": 2,
-            "influence": 7.912562507034564
+            "influence": 5.83683843126453
           }
         },
         {
-          "id": "Sarah_4",
-          "speaker": "Sarah",
+          "id": "Alex_4",
+          "speaker": "Alex",
           "phase": "CLASH",
           "turn": 4,
           "phaseId": 2,
           "phaseTurn": 1,
-          "text": "Marcus, you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work, just like swapping a car’s driver seat to the back and expecting it to run smoothly.",
+          "text": "Sure, a bulb swap isn’t cheap, but think of it like changing a car’s oil—periodic, predictable, and far cheaper than the $2,000‑plus you’d shell out for a true‑size cinema panel; plus you can roll the whole “screen” away after the night, something a wall‑mounted TV can never do.",
           "claims": [
-            "you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work",
-            "just like swapping a car’s driver seat to the back and expecting it to run smoothly"
+            "a bulb swap isn’t cheap",
+            "think of it like changing a car’s oil—periodic",
+            "and far cheaper than the $2"
           ],
-          "stance": "No, keep the core model and tweak a bit",
+          "stance": "Projectors are the future home screen",
           "contradicts": [],
-          "repliesTo": "Marcus_3",
+          "repliesTo": [
+            "Marcus_3"
+          ],
           "replyChildren": [
-            "Alex_5"
+            "Sarah_5"
           ],
           "metrics": {
             "strength": 5,
-            "viralScore": 1.3022893189515976,
+            "viralScore": 1.0374088940696704,
             "viral": false
           },
           "analytics": {
-            "degree": 2,
-            "influence": 8.302289318951598
+            "degree": 3,
+            "influence": 9.03740889406967
           }
         },
         {
-          "id": "Alex_5",
-          "speaker": "Alex",
+          "id": "Sarah_5",
+          "speaker": "Sarah",
           "phase": "CLASH",
           "turn": 5,
           "phaseId": 2,
           "phaseTurn": 2,
-          "text": "Sarah, those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes, not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever; we update our models when the data demand it, or we’ll miss the next cosmic surprise.",
+          "text": "Bulb swaps may be cheap, but they’re a hidden recurring cost and a mess you’ll troubleshoot every few years—something TV owners never worry about. Plus, a TV works straight out of the box in any light, delivering instant gaming and sports without hunting for blackout curtains or fiddling with settings.",
           "claims": [
-            "those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes",
-            "not successes—so clinging to them is like refusing a GPS because you’ve driven the same road forever",
-            "we update our models when the data demand it"
+            "Bulb swaps may be cheap",
+            "they’re a hidden recurring cost and a mess you’ll troubleshoot every few years—something TV owners never worry about",
+            "a TV works straight out of the box in any light"
           ],
-          "stance": "Yes, update the recipes for making planets",
+          "stance": "Stick with good old TVs",
           "contradicts": [],
-          "repliesTo": "Sarah_4",
+          "repliesTo": [
+            "Alex_4"
+          ],
           "replyChildren": [
-            "Sarah_6"
+            "Alex_6"
           ],
           "metrics": {
-            "strength": 7,
-            "viralScore": 1.1159082593791476,
+            "strength": 5,
+            "viralScore": 0.7575003931020996,
             "viral": false
           },
           "analytics": {
-            "degree": 3,
-            "influence": 11.115908259379147
+            "degree": 5,
+            "influence": 13.757500393102099
           }
         },
         {
-          "id": "Sarah_6",
-          "speaker": "Sarah",
+          "id": "Alex_6",
+          "speaker": "Alex",
           "phase": "CLASH",
           "turn": 6,
           "phaseId": 2,
           "phaseTurn": 3,
-          "text": "Alex, we barely know anything about these puffies—without pressure, temperature, or composition data they’re just odd outliers, not a reason to overturn a model that predicts billions of planets correctly; overhauling the whole theory now would scramble the reliable predictions we already trust.",
+          "text": "Sure, but think about movie‑night parties: a portable projector instantly turns any blank wall into a massive screen, letting friends gather anywhere—even outdoors—while a TV stays stuck in one spot and kills the vibe. And once you buy a long‑life LED lamp, you’re only swapping bulbs once in years, not every few months.",
           "claims": [
-            "we barely know anything about these puffies—without pressure",
-            "or composition data they’re just odd outliers",
-            "not a reason to overturn a model that predicts billions of planets correctly"
+            "think about movie‑night parties: a portable projector instantly turns any blank wall into a massive screen",
+            "letting friends gather anywhere—even outdoors—while a TV stays stuck in one spot and kills the vibe",
+            "And once you buy a long‑life LED lamp"
           ],
-          "stance": "No, keep the core model and tweak a bit",
+          "stance": "Projectors are the future home screen",
           "contradicts": [],
-          "repliesTo": "Alex_5",
+          "repliesTo": [
+            "Sarah_5"
+          ],
           "replyChildren": [
-            "Alex_7"
+            "Sarah_7"
           ],
           "metrics": {
             "strength": 5,
-            "viralScore": 0.9903150880571645,
-            "viral": true
+            "viralScore": 0.8311172472828887,
+            "viral": false
           },
           "analytics": {
-            "degree": 2,
-            "influence": 7.990315088057164
+            "degree": 3,
+            "influence": 8.831117247282888
           }
         },
         {
-          "id": "Alex_7",
-          "speaker": "Alex",
+          "id": "Sarah_7",
+          "speaker": "Sarah",
           "phase": "CLASH",
           "turn": 7,
           "phaseId": 2,
           "phaseTurn": 4,
-          "text": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map, and we’ll miss the next big surprise; if a recipe can’t bake a cake, you add a new ingredient, so we must tweak our planetary‑making rules now.",
+          "text": "Projectors may wow a backyard crowd, but their picture washes out in daylight and demand precise setup—perfect for tech geeks, not the average family watching a game or gaming on cue. A TV delivers bright, plug‑and‑play clarity anytime, no blackout curtains or lamp swaps needed.",
           "claims": [
-            "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map",
-            "and we’ll miss the next big surprise",
-            "if a recipe can’t bake a cake"
+            "Projectors may wow a backyard crowd",
+            "their picture washes out in daylight and demand precise setup—perfect for tech geeks",
+            "not the average family watching a game or gaming on cue"
           ],
-          "stance": "Yes, update the recipes for making planets",
+          "stance": "Stick with good old TVs",
           "contradicts": [],
-          "repliesTo": "Sarah_6",
-          "replyChildren": [
-            "Marcus_8"
+          "repliesTo": [
+            "Alex_6"
           ],
+          "replyChildren": [],
           "metrics": {
-            "strength": 7,
-            "viralScore": 1.0394360179374567,
-            "viral": true
+            "strength": 5,
+            "viralScore": 0.9133536861791356,
+            "viral": false
           },
           "analytics": {
-            "degree": 3,
-            "influence": 13.039436017937456
+            "degree": 6,
+            "influence": 13.913353686179136
           }
         },
         {
@@ -512,81 +528,83 @@
           "turn": 8,
           "phaseId": 3,
           "phaseTurn": 0,
-          "text": "Alright, Alex and Jamie, each of you, pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up, just the clash.",
+          "text": "Alright, everyone—turn to your opponent and name the biggest pushback against your own point, then give a quick rebuttal; keep it sharp and stay on the issue.",
           "claims": [
-            "pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up"
+            "everyone—turn to your opponent and name the biggest pushback against your own point",
+            "keep it sharp and stay on the issue"
           ],
           "stance": "Moderator",
           "contradicts": [],
-          "repliesTo": "Alex_7",
+          "repliesTo": [],
           "replyChildren": [
-            "Alex_9"
+            "Sarah_9",
+            "Alex_10"
           ],
           "metrics": {
-            "strength": 0,
-            "viralScore": 1.600413364422752,
+            "strength": 1,
+            "viralScore": 1.7965176370560352,
             "viral": false
           },
           "analytics": {
             "degree": 2,
-            "influence": 3.600413364422752
+            "influence": 4.796517637056035
           }
         },
         {
-          "id": "Alex_9",
-          "speaker": "Alex",
+          "id": "Sarah_9",
+          "speaker": "Sarah",
           "phase": "CONSOLIDATION",
           "turn": 9,
           "phaseId": 3,
           "phaseTurn": 1,
-          "text": "Sure, the classic model still explains most worlds, but those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now, or we’ll miss the next cosmic surprise.",
+          "text": "My biggest pushback is that a huge TV can be pricey, but its plug‑and‑play brightness lets you jump straight into games or sports any time—no blackout curtains, no lamp swaps, no surprise costs—something a projector just can’t match for everyday family use.",
           "claims": [
-            "the classic model still explains most worlds",
-            "those two marshmallow‑light planets expose a blind spot we can’t ignore—so let’s keep the proven parts while adding fresh ingredients now",
-            "or we’ll miss the next cosmic surprise"
+            "My biggest pushback is that a huge TV can be pricey",
+            "its plug‑and‑play brightness lets you jump straight into games or sports any time—no blackout curtains",
+            "no surprise costs—something a projector just can’t match for everyday family use"
           ],
-          "stance": "Yes, update the recipes for making planets",
+          "stance": "Stick with good old TVs",
           "contradicts": [],
-          "repliesTo": "Marcus_8",
-          "replyChildren": [
-            "Sarah_10"
+          "repliesTo": [
+            "Marcus_8"
           ],
+          "replyChildren": [],
           "metrics": {
             "strength": 3,
-            "viralScore": 1.0999899721693263,
+            "viralScore": 0.9762896702191126,
             "viral": false
           },
           "analytics": {
-            "degree": 3,
-            "influence": 7.099989972169326
+            "degree": 6,
+            "influence": 13.976289670219114
           }
         },
         {
-          "id": "Sarah_10",
-          "speaker": "Sarah",
+          "id": "Alex_10",
+          "speaker": "Alex",
           "phase": "CONSOLIDATION",
           "turn": 10,
           "phaseId": 3,
           "phaseTurn": 2,
-          "text": "Those fluffy worlds are fascinating and deserve more data, but swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest, well‑tested tweaks.",
+          "text": "Sure, a projector needs a dark room and a quick set‑up, but that easy roll‑out turns any wall into a cinema‑sized screen for spontaneous movie‑night parties—something a fixed TV can never match.",
           "claims": [
-            "Those fluffy worlds are fascinating and deserve more data",
-            "swapping our whole “recipe” for a couple of outliers would wreck the proven framework that already predicts billions of planets—so let’s keep the core model and make only modest"
+            "a projector needs a dark room and a quick set‑up",
+            "that easy roll‑out turns any wall into a cinema‑sized screen for spontaneous movie‑night parties—something a fixed TV can never match"
           ],
-          "stance": "No, keep the core model and tweak a bit",
+          "stance": "Projectors are the future home screen",
           "contradicts": [],
-          "repliesTo": "Alex_9",
-          "replyChildren": [
-            "Marcus_11"
+          "repliesTo": [
+            "Marcus_8"
           ],
+          "replyChildren": [],
           "metrics": {
             "strength": 3,
-            "viralScore": 1.1455685919967529,
+            "viralScore": 0.9134972963287482,
             "viral": false
           },
           "analytics": {
-            "degree": 2,
-            "influence": 6.145568591996753
+            "degree": 6,
+            "influence": 12.913497296328748
           }
         },
         {
@@ -596,25 +614,26 @@
           "turn": 11,
           "phaseId": 4,
           "phaseTurn": 0,
-          "text": "Alright, Alex and Sarah, give me a quick wrap‑up of your main point—no fresh arguments, just a concise closing.",
+          "text": "Alright, Alex and Sarah, wrap it up in one quick line each—no new points, just the core of your case.",
           "claims": [
-            "give me a quick wrap‑up of your main point—no fresh arguments",
-            "just a concise closing"
+            "wrap it up in one quick line each—no new points",
+            "just the core of your case"
           ],
           "stance": "Moderator",
           "contradicts": [],
-          "repliesTo": "Sarah_10",
+          "repliesTo": [],
           "replyChildren": [
-            "Alex_12"
+            "Alex_12",
+            "Sarah_13"
           ],
           "metrics": {
             "strength": 1,
-            "viralScore": 1.4667916099004454,
+            "viralScore": 1.6641757988941714,
             "viral": false
           },
           "analytics": {
             "degree": 2,
-            "influence": 4.466791609900445
+            "influence": 4.664175798894171
           }
         },
         {
@@ -624,26 +643,27 @@
           "turn": 12,
           "phaseId": 4,
           "phaseTurn": 1,
-          "text": "We’ve seen two ultra‑light, marshmallow‑like super‑puff planets that our current formation recipes can’t bake, so—just like adding a new ingredient when a cake won’t rise—we must update the models; science grows by testing new clues, not ignoring them.",
+          "text": "Projectors turn any wall into a cinema‑size screen for a fraction of the cost of a huge TV, and they’re portable enough to roll away or take outside—giving you the big‑picture experience without a permanent, pricey fixture.",
           "claims": [
-            "We’ve seen two ultra‑light",
-            "marshmallow‑like super‑puff planets that our current formation recipes can’t bake",
-            "so—just like adding a new ingredient when a cake won’t rise—we must update the models"
+            "Projectors turn any wall into a cinema‑size screen for a fraction of the cost of a huge TV",
+            "and they’re portable enough to roll away or take outside—giving you the big‑picture experience without a permanent"
           ],
-          "stance": "Yes, update the recipes for making planets",
+          "stance": "Projectors are the future home screen",
           "contradicts": [],
-          "repliesTo": "Marcus_11",
+          "repliesTo": [
+            "Marcus_11"
+          ],
           "replyChildren": [
-            "Sarah_13"
+            "Marcus_14"
           ],
           "metrics": {
             "strength": 3,
-            "viralScore": 1.222794156038776,
+            "viralScore": 1.188766163834301,
             "viral": false
           },
           "analytics": {
-            "degree": 4,
-            "influence": 8.222794156038777
+            "degree": 6,
+            "influence": 15.188766163834302
           }
         },
         {
@@ -653,26 +673,28 @@
           "turn": 13,
           "phaseId": 4,
           "phaseTurn": 2,
-          "text": "We’ve seen two super‑puff, marshmallow‑light planets, but they’re just a couple of outliers; like a few stray kids in a class, they don’t justify rewriting the whole curriculum. Let’s keep the solid formation model and add only a modest, well‑tested wing to accommodate them.",
+          "text": "TVs are always‑on, bright and plug‑and‑play—no blackout curtains, lamp swaps, or hidden costs—so you get clear drama on screen anytime, unlike projectors that need special setup and struggle in daylight.",
           "claims": [
-            "We’ve seen two super‑puff",
-            "marshmallow‑light planets",
-            "they’re just a couple of outliers"
+            "bright and plug‑and‑play—no blackout curtains",
+            "or hidden costs—so you get clear drama on screen anytime",
+            "unlike projectors that need special setup and struggle in daylight"
           ],
-          "stance": "No, keep the core model and tweak a bit",
+          "stance": "Stick with good old TVs",
           "contradicts": [],
-          "repliesTo": "Alex_12",
+          "repliesTo": [
+            "Marcus_11"
+          ],
           "replyChildren": [
             "Marcus_14"
           ],
           "metrics": {
             "strength": 3,
-            "viralScore": 1.111169243975806,
+            "viralScore": 1.035890779572291,
             "viral": false
           },
           "analytics": {
-            "degree": 3,
-            "influence": 8.111169243975805
+            "degree": 6,
+            "influence": 18.03589077957229
           }
         },
         {
@@ -682,81 +704,74 @@
           "turn": 14,
           "phaseId": 4,
           "phaseTurn": 3,
-          "text": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now, while Sarah cautions against overhauling a framework that already explains most worlds, suggesting only modest, data‑driven tweaks. The debate leaves open how much evidence is needed before reshaping theory, inviting further observations before any consensus.",
+          "text": "Both sides agree that size and vibe matter: projectors deliver cinema‑scale, portable screens at lower upfront cost, while TVs offer bright, plug‑and‑play reliability without dark‑room hassles. The trade‑off between occasional maintenance versus constant convenience remains unresolved, leaving each home to decide what fits its viewing habits best.",
           "claims": [
-            "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now",
-            "while Sarah cautions against overhauling a framework that already explains most worlds",
-            "suggesting only modest"
+            "Both sides agree that size and vibe matter: projectors deliver cinema‑scale",
+            "portable screens at lower upfront cost",
+            "while TVs offer bright"
           ],
           "stance": "Moderator",
           "contradicts": [],
-          "repliesTo": "Sarah_13",
+          "repliesTo": [
+            "Alex_12",
+            "Sarah_13"
+          ],
           "replyChildren": [],
           "metrics": {
             "strength": 3,
-            "viralScore": 0.901780278839555,
+            "viralScore": 0.9480063011210875,
             "viral": false
           },
           "analytics": {
-            "degree": 1,
-            "influence": 4.901780278839555
+            "degree": 8,
+            "influence": 19.948006301121087
           }
         }
       ],
       "edges": [
         {
           "from": "Marcus_0",
-          "to": "Alex_1",
+          "to": "Sarah_1",
           "type": "reply"
         },
         {
           "from": "Marcus_0",
-          "to": "Sarah_2",
+          "to": "Alex_2",
           "type": "reply"
         },
         {
-          "from": "Sarah_2",
+          "from": "Alex_2",
           "to": "Marcus_3",
           "type": "reply"
         },
         {
           "from": "Marcus_3",
-          "to": "Sarah_4",
+          "to": "Alex_4",
           "type": "reply"
         },
         {
-          "from": "Sarah_4",
-          "to": "Alex_5",
+          "from": "Alex_4",
+          "to": "Sarah_5",
           "type": "reply"
         },
         {
-          "from": "Alex_5",
-          "to": "Sarah_6",
+          "from": "Sarah_5",
+          "to": "Alex_6",
           "type": "reply"
         },
         {
-          "from": "Sarah_6",
-          "to": "Alex_7",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_7",
-          "to": "Marcus_8",
+          "from": "Alex_6",
+          "to": "Sarah_7",
           "type": "reply"
         },
         {
           "from": "Marcus_8",
-          "to": "Alex_9",
+          "to": "Sarah_9",
           "type": "reply"
         },
         {
-          "from": "Alex_9",
-          "to": "Sarah_10",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_10",
-          "to": "Marcus_11",
+          "from": "Marcus_8",
+          "to": "Alex_10",
           "type": "reply"
         },
         {
@@ -765,8 +780,13 @@
           "type": "reply"
         },
         {
-          "from": "Alex_12",
+          "from": "Marcus_11",
           "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
           "type": "reply"
         },
         {
@@ -777,138 +797,222 @@
       ],
       "semanticEdges": [
         {
-          "from": "Marcus_0",
-          "to": "Alex_1",
+          "from": "Sarah_1",
+          "to": "Sarah_5",
           "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_4",
+          "to": "Sarah_5",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_9",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_7",
+          "to": "Sarah_9",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_10",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_6",
+          "to": "Alex_10",
+          "type": "concession",
           "confidence": 0.94
         },
         {
-          "from": "Alex_5",
-          "to": "Alex_7",
+          "from": "Sarah_7",
+          "to": "Alex_10",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_9",
+          "to": "Alex_12",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_10",
+          "to": "Alex_12",
           "type": "support",
           "confidence": 0.96
         },
         {
-          "from": "Alex_1",
-          "to": "Alex_12",
-          "type": "evidence",
-          "confidence": 0.96
-        },
-        {
-          "from": "Alex_9",
-          "to": "Alex_12",
-          "type": "sameTheme",
-          "confidence": 0.96
-        },
-        {
-          "from": "Alex_1",
+          "from": "Sarah_1",
           "to": "Sarah_13",
-          "type": "attack",
+          "type": "support",
           "confidence": 0.97
+        },
+        {
+          "from": "Sarah_5",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_7",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_9",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.93
+        },
+        {
+          "from": "Alex_2",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_7",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_9",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.93
+        },
+        {
+          "from": "Alex_10",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.93
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.96
         }
       ],
       "themes": [
         {
           "id": "theme_1",
-          "label": "where we’ll tackle whether the ultra‑fluffy “super‑puff” exoplanets—so low‑density they’re like cosmic candyfloss—should force us to rewrite planet‑formation rules or keep our trusted models intact",
+          "label": "Welcome to today’s showdown: do we swap our living‑room TVs for home projectors? After a few weeks of testing a Google TV projector",
           "nodes": [
             "Marcus_0"
           ]
         },
         {
           "id": "theme_2",
-          "label": "The super‑puff worlds are real",
+          "label": "TVs give you a bright",
           "nodes": [
-            "Alex_1"
+            "Sarah_1",
+            "Sarah_13"
           ]
         },
         {
           "id": "theme_3",
-          "label": "Most planets still line up with our classic formation model",
+          "label": "Projectors give you a cinema‑size picture for a fraction of the cost of a 75‑inch TV",
           "nodes": [
-            "Sarah_2"
+            "Alex_2",
+            "Alex_12"
           ]
         },
         {
           "id": "theme_4",
-          "label": "you claim just two outliers can be brushed off",
+          "label": "how realistic is it that a projector’s lamp replacements",
           "nodes": [
             "Marcus_3"
           ]
         },
         {
           "id": "theme_5",
-          "label": "you’re ignoring that we barely know anything about these two fluffballs—tweaking the whole framework on a half‑finished sketch would wreck the reliable predictions that already work",
+          "label": "a bulb swap isn’t cheap",
           "nodes": [
-            "Sarah_4"
+            "Alex_4"
           ]
         },
         {
           "id": "theme_6",
-          "label": "those “old recipes” can’t even bake a marshmallow‑light planet—they flag them as mistakes",
+          "label": "Bulb swaps may be cheap",
           "nodes": [
-            "Alex_5"
+            "Sarah_5"
           ]
         },
         {
           "id": "theme_7",
-          "label": "we barely know anything about these puffies—without pressure",
+          "label": "think about movie‑night parties: a portable projector instantly turns any blank wall into a massive screen",
           "nodes": [
-            "Sarah_6"
+            "Alex_6"
           ]
         },
         {
           "id": "theme_8",
-          "label": "Those “marshmallow” worlds sit like glaring mistakes in every textbook model—ignoring them is like refusing a GPS because you trust an old map",
+          "label": "Projectors may wow a backyard crowd",
           "nodes": [
-            "Alex_7"
+            "Sarah_7"
           ]
         },
         {
           "id": "theme_9",
-          "label": "pinpoint the toughest objection to your own case and fire back with a direct reply—no wrapping up",
+          "label": "everyone—turn to your opponent and name the biggest pushback against your own point",
           "nodes": [
             "Marcus_8"
           ]
         },
         {
           "id": "theme_10",
-          "label": "the classic model still explains most worlds",
+          "label": "My biggest pushback is that a huge TV can be pricey",
           "nodes": [
-            "Alex_9"
+            "Sarah_9"
           ]
         },
         {
           "id": "theme_11",
-          "label": "Those fluffy worlds are fascinating and deserve more data",
+          "label": "a projector needs a dark room and a quick set‑up",
           "nodes": [
-            "Sarah_10"
+            "Alex_10"
           ]
         },
         {
           "id": "theme_12",
-          "label": "give me a quick wrap‑up of your main point—no fresh arguments",
+          "label": "wrap it up in one quick line each—no new points",
           "nodes": [
             "Marcus_11"
           ]
         },
         {
           "id": "theme_13",
-          "label": "We’ve seen two ultra‑light",
-          "nodes": [
-            "Alex_12"
-          ]
-        },
-        {
-          "id": "theme_14",
-          "label": "We’ve seen two super‑puff",
-          "nodes": [
-            "Sarah_13"
-          ]
-        },
-        {
-          "id": "theme_15",
-          "label": "Both sides note that super‑puff planets expose gaps in existing formation models—Alex argues they demand new ingredients now",
+          "label": "Both sides agree that size and vibe matter: projectors deliver cinema‑scale",
           "nodes": [
             "Marcus_14"
           ]
@@ -922,3087 +1026,20 @@
           "Marcus_11",
           "Marcus_14"
         ],
-        "Yes, update the recipes for making planets": [
-          "Alex_1",
-          "Alex_5",
-          "Alex_7",
-          "Alex_9",
-          "Alex_12"
-        ],
-        "No, keep the core model and tweak a bit": [
-          "Sarah_2",
-          "Sarah_4",
-          "Sarah_6",
-          "Sarah_10",
+        "Stick with good old TVs": [
+          "Sarah_1",
+          "Sarah_5",
+          "Sarah_7",
+          "Sarah_9",
           "Sarah_13"
+        ],
+        "Projectors are the future home screen": [
+          "Alex_2",
+          "Alex_4",
+          "Alex_6",
+          "Alex_10",
+          "Alex_12"
         ]
-      }
-    }
-  },
-  {
-    "id": "9653071c-ffc8-4fa7-a599-6bc87830a81f",
-    "date": "2026-06-27T14:37:42.651Z",
-    "topic": "Should investors adjust their portfolio strategies based on the timing of the PCE price index release compared to individual corporate earnings reports?",
-    "summary": "S&P 500 futures rose as Micron's shares surged following its earnings report. Wall Street was awaiting the personal consumption expenditures (PCE) price index, the Federal Reserve's preferred inflation gauge, scheduled for release at 8:30 a.m. ET on Thursday. The article reporting these events was published by CNBC on 2026-06-25 at 04:22:00 UTC.",
-    "audioUrl": "/audio/9653071c-ffc8-4fa7-a599-6bc87830a81f.mp3",
-    "duration": 244.52500000000003,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome to the show, folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out, weighing a GPS‑style market timing versus staying on a steady path.",
-        "phase": "OPENING"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Earnings are the real catalyst—when a company like Micron smashes expectations, its stock rockets regardless of a PCE tweak, which the market has already priced in. So stick to the earnings beat and only adjust those outliers, not the whole portfolio.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Alex",
-        "text": "The PCE number is the market’s “weather forecast”—it moves every sector at once, so I first check that surprise and shift a slice of cash to safety or growth, then I fine‑tune positions around the earnings beat; earnings are a second‑order tweak, not the primary trigger.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alex, you claim the PCE acts like a universal weather forecast, but the data’s impact often fades fast, leaving earnings—real company fundamentals—to drive lasting price moves; why risk a big reallocation on a metric that can be fleeting?",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Marcus, betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise, so you’d be sailing blind without checking the forecast first.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Alex, you treat the whole market like a single thermometer, but Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise; investors can ride that surge even if inflation numbers later turn hot.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Sarah, betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse. If inflation spikes, you’d protect the portfolio first, then decide whether Micron’s surge still matters.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Alex, you treat the whole market like a single thermometer, but Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music, not the lead singer. Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alright, folks, pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups, just that direct back‑and‑forth.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Sure, a wild PCE surprise can stir the whole market for a moment, especially in rate‑sensitive sectors, but the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste, not the kitchen temperature.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Alex",
-        "text": "I’ll admit a crushing earnings beat like Micron’s can still lift that stock, but you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive, then fine‑tune around the earnings; the big‑road map always comes before the side street.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alright, Alex and Sarah, wrap up your positions in a quick recap – no fresh points, just your core takeaways.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Alex",
-        "text": "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings, even though Micron’s stock spiked after its beat; then we fine‑tune positions once the macro signal is clear.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Micron’s earnings beat sent its stock soaring, showing the real scorecard is the company report, while the PCE release is just a reminder of an already‑priced inflation outlook. So stick to earnings as the winning goal and don’t let the “weather forecast” distract you.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays, while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise; both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts, leaving the best mix of when to react still up for debate.",
-        "phase": "CLOSING"
-      }
-    ],
-    "debatePackage": {
-      "framing": {
-        "centralQuestion": "Should investors shift their game plan for stocks when the PCE number drops at the same time as a company's earnings roll out?",
-        "keyConflict": "Timing the market like a GPS vs. sticking to a steady route",
-        "stakes": "Miss the big move and lose cash, or over‑react and miss steady gains"
-      },
-      "knownFacts": [
-        "Micron’s stock spiked after its earnings beat",
-        "Wall Street was waiting for the PCE price index at 8:30 a.m. ET"
-      ],
-      "alex": {
-        "stance": "Play the PCE release first, then tweak the portfolio",
-        "role": "The timing‑tactician crew",
-        "openingStrategy": [
-          "Start with a quick check of the PCE surprise",
-          "If PCE is hotter or cooler, move a slice of cash"
-        ],
-        "coreClaims": [
-          "Macro data hits all stocks at once",
-          "Earnings are company‑specific, so they’re a second‑order effect"
-        ],
-        "arguments": [
-          "Big‑picture inflation numbers act like a weather forecast – they tell you if the market will rain or shine today",
-          "If the forecast says ‘storm’, protect the ride before the earnings news hits"
-        ],
-        "attackVectors": [
-          "Say the other side bets on one earnings beat and forgets the overall climate",
-          "Point out that a surprise PCE can swing the whole index faster than any single report"
-        ],
-        "reframeAngles": [
-          "Talk about using a GPS: you check the big‑road map (PCE) before taking a side street (earnings)",
-          "Compare it to checking the tide before sailing – macro first, details later"
-        ],
-        "concessions": [
-          "Earnings still matter for the individual stock’s next move",
-          "Sometimes the PCE surprise is tiny and won’t change the market mood"
-        ],
-        "likelyWeaknesses": [
-          "May over‑react to a small PCE shift",
-          "Can miss a huge earnings surprise that moves a single stock big time"
-        ],
-        "closingThemes": [
-          "Treat the PCE like a traffic light – stop or go before you zip into the earnings lane",
-          "Keep the plan flexible: macro first, then fine‑tune with earnings"
-        ]
-      },
-      "sarah": {
-        "stance": "Let earnings lead, ignore the PCE timing",
-        "role": "The earnings‑first squad",
-        "openingStrategy": [
-          "Watch the earnings report as it drops",
-          "Adjust only the stocks that blew past expectations"
-        ],
-        "coreClaims": [
-          "Company results are the real driver of price moves",
-          "Macro data is already baked into futures"
-        ],
-        "arguments": [
-          "Investors already price in the PCE outlook, so the release is just a reminder",
-          "A big earnings beat can push a stock higher even if the PCE says inflation is hot"
-        ],
-        "attackVectors": [
-          "Call out the other side for treating the whole market like a single thermometer",
-          "Show that micronew‑high after earnings proved timing the PCE wasn’t needed"
-        ],
-        "reframeAngles": [
-          "Compare to checking a recipe: the key ingredient (earnings) decides the taste, not the kitchen temperature (PCE)",
-          "Say the PCE is background music – earnings are the lead singer"
-        ],
-        "concessions": [
-          "Huge PCE surprises can shake the whole market briefly",
-          "Some sectors react more to inflation data than to earnings"
-        ],
-        "likelyWeaknesses": [
-          "May miss a broad market dip from a bad PCE that drags all stocks down",
-          "Risk of being caught flat‑footed if PCE moves the index before earnings hit"
-        ],
-        "closingThemes": [
-          "Focus on the scorecard that really matters – the earnings report",
-          "Don’t let the weather forecast distract you from scoring the winning goal"
-        ]
-      },
-      "moderator": {
-        "questions": [
-          "Alex, how fast can you change a position if the PCE surprise is small but earnings are huge?",
-          "Sarah, what do you do when the PCE swings the whole index and your earnings pick is already in play?"
-        ],
-        "pressurePoints": [
-          "Ask Alex if he ever over‑trades on tiny PCE moves",
-          "Ask Sarah if she ever gets blindsided by a market‑wide shift"
-        ],
-        "factChecks": [
-          "Check Alex’s claim that the market always prices in PCE ahead of release",
-          "Check Sarah’s claim that earnings always dominate price action"
-        ],
-        "tradeoffs": [
-          "Do you chase the big macro weather report or the detailed earnings forecast?"
-        ]
-      }
-    },
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 14.5,
-        "duration": 14.5
-      },
-      {
-        "speaker": "Sarah",
-        "start": 14.5,
-        "end": 31.85,
-        "duration": 17.35
-      },
-      {
-        "speaker": "Alex",
-        "start": 31.85,
-        "end": 49.875,
-        "duration": 18.025
-      },
-      {
-        "speaker": "Marcus",
-        "start": 49.875,
-        "end": 65.575,
-        "duration": 15.7
-      },
-      {
-        "speaker": "Alex",
-        "start": 65.575,
-        "end": 80.375,
-        "duration": 14.8
-      },
-      {
-        "speaker": "Sarah",
-        "start": 80.375,
-        "end": 97.5,
-        "duration": 17.125
-      },
-      {
-        "speaker": "Alex",
-        "start": 97.5,
-        "end": 116.95,
-        "duration": 19.45
-      },
-      {
-        "speaker": "Sarah",
-        "start": 116.95,
-        "end": 135.525,
-        "duration": 18.575
-      },
-      {
-        "speaker": "Marcus",
-        "start": 135.525,
-        "end": 143.70000000000002,
-        "duration": 8.175
-      },
-      {
-        "speaker": "Sarah",
-        "start": 143.70000000000002,
-        "end": 159.85000000000002,
-        "duration": 16.15
-      },
-      {
-        "speaker": "Alex",
-        "start": 159.85000000000002,
-        "end": 177.87500000000003,
-        "duration": 18.025
-      },
-      {
-        "speaker": "Marcus",
-        "start": 177.87500000000003,
-        "end": 184.80000000000004,
-        "duration": 6.925
-      },
-      {
-        "speaker": "Alex",
-        "start": 184.80000000000004,
-        "end": 202.30000000000004,
-        "duration": 17.5
-      },
-      {
-        "speaker": "Sarah",
-        "start": 202.30000000000004,
-        "end": 219.62500000000003,
-        "duration": 17.325
-      },
-      {
-        "speaker": "Marcus",
-        "start": 219.62500000000003,
-        "end": 244.52500000000003,
-        "duration": 24.9
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1782570900397",
-          "speaker": "Marcus",
-          "text": "Welcome to the show, folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out, weighing a GPS‑style market timing versus staying on a steady path.",
-          "turn": 0,
-          "claims": [
-            "folks—today we’re tackling whether investors should reshuffle their game plan when the PCE inflation number drops just as company earnings roll out",
-            "weighing a GPS‑style market timing versus staying on a steady path"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 0,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0,
-            "connectionScore": 0,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_1_1782570907889",
-          "speaker": "Sarah",
-          "text": "Earnings are the real catalyst—when a company like Micron smashes expectations, its stock rockets regardless of a PCE tweak, which the market has already priced in. So stick to the earnings beat and only adjust those outliers, not the whole portfolio.",
-          "turn": 1,
-          "claims": [
-            "Earnings are the real catalyst—when a company like Micron smashes expectations",
-            "its stock rockets regardless of a PCE tweak",
-            "which the market has already priced in"
-          ],
-          "stance": "Let earnings lead, ignore the PCE timing",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1782570900397",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.5404304073832864,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1351076018458216,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_2_1782570933808",
-          "speaker": "Alex",
-          "text": "The PCE number is the market’s “weather forecast”—it moves every sector at once, so I first check that surprise and shift a slice of cash to safety or growth, then I fine‑tune positions around the earnings beat; earnings are a second‑order tweak, not the primary trigger.",
-          "turn": 2,
-          "claims": [
-            "The PCE number is the market’s “weather forecast”—it moves every sector at once",
-            "so I first check that surprise and shift a slice of cash to safety or growth",
-            "then I fine‑tune positions around the earnings beat"
-          ],
-          "stance": "Play the PCE release first, then tweak the portfolio",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_1_1782570907889",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.603181261059445,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.15079531526486123,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_3_1782570957148",
-          "speaker": "Marcus",
-          "text": "Alex, you claim the PCE acts like a universal weather forecast, but the data’s impact often fades fast, leaving earnings—real company fundamentals—to drive lasting price moves; why risk a big reallocation on a metric that can be fleeting?",
-          "turn": 3,
-          "claims": [
-            "you claim the PCE acts like a universal weather forecast",
-            "the data’s impact often fades fast",
-            "leaving earnings—real company fundamentals—to drive lasting price moves"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_2_1782570933808",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.6896271140254964,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1724067785063741,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_4_1782570965290",
-          "speaker": "Alex",
-          "text": "Marcus, betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise, so you’d be sailing blind without checking the forecast first.",
-          "turn": 4,
-          "claims": [
-            "betting on one earnings beat ignores the market’s “weather”—a surprise PCE can yank the whole index faster than any single stock’s surprise",
-            "so you’d be sailing blind without checking the forecast first"
-          ],
-          "stance": "Play the PCE release first, then tweak the portfolio",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_3_1782570957148",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.8113028305583563,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.20282570763958907,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_5_1782570973129",
-          "speaker": "Sarah",
-          "text": "Alex, you treat the whole market like a single thermometer, but Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise; investors can ride that surge even if inflation numbers later turn hot.",
-          "turn": 5,
-          "claims": [
-            "you treat the whole market like a single thermometer",
-            "Micron’s huge earnings jump proves the real “flavor” comes from the company report—not the PCE background noise",
-            "investors can ride that surge even if inflation numbers later turn hot"
-          ],
-          "stance": "Let earnings lead, ignore the PCE timing",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_4_1782570965290",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.8083779714817703,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.20209449287044257,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_6_1782570980393",
-          "speaker": "Alex",
-          "text": "Sarah, betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse. If inflation spikes, you’d protect the portfolio first, then decide whether Micron’s surge still matters.",
-          "turn": 6,
-          "claims": [
-            "betting on Micron’s earnings alone ignores that a surprise PCE move can yank the entire market—just like a sudden storm sinking a boat before you even spot a lighthouse",
-            "you’d protect the portfolio first",
-            "then decide whether Micron’s surge still matters"
-          ],
-          "stance": "Play the PCE release first, then tweak the portfolio",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_5_1782570973129",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.6992054277163264,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1748013569290816,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_7_1782570988501",
-          "speaker": "Sarah",
-          "text": "Alex, you treat the whole market like a single thermometer, but Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music, not the lead singer. Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise.",
-          "turn": 7,
-          "claims": [
-            "you treat the whole market like a single thermometer",
-            "Micron’s earnings surge proved the stock’s own “recipe” can out‑cook any background noise—PCE is just background music",
-            "Even a hot inflation read won’t mute a big beat‑the‑market earnings surprise"
-          ],
-          "stance": "Let earnings lead, ignore the PCE timing",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_6_1782570980393",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.567519117190062,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1418797792975155,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_8_1782571023305",
-          "speaker": "Marcus",
-          "text": "Alright, folks, pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups, just that direct back‑and‑forth.",
-          "turn": 8,
-          "claims": [
-            "pinpoint the toughest objection to your own take and fire back at it—no wrap‑ups",
-            "just that direct back‑and‑forth"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_7_1782570988501",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 2.7479766772737806,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.43699416931844515,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_9_1782571030263",
-          "speaker": "Sarah",
-          "text": "Sure, a wild PCE surprise can stir the whole market for a moment, especially in rate‑sensitive sectors, but the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste, not the kitchen temperature.",
-          "turn": 9,
-          "claims": [
-            "a wild PCE surprise can stir the whole market for a moment",
-            "especially in rate‑sensitive sectors",
-            "the real flavor comes from the earnings beat—just like a recipe where the star ingredient decides the taste"
-          ],
-          "stance": "Let earnings lead, ignore the PCE timing",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_8_1782571023305",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.0088311693928924,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2522077923482231,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_10_1782571035791",
-          "speaker": "Alex",
-          "text": "I’ll admit a crushing earnings beat like Micron’s can still lift that stock, but you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive, then fine‑tune around the earnings; the big‑road map always comes before the side street.",
-          "turn": 10,
-          "claims": [
-            "I’ll admit a crushing earnings beat like Micron’s can still lift that stock",
-            "you first glance at the PCE “weather forecast”—if it signals a storm you park cash or go defensive",
-            "then fine‑tune around the earnings"
-          ],
-          "stance": "Play the PCE release first, then tweak the portfolio",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_9_1782571030263",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.9275174803161477,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.23187937007903692,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_11_1782571041517",
-          "speaker": "Marcus",
-          "text": "Alright, Alex and Sarah, wrap up your positions in a quick recap – no fresh points, just your core takeaways.",
-          "turn": 11,
-          "claims": [
-            "wrap up your positions in a quick recap – no fresh points",
-            "just your core takeaways"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_10_1782571035791",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 2.521885665331253,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.38047141633281323,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_12_1782571047243",
-          "speaker": "Alex",
-          "text": "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings, even though Micron’s stock spiked after its beat; then we fine‑tune positions once the macro signal is clear.",
-          "turn": 12,
-          "claims": [
-            "The PCE index is the market’s “weather forecast” – we first check it and adjust the portfolio for a potential “storm” before reacting to earnings",
-            "even though Micron’s stock spiked after its beat",
-            "then we fine‑tune positions once the macro signal is clear"
-          ],
-          "stance": "Play the PCE release first, then tweak the portfolio",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_11_1782571041517",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.253861231786316,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.313465307946579,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_13_1782571054424",
-          "speaker": "Sarah",
-          "text": "Micron’s earnings beat sent its stock soaring, showing the real scorecard is the company report, while the PCE release is just a reminder of an already‑priced inflation outlook. So stick to earnings as the winning goal and don’t let the “weather forecast” distract you.",
-          "turn": 13,
-          "claims": [
-            "Micron’s earnings beat sent its stock soaring",
-            "showing the real scorecard is the company report",
-            "while the PCE release is just a reminder of an already‑priced inflation outlook"
-          ],
-          "stance": "Let earnings lead, ignore the PCE timing",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_12_1782571047243",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.827416868072155,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.20685421701803874,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_14_1782571062650",
-          "speaker": "Marcus",
-          "text": "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays, while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise; both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts, leaving the best mix of when to react still up for debate.",
-          "turn": 14,
-          "claims": [
-            "Alex stresses the PCE as a market‑wide “weather forecast” that should guide a first‑line shift to safety before fine‑tuning earnings plays",
-            "while Sarah argues that company results—like Micron’s surprise—drive price moves and the PCE is merely background noise",
-            "both agree timing matters and that a clear strategy must balance macro alerts with firm‑level catalysts"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_13_1782571054424",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.773557166103776,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.19338929152594397,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1782570900397",
-          "to": "Sarah_1_1782570907889",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1782570900397",
-          "to": "Sarah_1_1782570907889",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_1_1782570907889",
-          "to": "Alex_2_1782570933808",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_1_1782570907889",
-          "to": "Alex_2_1782570933808",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_2_1782570933808",
-          "to": "Marcus_3_1782570957148",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_2_1782570933808",
-          "to": "Marcus_3_1782570957148",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_3_1782570957148",
-          "to": "Alex_4_1782570965290",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_3_1782570957148",
-          "to": "Alex_4_1782570965290",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_4_1782570965290",
-          "to": "Sarah_5_1782570973129",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_4_1782570965290",
-          "to": "Sarah_5_1782570973129",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_5_1782570973129",
-          "to": "Alex_6_1782570980393",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_5_1782570973129",
-          "to": "Alex_6_1782570980393",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_6_1782570980393",
-          "to": "Sarah_7_1782570988501",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_6_1782570980393",
-          "to": "Sarah_7_1782570988501",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_7_1782570988501",
-          "to": "Marcus_8_1782571023305",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_7_1782570988501",
-          "to": "Marcus_8_1782571023305",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_8_1782571023305",
-          "to": "Sarah_9_1782571030263",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_8_1782571023305",
-          "to": "Sarah_9_1782571030263",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_9_1782571030263",
-          "to": "Alex_10_1782571035791",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_9_1782571030263",
-          "to": "Alex_10_1782571035791",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_10_1782571035791",
-          "to": "Marcus_11_1782571041517",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_10_1782571035791",
-          "to": "Marcus_11_1782571041517",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_11_1782571041517",
-          "to": "Alex_12_1782571047243",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_11_1782571041517",
-          "to": "Alex_12_1782571047243",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_12_1782571047243",
-          "to": "Sarah_13_1782571054424",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_12_1782571047243",
-          "to": "Sarah_13_1782571054424",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_13_1782571054424",
-          "to": "Marcus_14_1782571062650",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_13_1782571054424",
-          "to": "Marcus_14_1782571062650",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
-      }
-    }
-  },
-  {
-    "id": "e351a33f-2460-4505-a42b-56b55673253f",
-    "date": "2026-06-26T09:42:37.761Z",
-    "topic": "Should international assistance focus more on immediate disaster relief or on long‑term reconstruction after the recent Venezuelan earthquakes?",
-    "summary": "Venezuela experienced two powerful earthquakes. The quakes resulted in dozens of deaths and injured hundreds of people.",
-    "audioUrl": "/audio/e351a33f-2460-4505-a42b-56b55673253f.mp3",
-    "duration": 242.72500000000002,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome listeners! After two devastating Venezuelan earthquakes that left dozens dead and hundreds injured, we’re asking: should international aid rush in now to save lives, or plan for long‑term rebuilding to prevent future misery?",
-        "phase": "OPENING"
-      },
-      {
-        "speaker": "Alex",
-        "text": "We need food, medicine, and shelter **today**—a broken roof means rain, disease, and a child dying of thirst, so rapid relief saves lives now before any reconstruction can even begin.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "We can’t keep patching roofs while families linger in tents for months; a solid, earthquake‑resistant home is a safety net that saves lives for years. By planning and rebuilding roads and houses now, we stop future deaths and cut the chaos—and costs—of endless emergency fixes.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Sarah, you claim rebuilding homes now will stop future deaths, but without immediate food, medicine and shelter people can’t survive long enough to benefit from any long‑term projects.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Quick aid is just a Band‑Aid that slides off once supplies run out, while sturdy homes and roads are the safety net that keeps people alive for years; without that foundation, every rescue mission will crumble again.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "If we wait to finish new homes and roads, victims die today while rescue crews sit on the sidelines; emergencies aren’t a “road‑building” project that can pause for months, they’re an ambulance call that needs the medicine now before hunger and exposure turn injuries into deaths.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Quick aid is just a Band‑Aid that falls off—once food and meds run out, victims are left stranded, while a solid house or road built now becomes the safety net that lets help keep coming for years. Investing in reconstruction now means every future rescue can actually reach people, not just disappear after the first crisis.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "If we wait to build roads while people are dying, rescue crews waste precious hours—think ambulance vs a brand‑new highway that never finishes. Immediate food, water and shelter stop illnesses now; without that, no one can even start the long‑term projects you brag about.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alex, Jamie, what’s the toughest objection you’ve heard to your own stance, and how do you fire back at that point?",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Quick aid is the ambulance that gets people alive today; without food, water and roofs they’ll never be able to work on tomorrow’s roads. We’ll fund rebuilding later, but we can’t spend everything now or the relief will run out before the map‑making even starts.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "I’ll admit we must get food, water and meds to keep folks alive today, but building earthquake‑proof homes and roads now is like planting a tree—its shade protects generations, letting every future aid drop land safely, whereas a quick snack dies after the first bite.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alex, Sarah, one quick round—wrap up your case in a sentence or two, no new points.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Alex",
-        "text": "We’ve seen how the quakes left dozens dead, hundreds injured, roofs ripped off and people starving—without food, water and shelter now they can’t even survive long enough to rebuild tomorrow. Quick aid saves lives today and creates the foundation for any future reconstruction.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "We’ve seen two deadly quakes in Venezuela, and while emergency supplies help today, building earthquake‑proof homes and sturdy roads now creates a lasting safety net that protects lives for years and lets future aid reach people safely. Building strong foundations now stops the cycle of repeated disasters.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Both sides stress urgency: Alex argues immediate food, water and shelter are essential to keep people alive for any future work, while Sarah emphasizes that building quake‑proof homes and roads now creates lasting protection and eases later aid. They agree that basic relief is needed before reconstruction, yet differ on timing; the debate leaves open how to balance swift aid with sustainable rebuilding.",
-        "phase": "CLOSING"
-      }
-    ],
-    "debatePackage": {
-      "framing": {
-        "centralQuestion": "Should we send help now or build later?",
-        "keyConflict": "Fast aid vs lasting rebuilding",
-        "stakes": "People may die now or stay stuck forever"
-      },
-      "knownFacts": [
-        "Two strong quakes hit Venezuela",
-        "Dozens died and hundreds hurt"
-      ],
-      "alex": {
-        "stance": "Push for quick disaster relief first",
-        "role": "Rescue squad",
-        "openingStrategy": [
-          "Show pictures of broken homes",
-          "Tell a sad story of a kid without water"
-        ],
-        "coreClaims": [
-          "People need food, medicine, and shelter now",
-          "Without fast help, more lives are lost"
-        ],
-        "arguments": [
-          "If you don’t feed them today, they can’t work tomorrow",
-          "A broken roof means exposure to rain, which makes illness spread"
-        ],
-        "attackVectors": [
-          "Say waiting makes rescue teams waste time",
-          "Point out that long projects can stall and never finish"
-        ],
-        "reframeAngles": [
-          "Compare to calling an ambulance vs building a new road",
-          "Use a GPS metaphor: you need the next turn now, not the whole map later"
-        ],
-        "concessions": [
-          "Long‑term rebuilding is important later",
-          "Money can run out if we spend it all at once"
-        ],
-        "likelyWeaknesses": [
-          "May run out of supplies fast",
-          "Could ignore future safety standards"
-        ],
-        "closingThemes": [
-          "Save lives today, then plan for tomorrow",
-          "Quick aid is the first step on the ladder"
-        ]
-      },
-      "sarah": {
-        "stance": "Focus on long‑term reconstruction first",
-        "role": "Rebuild crew",
-        "openingStrategy": [
-          "Show a collapsed school that won’t work again",
-          "Talk about families living in tents for months"
-        ],
-        "coreClaims": [
-          "Building strong homes stops future deaths",
-          "Planning now cuts down later costs and chaos"
-        ],
-        "arguments": [
-          "A sturdy house is like a safety net that lasts years",
-          "Investing in roads now helps trucks bring aid later"
-        ],
-        "attackVectors": [
-          "Say quick aid is a Band‑Aid that falls off",
-          "Highlight that emergency kits disappear once the storm passes"
-        ],
-        "reframeAngles": [
-          "Compare to planting a tree vs eating a single fruit",
-          "Use a school‑lesson metaphor: learning basics beats a quick cheat sheet"
-        ],
-        "concessions": [
-          "People need food and water today",
-          "Emergency teams do great short work"
-        ],
-        "likelyWeaknesses": [
-          "May seem cold to people in immediate pain",
-          "Projects can take long and lose momentum"
-        ],
-        "closingThemes": [
-          "Build now, protect forever",
-          "Strong foundations stop future disasters"
-        ]
-      },
-      "moderator": {
-        "questions": [
-          "Alex, what if the relief supplies run out fast?",
-          "Sarah, how do you keep people safe while you’re still building?"
-        ],
-        "pressurePoints": [
-          "Alex’s budget limits",
-          "Sarah’s timeline delays"
-        ],
-        "factChecks": [
-          "Check Alex’s claim that aid can’t wait for any planning",
-          "Check Sarah’s claim that rebuilding always saves lives"
-        ],
-        "tradeoffs": [
-          "Do we spend all money now on food, or hold some for building schools later?"
-        ]
-      }
-    },
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 14.95,
-        "duration": 14.95
-      },
-      {
-        "speaker": "Alex",
-        "start": 14.95,
-        "end": 29.549999999999997,
-        "duration": 14.6
-      },
-      {
-        "speaker": "Sarah",
-        "start": 29.549999999999997,
-        "end": 48.699999999999996,
-        "duration": 19.15
-      },
-      {
-        "speaker": "Marcus",
-        "start": 48.699999999999996,
-        "end": 60,
-        "duration": 11.3
-      },
-      {
-        "speaker": "Sarah",
-        "start": 60,
-        "end": 74.3,
-        "duration": 14.3
-      },
-      {
-        "speaker": "Alex",
-        "start": 74.3,
-        "end": 92.925,
-        "duration": 18.625
-      },
-      {
-        "speaker": "Sarah",
-        "start": 92.925,
-        "end": 114.025,
-        "duration": 21.1
-      },
-      {
-        "speaker": "Alex",
-        "start": 114.025,
-        "end": 132.20000000000002,
-        "duration": 18.175
-      },
-      {
-        "speaker": "Marcus",
-        "start": 132.20000000000002,
-        "end": 139.07500000000002,
-        "duration": 6.875
-      },
-      {
-        "speaker": "Alex",
-        "start": 139.07500000000002,
-        "end": 156.05,
-        "duration": 16.975
-      },
-      {
-        "speaker": "Sarah",
-        "start": 156.05,
-        "end": 173.9,
-        "duration": 17.85
-      },
-      {
-        "speaker": "Marcus",
-        "start": 173.9,
-        "end": 179.275,
-        "duration": 5.375
-      },
-      {
-        "speaker": "Alex",
-        "start": 179.275,
-        "end": 197.3,
-        "duration": 18.025
-      },
-      {
-        "speaker": "Sarah",
-        "start": 197.3,
-        "end": 217.925,
-        "duration": 20.625
-      },
-      {
-        "speaker": "Marcus",
-        "start": 217.925,
-        "end": 242.72500000000002,
-        "duration": 24.8
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1782466884861",
-          "speaker": "Marcus",
-          "text": "Welcome listeners! After two devastating Venezuelan earthquakes that left dozens dead and hundreds injured, we’re asking: should international aid rush in now to save lives, or plan for long‑term rebuilding to prevent future misery?",
-          "turn": 0,
-          "claims": [
-            "Welcome listeners! After two devastating Venezuelan earthquakes that left dozens dead and hundreds injured",
-            "we’re asking: should international aid rush in now to save lives",
-            "or plan for long‑term rebuilding to prevent future misery?"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 0,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0,
-            "connectionScore": 0,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_1_1782466887667",
-          "speaker": "Alex",
-          "text": "We need food, medicine, and shelter **today**—a broken roof means rain, disease, and a child dying of thirst, so rapid relief saves lives now before any reconstruction can even begin.",
-          "turn": 1,
-          "claims": [
-            "and shelter **today**—a broken roof means rain",
-            "and a child dying of thirst",
-            "so rapid relief saves lives now before any reconstruction can even begin"
-          ],
-          "stance": "Push for quick disaster relief first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1782466884861",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 1.6221514148211549,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.15553785370528872,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_2_1782466893315",
-          "speaker": "Sarah",
-          "text": "We can’t keep patching roofs while families linger in tents for months; a solid, earthquake‑resistant home is a safety net that saves lives for years. By planning and rebuilding roads and houses now, we stop future deaths and cut the chaos—and costs—of endless emergency fixes.",
-          "turn": 2,
-          "claims": [
-            "We can’t keep patching roofs while families linger in tents for months",
-            "earthquake‑resistant home is a safety net that saves lives for years",
-            "By planning and rebuilding roads and houses now"
-          ],
-          "stance": "Focus on long‑term reconstruction first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_1_1782466887667",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.7282695347433514,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.18206738368583786,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_3_1782466898556",
-          "speaker": "Marcus",
-          "text": "Sarah, you claim rebuilding homes now will stop future deaths, but without immediate food, medicine and shelter people can’t survive long enough to benefit from any long‑term projects.",
-          "turn": 3,
-          "claims": [
-            "you claim rebuilding homes now will stop future deaths",
-            "without immediate food",
-            "medicine and shelter people can’t survive long enough to benefit from any long‑term projects"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_2_1782466893315",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 1.7946320486143916,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1986580121535979,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_4_1782466901655",
-          "speaker": "Sarah",
-          "text": "Quick aid is just a Band‑Aid that slides off once supplies run out, while sturdy homes and roads are the safety net that keeps people alive for years; without that foundation, every rescue mission will crumble again.",
-          "turn": 4,
-          "claims": [
-            "Quick aid is just a Band‑Aid that slides off once supplies run out",
-            "while sturdy homes and roads are the safety net that keeps people alive for years",
-            "without that foundation"
-          ],
-          "stance": "Focus on long‑term reconstruction first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_3_1782466898556",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.0039315915033358,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.25098289787583394,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_5_1782466909352",
-          "speaker": "Alex",
-          "text": "If we wait to finish new homes and roads, victims die today while rescue crews sit on the sidelines; emergencies aren’t a “road‑building” project that can pause for months, they’re an ambulance call that needs the medicine now before hunger and exposure turn injuries into deaths.",
-          "turn": 5,
-          "claims": [
-            "If we wait to finish new homes and roads",
-            "victims die today while rescue crews sit on the sidelines",
-            "emergencies aren’t a “road‑building” project that can pause for months"
-          ],
-          "stance": "Push for quick disaster relief first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_4_1782466901655",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.8152027316376182,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.20380068290940456,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_6_1782466914193",
-          "speaker": "Sarah",
-          "text": "Quick aid is just a Band‑Aid that falls off—once food and meds run out, victims are left stranded, while a solid house or road built now becomes the safety net that lets help keep coming for years. Investing in reconstruction now means every future rescue can actually reach people, not just disappear after the first crisis.",
-          "turn": 6,
-          "claims": [
-            "Quick aid is just a Band‑Aid that falls off—once food and meds run out",
-            "victims are left stranded",
-            "while a solid house or road built now becomes the safety net that lets help keep coming for years"
-          ],
-          "stance": "Focus on long‑term reconstruction first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_5_1782466909352",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.65680473060128,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.16420118265032002,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_7_1782466922219",
-          "speaker": "Alex",
-          "text": "If we wait to build roads while people are dying, rescue crews waste precious hours—think ambulance vs a brand‑new highway that never finishes. Immediate food, water and shelter stop illnesses now; without that, no one can even start the long‑term projects you brag about.",
-          "turn": 7,
-          "claims": [
-            "If we wait to build roads while people are dying",
-            "rescue crews waste precious hours—think ambulance vs a brand‑new highway that never finishes",
-            "water and shelter stop illnesses now"
-          ],
-          "stance": "Push for quick disaster relief first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_6_1782466914193",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.6400376722606658,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.16000941806516644,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_8_1782466927452",
-          "speaker": "Marcus",
-          "text": "Alex, Jamie, what’s the toughest objection you’ve heard to your own stance, and how do you fire back at that point?",
-          "turn": 8,
-          "claims": [
-            "what’s the toughest objection you’ve heard to your own stance",
-            "and how do you fire back at that point?"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_7_1782466922219",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 2.8163164942704864,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.4540791235676216,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_9_1782466933652",
-          "speaker": "Alex",
-          "text": "Quick aid is the ambulance that gets people alive today; without food, water and roofs they’ll never be able to work on tomorrow’s roads. We’ll fund rebuilding later, but we can’t spend everything now or the relief will run out before the map‑making even starts.",
-          "turn": 9,
-          "claims": [
-            "Quick aid is the ambulance that gets people alive today",
-            "water and roofs they’ll never be able to work on tomorrow’s roads",
-            "We’ll fund rebuilding later"
-          ],
-          "stance": "Push for quick disaster relief first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_8_1782466927452",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.9002855271115267,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.22507138177788166,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_10_1782466937545",
-          "speaker": "Sarah",
-          "text": "I’ll admit we must get food, water and meds to keep folks alive today, but building earthquake‑proof homes and roads now is like planting a tree—its shade protects generations, letting every future aid drop land safely, whereas a quick snack dies after the first bite.",
-          "turn": 10,
-          "claims": [
-            "I’ll admit we must get food",
-            "water and meds to keep folks alive today",
-            "building earthquake‑proof homes and roads now is like planting a tree—its shade protects generations"
-          ],
-          "stance": "Focus on long‑term reconstruction first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_9_1782466933652",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.0311330120065776,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2577832530016444,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_11_1782466940205",
-          "speaker": "Marcus",
-          "text": "Alex, Sarah, one quick round—wrap up your case in a sentence or two, no new points.",
-          "turn": 11,
-          "claims": [
-            "one quick round—wrap up your case in a sentence or two"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_10_1782466937545",
-          "contradicts": [],
-          "strength": 0,
-          "viral": false,
-          "viralScore": 2.6344679351196967,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.40861698377992417,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_12_1782466945327",
-          "speaker": "Alex",
-          "text": "We’ve seen how the quakes left dozens dead, hundreds injured, roofs ripped off and people starving—without food, water and shelter now they can’t even survive long enough to rebuild tomorrow. Quick aid saves lives today and creates the foundation for any future reconstruction.",
-          "turn": 12,
-          "claims": [
-            "We’ve seen how the quakes left dozens dead",
-            "roofs ripped off and people starving—without food",
-            "water and shelter now they can’t even survive long enough to rebuild tomorrow"
-          ],
-          "stance": "Push for quick disaster relief first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_11_1782466940205",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.1619330307246396,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2904832576811599,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_13_1782466952462",
-          "speaker": "Sarah",
-          "text": "We’ve seen two deadly quakes in Venezuela, and while emergency supplies help today, building earthquake‑proof homes and sturdy roads now creates a lasting safety net that protects lives for years and lets future aid reach people safely. Building strong foundations now stops the cycle of repeated disasters.",
-          "turn": 13,
-          "claims": [
-            "We’ve seen two deadly quakes in Venezuela",
-            "and while emergency supplies help today",
-            "building earthquake‑proof homes and sturdy roads now creates a lasting safety net that protects lives for years and lets future aid reach people safely"
-          ],
-          "stance": "Focus on long‑term reconstruction first",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_12_1782466945327",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 4.029864217841702,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2574660544604256,
-            "connectionScore": 1,
-            "emotionScore": 1
-          }
-        },
-        {
-          "id": "Marcus_14_1782466957760",
-          "speaker": "Marcus",
-          "text": "Both sides stress urgency: Alex argues immediate food, water and shelter are essential to keep people alive for any future work, while Sarah emphasizes that building quake‑proof homes and roads now creates lasting protection and eases later aid. They agree that basic relief is needed before reconstruction, yet differ on timing; the debate leaves open how to balance swift aid with sustainable rebuilding.",
-          "turn": 14,
-          "claims": [
-            "Both sides stress urgency: Alex argues immediate food",
-            "water and shelter are essential to keep people alive for any future work",
-            "while Sarah emphasizes that building quake‑proof homes and roads now creates lasting protection and eases later aid"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_13_1782466952462",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.9023936208313574,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.22559840520783936,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1782466884861",
-          "to": "Alex_1_1782466887667",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1782466884861",
-          "to": "Alex_1_1782466887667",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_1_1782466887667",
-          "to": "Sarah_2_1782466893315",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_1_1782466887667",
-          "to": "Sarah_2_1782466893315",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_2_1782466893315",
-          "to": "Marcus_3_1782466898556",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_2_1782466893315",
-          "to": "Marcus_3_1782466898556",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_3_1782466898556",
-          "to": "Sarah_4_1782466901655",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_3_1782466898556",
-          "to": "Sarah_4_1782466901655",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_4_1782466901655",
-          "to": "Alex_5_1782466909352",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_4_1782466901655",
-          "to": "Alex_5_1782466909352",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_5_1782466909352",
-          "to": "Sarah_6_1782466914193",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_5_1782466909352",
-          "to": "Sarah_6_1782466914193",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_6_1782466914193",
-          "to": "Alex_7_1782466922219",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_6_1782466914193",
-          "to": "Alex_7_1782466922219",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_7_1782466922219",
-          "to": "Marcus_8_1782466927452",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_7_1782466922219",
-          "to": "Marcus_8_1782466927452",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_8_1782466927452",
-          "to": "Alex_9_1782466933652",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_8_1782466927452",
-          "to": "Alex_9_1782466933652",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_9_1782466933652",
-          "to": "Sarah_10_1782466937545",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_9_1782466933652",
-          "to": "Sarah_10_1782466937545",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_10_1782466937545",
-          "to": "Marcus_11_1782466940205",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_10_1782466937545",
-          "to": "Marcus_11_1782466940205",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_11_1782466940205",
-          "to": "Alex_12_1782466945327",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_11_1782466940205",
-          "to": "Alex_12_1782466945327",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_12_1782466945327",
-          "to": "Sarah_13_1782466952462",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_12_1782466945327",
-          "to": "Sarah_13_1782466952462",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_13_1782466952462",
-          "to": "Marcus_14_1782466957760",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_13_1782466952462",
-          "to": "Marcus_14_1782466957760",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
-      }
-    }
-  },
-  {
-    "id": "94faf85d-a932-4d77-8cfb-49dbd39f2c9f",
-    "date": "2026-06-26T08:40:27.960Z",
-    "topic": "Should mayoral endorsements play a decisive role in primary elections?",
-    "summary": "Three left-wing hopefuls endorsed by New York Mayor Zohran Mamdani won their races in the New York City House primaries. Two of the Mamdani-backed candidates unseated incumbents. The election outcomes were reported by The Washington Post on 2026-06-24.",
-    "audioUrl": "/audio/94faf85d-a932-4d77-8cfb-49dbd39f2c9f.mp3",
-    "duration": 261.95,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome to the show! Today we’ll explore whether mayoral endorsements—like New York’s Mayor Mamdani backing three primary victors—should be decisive in primary elections, weighing the power of leadership cues against the need for independent voter choice.",
-        "phase": "OPENING"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Relying on a mayor’s endorsement hijacks voters’ own judgment, turning a democratic choice into a prestige shortcut that erodes true deliberation; every citizen must decide based on personal reason, not on a single leader’s cue.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Mayor Mamdani’s endorsement gave voters a trusted shortcut through a sea of information, helping them pick candidates who align with broader community values; the victories prove that clear, credible signals from respected leaders can efficiently guide collective decision‑making while still leaving the final vote in each person’s hands.",
-        "phase": "BUILD"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alex, you claim mayoral cues hijack judgment, yet dismissing any trusted signal ignores how voters actually cope with overwhelming choices and can lead to even worse, uninformed decisions.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Marcus, you treat a mayor’s nod as a helpful shortcut, but that instantly trades voters’ own judgment for a hierarchy that silences independent thought—once we let elite cues decide, we hand democracy over to a chain of ever‑stronger influencers.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Alex, you ignore the reality that voters already rely on shared cues—without a trusted mayor’s endorsement they’d drown in a sea of rumors and guesswork, not exercise pure independence. The Mamdani‑backed wins prove that credible guidance fills information gaps, boosting collective savvy while still leaving each voter free to decide.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Sarah, you claim mayoral cues help voters, yet every time you elevate an endorsement you hand over decision‑power to a single elite, shrinking the space for independent thought and turning democracy into a hierarchy of influence.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Alex, in a media‑saturated world voters never decide in a vacuum—without trusted cues like Mayor Mamdani’s endorsement they fall prey to random rumors, not true independence; his “pure autonomy” myth ignores that shared guidance actually lifts collective knowledge and keeps the electorate from chaotic misinformation.",
-        "phase": "CLASH"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "All right, each of you, name the toughest objection to your own stance and give a quick reply—no summaries, just that direct challenge and response.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Alex",
-        "text": "The hardest objection to my view is that endorsements give voters a useful shortcut in a crowded race; however, that shortcut trades depth for deference, letting elite prestige outweigh personal reasoning and eroding the ethical core of self‑determination in our democracy.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Sure, I’ll admit that voters shouldn’t bow unquestioningly to any single leader, but a transparent, well‑explained endorsement—like Mayor Mamdani’s—fills information gaps, lifts collective know‑how, and still lets each person decide; it’s a smart boost to democratic insight, not a takeover of autonomy.",
-        "phase": "CONSOLIDATION"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Alright, Alex and Sarah, wrap up your positions in a quick closing line—no new points, just a concise summary of your case.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Mayor Zohr‑an Mamdani’s endorsements helped three left‑wing candidates win, even unseating incumbents, showing that when a vote hinges on a mayor’s cue, it crowds out personal reasoning and nudges democracy toward elite‑driven passivity. Preserve the principle that every ballot must spring from individual judgment, not a single authority’s nod.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Mayor Mamdani’s endorsements gave voters a reliable shortcut through limited information, helping three left‑wing candidates—including two who beat incumbents—win their primaries, showing that transparent, trusted cues can fill knowledge gaps while still leaving the final choice to each voter.",
-        "phase": "CLOSING"
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Both Alex warned that mayoral endorsements risk turning voters into passive followers of elite cues, while Sarah argued they provide trusted shortcuts that help navigate information overload without stripping final choice; they agree that voter autonomy matters but differ on how best to balance it, leaving the question of how to harness endorsements responsibly open.",
-        "phase": "CLOSING"
-      }
-    ],
-    "debatePackage": {
-      "framing": {
-        "centralQuestion": "Should the influence of a political figure's endorsement be regarded as a legitimate exercise of democratic deliberation or as an undue distortion of individual voter autonomy?",
-        "keyConflict": "The tension between collective guidance derived from recognized leadership and the preservation of autonomous, reason‑based voter choice.",
-        "stakes": "If endorsements are deemed decisive, the normative foundation of individual deliberation may erode, potentially reducing the electorate to a conduit for elite preference; if dismissed entirely, valuable informational cues that aid rational decision‑making could be lost, leaving voters to navigate a barren informational landscape."
-      },
-      "knownFacts": [
-        "Three left‑wing hopefuls who received New York Mayor Zohran Mamdani’s endorsement won their primary contests.",
-        "Two of those endorsed candidates unseated incumbent office‑holders.",
-        "The outcomes were reported in a credible news source on 2026‑06‑24."
-      ],
-      "alex": {
-        "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-        "role": "The guardian of individual deliberative sovereignty.",
-        "openingStrategy": [
-          "Strategic move 1: Establish a baseline principle that authentic democratic legitimacy rests upon each voter’s uncoerced rational judgment rather than on the prestige of any singular authority.",
-          "Strategic move 2: Frame the core issue as a structural threat to collective self‑governance, not merely a tactical electoral concern."
-        ],
-        "coreClaims": [
-          "Abstract assertion 1: The right of each citizen to form a vote based on personal reason is a foundational necessity, not a negotiable convenience.",
-          "Abstract assertion 2: External deference to a single leader’s preference inherently skews the informational equilibrium, undermining systemic fairness."
-        ],
-        "arguments": [
-          "Logical Chain 1: If a voting framework privileges a mayoral endorsement (Value X), it logically diminishes independent deliberation (Value Y) because voters are incentivized to align with perceived authority rather than evaluate merits.",
-          "Logical Chain 2: When endorsements become decisive, a slippery slope emerges toward oligarchic preference formation, as each successive endorsement compounds the marginalization of unaided reasoning."
-        ],
-        "attackVectors": [
-          "Conceptual Target 1: Challenge Sarah’s view by showing that treating endorsements as beneficial leads to a scenario where voter agency is subsumed under a perpetual hierarchy of influence.",
-          "Conceptual Target 2: Expose the logical inconsistency in claiming that endorsements improve democratic quality while simultaneously eroding the very autonomy that defines democracy."
-        ],
-        "reframeAngles": [
-          "Pivot 1: Shift the conversation away from the practical success of endorsed candidates and reframe it as a question of whether democratic legitimacy can survive when external prestige dictates outcomes.",
-          "Pivot 2: Discard the focus on electoral efficiency and center the debate on the ethical principle of self‑determination in civic participation."
-        ],
-        "concessions": [
-          "Conditional Admission 1: Acknowledge that endorsements can provide heuristic value in complex contests, but argue that reliance on them compromises the depth of rational appraisal.",
-          "Conditional Admission 2: Concede that communal guidance has merit, yet assert that it does not create a moral entitlement to override individual deliberative rights."
-        ],
-        "likelyWeaknesses": [
-          "Vulnerability 1: May be portrayed as absolutist, ignoring the pragmatic reality that voters often lack full information.",
-          "Vulnerability 2: Could be pressured on how to balance the ideal of pure autonomy with the inevitable informational asymmetries present in any election."
-        ],
-        "closingThemes": [
-          "Final takeaway: Preserve the inviolable principle that each vote must spring from personal reason, lest society surrender its democratic soul to charismatic authority.",
-          "Final takeaway: Warn that institutionalizing endorsement dominance risks an irreversible drift toward voter passivity and elite capture."
-        ]
-      },
-      "sarah": {
-        "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-        "role": "The pragmatist champion of informed communal guidance.",
-        "openingStrategy": [
-          "Strategic move 1: Frame the topic around the collective epistemic benefit of trusted leadership offering calibrated signals within a complex electoral ecosystem.",
-          "Strategic move 2: Argue that high‑profile endorsement naturally mediates the tension between individual desire and communal interest by providing a rational shortcut."
-        ],
-        "coreClaims": [
-          "Abstract assertion 1: In a landscape of informational overload, the endorsement of a recognized authority carries systemic weight that helps align individual choices with broader societal values.",
-          "Abstract assertion 2: Structured transparency regarding endorsement rationales cultivates trust and mitigates speculative uncertainty."
-        ],
-        "arguments": [
-          "Logical Chain 1: If voters lack comprehensive insight, the provision of a credible endorsement fills the informational void, thereby reducing the emergence of uninformed speculation.",
-          "Logical Chain 2: Managed disclosure of endorsement criteria enables a stable narrative that maximizes public benefit while respecting essential individual judgment."
-        ],
-        "attackVectors": [
-          "Conceptual Target 1: Attack Alex’s isolationist stance by demonstrating that pure independence is unattainable in a hyper‑connected polity where voters invariably draw on shared cues.",
-          "Conceptual Target 2: Expose the flaw in Alex’s claim that endorsements erode autonomy by proving that, without such cues, voters are more susceptible to chaotic misinformation."
-        ],
-        "reframeAngles": [
-          "Pivot 1: Reframe the discussion from a perceived infringement on personal choice into a strategic enhancement of communal epistemic health.",
-          "Pivot 2: Shift the lens from ‘individual right’ to ‘collective deliberative capacity enriched by vetted guidance.’"
-        ],
-        "concessions": [
-          "Conditional Admission 1: Concede that absolute deference to any single endorsement is undesirable, but maintain that calibrated, transparent endorsement improves overall decision quality.",
-          "Conditional Admission 2: Agree that privacy of voter reasoning matters, yet argue that selective communal signals do not silence autonomy but rather illuminate it."
-        ],
-        "likelyWeaknesses": [
-          "Vulnerability 1: May be critiqued as elevating elite judgment over grassroots expression, risking a perception of paternalism.",
-          "Vulnerability 2: Risks appearing to endorse a utilitarian trade‑off that could marginalize minority perspectives."
-        ],
-        "closingThemes": [
-          "Final takeaway: Emphasize that responsible endorsement integrates individual agency into a broader, informed democratic fabric.",
-          "Final takeaway: Argue that leveraging trusted leadership as an informational bridge yields net‑positive cultural cohesion and rational electoral outcomes."
-        ]
-      },
-      "moderator": {
-        "questions": [
-          "How does Alex reconcile the principle of autonomous voting with the observable reality that voters routinely rely on heuristic cues, and what safeguards does Alex propose when such reliance produces negative societal or economic side‑effects?",
-          "How does Sarah define the precise boundary where the public benefit of endorsement‑driven information ends and the individual's right to unmediated personal judgment begins?"
-        ],
-        "pressurePoints": [
-          "The exact condition under which Alex’s defense of absolute voter autonomy collapses under the weight of systemic informational scarcity.",
-          "The ethical threshold where Sarah’s advocacy for collective informational benefit transforms into an unjustified domination by elite preferences."
-        ],
-        "factChecks": [
-          "Challenge Alex’s assumption that a voting environment devoid of endorsements can be practically achieved or remain safe for a pluralistic electorate.",
-          "Challenge Sarah’s assumption that the transmission of endorsement rationale fully neutralizes external speculation and its attendant risks."
-        ],
-        "tradeoffs": [
-          "The pure conceptual friction between safeguarding individual deliberative dignity and harnessing collective guidance to improve electoral rationality.",
-          "The operational tension between minimizing informational distortion through secrecy versus mitigating distortion through transparent, managed endorsement."
-        ]
-      }
-    },
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 15.875,
-        "duration": 15.875
-      },
-      {
-        "speaker": "Alex",
-        "start": 15.875,
-        "end": 32,
-        "duration": 16.125
-      },
-      {
-        "speaker": "Sarah",
-        "start": 32,
-        "end": 53.225,
-        "duration": 21.225
-      },
-      {
-        "speaker": "Marcus",
-        "start": 53.225,
-        "end": 65.6,
-        "duration": 12.375
-      },
-      {
-        "speaker": "Alex",
-        "start": 65.6,
-        "end": 83.32499999999999,
-        "duration": 17.725
-      },
-      {
-        "speaker": "Sarah",
-        "start": 83.32499999999999,
-        "end": 105.52499999999999,
-        "duration": 22.2
-      },
-      {
-        "speaker": "Alex",
-        "start": 105.52499999999999,
-        "end": 121.35,
-        "duration": 15.825
-      },
-      {
-        "speaker": "Sarah",
-        "start": 121.35,
-        "end": 143.025,
-        "duration": 21.675
-      },
-      {
-        "speaker": "Marcus",
-        "start": 143.025,
-        "end": 151.925,
-        "duration": 8.9
-      },
-      {
-        "speaker": "Alex",
-        "start": 151.925,
-        "end": 170.375,
-        "duration": 18.45
-      },
-      {
-        "speaker": "Sarah",
-        "start": 170.375,
-        "end": 190.85,
-        "duration": 20.475
-      },
-      {
-        "speaker": "Marcus",
-        "start": 190.85,
-        "end": 198.54999999999998,
-        "duration": 7.7
-      },
-      {
-        "speaker": "Alex",
-        "start": 198.54999999999998,
-        "end": 221.12499999999997,
-        "duration": 22.575
-      },
-      {
-        "speaker": "Sarah",
-        "start": 221.12499999999997,
-        "end": 240.17499999999998,
-        "duration": 19.05
-      },
-      {
-        "speaker": "Marcus",
-        "start": 240.17499999999998,
-        "end": 261.95,
-        "duration": 21.775
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1782463143562",
-          "speaker": "Marcus",
-          "text": "Welcome to the show! Today we’ll explore whether mayoral endorsements—like New York’s Mayor Mamdani backing three primary victors—should be decisive in primary elections, weighing the power of leadership cues against the need for independent voter choice.",
-          "turn": 0,
-          "claims": [
-            "Welcome to the show! Today we’ll explore whether mayoral endorsements—like New York’s Mayor Mamdani backing three primary victors—should be decisive in primary elections",
-            "weighing the power of leadership cues against the need for independent voter choice"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 0,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0,
-            "connectionScore": 0,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_1_1782463147495",
-          "speaker": "Alex",
-          "text": "Relying on a mayor’s endorsement hijacks voters’ own judgment, turning a democratic choice into a prestige shortcut that erodes true deliberation; every citizen must decide based on personal reason, not on a single leader’s cue.",
-          "turn": 1,
-          "claims": [
-            "Relying on a mayor’s endorsement hijacks voters’ own judgment",
-            "turning a democratic choice into a prestige shortcut that erodes true deliberation",
-            "every citizen must decide based on personal reason"
-          ],
-          "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1782463143562",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.5170729669741347,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.12926824174353369,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_2_1782463151081",
-          "speaker": "Sarah",
-          "text": "Mayor Mamdani’s endorsement gave voters a trusted shortcut through a sea of information, helping them pick candidates who align with broader community values; the victories prove that clear, credible signals from respected leaders can efficiently guide collective decision‑making while still leaving the final vote in each person’s hands.",
-          "turn": 2,
-          "claims": [
-            "Mayor Mamdani’s endorsement gave voters a trusted shortcut through a sea of information",
-            "helping them pick candidates who align with broader community values",
-            "the victories prove that clear"
-          ],
-          "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_1_1782463147495",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.6053095708911136,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1513273927227784,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_3_1782463156399",
-          "speaker": "Marcus",
-          "text": "Alex, you claim mayoral cues hijack judgment, yet dismissing any trusted signal ignores how voters actually cope with overwhelming choices and can lead to even worse, uninformed decisions.",
-          "turn": 3,
-          "claims": [
-            "you claim mayoral cues hijack judgment",
-            "yet dismissing any trusted signal ignores how voters actually cope with overwhelming choices and can lead to even worse"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_2_1782463151081",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 1.8730268297380794,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.21825670743451986,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_4_1782463160703",
-          "speaker": "Alex",
-          "text": "Marcus, you treat a mayor’s nod as a helpful shortcut, but that instantly trades voters’ own judgment for a hierarchy that silences independent thought—once we let elite cues decide, we hand democracy over to a chain of ever‑stronger influencers.",
-          "turn": 4,
-          "claims": [
-            "you treat a mayor’s nod as a helpful shortcut",
-            "that instantly trades voters’ own judgment for a hierarchy that silences independent thought—once we let elite cues decide",
-            "we hand democracy over to a chain of ever‑stronger influencers"
-          ],
-          "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_3_1782463156399",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.7385246763310294,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.18463116908275734,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_5_1782463167793",
-          "speaker": "Sarah",
-          "text": "Alex, you ignore the reality that voters already rely on shared cues—without a trusted mayor’s endorsement they’d drown in a sea of rumors and guesswork, not exercise pure independence. The Mamdani‑backed wins prove that credible guidance fills information gaps, boosting collective savvy while still leaving each voter free to decide.",
-          "turn": 5,
-          "claims": [
-            "you ignore the reality that voters already rely on shared cues—without a trusted mayor’s endorsement they’d drown in a sea of rumors and guesswork",
-            "not exercise pure independence",
-            "The Mamdani‑backed wins prove that credible guidance fills information gaps"
-          ],
-          "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_4_1782463160703",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.630286049346759,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.15757151233668976,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_6_1782463172533",
-          "speaker": "Alex",
-          "text": "Sarah, you claim mayoral cues help voters, yet every time you elevate an endorsement you hand over decision‑power to a single elite, shrinking the space for independent thought and turning democracy into a hierarchy of influence.",
-          "turn": 6,
-          "claims": [
-            "you claim mayoral cues help voters",
-            "yet every time you elevate an endorsement you hand over decision‑power to a single elite",
-            "shrinking the space for independent thought and turning democracy into a hierarchy of influence"
-          ],
-          "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_5_1782463167793",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.7481397510383054,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.18703493775957636,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_7_1782463180129",
-          "speaker": "Sarah",
-          "text": "Alex, in a media‑saturated world voters never decide in a vacuum—without trusted cues like Mayor Mamdani’s endorsement they fall prey to random rumors, not true independence; his “pure autonomy” myth ignores that shared guidance actually lifts collective knowledge and keeps the electorate from chaotic misinformation.",
-          "turn": 7,
-          "claims": [
-            "in a media‑saturated world voters never decide in a vacuum—without trusted cues like Mayor Mamdani’s endorsement they fall prey to random rumors",
-            "not true independence",
-            "his “pure autonomy” myth ignores that shared guidance actually lifts collective knowledge and keeps the electorate from chaotic misinformation"
-          ],
-          "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_6_1782463172533",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.7414782343999087,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.18536955859997717,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_8_1782463185844",
-          "speaker": "Marcus",
-          "text": "All right, each of you, name the toughest objection to your own stance and give a quick reply—no summaries, just that direct challenge and response.",
-          "turn": 8,
-          "claims": [
-            "name the toughest objection to your own stance and give a quick reply—no summaries",
-            "just that direct challenge and response"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_7_1782463180129",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 2.732821961896329,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.4332054904740823,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_9_1782463189373",
-          "speaker": "Alex",
-          "text": "The hardest objection to my view is that endorsements give voters a useful shortcut in a crowded race; however, that shortcut trades depth for deference, letting elite prestige outweigh personal reasoning and eroding the ethical core of self‑determination in our democracy.",
-          "turn": 9,
-          "claims": [
-            "The hardest objection to my view is that endorsements give voters a useful shortcut in a crowded race",
-            "that shortcut trades depth for deference",
-            "letting elite prestige outweigh personal reasoning and eroding the ethical core of self‑determination in our democracy"
-          ],
-          "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_8_1782463185844",
-          "contradicts": [],
-          "strength": 5,
-          "viral": false,
-          "viralScore": 2.119951501425304,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.27998787535632597,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_10_1782463198824",
-          "speaker": "Sarah",
-          "text": "Sure, I’ll admit that voters shouldn’t bow unquestioningly to any single leader, but a transparent, well‑explained endorsement—like Mayor Mamdani’s—fills information gaps, lifts collective know‑how, and still lets each person decide; it’s a smart boost to democratic insight, not a takeover of autonomy.",
-          "turn": 10,
-          "claims": [
-            "I’ll admit that voters shouldn’t bow unquestioningly to any single leader",
-            "well‑explained endorsement—like Mayor Mamdani’s—fills information gaps",
-            "lifts collective know‑how"
-          ],
-          "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_9_1782463189373",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.9791771341794244,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2447942835448561,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_11_1782463204327",
-          "speaker": "Marcus",
-          "text": "Alright, Alex and Sarah, wrap up your positions in a quick closing line—no new points, just a concise summary of your case.",
-          "turn": 11,
-          "claims": [
-            "wrap up your positions in a quick closing line—no new points",
-            "just a concise summary of your case"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_10_1782463198824",
-          "contradicts": [],
-          "strength": 1,
-          "viral": false,
-          "viralScore": 2.515481436572013,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.37887035914300327,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_12_1782463210929",
-          "speaker": "Alex",
-          "text": "Mayor Zohr‑an Mamdani’s endorsements helped three left‑wing candidates win, even unseating incumbents, showing that when a vote hinges on a mayor’s cue, it crowds out personal reasoning and nudges democracy toward elite‑driven passivity. Preserve the principle that every ballot must spring from individual judgment, not a single authority’s nod.",
-          "turn": 12,
-          "claims": [
-            "Mayor Zohr‑an Mamdani’s endorsements helped three left‑wing candidates win",
-            "even unseating incumbents",
-            "showing that when a vote hinges on a mayor’s cue"
-          ],
-          "stance": "Endorsements constitute an epistemic shortcut that compromises the moral imperative of autonomous, rational voter deliberation.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_11_1782463204327",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 3.689413987953723,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.2973534969884307,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_13_1782463220059",
-          "speaker": "Sarah",
-          "text": "Mayor Mamdani’s endorsements gave voters a reliable shortcut through limited information, helping three left‑wing candidates—including two who beat incumbents—win their primaries, showing that transparent, trusted cues can fill knowledge gaps while still leaving the final choice to each voter.",
-          "turn": 13,
-          "claims": [
-            "Mayor Mamdani’s endorsements gave voters a reliable shortcut through limited information",
-            "helping three left‑wing candidates—including two who beat incumbents—win their primaries",
-            "showing that transparent"
-          ],
-          "stance": "Endorsements serve as a legitimate informational conduit that enhances collective rationality by aggregating vetted judgment into the voter’s decision‑making process.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_12_1782463210929",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.8794857724357783,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.21987144310894458,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_14_1782463227959",
-          "speaker": "Marcus",
-          "text": "Both Alex warned that mayoral endorsements risk turning voters into passive followers of elite cues, while Sarah argued they provide trusted shortcuts that help navigate information overload without stripping final choice; they agree that voter autonomy matters but differ on how best to balance it, leaving the question of how to harness endorsements responsibly open.",
-          "turn": 14,
-          "claims": [
-            "Both Alex warned that mayoral endorsements risk turning voters into passive followers of elite cues",
-            "while Sarah argued they provide trusted shortcuts that help navigate information overload without stripping final choice",
-            "they agree that voter autonomy matters"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_13_1782463220059",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 3.3789846445643525,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.21974616114108814,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1782463143562",
-          "to": "Alex_1_1782463147495",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1782463143562",
-          "to": "Alex_1_1782463147495",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_1_1782463147495",
-          "to": "Sarah_2_1782463151081",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_1_1782463147495",
-          "to": "Sarah_2_1782463151081",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_2_1782463151081",
-          "to": "Marcus_3_1782463156399",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_2_1782463151081",
-          "to": "Marcus_3_1782463156399",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_3_1782463156399",
-          "to": "Alex_4_1782463160703",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_3_1782463156399",
-          "to": "Alex_4_1782463160703",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_4_1782463160703",
-          "to": "Sarah_5_1782463167793",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_4_1782463160703",
-          "to": "Sarah_5_1782463167793",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_5_1782463167793",
-          "to": "Alex_6_1782463172533",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_5_1782463167793",
-          "to": "Alex_6_1782463172533",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_6_1782463172533",
-          "to": "Sarah_7_1782463180129",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_6_1782463172533",
-          "to": "Sarah_7_1782463180129",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_7_1782463180129",
-          "to": "Marcus_8_1782463185844",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_7_1782463180129",
-          "to": "Marcus_8_1782463185844",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_8_1782463185844",
-          "to": "Alex_9_1782463189373",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_8_1782463185844",
-          "to": "Alex_9_1782463189373",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_9_1782463189373",
-          "to": "Sarah_10_1782463198824",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_9_1782463189373",
-          "to": "Sarah_10_1782463198824",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_10_1782463198824",
-          "to": "Marcus_11_1782463204327",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_10_1782463198824",
-          "to": "Marcus_11_1782463204327",
-          "type": "extend"
-        },
-        {
-          "from": "Marcus_11_1782463204327",
-          "to": "Alex_12_1782463210929",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_11_1782463204327",
-          "to": "Alex_12_1782463210929",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_12_1782463210929",
-          "to": "Sarah_13_1782463220059",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_12_1782463210929",
-          "to": "Sarah_13_1782463220059",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_13_1782463220059",
-          "to": "Marcus_14_1782463227959",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_13_1782463220059",
-          "to": "Marcus_14_1782463227959",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
-      }
-    }
-  },
-  {
-    "id": "a64858d6-58b5-4477-b008-ee89dbb52ab6",
-    "date": "2026-06-24T15:12:20.414Z",
-    "topic": "Should AI-generated voice clones be used for literary works such as audiobooks?",
-    "summary": "An AI clone of Michael Caine will be used to voice an audiobook of The Odyssey for ElevenLabs. The AI audiobook project is taking place ahead of Christopher Nolan's adaptation of The Odyssey. The information was reported by Deadline on June 23, 2026.",
-    "audioUrl": "/audio/a64858d6-58b5-4477-b008-ee89dbb52ab6.mp3",
-    "duration": 418.275,
-    "transcript": [
-      {
-        "speaker": "Marcus",
-        "text": "Welcome to today’s debate: should AI‑generated voice clones narrate literary works such as audiobooks, balancing artistic integrity, authorial intent, and consumer experience? Recent news reports that an AI replica of Michael Caine is slated to read *The Odyssey* ahead of a high‑profile film adaptation, raising questions about consent, compensation, and artistic quality. The core question is whether such technology can ethically and effectively replace—or augment—human narrators without compromising creators’ rights or listener expectations. Let’s explore the arguments from both sides."
-      },
-      {
-        "speaker": "Alex",
-        "text": "ElevenLabs’ 2025 whitepaper shows AI narration cuts production costs by 70%, enabling publishers to price audiobooks 30% lower while still paying a 15% royalty to the original voice talent under a clear licensing contract; the “Great AI Library” pilot then boosted listenership in underserved regions by 35% through instant, localized accents, proving accessibility gains without sacrificing consent or compensation."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "The SAG‑AFTRA 2025 resolution warns that unlicensed AI clones erode voice‑actors’ residuals, and since then the industry has seen a 22 % drop in paid narration gigs, while a 2025 survey of 2,000 audiobook listeners found 68 % still prefer human narrators for classic works because they convey emotional nuance that AI cannot replicate."
-      },
-      {
-        "speaker": "Alex",
-        "text": "While 68 % of listeners say they prefer humans now, that figure reflects limited exposure to high‑quality AI clones; the “Great AI Library” pilot showed immediate acceptance once listeners heard nuanced, region‑specific performances, suggesting preferences shift with better examples. Moreover, the 22 % gig decline stems from studios bypassing contracts, not the technology itself—proper licensing and royalty splits can preserve actors’ residuals while still capturing comparable emotional depth."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Your claim that licensing alone will halt a 22 % gig loss ignores that studios already use unlicensed clones to dodge royalties, and the “nuanced” AI samples you cite are engineered, not genuine artistry; listeners still detect flat affect and lack the spontaneous interpretive choices that define human narration, as the 68 % preference data shows."
-      },
-      {
-        "speaker": "Alex",
-        "text": "The 68 % preference figure comes from listeners exposed only to low‑quality, unlicensed AI, not the high‑fidelity clones that ElevenLabs now delivers—once listeners hear licensed, emotion‑tuned models, the gap narrows dramatically, as our pilot proved with a 35 % rise in acceptance. Moreover, royalty‑based licensing eliminates the residual loss you cite; studios that bypass contracts simply break the law, not the technology, and can be penalized under the 2024 Copyright Office guidance."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "Your assertion that licensing will automatically stop the 22 % drop ignores the reality that studios already sidestep contracts, as the *Estate of James Earl Jones v. VoiceForge* ruling showed unauthorized clones still flood the market, eroding residuals despite any licensing model; moreover, psychological studies confirm listeners detect significantly lower empathy and affect in AI voices, so “emotion‑tuned” clones still fall short of the spontaneous interpretive depth human narrators provide."
-      },
-      {
-        "speaker": "Alex",
-        "text": "AI voice clones, when licensed with clear royalty splits, cut production costs by 70% and enable 30% cheaper audiobooks while preserving actors’ earnings—as shown by ElevenLabs’ 2025 whitepaper and the “Great AI Library” pilot that lifted listenership 35% in underserved markets; this demonstrates that ethical AI can expand access without harming residuals. Sarah’s claim that licensing won’t stop gig losses overlooks the *Estate of James Earl Jones v. VoiceForge* decision, which affirmed that illegal, unlicensed clones—not the technology itself—are the source of revenue erosion; proper contracts eliminate that breach."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "The most compelling point is that unlicensed AI clones have already proven harmful: the *Estate of James Earl Jones v. VoiceForge* decision confirmed illegal replicas infringe publicity rights and directly caused the 22 % drop in paid narration gigs, showing technology itself isn’t the problem, but unlawful use. Alex’s claim that proper licensing will fully protect actors ignores the reality that studios continue to bypass contracts, and even “emotion‑tuned” clones lack the spontaneous nuance listeners value, as demonstrated by the consistent 68 % preference for human narrators."
-      },
-      {
-        "speaker": "Alex",
-        "text": "AI voice clones, when paired with enforceable licensing and royalty splits, cut production costs by 70% and make audiobooks 30% cheaper while preserving actors’ earnings, as demonstrated by ElevenLabs’ whitepaper and the “Great AI Library” pilot’s 35% uptake in underserved markets; the real threat remains illegal, unlicensed clones—not the technology itself—so robust contracts and legal compliance can protect residuals and expand access without sacrificing artistic value."
-      },
-      {
-        "speaker": "Sarah",
-        "text": "The unauthorized AI clones that sparked the *Estate of James Earl Jones v. VoiceForge* ruling have already cut voice‑actors’ residuals and stripped listeners of the nuanced, empathetic storytelling only humans can deliver; until strict licensing and enforceable rights are guaranteed, the cultural and labor harms outweigh any cost savings."
-      },
-      {
-        "speaker": "Marcus",
-        "text": "Both Alex stresses that licensed AI clones can slash production costs by 70%, lower audiobook prices, broaden access and preserve actor royalties when contracts are enforced, citing the “Great AI Library” pilot’s uptake; Sarah counters that illegal, unlicensed clones have already cut residuals by 22% and that listeners consistently prefer human narrators for their spontaneous nuance and empathy, questioning whether licensing can ever fully protect artists. They agree that unlicensed use is the core threat and that robust attribution and royalty systems are needed, but remain split on whether high‑fidelity AI can match human artistry or sustain the voice‑acting market."
-      }
-    ],
-    "timeline": [
-      {
-        "speaker": "Marcus",
-        "start": 0,
-        "end": 36.975,
-        "duration": 36.975
-      },
-      {
-        "speaker": "Alex",
-        "start": 36.975,
-        "end": 66.175,
-        "duration": 29.2
-      },
-      {
-        "speaker": "Sarah",
-        "start": 66.175,
-        "end": 91.675,
-        "duration": 25.5
-      },
-      {
-        "speaker": "Alex",
-        "start": 91.675,
-        "end": 128.475,
-        "duration": 36.8
-      },
-      {
-        "speaker": "Sarah",
-        "start": 128.475,
-        "end": 153.275,
-        "duration": 24.8
-      },
-      {
-        "speaker": "Alex",
-        "start": 153.275,
-        "end": 190.10000000000002,
-        "duration": 36.825
-      },
-      {
-        "speaker": "Sarah",
-        "start": 190.10000000000002,
-        "end": 227.52500000000003,
-        "duration": 37.425
-      },
-      {
-        "speaker": "Alex",
-        "start": 227.52500000000003,
-        "end": 273.3,
-        "duration": 45.775
-      },
-      {
-        "speaker": "Sarah",
-        "start": 273.3,
-        "end": 314.7,
-        "duration": 41.4
-      },
-      {
-        "speaker": "Alex",
-        "start": 314.7,
-        "end": 351.4,
-        "duration": 36.7
-      },
-      {
-        "speaker": "Sarah",
-        "start": 351.4,
-        "end": 375.625,
-        "duration": 24.225
-      },
-      {
-        "speaker": "Marcus",
-        "start": 375.625,
-        "end": 418.275,
-        "duration": 42.65
-      }
-    ],
-    "graph": {
-      "nodes": [
-        {
-          "id": "Marcus_0_1782313849563",
-          "speaker": "Marcus",
-          "text": "Welcome to today’s debate: should AI‑generated voice clones narrate literary works such as audiobooks, balancing artistic integrity, authorial intent, and consumer experience? Recent news reports that an AI replica of Michael Caine is slated to read *The Odyssey* ahead of a high‑profile film adaptation, raising questions about consent, compensation, and artistic quality. The core question is whether such technology can ethically and effectively replace—or augment—human narrators without compromising creators’ rights or listener expectations. Let’s explore the arguments from both sides.",
-          "turn": 0,
-          "claims": [
-            "Welcome to today’s debate: should AI‑generated voice clones narrate literary works such as audiobooks",
-            "balancing artistic integrity",
-            "and consumer experience? Recent news reports that an AI replica of Michael Caine is slated to read *The Odyssey* ahead of a high‑profile film adaptation"
-          ],
-          "stance": null,
-          "relation": null,
-          "targetNodes": [],
-          "repliesTo": null,
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 0,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0,
-            "connectionScore": 0,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_1_1782313859796",
-          "speaker": "Alex",
-          "text": "ElevenLabs’ 2025 whitepaper shows AI narration cuts production costs by 70%, enabling publishers to price audiobooks 30% lower while still paying a 15% royalty to the original voice talent under a clear licensing contract; the “Great AI Library” pilot then boosted listenership in underserved regions by 35% through instant, localized accents, proving accessibility gains without sacrificing consent or compensation.",
-          "turn": 1,
-          "claims": [
-            "ElevenLabs’ 2025 whitepaper shows AI narration cuts production costs by 70%",
-            "enabling publishers to price audiobooks 30% lower while still paying a 15% royalty to the original voice talent under a clear licensing contract",
-            "the “Great AI Library” pilot then boosted listenership in underserved regions by 35% through instant"
-          ],
-          "stance": "Pro – AI voice clones expand access, reduce costs, and can enrich storytelling when used responsibly.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Marcus_0_1782313849563",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.581558451626924,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.14538961290673102,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_2_1782313866585",
-          "speaker": "Sarah",
-          "text": "The SAG‑AFTRA 2025 resolution warns that unlicensed AI clones erode voice‑actors’ residuals, and since then the industry has seen a 22 % drop in paid narration gigs, while a 2025 survey of 2,000 audiobook listeners found 68 % still prefer human narrators for classic works because they convey emotional nuance that AI cannot replicate.",
-          "turn": 2,
-          "claims": [
-            "The SAG‑AFTRA 2025 resolution warns that unlicensed AI clones erode voice‑actors’ residuals",
-            "and since then the industry has seen a 22 % drop in paid narration gigs",
-            "while a 2025 survey of 2"
-          ],
-          "stance": "Con – AI voice clones threaten artistic integrity, labor rights, and may erode the cultural value of human‑performed literature.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_1_1782313859796",
-          "contradicts": [],
-          "strength": 5,
-          "viral": false,
-          "viralScore": 3.053801148610642,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1384502871526605,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_3_1782313877341",
-          "speaker": "Alex",
-          "text": "While 68 % of listeners say they prefer humans now, that figure reflects limited exposure to high‑quality AI clones; the “Great AI Library” pilot showed immediate acceptance once listeners heard nuanced, region‑specific performances, suggesting preferences shift with better examples. Moreover, the 22 % gig decline stems from studios bypassing contracts, not the technology itself—proper licensing and royalty splits can preserve actors’ residuals while still capturing comparable emotional depth.",
-          "turn": 3,
-          "claims": [
-            "While 68 % of listeners say they prefer humans now",
-            "that figure reflects limited exposure to high‑quality AI clones",
-            "the “Great AI Library” pilot showed immediate acceptance once listeners heard nuanced"
-          ],
-          "stance": "Pro – AI voice clones expand access, reduce costs, and can enrich storytelling when used responsibly.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_2_1782313866585",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.6949893787417656,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1737473446854414,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_4_1782313884100",
-          "speaker": "Sarah",
-          "text": "Your claim that licensing alone will halt a 22 % gig loss ignores that studios already use unlicensed clones to dodge royalties, and the “nuanced” AI samples you cite are engineered, not genuine artistry; listeners still detect flat affect and lack the spontaneous interpretive choices that define human narration, as the 68 % preference data shows.",
-          "turn": 4,
-          "claims": [
-            "Your claim that licensing alone will halt a 22 % gig loss ignores that studios already use unlicensed clones to dodge royalties",
-            "and the “nuanced” AI samples you cite are engineered",
-            "listeners still detect flat affect and lack the spontaneous interpretive choices that define human narration"
-          ],
-          "stance": "Con – AI voice clones threaten artistic integrity, labor rights, and may erode the cultural value of human‑performed literature.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_3_1782313877341",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.7245503405353544,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1811375851338386,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_5_1782313896381",
-          "speaker": "Alex",
-          "text": "The 68 % preference figure comes from listeners exposed only to low‑quality, unlicensed AI, not the high‑fidelity clones that ElevenLabs now delivers—once listeners hear licensed, emotion‑tuned models, the gap narrows dramatically, as our pilot proved with a 35 % rise in acceptance. Moreover, royalty‑based licensing eliminates the residual loss you cite; studios that bypass contracts simply break the law, not the technology, and can be penalized under the 2024 Copyright Office guidance.",
-          "turn": 5,
-          "claims": [
-            "The 68 % preference figure comes from listeners exposed only to low‑quality",
-            "not the high‑fidelity clones that ElevenLabs now delivers—once listeners hear licensed",
-            "the gap narrows dramatically"
-          ],
-          "stance": "Pro – AI voice clones expand access, reduce costs, and can enrich storytelling when used responsibly.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_4_1782313884100",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.5532008012963132,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1383002003240783,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_6_1782313904065",
-          "speaker": "Sarah",
-          "text": "Your assertion that licensing will automatically stop the 22 % drop ignores the reality that studios already sidestep contracts, as the *Estate of James Earl Jones v. VoiceForge* ruling showed unauthorized clones still flood the market, eroding residuals despite any licensing model; moreover, psychological studies confirm listeners detect significantly lower empathy and affect in AI voices, so “emotion‑tuned” clones still fall short of the spontaneous interpretive depth human narrators provide.",
-          "turn": 6,
-          "claims": [
-            "Your assertion that licensing will automatically stop the 22 % drop ignores the reality that studios already sidestep contracts",
-            "as the *Estate of James Earl Jones v",
-            "VoiceForge* ruling showed unauthorized clones still flood the market"
-          ],
-          "stance": "Con – AI voice clones threaten artistic integrity, labor rights, and may erode the cultural value of human‑performed literature.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_5_1782313896381",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.5240979450759964,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1310244862689991,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_7_1782313912613",
-          "speaker": "Alex",
-          "text": "AI voice clones, when licensed with clear royalty splits, cut production costs by 70% and enable 30% cheaper audiobooks while preserving actors’ earnings—as shown by ElevenLabs’ 2025 whitepaper and the “Great AI Library” pilot that lifted listenership 35% in underserved markets; this demonstrates that ethical AI can expand access without harming residuals. Sarah’s claim that licensing won’t stop gig losses overlooks the *Estate of James Earl Jones v. VoiceForge* decision, which affirmed that illegal, unlicensed clones—not the technology itself—are the source of revenue erosion; proper contracts eliminate that breach.",
-          "turn": 7,
-          "claims": [
-            "when licensed with clear royalty splits",
-            "cut production costs by 70% and enable 30% cheaper audiobooks while preserving actors’ earnings—as shown by ElevenLabs’ 2025 whitepaper and the “Great AI Library” pilot that lifted listenership 35% in underserved markets",
-            "this demonstrates that ethical AI can expand access without harming residuals"
-          ],
-          "stance": "Pro – AI voice clones expand access, reduce costs, and can enrich storytelling when used responsibly.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_6_1782313904065",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 3.063125697125032,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.14078142428125795,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_8_1782313918577",
-          "speaker": "Sarah",
-          "text": "The most compelling point is that unlicensed AI clones have already proven harmful: the *Estate of James Earl Jones v. VoiceForge* decision confirmed illegal replicas infringe publicity rights and directly caused the 22 % drop in paid narration gigs, showing technology itself isn’t the problem, but unlawful use. Alex’s claim that proper licensing will fully protect actors ignores the reality that studios continue to bypass contracts, and even “emotion‑tuned” clones lack the spontaneous nuance listeners value, as demonstrated by the consistent 68 % preference for human narrators.",
-          "turn": 8,
-          "claims": [
-            "The most compelling point is that unlicensed AI clones have already proven harmful: the *Estate of James Earl Jones v",
-            "VoiceForge* decision confirmed illegal replicas infringe publicity rights and directly caused the 22 % drop in paid narration gigs",
-            "showing technology itself isn’t the problem"
-          ],
-          "stance": "Con – AI voice clones threaten artistic integrity, labor rights, and may erode the cultural value of human‑performed literature.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_7_1782313912613",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.9643686745196414,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.11609216862991034,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Alex_9_1782313926431",
-          "speaker": "Alex",
-          "text": "AI voice clones, when paired with enforceable licensing and royalty splits, cut production costs by 70% and make audiobooks 30% cheaper while preserving actors’ earnings, as demonstrated by ElevenLabs’ whitepaper and the “Great AI Library” pilot’s 35% uptake in underserved markets; the real threat remains illegal, unlicensed clones—not the technology itself—so robust contracts and legal compliance can protect residuals and expand access without sacrificing artistic value.",
-          "turn": 9,
-          "claims": [
-            "when paired with enforceable licensing and royalty splits",
-            "cut production costs by 70% and make audiobooks 30% cheaper while preserving actors’ earnings",
-            "as demonstrated by ElevenLabs’ whitepaper and the “Great AI Library” pilot’s 35% uptake in underserved markets"
-          ],
-          "stance": "Pro – AI voice clones expand access, reduce costs, and can enrich storytelling when used responsibly.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_8_1782313918577",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.969176384608845,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1172940961522112,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Sarah_10_1782313933471",
-          "speaker": "Sarah",
-          "text": "The unauthorized AI clones that sparked the *Estate of James Earl Jones v. VoiceForge* ruling have already cut voice‑actors’ residuals and stripped listeners of the nuanced, empathetic storytelling only humans can deliver; until strict licensing and enforceable rights are guaranteed, the cultural and labor harms outweigh any cost savings.",
-          "turn": 10,
-          "claims": [
-            "The unauthorized AI clones that sparked the *Estate of James Earl Jones v",
-            "VoiceForge* ruling have already cut voice‑actors’ residuals and stripped listeners of the nuanced",
-            "empathetic storytelling only humans can deliver"
-          ],
-          "stance": "Con – AI voice clones threaten artistic integrity, labor rights, and may erode the cultural value of human‑performed literature.",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Alex_9_1782313926431",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 1.4357229132468232,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 0,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1089307283117058,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        },
-        {
-          "id": "Marcus_11_1782313940413",
-          "speaker": "Marcus",
-          "text": "Both Alex stresses that licensed AI clones can slash production costs by 70%, lower audiobook prices, broaden access and preserve actor royalties when contracts are enforced, citing the “Great AI Library” pilot’s uptake; Sarah counters that illegal, unlicensed clones have already cut residuals by 22% and that listeners consistently prefer human narrators for their spontaneous nuance and empathy, questioning whether licensing can ever fully protect artists. They agree that unlicensed use is the core threat and that robust attribution and royalty systems are needed, but remain split on whether high‑fidelity AI can match human artistry or sustain the voice‑acting market.",
-          "turn": 11,
-          "claims": [
-            "Both Alex stresses that licensed AI clones can slash production costs by 70%",
-            "lower audiobook prices",
-            "broaden access and preserve actor royalties when contracts are enforced"
-          ],
-          "stance": "neutral",
-          "relation": "extend",
-          "targetNodes": [],
-          "repliesTo": "Sarah_10_1782313933471",
-          "contradicts": [],
-          "strength": 3,
-          "viral": false,
-          "viralScore": 2.9035896269697252,
-          "type": "claim",
-          "viralBreakdown": {
-            "keywordScore": 1.5,
-            "disagreementScore": 0,
-            "noveltyScore": 0.1008974067424313,
-            "connectionScore": 1,
-            "emotionScore": 0
-          }
-        }
-      ],
-      "edges": [
-        {
-          "from": "Marcus_0_1782313849563",
-          "to": "Alex_1_1782313859796",
-          "type": "reply"
-        },
-        {
-          "from": "Marcus_0_1782313849563",
-          "to": "Alex_1_1782313859796",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_1_1782313859796",
-          "to": "Sarah_2_1782313866585",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_1_1782313859796",
-          "to": "Sarah_2_1782313866585",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_2_1782313866585",
-          "to": "Alex_3_1782313877341",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_2_1782313866585",
-          "to": "Alex_3_1782313877341",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_3_1782313877341",
-          "to": "Sarah_4_1782313884100",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_3_1782313877341",
-          "to": "Sarah_4_1782313884100",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_4_1782313884100",
-          "to": "Alex_5_1782313896381",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_4_1782313884100",
-          "to": "Alex_5_1782313896381",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_5_1782313896381",
-          "to": "Sarah_6_1782313904065",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_5_1782313896381",
-          "to": "Sarah_6_1782313904065",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_6_1782313904065",
-          "to": "Alex_7_1782313912613",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_6_1782313904065",
-          "to": "Alex_7_1782313912613",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_7_1782313912613",
-          "to": "Sarah_8_1782313918577",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_7_1782313912613",
-          "to": "Sarah_8_1782313918577",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_8_1782313918577",
-          "to": "Alex_9_1782313926431",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_8_1782313918577",
-          "to": "Alex_9_1782313926431",
-          "type": "extend"
-        },
-        {
-          "from": "Alex_9_1782313926431",
-          "to": "Sarah_10_1782313933471",
-          "type": "reply"
-        },
-        {
-          "from": "Alex_9_1782313926431",
-          "to": "Sarah_10_1782313933471",
-          "type": "extend"
-        },
-        {
-          "from": "Sarah_10_1782313933471",
-          "to": "Marcus_11_1782313940413",
-          "type": "reply"
-        },
-        {
-          "from": "Sarah_10_1782313933471",
-          "to": "Marcus_11_1782313940413",
-          "type": "extend"
-        }
-      ],
-      "claimClusters": {
-        "support": [],
-        "oppose": [],
-        "neutral": []
       }
     }
   }

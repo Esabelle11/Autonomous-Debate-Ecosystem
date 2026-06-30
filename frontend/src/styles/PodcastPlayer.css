@@ -48,6 +48,42 @@
   flex-wrap: wrap;
 }
 
+
+.stance-panel {
+  width: 220px;
+  min-height: 120px;
+
+  padding: 14px;
+
+  border-radius: 12px;
+
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,.15);
+
+  color: white;
+}
+
+.stance-title{
+  font-weight: 700;
+  margin-bottom: 10px;
+  opacity: .6;
+}
+
+.stance-text{
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 100;
+  opacity: .8;
+}
+
+.left{
+  text-align:right;
+}
+
+.right{
+  text-align:left;
+}
+
 .podcast-player__insights {
   margin-top: 4px;
 }
