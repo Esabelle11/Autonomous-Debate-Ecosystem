@@ -323,23 +323,22 @@ export async function runResearchScraper() {
     const dataset = [];
 
     for (const article of articles) {
-     
-      const signal = {
-        title: article.title,
-        description: article.description,
-        source: article.source?.name,
-        publishedAt: article.publishedAt
-      };
+      try {
+        const signal = {
+          title: article.title,
+          description: article.description,
+          source: article.source?.name,
+          publishedAt: article.publishedAt
+        };
 
-      console.log("⚙️ Processing:", signal.title);
+        console.log("⚙️ Processing:", signal.title);
 
-      const factsObj = await extractFacts(JSON.stringify(signal));
+        const factsObj = await extractFacts(JSON.stringify(signal));
 
-      /* =========================
-        SINGLE MODE PER ARTICLE 
-      ========================= */
-      for (const [mode, intensity] of Object.entries(intensityProfile)) {
-        try {
+        /* =========================
+          SINGLE MODE PER ARTICLE 
+        ========================= */
+        for (const [mode, intensity] of Object.entries(intensityProfile)) {
           const debate = await retry(() =>  generateDebate(factsObj, mode, intensity), 3, 10000);
 
           const evaluation = await retry(() =>  evaluateDebateTopic(signal, factsObj, debate), 3, 10000);
@@ -355,16 +354,15 @@ export async function runResearchScraper() {
             evaluation,
             average_eval
           });
-
-        } catch (err) {
-          console.log(
-            `⚠️ Skipping article: ${article.title} ${mode} ${intensity} intensity`
-          );
-          console.log(err.message);
-          continue;
         }
+
+      } catch (err) {
+        console.log(
+          `⚠️ Skipping article: ${article.title}`
+        );
+        console.log(err.message);
+        continue;
       }
- 
     }
 
     const summary = {

@@ -1,0 +1,795 @@
+{
+  "summary": {
+    "totalRecords": 13,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "religious leadership",
+      "archbishop appointments",
+      "Feast of Saints Peter and Paul",
+      "inspiration for clergy",
+      "religious leadership",
+      "archbishop appointments",
+      "Feast of Saints Peter and Paul",
+      "inspiration for clergy",
+      "religious leadership",
+      "archbishop appointments",
+      "Feast of Saints Peter and Paul",
+      "inspiration for clergy",
+      "religious leadership",
+      "archbishop appointments",
+      "Feast of Saints Peter and Paul",
+      "inspiration for clergy",
+      "fraud",
+      "sentencing",
+      "financial crime",
+      "legal prosecution",
+      "fraud",
+      "sentencing",
+      "financial crime",
+      "legal prosecution",
+      "fraud",
+      "sentencing",
+      "financial crime",
+      "legal prosecution",
+      "ballot eligibility",
+      "election law",
+      "political party complaints",
+      "voter deception claims",
+      "ballot eligibility",
+      "election law",
+      "political party complaints",
+      "voter deception claims",
+      "World Cup upset",
+      "football",
+      "underdog victory",
+      "coach confidence",
+      "player heroics",
+      "World Cup upset",
+      "football",
+      "underdog victory",
+      "coach confidence",
+      "player heroics",
+      "World Cup upset",
+      "football",
+      "underdog victory",
+      "coach confidence",
+      "player heroics",
+      "World Cup upset",
+      "football",
+      "underdog victory",
+      "coach confidence",
+      "player heroics"
+    ],
+    "entities": [
+      "Pope Leo XIV",
+      "Saints Peter and Paul",
+      "new Metropolitan Archbishops",
+      "Vatican News",
+      "Pope Leo XIV",
+      "Saints Peter and Paul",
+      "new Metropolitan Archbishops",
+      "Vatican News",
+      "Pope Leo XIV",
+      "Saints Peter and Paul",
+      "new Metropolitan Archbishops",
+      "Vatican News",
+      "Pope Leo XIV",
+      "Saints Peter and Paul",
+      "new Metropolitan Archbishops",
+      "Vatican News",
+      "Guo Wengui",
+      "Al Jazeera English",
+      "United States federal court",
+      "U.S. prison",
+      "Guo Wengui",
+      "Al Jazeera English",
+      "United States federal court",
+      "U.S. prison",
+      "Guo Wengui",
+      "Al Jazeera English",
+      "United States federal court",
+      "U.S. prison",
+      "Alaska Supreme Court",
+      "U.S. Sen. Dan Sullivan",
+      "namesake challenger",
+      "Division of Elections",
+      "Petersburg",
+      "Republicans",
+      "top Democratic challenger",
+      "Alaska Supreme Court",
+      "U.S. Sen. Dan Sullivan",
+      "namesake challenger",
+      "Division of Elections",
+      "Petersburg",
+      "Republicans",
+      "top Democratic challenger",
+      "Germany",
+      "Paraguay",
+      "World Cup",
+      "Alfaro",
+      "Gill",
+      "Al Jazeera English",
+      "Germany",
+      "Paraguay",
+      "World Cup",
+      "Alfaro",
+      "Gill",
+      "Al Jazeera English",
+      "Germany",
+      "Paraguay",
+      "World Cup",
+      "Alfaro",
+      "Gill",
+      "Al Jazeera English",
+      "Germany",
+      "Paraguay",
+      "World Cup",
+      "Alfaro",
+      "Gill",
+      "Al Jazeera English"
+    ],
+    "generatedAt": "2026-07-01T07:09:55.687Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News",
+        "description": "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invites the faithful to be inspired by the two Patrons of Rome who, despite their flaws, became extraordinary witnesses to the Gospel. He also invites the new Metropolitan Archbishops re…",
+        "source": "Vatican News",
+        "publishedAt": "2026-06-30T06:05:36Z"
+      },
+      "facts": {
+        "facts": [
+          "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invited the faithful to be inspired by the two Patrons of Rome.",
+          "Pope Leo XIV also invited the new Metropolitan Archbishops to be 'Good Shepherds'.",
+          "The article was published by Vatican News on 2026-06-30 at 06:05:36 UTC."
+        ],
+        "entities": [
+          "Pope Leo XIV",
+          "Saints Peter and Paul",
+          "new Metropolitan Archbishops",
+          "Vatican News"
+        ],
+        "themes": [
+          "religious leadership",
+          "archbishop appointments",
+          "Feast of Saints Peter and Paul",
+          "inspiration for clergy"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the appointment of new metropolitan archbishops be explicitly tied to the pastoral model exemplified by the Patrons of Rome, Saints Peter and Paul?",
+        "background": "On June 30, 2026, Vatican News reported that Pope Leo XIV, during the Mass for the Solemnity of Saints Peter and Paul, invited the faithful to be inspired by the two Patrons of Rome. In the same celebration, he also invited the newly appointed metropolitan archbishops to be 'Good Shepherds'.",
+        "framing": "Is it appropriate for the Church to link the responsibilities of metropolitan archbishops directly to the example set by Saints Peter and Paul?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News",
+        "description": "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invites the faithful to be inspired by the two Patrons of Rome who, despite their flaws, became extraordinary witnesses to the Gospel. He also invites the new Metropolitan Archbishops re…",
+        "source": "Vatican News",
+        "publishedAt": "2026-06-30T06:05:36Z"
+      },
+      "facts": {
+        "facts": [
+          "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invited the faithful to be inspired by the two Patrons of Rome.",
+          "Pope Leo XIV also invited the new Metropolitan Archbishops to be 'Good Shepherds'.",
+          "The article was published by Vatican News on 2026-06-30 at 06:05:36 UTC."
+        ],
+        "entities": [
+          "Pope Leo XIV",
+          "Saints Peter and Paul",
+          "new Metropolitan Archbishops",
+          "Vatican News"
+        ],
+        "themes": [
+          "religious leadership",
+          "archbishop appointments",
+          "Feast of Saints Peter and Paul",
+          "inspiration for clergy"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should the Pope use major feast days, such as the Solemnity of Saints Peter and Paul, to issue directives or expectations for newly appointed metropolitan archbishops?",
+        "background": "On 30 June 2026, Vatican News reported that Pope Leo XIV, during the Mass for the Solemnity of Saints Peter and Paul, invited the faithful to be inspired by the two Patrons of Rome. In the same homily, he also called on the newly appointed metropolitan archbishops to act as 'Good Shepherds.'",
+        "framing": "Is it appropriate for a Pope to link liturgical celebrations with specific guidance for newly appointed archbishops?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News",
+        "description": "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invites the faithful to be inspired by the two Patrons of Rome who, despite their flaws, became extraordinary witnesses to the Gospel. He also invites the new Metropolitan Archbishops re…",
+        "source": "Vatican News",
+        "publishedAt": "2026-06-30T06:05:36Z"
+      },
+      "facts": {
+        "facts": [
+          "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invited the faithful to be inspired by the two Patrons of Rome.",
+          "Pope Leo XIV also invited the new Metropolitan Archbishops to be 'Good Shepherds'.",
+          "The article was published by Vatican News on 2026-06-30 at 06:05:36 UTC."
+        ],
+        "entities": [
+          "Pope Leo XIV",
+          "Saints Peter and Paul",
+          "new Metropolitan Archbishops",
+          "Vatican News"
+        ],
+        "themes": [
+          "religious leadership",
+          "archbishop appointments",
+          "Feast of Saints Peter and Paul",
+          "inspiration for clergy"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should newly appointed metropolitan archbishops focus primarily on being 'Good Shepherds' rather than emphasizing administrative and institutional responsibilities?",
+        "background": "On June 30, 2026, Vatican News reported that Pope Leo XIV, during the Mass for the Solemnity of Saints Peter and Paul, invited the faithful to be inspired by the two Patrons of Rome. In the same address, he also urged the newly appointed metropolitan archbishops to be 'Good Shepherds.'",
+        "framing": "In what ways should a metropolitan archbishop balance pastoral inspiration with the administrative duties of the office?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News",
+        "description": "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invites the faithful to be inspired by the two Patrons of Rome who, despite their flaws, became extraordinary witnesses to the Gospel. He also invites the new Metropolitan Archbishops re…",
+        "source": "Vatican News",
+        "publishedAt": "2026-06-30T06:05:36Z"
+      },
+      "facts": {
+        "facts": [
+          "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invited the faithful to be inspired by the two Patrons of Rome.",
+          "Pope Leo XIV also invited the new Metropolitan Archbishops to be 'Good Shepherds'.",
+          "The article was published by Vatican News on 2026-06-30 at 06:05:36 UTC."
+        ],
+        "entities": [
+          "Pope Leo XIV",
+          "Saints Peter and Paul",
+          "new Metropolitan Archbishops",
+          "Vatican News"
+        ],
+        "themes": [
+          "religious leadership",
+          "archbishop appointments",
+          "Feast of Saints Peter and Paul",
+          "inspiration for clergy"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should Pope Leo XIV’s invitation for new metropolitan archbishops to be “Good Shepherds” shape the criteria used for their appointment and oversight?",
+        "background": "During the Mass for the Solemnity of Saints Peter and Paul, Pope Leo XIV invited the faithful to be inspired by the two Patrons of Rome. He also addressed the newly appointed metropolitan archbishops, urging them to act as “Good Shepherds.” The article reporting these remarks was published by Vatican News on 2026-06-30 at 06:05:36 UTC.",
+        "framing": "In what ways, if any, should the Pope’s call for archbishops to embody the ‘Good Shepherd’ model influence the selection and evaluation processes for these leaders?",
+        "emotion": 9,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud - Al Jazeera",
+        "description": "A federal judge said Guo’s fraud cost more than 1,000 people worldwide hundreds of millions of dollars.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T05:20:14Z"
+      },
+      "facts": {
+        "facts": [
+          "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud.",
+          "A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars."
+        ],
+        "entities": [
+          "Guo Wengui",
+          "Al Jazeera English",
+          "United States federal court",
+          "U.S. prison"
+        ],
+        "themes": [
+          "fraud",
+          "sentencing",
+          "financial crime",
+          "legal prosecution"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should sentencing guidelines for large‑scale financial fraud be standardized internationally to ensure consistent punishment?",
+        "background": "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud. A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars.",
+        "framing": "Is it appropriate to establish uniform international sentencing standards for high‑value financial crimes?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud - Al Jazeera",
+        "description": "A federal judge said Guo’s fraud cost more than 1,000 people worldwide hundreds of millions of dollars.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T05:20:14Z"
+      },
+      "facts": {
+        "facts": [
+          "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud.",
+          "A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars."
+        ],
+        "entities": [
+          "Guo Wengui",
+          "Al Jazeera English",
+          "United States federal court",
+          "U.S. prison"
+        ],
+        "themes": [
+          "fraud",
+          "sentencing",
+          "financial crime",
+          "legal prosecution"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should Guo Wengui's 30‑year prison sentence for large‑scale fraud be considered proportionate to the harm caused?",
+        "background": "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud. A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars.",
+        "framing": "Is a 30‑year sentence an appropriate penalty for large‑scale financial fraud that harmed thousands of victims?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud - Al Jazeera",
+        "description": "A federal judge said Guo’s fraud cost more than 1,000 people worldwide hundreds of millions of dollars.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T05:20:14Z"
+      },
+      "facts": {
+        "facts": [
+          "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud.",
+          "A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars."
+        ],
+        "entities": [
+          "Guo Wengui",
+          "Al Jazeera English",
+          "United States federal court",
+          "U.S. prison"
+        ],
+        "themes": [
+          "fraud",
+          "sentencing",
+          "financial crime",
+          "legal prosecution"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should lengthy prison sentences, such as 30 years, be the standard penalty for large-scale financial fraud?",
+        "background": "Guo Wengui, a Chinese billionaire, was sentenced to 30 years in a U.S. prison for fraud. A federal judge stated that Guo's fraud affected more than 1,000 people worldwide and involved hundreds of millions of dollars.",
+        "framing": "What is the appropriate severity of prison sentences for large-scale financial fraud cases?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.8
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News",
+        "description": "The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans that he was trying to deceive voters to benefit the senator’s top Democratic challenger.",
+        "source": "Anchorage Daily News",
+        "publishedAt": "2026-06-30T04:44:11Z"
+      },
+      "facts": {
+        "facts": [
+          "The Alaska Supreme Court allowed a namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot.",
+          "The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans.",
+          "Republicans claimed the challenger was trying to deceive voters to benefit the senator’s top Democratic challenger."
+        ],
+        "entities": [
+          "Alaska Supreme Court",
+          "U.S. Sen. Dan Sullivan",
+          "namesake challenger",
+          "Division of Elections",
+          "Petersburg",
+          "Republicans",
+          "top Democratic challenger"
+        ],
+        "themes": [
+          "ballot eligibility",
+          "election law",
+          "political party complaints",
+          "voter deception claims"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should courts prioritize party complaints over voter familiarity when deciding ballot eligibility for candidates with similar names?",
+        "background": "The Alaska Supreme Court allowed a namesake challenger to U.S. Senator Dan Sullivan to appear on the ballot. The Division of Elections had previously disqualified the challenger from Petersburg after receiving complaints from Republicans. Republicans claimed the challenger was trying to deceive voters to benefit the senator’s top Democratic challenger.",
+        "framing": "Is it appropriate for courts to give weight to political party complaints in determining ballot eligibility for candidates with identical or similar names?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News",
+        "description": "The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans that he was trying to deceive voters to benefit the senator’s top Democratic challenger.",
+        "source": "Anchorage Daily News",
+        "publishedAt": "2026-06-30T04:44:11Z"
+      },
+      "facts": {
+        "facts": [
+          "The Alaska Supreme Court allowed a namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot.",
+          "The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans.",
+          "Republicans claimed the challenger was trying to deceive voters to benefit the senator’s top Democratic challenger."
+        ],
+        "entities": [
+          "Alaska Supreme Court",
+          "U.S. Sen. Dan Sullivan",
+          "namesake challenger",
+          "Division of Elections",
+          "Petersburg",
+          "Republicans",
+          "top Democratic challenger"
+        ],
+        "themes": [
+          "ballot eligibility",
+          "election law",
+          "political party complaints",
+          "voter deception claims"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should courts permit candidates with similar names to remain on the ballot when parties allege voter deception?",
+        "background": "The Alaska Supreme Court allowed a namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot. The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans. Republicans claimed the challenger was trying to deceive voters to benefit the senator’s top Democratic challenger.",
+        "framing": "Should courts prioritize strict ballot eligibility rules over potential voter confusion in cases of name similarity?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay - Al Jazeera",
+        "description": "As well as Gill’s heroics, Paraguay’s unlikely victory was founded on coach Alfaro’s unshakeable faith in his defenders.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T03:55:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Germany were handed a World Cup humbling.",
+          "Paraguay achieved an unlikely victory.",
+          "Coach Alfaro had unshakeable faith in his defenders.",
+          "Gill performed heroics."
+        ],
+        "entities": [
+          "Germany",
+          "Paraguay",
+          "World Cup",
+          "Alfaro",
+          "Gill",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "World Cup upset",
+          "football",
+          "underdog victory",
+          "coach confidence",
+          "player heroics"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should underdog teams be given greater strategic consideration in tournament planning?",
+        "background": "Germany suffered a decisive loss in a World Cup match. Paraguay secured an unexpected victory in the same tournament. Coach Alfaro expressed unwavering confidence in his defensive lineup, and player Gill delivered standout performances during the competition.",
+        "framing": "To what extent should tournament organizers and opponents adjust their strategies to account for the potential of underdog teams achieving upset victories?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay - Al Jazeera",
+        "description": "As well as Gill’s heroics, Paraguay’s unlikely victory was founded on coach Alfaro’s unshakeable faith in his defenders.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T03:55:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Germany were handed a World Cup humbling.",
+          "Paraguay achieved an unlikely victory.",
+          "Coach Alfaro had unshakeable faith in his defenders.",
+          "Gill performed heroics."
+        ],
+        "entities": [
+          "Germany",
+          "Paraguay",
+          "World Cup",
+          "Alfaro",
+          "Gill",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "World Cup upset",
+          "football",
+          "underdog victory",
+          "coach confidence",
+          "player heroics"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Did Paraguay's upset over Germany demonstrate that strategic coaching and individual heroics can outweigh traditional football powerhouses?",
+        "background": "Germany were handed a World Cup humbling. Paraguay achieved an unlikely victory. Coach Alfaro had unshakeable faith in his defenders. Gill performed heroics.",
+        "framing": "Did Paraguay's upset over Germany demonstrate that strategic coaching and individual heroics can outweigh traditional football powerhouses?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 8,
+        "relevance": 10,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay - Al Jazeera",
+        "description": "As well as Gill’s heroics, Paraguay’s unlikely victory was founded on coach Alfaro’s unshakeable faith in his defenders.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T03:55:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Germany were handed a World Cup humbling.",
+          "Paraguay achieved an unlikely victory.",
+          "Coach Alfaro had unshakeable faith in his defenders.",
+          "Gill performed heroics."
+        ],
+        "entities": [
+          "Germany",
+          "Paraguay",
+          "World Cup",
+          "Alfaro",
+          "Gill",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "World Cup upset",
+          "football",
+          "underdog victory",
+          "coach confidence",
+          "player heroics"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should underdog teams be given more strategic support in major tournaments to capitalize on unexpected victories?",
+        "background": "Germany suffered a surprising defeat in the World Cup, described as a humbling loss. Paraguay secured an unlikely victory in the same tournament. Coach Alfaro expressed unshakeable confidence in his defensive line, while player Gill delivered notable heroics on the field.",
+        "framing": "Should underdog teams receive increased strategic support to maximize their chances of upsetting stronger opponents in major tournaments?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay - Al Jazeera",
+        "description": "As well as Gill’s heroics, Paraguay’s unlikely victory was founded on coach Alfaro’s unshakeable faith in his defenders.",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-06-30T03:55:35Z"
+      },
+      "facts": {
+        "facts": [
+          "Germany were handed a World Cup humbling.",
+          "Paraguay achieved an unlikely victory.",
+          "Coach Alfaro had unshakeable faith in his defenders.",
+          "Gill performed heroics."
+        ],
+        "entities": [
+          "Germany",
+          "Paraguay",
+          "World Cup",
+          "Alfaro",
+          "Gill",
+          "Al Jazeera English"
+        ],
+        "themes": [
+          "World Cup upset",
+          "football",
+          "underdog victory",
+          "coach confidence",
+          "player heroics"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "In international tournaments, should a coach prioritize unwavering confidence in defensive players over emphasizing star attackers to achieve upset victories?",
+        "background": "Germany were handed a World Cup humbling. Paraguay achieved an unlikely victory. Coach Alfaro had unshakeable faith in his defenders. Gill performed heroics.",
+        "framing": "Should a coach prioritize trust in defensive players rather than focusing on star attackers to secure upset wins in major football tournaments?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 9,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    }
+  ]
+}

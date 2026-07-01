@@ -1,5 +1,1100 @@
 [
   {
+    "id": "58bec37d-5d01-45c6-9320-d315cfb96b82",
+    "date": "2026-07-01T08:32:40.840Z",
+    "topic": "Should newly appointed metropolitan archbishops focus primarily on being 'Good Shepherds' rather than emphasizing administrative and institutional responsibilities?",
+    "summary": "On June 30, 2026, Vatican News reported that Pope Leo XIV, during the Mass for the Solemnity of Saints Peter and Paul, invited the faithful to be inspired by the two Patrons of Rome. In the same address, he also urged the newly appointed metropolitan archbishops to be 'Good Shepherds.'",
+    "audioUrl": "/audio/58bec37d-5d01-45c6-9320-d315cfb96b82.mp3",
+    "duration": 238.02499999999998,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to today’s debate: should newly appointed archbishops prioritize shepherding souls over managing paperwork? Pope Leo XIV recently urged them to be “Good Shepherds,” sparking a clash between pastoral care and bureaucratic duty.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Picture a shepherd who runs after a lost lamb, comforts it, and the whole flock stays calm—no panic, no extra reports to fill out. That’s why new archbishops must put love and guidance first; when people feel truly cared for, the paperwork practically does itself.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "A strong admin makes sure the church can feed, house and protect its flock—without budgets the roof falls, without paperwork abuse can slip through; good shepherding only works when solid structures are already in place.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Sarah, you claim strict admin safeguards the flock, but isn’t the real danger that endless paperwork stifles the personal touch that keeps people engaged, turning a caring shepherd into a distant bureaucrat?",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Marcus, loving words won’t stop a roof from collapsing or a lawsuit from draining parish funds—only solid admin can fund repairs and protect the flock from abuse, exactly what Pope Leo XIV expects of an archbishop. A “pure feeling” shepherd can’t fix a broken pipe without the right tools.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, the Pope didn’t say “file more paperwork”; He asked archbishops to be Good Shepherds—knowing each soul so they can prevent the very crises you dread, because a caring presence keeps attendance up and stops abuse before it needs a legal file.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, love the “shepherd” line, but a bishop can’t tend souls if the roof leaks or the staff quits—no budget, no repairs, no protection from lawsuits. The Pope may call us shepherds, yet he also expects solid governance; without admin tools, your “caring presence” can’t even keep the doors open.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, the Pope’s explicit call to be “Good Shepherds” isn’t a soft‑sell—it’s a mandate, and a shepherd who knows each sheep prevents the crises that create the costly lawsuits and staffing quits you fear. When parishioners feel cared for, attendance soars and paperwork‑driven crises vanish.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex, what’s the toughest objection you hear to your own point, and how would you fire back at it right now?",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The hardest objection is that without solid admin you can’t keep the doors open, so I’ll admit good records matter—but when an archbishop truly knows each person, the paperwork stays accurate and crises shrink, just as Jesus would personally seek out a lost child before filing any report.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "You’re right—listening and caring builds trust, but without a solid admin that secures budgets and handles legal paperwork, even the most devoted shepherd can’t fix a broken pipe or keep the roof from collapsing, and the flock will suffer.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Sarah, wrap it up in one quick take each—summarize your case without adding new points.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The Pope’s call for archbishops to be “Good Shepherds” means they must know each person, because caring for the flock naturally yields accurate records and fewer crises; when love leads, the paperwork simply follows.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "We’ve shown that Pope Leo XIV’s call to be “Good Shepherds” still requires solid administration—budgets to fix roofs, staff salaries, and legal paperwork to guard against abuse; without those structures, even the most caring shepherd can’t keep the church safe and thriving. Strong admin lets love truly work.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alex stresses that a shepherd‑style archbishop who knows each soul naturally reduces crises and paperwork, while Sarah argues that solid administration—budgets, legal safeguards, and staffing—is essential for the shepherd’s care to be effective; both agree love and structure must work together, leaving the balance of priority open.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should new archbishops be more like shepherds than office managers?",
+        "keyConflict": "Pastoral care vs. bureaucratic duties",
+        "stakes": "Too much shepherding = chaos, too much paperwork = cold church"
+      },
+      "knownFacts": [
+        "Pope Leo XIV asked new archbishops to be 'Good Shepherds.'",
+        "Metropolitan archbishops also run big church offices."
+      ],
+      "alex": {
+        "stance": "Shepherd work comes first, it fuels everything else.",
+        "role": "Team Pastoral Pulse",
+        "openingStrategy": [
+          "Tell a quick story of a shepherd saving a lost lamb.",
+          "Ask the audience if they ever felt ignored by a leader."
+        ],
+        "coreClaims": [
+          "People need love and guidance more than forms.",
+          "A caring shepherd makes the admin work easier."
+        ],
+        "arguments": [
+          "If a shepherd knows each sheep, paperwork can be done right.",
+          "Happy flock = fewer complaints, less crisis paperwork."
+        ],
+        "attackVectors": [
+          "Show how admin‑first leaders can feel distant.",
+          "Point out that rules don’t feed the hungry.",
+          "Quote the Pope’s plea as a direct call.",
+          "Highlight that many parishes struggle with low attendance."
+        ],
+        "reframeAngles": [
+          "Turn admin talk into ‘checking the herd’s health.’",
+          "Ask: what would Jesus do for a lost kid today?"
+        ],
+        "concessions": [
+          "Good records help protect the church.",
+          "Some admin tasks are unavoidable."
+        ],
+        "likelyWeaknesses": [
+          "May underestimate complex budgets.",
+          "Risk of ignoring legal duties."
+        ],
+        "closingThemes": [
+          "Shepherd’s heart makes every folder count.",
+          "Love first, paperwork follows."
+        ]
+      },
+      "sarah": {
+        "stance": "Strong admin keeps the church safe and growing.",
+        "role": "Team Office Ops",
+        "openingStrategy": [
+          "Show a messy desk turning into a neat chart.",
+          "Ask if a shepherd can feed a whole city without a plan."
+        ],
+        "coreClaims": [
+          "Clear rules keep the flock safe.",
+          "Good shepherding needs solid support systems."
+        ],
+        "arguments": [
+          "Without budgets, churches can’t repair roofs or pay staff.",
+          "Legal paperwork protects the church from abuse scandals."
+        ],
+        "attackVectors": [
+          "Point out that neglecting admin can cause scandals.",
+          "Show examples of churches that folded without good management.",
+          "Say pure feeling isn’t enough in a big city.",
+          "Remind that the Pope also expects good governance."
+        ],
+        "reframeAngles": [
+          "Cast shepherd talk as ‘just nice feelings, no action.’",
+          "Ask: can a shepherd fix a broken pipe without tools?"
+        ],
+        "concessions": [
+          "Pastoral care builds trust.",
+          "Leaders must listen to people."
+        ],
+        "likelyWeaknesses": [
+          "May sound cold or bureaucratic.",
+          "Risk of ignoring personal pain."
+        ],
+        "closingThemes": [
+          "Strong admin = strong church.",
+          "Structure lets love actually happen."
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, why does a shepherd’s hug matter more than a budget report?",
+          "Sarah, can a shepherd lead without any paperwork?"
+        ],
+        "pressurePoints": [
+          "Push Alex on real financial crises.",
+          "Push Sarah on the feeling of a distant leader."
+        ],
+        "factChecks": [
+          "Remind Alex that the Pope also expects good governance.",
+          "Remind Sarah that the Pope called for shepherd hearts."
+        ],
+        "tradeoffs": [
+          "Choosing love first may strain resources, choosing admin first may strain souls."
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 15,
+        "duration": 15
+      },
+      {
+        "speaker": "Alex",
+        "start": 15,
+        "end": 32.6,
+        "duration": 17.6
+      },
+      {
+        "speaker": "Sarah",
+        "start": 32.6,
+        "end": 47.05,
+        "duration": 14.45
+      },
+      {
+        "speaker": "Marcus",
+        "start": 47.05,
+        "end": 59.449999999999996,
+        "duration": 12.4
+      },
+      {
+        "speaker": "Sarah",
+        "start": 59.449999999999996,
+        "end": 79.6,
+        "duration": 20.15
+      },
+      {
+        "speaker": "Alex",
+        "start": 79.6,
+        "end": 95.85,
+        "duration": 16.25
+      },
+      {
+        "speaker": "Sarah",
+        "start": 95.85,
+        "end": 115.52499999999999,
+        "duration": 19.675
+      },
+      {
+        "speaker": "Alex",
+        "start": 115.52499999999999,
+        "end": 134.575,
+        "duration": 19.05
+      },
+      {
+        "speaker": "Marcus",
+        "start": 134.575,
+        "end": 141.35,
+        "duration": 6.775
+      },
+      {
+        "speaker": "Alex",
+        "start": 141.35,
+        "end": 160.2,
+        "duration": 18.85
+      },
+      {
+        "speaker": "Sarah",
+        "start": 160.2,
+        "end": 175.7,
+        "duration": 15.5
+      },
+      {
+        "speaker": "Marcus",
+        "start": 175.7,
+        "end": 182.39999999999998,
+        "duration": 6.7
+      },
+      {
+        "speaker": "Alex",
+        "start": 182.39999999999998,
+        "end": 196.52499999999998,
+        "duration": 14.125
+      },
+      {
+        "speaker": "Sarah",
+        "start": 196.52499999999998,
+        "end": 217.62499999999997,
+        "duration": 21.1
+      },
+      {
+        "speaker": "Marcus",
+        "start": 217.62499999999997,
+        "end": 238.02499999999998,
+        "duration": 20.4
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0",
+          "speaker": "Marcus",
+          "phase": "OPENING",
+          "turn": 0,
+          "phaseId": 0,
+          "phaseTurn": 1,
+          "text": "Welcome to today’s debate: should newly appointed archbishops prioritize shepherding souls over managing paperwork? Pope Leo XIV recently urged them to be “Good Shepherds,” sparking a clash between pastoral care and bureaucratic duty.",
+          "claims": [
+            "Welcome to today’s debate: should newly appointed archbishops prioritize shepherding souls over managing paperwork? Pope Leo XIV recently urged them to be “Good Shepherds",
+            "” sparking a clash between pastoral care and bureaucratic duty"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_1",
+            "Sarah_2"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 8
+          }
+        },
+        {
+          "id": "Alex_1",
+          "speaker": "Alex",
+          "phase": "BUILD",
+          "turn": 1,
+          "phaseId": 1,
+          "phaseTurn": 0,
+          "text": "Picture a shepherd who runs after a lost lamb, comforts it, and the whole flock stays calm—no panic, no extra reports to fill out. That’s why new archbishops must put love and guidance first; when people feel truly cared for, the paperwork practically does itself.",
+          "claims": [
+            "Picture a shepherd who runs after a lost lamb",
+            "and the whole flock stays calm—no panic",
+            "no extra reports to fill out"
+          ],
+          "stance": "Shepherd work comes first, it fuels everything else.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.4477538623819166,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 7.447753862381917
+          }
+        },
+        {
+          "id": "Sarah_2",
+          "speaker": "Sarah",
+          "phase": "BUILD",
+          "turn": 2,
+          "phaseId": 1,
+          "phaseTurn": 1,
+          "text": "A strong admin makes sure the church can feed, house and protect its flock—without budgets the roof falls, without paperwork abuse can slip through; good shepherding only works when solid structures are already in place.",
+          "claims": [
+            "A strong admin makes sure the church can feed",
+            "house and protect its flock—without budgets the roof falls",
+            "without paperwork abuse can slip through"
+          ],
+          "stance": "Strong admin keeps the church safe and growing.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [
+            "Marcus_3"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.7117341820098706,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 9.71173418200987
+          }
+        },
+        {
+          "id": "Marcus_3",
+          "speaker": "Marcus",
+          "phase": "CLASH",
+          "turn": 3,
+          "phaseId": 2,
+          "phaseTurn": 0,
+          "text": "Sarah, you claim strict admin safeguards the flock, but isn’t the real danger that endless paperwork stifles the personal touch that keeps people engaged, turning a caring shepherd into a distant bureaucrat?",
+          "claims": [
+            "you claim strict admin safeguards the flock",
+            "isn’t the real danger that endless paperwork stifles the personal touch that keeps people engaged",
+            "turning a caring shepherd into a distant bureaucrat?"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_2"
+          ],
+          "replyChildren": [
+            "Sarah_4"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.7705949162957397,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 8.770594916295739
+          }
+        },
+        {
+          "id": "Sarah_4",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 4,
+          "phaseId": 2,
+          "phaseTurn": 1,
+          "text": "Marcus, loving words won’t stop a roof from collapsing or a lawsuit from draining parish funds—only solid admin can fund repairs and protect the flock from abuse, exactly what Pope Leo XIV expects of an archbishop. A “pure feeling” shepherd can’t fix a broken pipe without the right tools.",
+          "claims": [
+            "loving words won’t stop a roof from collapsing or a lawsuit from draining parish funds—only solid admin can fund repairs and protect the flock from abuse",
+            "exactly what Pope Leo XIV expects of an archbishop",
+            "A “pure feeling” shepherd can’t fix a broken pipe without the right tools"
+          ],
+          "stance": "Strong admin keeps the church safe and growing.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_3"
+          ],
+          "replyChildren": [
+            "Alex_5"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.8196322152961222,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 7,
+            "influence": 14.819632215296123
+          }
+        },
+        {
+          "id": "Alex_5",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 5,
+          "phaseId": 2,
+          "phaseTurn": 2,
+          "text": "Sarah, the Pope didn’t say “file more paperwork”; He asked archbishops to be Good Shepherds—knowing each soul so they can prevent the very crises you dread, because a caring presence keeps attendance up and stops abuse before it needs a legal file.",
+          "claims": [
+            "the Pope didn’t say “file more paperwork”",
+            "He asked archbishops to be Good Shepherds—knowing each soul so they can prevent the very crises you dread",
+            "because a caring presence keeps attendance up and stops abuse before it needs a legal file"
+          ],
+          "stance": "Shepherd work comes first, it fuels everything else.",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_4"
+          ],
+          "replyChildren": [
+            "Sarah_6"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 0.8500498659145519,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 17.850049865914553
+          }
+        },
+        {
+          "id": "Sarah_6",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 6,
+          "phaseId": 2,
+          "phaseTurn": 3,
+          "text": "Alex, love the “shepherd” line, but a bishop can’t tend souls if the roof leaks or the staff quits—no budget, no repairs, no protection from lawsuits. The Pope may call us shepherds, yet he also expects solid governance; without admin tools, your “caring presence” can’t even keep the doors open.",
+          "claims": [
+            "love the “shepherd” line",
+            "a bishop can’t tend souls if the roof leaks or the staff quits—no budget",
+            "no protection from lawsuits"
+          ],
+          "stance": "Strong admin keeps the church safe and growing.",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_5"
+          ],
+          "replyChildren": [
+            "Alex_7"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.7182675481154854,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 9,
+            "influence": 18.718267548115485
+          }
+        },
+        {
+          "id": "Alex_7",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 7,
+          "phaseId": 2,
+          "phaseTurn": 4,
+          "text": "Sarah, the Pope’s explicit call to be “Good Shepherds” isn’t a soft‑sell—it’s a mandate, and a shepherd who knows each sheep prevents the crises that create the costly lawsuits and staffing quits you fear. When parishioners feel cared for, attendance soars and paperwork‑driven crises vanish.",
+          "claims": [
+            "the Pope’s explicit call to be “Good Shepherds” isn’t a soft‑sell—it’s a mandate",
+            "and a shepherd who knows each sheep prevents the crises that create the costly lawsuits and staffing quits you fear",
+            "When parishioners feel cared for"
+          ],
+          "stance": "Shepherd work comes first, it fuels everything else.",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_6"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.6526137067124411,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 9,
+            "influence": 24.65261370671244
+          }
+        },
+        {
+          "id": "Marcus_8",
+          "speaker": "Marcus",
+          "phase": "CONSOLIDATION",
+          "turn": 8,
+          "phaseId": 3,
+          "phaseTurn": 0,
+          "text": "Alright, Alex, what’s the toughest objection you hear to your own point, and how would you fire back at it right now?",
+          "claims": [
+            "what’s the toughest objection you hear to your own point",
+            "and how would you fire back at it right now?"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_9",
+            "Sarah_10"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 1.6422210126962353,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4.642221012696235
+          }
+        },
+        {
+          "id": "Alex_9",
+          "speaker": "Alex",
+          "phase": "CONSOLIDATION",
+          "turn": 9,
+          "phaseId": 3,
+          "phaseTurn": 1,
+          "text": "The hardest objection is that without solid admin you can’t keep the doors open, so I’ll admit good records matter—but when an archbishop truly knows each person, the paperwork stays accurate and crises shrink, just as Jesus would personally seek out a lost child before filing any report.",
+          "claims": [
+            "The hardest objection is that without solid admin you can’t keep the doors open",
+            "so I’ll admit good records matter—",
+            "when an archbishop truly knows each person"
+          ],
+          "stance": "Shepherd work comes first, it fuels everything else.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.1196119827562603,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 1,
+            "influence": 5.11961198275626
+          }
+        },
+        {
+          "id": "Sarah_10",
+          "speaker": "Sarah",
+          "phase": "CONSOLIDATION",
+          "turn": 10,
+          "phaseId": 3,
+          "phaseTurn": 2,
+          "text": "You’re right—listening and caring builds trust, but without a solid admin that secures budgets and handles legal paperwork, even the most devoted shepherd can’t fix a broken pipe or keep the roof from collapsing, and the flock will suffer.",
+          "claims": [
+            "You’re right—listening and caring builds trust",
+            "without a solid admin that secures budgets and handles legal paperwork",
+            "even the most devoted shepherd can’t fix a broken pipe or keep the roof from collapsing"
+          ],
+          "stance": "Strong admin keeps the church safe and growing.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0300716215986014,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 17.0300716215986
+          }
+        },
+        {
+          "id": "Marcus_11",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 11,
+          "phaseId": 4,
+          "phaseTurn": 0,
+          "text": "Alright, Alex and Sarah, wrap it up in one quick take each—summarize your case without adding new points.",
+          "claims": [
+            "wrap it up in one quick take each—summarize your case without adding new points"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "metrics": {
+            "strength": 0,
+            "viralScore": 1.602826021353967,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.602826021353967
+          }
+        },
+        {
+          "id": "Alex_12",
+          "speaker": "Alex",
+          "phase": "CLOSING",
+          "turn": 12,
+          "phaseId": 4,
+          "phaseTurn": 1,
+          "text": "The Pope’s call for archbishops to be “Good Shepherds” means they must know each person, because caring for the flock naturally yields accurate records and fewer crises; when love leads, the paperwork simply follows.",
+          "claims": [
+            "The Pope’s call for archbishops to be “Good Shepherds” means they must know each person",
+            "because caring for the flock naturally yields accurate records and fewer crises",
+            "the paperwork simply follows"
+          ],
+          "stance": "Shepherd work comes first, it fuels everything else.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 1.327538252424246,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 9,
+            "influence": 24.327538252424247
+          }
+        },
+        {
+          "id": "Sarah_13",
+          "speaker": "Sarah",
+          "phase": "CLOSING",
+          "turn": 13,
+          "phaseId": 4,
+          "phaseTurn": 2,
+          "text": "We’ve shown that Pope Leo XIV’s call to be “Good Shepherds” still requires solid administration—budgets to fix roofs, staff salaries, and legal paperwork to guard against abuse; without those structures, even the most caring shepherd can’t keep the church safe and thriving. Strong admin lets love truly work.",
+          "claims": [
+            "We’ve shown that Pope Leo XIV’s call to be “Good Shepherds” still requires solid administration—budgets to fix roofs",
+            "and legal paperwork to guard against abuse",
+            "without those structures"
+          ],
+          "stance": "Strong admin keeps the church safe and growing.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0055243815283958,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 8,
+            "influence": 22.005524381528396
+          }
+        },
+        {
+          "id": "Marcus_14",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 14,
+          "phaseId": 4,
+          "phaseTurn": 3,
+          "text": "Alex stresses that a shepherd‑style archbishop who knows each soul naturally reduces crises and paperwork, while Sarah argues that solid administration—budgets, legal safeguards, and staffing—is essential for the shepherd’s care to be effective; both agree love and structure must work together, leaving the balance of priority open.",
+          "claims": [
+            "Alex stresses that a shepherd‑style archbishop who knows each soul naturally reduces crises and paperwork",
+            "while Sarah argues that solid administration—budgets",
+            "and staffing—is essential for the shepherd’s care to be effective"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.8756463780409454,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 14.875646378040946
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_1",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Sarah_2",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Marcus_3",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_4",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_5",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_5",
+          "to": "Sarah_6",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_7",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Alex_9",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Sarah_10",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Alex_12",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "reply"
+        }
+      ],
+      "semanticEdges": [
+        {
+          "from": "Sarah_2",
+          "to": "Sarah_4",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_5",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Alex_5",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Sarah_6",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_6",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.94
+        },
+        {
+          "from": "Alex_5",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.92
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_10",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_5",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_12",
+          "type": "attack",
+          "confidence": 0.88
+        },
+        {
+          "from": "Alex_7",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Sarah_13",
+          "type": "evidence",
+          "confidence": 0.94
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_7",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.94
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_12",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.94
+        },
+        {
+          "from": "Alex_7",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.93
+        }
+      ],
+      "themes": [
+        {
+          "id": "theme_1",
+          "label": "Welcome to today’s debate: should newly appointed archbishops prioritize shepherding souls over managing paperwork? Pope Leo XIV recently urged them to be “Good Shepherds",
+          "nodes": [
+            "Marcus_0"
+          ]
+        },
+        {
+          "id": "theme_2",
+          "label": "Picture a shepherd who runs after a lost lamb",
+          "nodes": [
+            "Alex_1"
+          ]
+        },
+        {
+          "id": "theme_3",
+          "label": "A strong admin makes sure the church can feed",
+          "nodes": [
+            "Sarah_2"
+          ]
+        },
+        {
+          "id": "theme_4",
+          "label": "you claim strict admin safeguards the flock",
+          "nodes": [
+            "Marcus_3"
+          ]
+        },
+        {
+          "id": "theme_5",
+          "label": "loving words won’t stop a roof from collapsing or a lawsuit from draining parish funds—only solid admin can fund repairs and protect the flock from abuse",
+          "nodes": [
+            "Sarah_4"
+          ]
+        },
+        {
+          "id": "theme_6",
+          "label": "the Pope didn’t say “file more paperwork”",
+          "nodes": [
+            "Alex_5"
+          ]
+        },
+        {
+          "id": "theme_7",
+          "label": "love the “shepherd” line",
+          "nodes": [
+            "Sarah_6"
+          ]
+        },
+        {
+          "id": "theme_8",
+          "label": "the Pope’s explicit call to be “Good Shepherds” isn’t a soft‑sell—it’s a mandate",
+          "nodes": [
+            "Alex_7",
+            "Alex_12"
+          ]
+        },
+        {
+          "id": "theme_9",
+          "label": "what’s the toughest objection you hear to your own point",
+          "nodes": [
+            "Marcus_8"
+          ]
+        },
+        {
+          "id": "theme_10",
+          "label": "The hardest objection is that without solid admin you can’t keep the doors open",
+          "nodes": [
+            "Alex_9"
+          ]
+        },
+        {
+          "id": "theme_11",
+          "label": "You’re right—listening and caring builds trust",
+          "nodes": [
+            "Sarah_10"
+          ]
+        },
+        {
+          "id": "theme_12",
+          "label": "wrap it up in one quick take each—summarize your case without adding new points",
+          "nodes": [
+            "Marcus_11"
+          ]
+        },
+        {
+          "id": "theme_13",
+          "label": "We’ve shown that Pope Leo XIV’s call to be “Good Shepherds” still requires solid administration—budgets to fix roofs",
+          "nodes": [
+            "Sarah_13"
+          ]
+        },
+        {
+          "id": "theme_14",
+          "label": "Alex stresses that a shepherd‑style archbishop who knows each soul naturally reduces crises and paperwork",
+          "nodes": [
+            "Marcus_14"
+          ]
+        }
+      ],
+      "communities": {
+        "Moderator": [
+          "Marcus_0",
+          "Marcus_3",
+          "Marcus_8",
+          "Marcus_11",
+          "Marcus_14"
+        ],
+        "Shepherd work comes first, it fuels everything else.": [
+          "Alex_1",
+          "Alex_5",
+          "Alex_7",
+          "Alex_9",
+          "Alex_12"
+        ],
+        "Strong admin keeps the church safe and growing.": [
+          "Sarah_2",
+          "Sarah_4",
+          "Sarah_6",
+          "Sarah_10",
+          "Sarah_13"
+        ]
+      }
+    }
+  },
+  {
     "id": "153fa439-4aa1-4de3-afaa-f6940e51787d",
     "date": "2026-06-30T08:33:27.736Z",
     "topic": "Should consumers replace traditional televisions with projectors as their primary home-screen device?",
