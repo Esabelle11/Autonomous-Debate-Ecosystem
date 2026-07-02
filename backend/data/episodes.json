@@ -1,5 +1,1064 @@
 [
   {
+    "id": "fb547931-537c-400b-b93e-e438dfadbd29",
+    "date": "2026-07-02T05:56:31.977Z",
+    "topic": "Should courts permit candidates with similar names to remain on the ballot when parties allege voter deception?",
+    "summary": "The Alaska Supreme Court allowed a namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot. The Division of Elections had disqualified the Sullivan from Petersburg after receiving complaints from Republicans. Republicans claimed the challenger was trying to deceive voters to benefit the senator’s top Democratic challenger.",
+    "audioUrl": "/audio/fb547931-537c-400b-b93e-e438dfadbd29.mp3",
+    "duration": 246.77500000000006,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to today’s pop‑cast showdown: should courts let a same‑name challenger stay on the ballot even if parties warn voters could be confused? In Alaska, a challenger sharing Sen. Dan Sullivan’s name was allowed to run, sparking debate over fairness versus voter protection.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Keeping a look‑alike on the ballot is basically a cheat sheet for voters who only glance at names – it lets the incumbent’s opponent win by mistake, and the court’s job is to block such tricks and keep elections fair.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The Alaska Supreme Court already ruled the challenger met the legal qualifications, and no evidence shows he deliberately tried to trick voters; the ballot’s party labels, photos and hometown info give voters enough cues to tell them apart, so the court should leave the name on the ballot and let voters decide.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alex, even with photos and hometowns, many voters skim ballots and rely on name recognition, so a look‑alike can still hijack votes before anyone notices the extra details.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Marcus, you’d have the court policing every typo and look‑alike—when did “checking a GPS” become a judicial duty? Banning a name just because some might glance at it opens the door to outlawing similar logos, slogans or even twins on a team.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, the real danger isn’t a “tiny typo”—it’s voters who skim ballots and accidentally vote for a stranger, just because the name looks familiar; letting a look‑alike run turns the election into a confusing maze and erodes trust in the whole process.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, you’re treating the court like a hall monitor policing every typo, but the law already lets anyone meet the ballot criteria—removing a candidate just because a party fears confusion would start a slippery slope of banning names, logos, even colors. Voters have party tags, photos and hometowns to guide them, just like checking a GPS before a turn.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, even with photos and party tags, most voters still skim names—your “GPS” analogy ignores that a duplicate name is a hidden roadblock that will mislead countless people, eroding trust in the whole election system.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, each of you, name the toughest objection you’ve heard to your own stance and give us a quick, direct reply—no wrap‑up, just the clash.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "I’ll admit some voters skim ballots and might mix up the two Sullivans, but the law already allows any qualified candidate to stay, and simple fixes—clearer party labels, photos, hometowns—act like a better‑designed soccer roster so everyone knows who’s who, not a court‑driven ban.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "We admit the court can’t police every typo, but a clear‑cut “copy‑cat” name is a hidden roadblock that derails the voting GPS; banning only those obvious dupes safeguards fairness without outlawing all similar names.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Sarah and Alex, wrap up in a sentence or two—no new points, just your core takeaways.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "We’ve shown the court already ruled the challenger qualified, and there’s no proof he intended deception; voters have party labels, photos and hometowns—just like a GPS—to tell the two Sullivans apart, so the ballot should stay open and let voters decide. Removing names because of vague confusion risks silencing legitimate candidates.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "We’ve shown that a duplicate‑name candidate acts like a hidden cheat on the ballot, letting voters who just skim inadvertently tip the race, and it’s the court’s job—like a referee—to block such tricks and preserve trust in the election.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Both sides agree the law permits qualified candidates, but Alex stresses that existing ballot details (photos, party labels, hometowns) let voters sort out look‑alikes, while Sarah argues a duplicate name itself is a deceptive shortcut that courts must block to preserve trust; the debate leaves open how much procedural design versus judicial intervention is needed to protect both fairness and voter choice.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should courts let a same‑name challenger stay on the ballot even if parties say voters might get tricked?",
+        "keyConflict": "Fair competition vs. protecting voters from confusion",
+        "stakes": "If we ban the name, we risk silencing a voice; if we allow it, voters might pick the wrong person"
+      },
+      "knownFacts": [
+        "Alaska Supreme Court let a challenger with the same name as Sen. Dan Sullivan stay on the ballot.",
+        "The Division of Elections tried to pull the challenger out after Republicans complained."
+      ],
+      "alex": {
+        "stance": "Keep the name on the ballot – voters should decide, not the court.",
+        "role": "Team Voter‑Choice",
+        "openingStrategy": [
+          "Show the court already said it’s okay.",
+          "Point out no proof the challenger tried to cheat."
+        ],
+        "coreClaims": [
+          "Ballot law is about who qualifies, not how popular a name is.",
+          "Voters can use a simple check‑list to tell the difference."
+        ],
+        "arguments": [
+          "If the law says a candidate can run, the court can’t pull them out just because a party worries someone might get confused.",
+          "People already look at party labels, photos, and hometowns – like checking a GPS before turning."
+        ],
+        "attackVectors": [
+          "Say the party’s claim is “just a scare tactic” to protect their favorite.",
+          "Point out there’s no evidence anyone actually voted the wrong Dan.",
+          "Ask if the court should be the “hall monitor” for every name.",
+          "Highlight that banning a name sets a slippery slope – next they’ll ban similar‑looking logos."
+        ],
+        "reframeAngles": [
+          "Talk about free choice – voters get to decide, not officials.",
+          "Compare to a school where two kids named Alex both join the soccer team; you don’t kick one out because of name mix‑up."
+        ],
+        "concessions": [
+          "Admit that some voters might glance and get confused.",
+          "Agree that better ballot design could help."
+        ],
+        "likelyWeaknesses": [
+          "If the challenger truly copied the senator’s info, that looks shady.",
+          "If many voters actually make mistakes, the court’s call could look careless."
+        ],
+        "closingThemes": [
+          "Let the ballot stay open – trust voters to read the details.",
+          "If we start deleting names, we risk cutting out legit voices."
+        ]
+      },
+      "sarah": {
+        "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+        "role": "Team Voter‑Safety",
+        "openingStrategy": [
+          "Stress the party’s real worry: people could pick the wrong box.",
+          "Use the “copying homework” image – it feels like cheating."
+        ],
+        "coreClaims": [
+          "Election rules should stop obvious tricks that could sway a race.",
+          "A name that looks just like a popular incumbent is a red flag."
+        ],
+        "arguments": [
+          "When two candidates share a name, many voters only skim the list – they might unintentionally boost the incumbent’s opponent.",
+          "Courts have a duty to keep the race fair, like a referee calling fouls."
+        ],
+        "attackVectors": [
+          "Label the court’s decision as “turning a blind eye” to a sneaky move.",
+          "Highlight the timing – the challenge came right before the election.",
+          "Ask if the challenger’s campaign used the same photos or slogans.",
+          "Suggest that letting it slide hurts trust in the whole election system."
+        ],
+        "reframeAngles": [
+          "Compare to a store putting two identical products on the shelf and hoping shoppers pick the right one.",
+          "Talk about protecting the “voting GPS” – we need clear directions, not a blurry map."
+        ],
+        "concessions": [
+          "Agree that the Supreme Court can’t overturn every mistake.",
+          "Say they don’t want to ban names, just stop clear copy‑cats."
+        ],
+        "likelyWeaknesses": [
+          "Hard to prove intent to deceive without a paper trail.",
+          "Risk looking like they just want to protect their own candidate."
+        ],
+        "closingThemes": [
+          "Fair play means no name tricks – keep the ballot clean.",
+          "If voters can be misled, the system loses credibility."
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, why trust voters when the name looks exactly the same?",
+          "Sarah, how do we stop real deception without shutting down legit candidates?"
+        ],
+        "pressurePoints": [
+          "Ask Alex how they’d handle a real case where many voters admit they chose the wrong name.",
+          "Push Sarah to explain how they’d draw the line – what counts as “too similar”?"
+        ],
+        "factChecks": [
+          "Call out Alex’s claim that there’s no proof of cheating – ask for any evidence.",
+          "Call out Sarah’s claim that the name is a “red flag” – ask if any rule already covers it."
+        ],
+        "tradeoffs": [
+          "Do we keep the ballot open and risk confusion, or tighten rules and risk banning legit challengers?"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 17.125,
+        "duration": 17.125
+      },
+      {
+        "speaker": "Sarah",
+        "start": 17.125,
+        "end": 30.925,
+        "duration": 13.8
+      },
+      {
+        "speaker": "Alex",
+        "start": 30.925,
+        "end": 51.425,
+        "duration": 20.5
+      },
+      {
+        "speaker": "Marcus",
+        "start": 51.425,
+        "end": 63.074999999999996,
+        "duration": 11.65
+      },
+      {
+        "speaker": "Alex",
+        "start": 63.074999999999996,
+        "end": 80,
+        "duration": 16.925
+      },
+      {
+        "speaker": "Sarah",
+        "start": 80,
+        "end": 97.125,
+        "duration": 17.125
+      },
+      {
+        "speaker": "Alex",
+        "start": 97.125,
+        "end": 120.525,
+        "duration": 23.4
+      },
+      {
+        "speaker": "Sarah",
+        "start": 120.525,
+        "end": 136.025,
+        "duration": 15.5
+      },
+      {
+        "speaker": "Marcus",
+        "start": 136.025,
+        "end": 144.45000000000002,
+        "duration": 8.425
+      },
+      {
+        "speaker": "Alex",
+        "start": 144.45000000000002,
+        "end": 163.425,
+        "duration": 18.975
+      },
+      {
+        "speaker": "Sarah",
+        "start": 163.425,
+        "end": 178.72500000000002,
+        "duration": 15.3
+      },
+      {
+        "speaker": "Marcus",
+        "start": 178.72500000000002,
+        "end": 184.77500000000003,
+        "duration": 6.05
+      },
+      {
+        "speaker": "Alex",
+        "start": 184.77500000000003,
+        "end": 207.30000000000004,
+        "duration": 22.525
+      },
+      {
+        "speaker": "Sarah",
+        "start": 207.30000000000004,
+        "end": 222.22500000000005,
+        "duration": 14.925
+      },
+      {
+        "speaker": "Marcus",
+        "start": 222.22500000000005,
+        "end": 246.77500000000006,
+        "duration": 24.55
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0",
+          "speaker": "Marcus",
+          "phase": "OPENING",
+          "turn": 0,
+          "phaseId": 0,
+          "phaseTurn": 1,
+          "text": "Welcome to today’s pop‑cast showdown: should courts let a same‑name challenger stay on the ballot even if parties warn voters could be confused? In Alaska, a challenger sharing Sen. Dan Sullivan’s name was allowed to run, sparking debate over fairness versus voter protection.",
+          "claims": [
+            "Welcome to today’s pop‑cast showdown: should courts let a same‑name challenger stay on the ballot even if parties warn voters could be confused? In Alaska",
+            "a challenger sharing Sen",
+            "Dan Sullivan’s name was allowed to run"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Sarah_1",
+            "Alex_2"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.5,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 8.5
+          }
+        },
+        {
+          "id": "Sarah_1",
+          "speaker": "Sarah",
+          "phase": "BUILD",
+          "turn": 1,
+          "phaseId": 1,
+          "phaseTurn": 0,
+          "text": "Keeping a look‑alike on the ballot is basically a cheat sheet for voters who only glance at names – it lets the incumbent’s opponent win by mistake, and the court’s job is to block such tricks and keep elections fair.",
+          "claims": [
+            "Keeping a look‑alike on the ballot is basically a cheat sheet for voters who only glance at names – it lets the incumbent’s opponent win by mistake",
+            "and the court’s job is to block such tricks and keep elections fair"
+          ],
+          "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.5989503175381934,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 8.598950317538193
+          }
+        },
+        {
+          "id": "Alex_2",
+          "speaker": "Alex",
+          "phase": "BUILD",
+          "turn": 2,
+          "phaseId": 1,
+          "phaseTurn": 1,
+          "text": "The Alaska Supreme Court already ruled the challenger met the legal qualifications, and no evidence shows he deliberately tried to trick voters; the ballot’s party labels, photos and hometown info give voters enough cues to tell them apart, so the court should leave the name on the ballot and let voters decide.",
+          "claims": [
+            "The Alaska Supreme Court already ruled the challenger met the legal qualifications",
+            "and no evidence shows he deliberately tried to trick voters",
+            "the ballot’s party labels"
+          ],
+          "stance": "Keep the name on the ballot – voters should decide, not the court.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [
+            "Marcus_3"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.5844230705679472,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 10.584423070567947
+          }
+        },
+        {
+          "id": "Marcus_3",
+          "speaker": "Marcus",
+          "phase": "CLASH",
+          "turn": 3,
+          "phaseId": 2,
+          "phaseTurn": 0,
+          "text": "Alex, even with photos and hometowns, many voters skim ballots and rely on name recognition, so a look‑alike can still hijack votes before anyone notices the extra details.",
+          "claims": [
+            "even with photos and hometowns",
+            "many voters skim ballots and rely on name recognition",
+            "so a look‑alike can still hijack votes before anyone notices the extra details"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_2"
+          ],
+          "replyChildren": [
+            "Alex_4"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.8720197394691533,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 7.872019739469153
+          }
+        },
+        {
+          "id": "Alex_4",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 4,
+          "phaseId": 2,
+          "phaseTurn": 1,
+          "text": "Marcus, you’d have the court policing every typo and look‑alike—when did “checking a GPS” become a judicial duty? Banning a name just because some might glance at it opens the door to outlawing similar logos, slogans or even twins on a team.",
+          "claims": [
+            "you’d have the court policing every typo and look‑alike—when did “checking a GPS” become a judicial duty? Banning a name just because some might glance at it opens the door to outlawing similar logos",
+            "slogans or even twins on a team"
+          ],
+          "stance": "Keep the name on the ballot – voters should decide, not the court.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_3"
+          ],
+          "replyChildren": [
+            "Sarah_5"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 1.1129745776553719,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 11.112974577655372
+          }
+        },
+        {
+          "id": "Sarah_5",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 5,
+          "phaseId": 2,
+          "phaseTurn": 2,
+          "text": "Alex, the real danger isn’t a “tiny typo”—it’s voters who skim ballots and accidentally vote for a stranger, just because the name looks familiar; letting a look‑alike run turns the election into a confusing maze and erodes trust in the whole process.",
+          "claims": [
+            "the real danger isn’t a “tiny typo”—it’s voters who skim ballots and accidentally vote for a stranger",
+            "just because the name looks familiar",
+            "letting a look‑alike run turns the election into a confusing maze and erodes trust in the whole process"
+          ],
+          "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_4"
+          ],
+          "replyChildren": [
+            "Alex_6"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 0.8897260909689386,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 13.889726090968939
+          }
+        },
+        {
+          "id": "Alex_6",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 6,
+          "phaseId": 2,
+          "phaseTurn": 3,
+          "text": "Sarah, you’re treating the court like a hall monitor policing every typo, but the law already lets anyone meet the ballot criteria—removing a candidate just because a party fears confusion would start a slippery slope of banning names, logos, even colors. Voters have party tags, photos and hometowns to guide them, just like checking a GPS before a turn.",
+          "claims": [
+            "you’re treating the court like a hall monitor policing every typo",
+            "the law already lets anyone meet the ballot criteria—removing a candidate just because a party fears confusion would start a slippery slope of banning names",
+            "Voters have party tags"
+          ],
+          "stance": "Keep the name on the ballot – voters should decide, not the court.",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_5"
+          ],
+          "replyChildren": [
+            "Sarah_7"
+          ],
+          "metrics": {
+            "strength": 7,
+            "viralScore": 0.8094470839613805,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 7,
+            "influence": 17.80944708396138
+          }
+        },
+        {
+          "id": "Sarah_7",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 7,
+          "phaseId": 2,
+          "phaseTurn": 4,
+          "text": "Alex, even with photos and party tags, most voters still skim names—your “GPS” analogy ignores that a duplicate name is a hidden roadblock that will mislead countless people, eroding trust in the whole election system.",
+          "claims": [
+            "even with photos and party tags",
+            "most voters still skim names—your “GPS” analogy ignores that a duplicate name is a hidden roadblock that will mislead countless people",
+            "eroding trust in the whole election system"
+          ],
+          "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_6"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.7302420045820002,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 12.730242004582
+          }
+        },
+        {
+          "id": "Marcus_8",
+          "speaker": "Marcus",
+          "phase": "CONSOLIDATION",
+          "turn": 8,
+          "phaseId": 3,
+          "phaseTurn": 0,
+          "text": "Alright, each of you, name the toughest objection you’ve heard to your own stance and give us a quick, direct reply—no wrap‑up, just the clash.",
+          "claims": [
+            "name the toughest objection you’ve heard to your own stance and give us a quick",
+            "direct reply—no wrap‑up"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_9",
+            "Sarah_10"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 1.7270699699099037,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4.727069969909904
+          }
+        },
+        {
+          "id": "Alex_9",
+          "speaker": "Alex",
+          "phase": "CONSOLIDATION",
+          "turn": 9,
+          "phaseId": 3,
+          "phaseTurn": 1,
+          "text": "I’ll admit some voters skim ballots and might mix up the two Sullivans, but the law already allows any qualified candidate to stay, and simple fixes—clearer party labels, photos, hometowns—act like a better‑designed soccer roster so everyone knows who’s who, not a court‑driven ban.",
+          "claims": [
+            "I’ll admit some voters skim ballots and might mix up the two Sullivans",
+            "the law already allows any qualified candidate to stay",
+            "and simple fixes—clearer party labels"
+          ],
+          "stance": "Keep the name on the ballot – voters should decide, not the court.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.054556314754712,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 10.054556314754713
+          }
+        },
+        {
+          "id": "Sarah_10",
+          "speaker": "Sarah",
+          "phase": "CONSOLIDATION",
+          "turn": 10,
+          "phaseId": 3,
+          "phaseTurn": 2,
+          "text": "We admit the court can’t police every typo, but a clear‑cut “copy‑cat” name is a hidden roadblock that derails the voting GPS; banning only those obvious dupes safeguards fairness without outlawing all similar names.",
+          "claims": [
+            "We admit the court can’t police every typo",
+            "a clear‑cut “copy‑cat” name is a hidden roadblock that derails the voting GPS",
+            "banning only those obvious dupes safeguards fairness without outlawing all similar names"
+          ],
+          "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.9839267255379847,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 6.983926725537985
+          }
+        },
+        {
+          "id": "Marcus_11",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 11,
+          "phaseId": 4,
+          "phaseTurn": 0,
+          "text": "Alright, Sarah and Alex, wrap up in a sentence or two—no new points, just your core takeaways.",
+          "claims": [
+            "wrap up in a sentence or two—no new points",
+            "just your core takeaways"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 1.611707450300731,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4.611707450300731
+          }
+        },
+        {
+          "id": "Alex_12",
+          "speaker": "Alex",
+          "phase": "CLOSING",
+          "turn": 12,
+          "phaseId": 4,
+          "phaseTurn": 1,
+          "text": "We’ve shown the court already ruled the challenger qualified, and there’s no proof he intended deception; voters have party labels, photos and hometowns—just like a GPS—to tell the two Sullivans apart, so the ballot should stay open and let voters decide. Removing names because of vague confusion risks silencing legitimate candidates.",
+          "claims": [
+            "We’ve shown the court already ruled the challenger qualified",
+            "and there’s no proof he intended deception",
+            "voters have party labels"
+          ],
+          "stance": "Keep the name on the ballot – voters should decide, not the court.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 1.2107825660921772,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 9,
+            "influence": 20.210782566092178
+          }
+        },
+        {
+          "id": "Sarah_13",
+          "speaker": "Sarah",
+          "phase": "CLOSING",
+          "turn": 13,
+          "phaseId": 4,
+          "phaseTurn": 2,
+          "text": "We’ve shown that a duplicate‑name candidate acts like a hidden cheat on the ballot, letting voters who just skim inadvertently tip the race, and it’s the court’s job—like a referee—to block such tricks and preserve trust in the election.",
+          "claims": [
+            "We’ve shown that a duplicate‑name candidate acts like a hidden cheat on the ballot",
+            "letting voters who just skim inadvertently tip the race",
+            "and it’s the court’s job—like a referee—to block such tricks and preserve trust in the election"
+          ],
+          "stance": "Remove the same‑name challenger – protect voters from accidental votes.",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0054820935050799,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 15.00548209350508
+          }
+        },
+        {
+          "id": "Marcus_14",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 14,
+          "phaseId": 4,
+          "phaseTurn": 3,
+          "text": "Both sides agree the law permits qualified candidates, but Alex stresses that existing ballot details (photos, party labels, hometowns) let voters sort out look‑alikes, while Sarah argues a duplicate name itself is a deceptive shortcut that courts must block to preserve trust; the debate leaves open how much procedural design versus judicial intervention is needed to protect both fairness and voter choice.",
+          "claims": [
+            "Both sides agree the law permits qualified candidates",
+            "Alex stresses that existing ballot details (photos",
+            "hometowns) let voters sort out look‑alikes"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.9004274091893514,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 7,
+            "influence": 16.90042740918935
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0",
+          "to": "Sarah_1",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_2",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_2",
+          "to": "Marcus_3",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Alex_4",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_4",
+          "to": "Sarah_5",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_5",
+          "to": "Alex_6",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_6",
+          "to": "Sarah_7",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Alex_9",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Sarah_10",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Alex_12",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "reply"
+        }
+      ],
+      "semanticEdges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_2",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_5",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Alex_6",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_6",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_5",
+          "to": "Sarah_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_6",
+          "to": "Alex_9",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Alex_4",
+          "to": "Sarah_10",
+          "type": "concession",
+          "confidence": 0.94
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Alex_12",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Alex_6",
+          "to": "Alex_12",
+          "type": "evidence",
+          "confidence": 0.93
+        },
+        {
+          "from": "Alex_9",
+          "to": "Alex_12",
+          "type": "evidence",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_12",
+          "to": "Sarah_13",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_6",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.93
+        },
+        {
+          "from": "Alex_9",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.78
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.93
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "support",
+          "confidence": 0.94
+        }
+      ],
+      "themes": [
+        {
+          "id": "theme_1",
+          "label": "Welcome to today’s pop‑cast showdown: should courts let a same‑name challenger stay on the ballot even if parties warn voters could be confused? In Alaska",
+          "nodes": [
+            "Marcus_0"
+          ]
+        },
+        {
+          "id": "theme_2",
+          "label": "Keeping a look‑alike on the ballot is basically a cheat sheet for voters who only glance at names – it lets the incumbent’s opponent win by mistake",
+          "nodes": [
+            "Sarah_1"
+          ]
+        },
+        {
+          "id": "theme_3",
+          "label": "The Alaska Supreme Court already ruled the challenger met the legal qualifications",
+          "nodes": [
+            "Alex_2"
+          ]
+        },
+        {
+          "id": "theme_4",
+          "label": "even with photos and hometowns",
+          "nodes": [
+            "Marcus_3"
+          ]
+        },
+        {
+          "id": "theme_5",
+          "label": "you’d have the court policing every typo and look‑alike—when did “checking a GPS” become a judicial duty? Banning a name just because some might glance at it opens the door to outlawing similar logos",
+          "nodes": [
+            "Alex_4"
+          ]
+        },
+        {
+          "id": "theme_6",
+          "label": "the real danger isn’t a “tiny typo”—it’s voters who skim ballots and accidentally vote for a stranger",
+          "nodes": [
+            "Sarah_5"
+          ]
+        },
+        {
+          "id": "theme_7",
+          "label": "you’re treating the court like a hall monitor policing every typo",
+          "nodes": [
+            "Alex_6"
+          ]
+        },
+        {
+          "id": "theme_8",
+          "label": "even with photos and party tags",
+          "nodes": [
+            "Sarah_7"
+          ]
+        },
+        {
+          "id": "theme_9",
+          "label": "name the toughest objection you’ve heard to your own stance and give us a quick",
+          "nodes": [
+            "Marcus_8"
+          ]
+        },
+        {
+          "id": "theme_10",
+          "label": "I’ll admit some voters skim ballots and might mix up the two Sullivans",
+          "nodes": [
+            "Alex_9"
+          ]
+        },
+        {
+          "id": "theme_11",
+          "label": "We admit the court can’t police every typo",
+          "nodes": [
+            "Sarah_10"
+          ]
+        },
+        {
+          "id": "theme_12",
+          "label": "wrap up in a sentence or two—no new points",
+          "nodes": [
+            "Marcus_11"
+          ]
+        },
+        {
+          "id": "theme_13",
+          "label": "We’ve shown the court already ruled the challenger qualified",
+          "nodes": [
+            "Alex_12"
+          ]
+        },
+        {
+          "id": "theme_14",
+          "label": "We’ve shown that a duplicate‑name candidate acts like a hidden cheat on the ballot",
+          "nodes": [
+            "Sarah_13"
+          ]
+        },
+        {
+          "id": "theme_15",
+          "label": "Both sides agree the law permits qualified candidates",
+          "nodes": [
+            "Marcus_14"
+          ]
+        }
+      ],
+      "communities": {
+        "Moderator": [
+          "Marcus_0",
+          "Marcus_3",
+          "Marcus_8",
+          "Marcus_11",
+          "Marcus_14"
+        ],
+        "Remove the same‑name challenger – protect voters from accidental votes.": [
+          "Sarah_1",
+          "Sarah_5",
+          "Sarah_7",
+          "Sarah_10",
+          "Sarah_13"
+        ],
+        "Keep the name on the ballot – voters should decide, not the court.": [
+          "Alex_2",
+          "Alex_4",
+          "Alex_6",
+          "Alex_9",
+          "Alex_12"
+        ]
+      }
+    }
+  },
+  {
     "id": "58bec37d-5d01-45c6-9320-d315cfb96b82",
     "date": "2026-07-01T08:32:40.840Z",
     "topic": "Should newly appointed metropolitan archbishops focus primarily on being 'Good Shepherds' rather than emphasizing administrative and institutional responsibilities?",
