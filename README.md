@@ -10,8 +10,9 @@ The **Autonomous Debate Ecosystem (ADE)** is an AI-native editorial framework th
 
 Instead of generating a conversation from a single prompt, ADE coordinates multiple specialized AI agents that perform the roles of researchers, editors, moderators, debaters, producers, and audio engineers.
 
-View link: https://infinite-debate.vercel.app
+demo link: https://infinite-debate.vercel.app
 
+**click the image below** will transit you to YouTube for project's video intro:
 [![Watch Demo](https://img.youtube.com/vi/P93inCCb3RE/maxresdefault.jpg)](https://youtu.be/P93inCCb3RE)
 
 
